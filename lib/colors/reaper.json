@@ -1,0 +1,2180 @@
+[
+  {
+    "productline": "MSP",
+    "name": "Red Brick",
+    "productcode": 9001,
+    "hex": "#501325"
+  },
+  {
+    "productline": "MSP",
+    "name": "Deep Red",
+    "productcode": 9002,
+    "hex": "#9f373e"
+  },
+  {
+    "productline": "MSP",
+    "name": "Blood Red",
+    "productcode": 9003,
+    "hex": "#ad1732"
+  },
+  {
+    "productline": "MSP",
+    "name": "Fire Red",
+    "productcode": 9004,
+    "hex": "#c00a3b"
+  },
+  {
+    "productline": "MSP",
+    "name": "Pheonix Red",
+    "productcode": 9005,
+    "hex": "#d23830"
+  },
+  {
+    "productline": "MSP",
+    "name": "Fire Orange",
+    "productcode": 9006,
+    "hex": "#ea712c"
+  },
+  {
+    "productline": "MSP",
+    "name": "Margold Yellow",
+    "productcode": 9007,
+    "hex": "#ee922b"
+  },
+  {
+    "productline": "MSP",
+    "name": "Sun Yellow",
+    "productcode": 9008,
+    "hex": "#f6c127"
+  },
+  {
+    "productline": "MSP",
+    "name": "Lemon Yellow",
+    "productcode": 9009,
+    "hex": "#f8ec1c"
+  },
+  {
+    "productline": "MSP",
+    "name": "Pine Green",
+    "productcode": 9010,
+    "hex": "#015929"
+  },
+  {
+    "productline": "MSP",
+    "name": "Leaf Green",
+    "productcode": 9011,
+    "hex": "#158a44"
+  },
+  {
+    "productline": "MSP",
+    "name": "Pale Green",
+    "productcode": 9012,
+    "hex": "#33b54b"
+  },
+  {
+    "productline": "MSP",
+    "name": "Forest Green",
+    "productcode": 9013,
+    "hex": "#024428"
+  },
+  {
+    "productline": "MSP",
+    "name": "Grass Green",
+    "productcode": 9014,
+    "hex": "#047b55"
+  },
+  {
+    "productline": "MSP",
+    "name": "Jade Green",
+    "productcode": 9015,
+    "hex": "#01ad63"
+  },
+  {
+    "productline": "MSP",
+    "name": "Sapphire Blue",
+    "productcode": 9016,
+    "hex": "#29458f"
+  },
+  {
+    "productline": "MSP",
+    "name": "True Blue",
+    "productcode": 9017,
+    "hex": "#007cba"
+  },
+  {
+    "productline": "MSP",
+    "name": "Sky Blue",
+    "productcode": 9018,
+    "hex": "#4ca2d3"
+  },
+  {
+    "productline": "MSP",
+    "name": "Midnight Blue",
+    "productcode": 9019,
+    "hex": "#0c131d"
+  },
+  {
+    "productline": "MSP",
+    "name": "Twilight Blue",
+    "productcode": 9020,
+    "hex": "#384963"
+  },
+  {
+    "productline": "MSP",
+    "name": "Snow Shadow",
+    "productcode": 9021,
+    "hex": "#7f93ac"
+  },
+  {
+    "productline": "MSP",
+    "name": "Nightshade Purple",
+    "productcode": 9022,
+    "hex": "#26192d"
+  },
+  {
+    "productline": "MSP",
+    "name": "Imperial Purple",
+    "productcode": 9023,
+    "hex": "#634871"
+  },
+  {
+    "productline": "MSP",
+    "name": "Amethyst Purple",
+    "productcode": 9024,
+    "hex": "#9e7daa"
+  },
+  {
+    "productline": "MSP",
+    "name": "Burgundy Wine",
+    "productcode": 9025,
+    "hex": "#461f34"
+  },
+  {
+    "productline": "MSP",
+    "name": "Violet Red",
+    "productcode": 9026,
+    "hex": "#611e47"
+  },
+  {
+    "productline": "MSP",
+    "name": "Pale Violet Red",
+    "productcode": 9027,
+    "hex": "#92335b"
+  },
+  {
+    "productline": "MSP",
+    "name": "Muddy Brown",
+    "productcode": 9028,
+    "hex": "#432e1b"
+  },
+  {
+    "productline": "MSP",
+    "name": "Earth Brown",
+    "productcode": 9029,
+    "hex": "#785336"
+  },
+  {
+    "productline": "MSP",
+    "name": "Leather Brown",
+    "productcode": 9030,
+    "hex": "#a5754d"
+  },
+  {
+    "productline": "MSP",
+    "name": "Tanned Leather",
+    "productcode": 9031,
+    "hex": "#b78349"
+  },
+  {
+    "productline": "MSP",
+    "name": "Amber Gold",
+    "productcode": 9032,
+    "hex": "#cea35e"
+  },
+  {
+    "productline": "MSP",
+    "name": "Golden Blonde",
+    "productcode": 9033,
+    "hex": "#f2e295"
+  },
+  {
+    "productline": "MSP",
+    "name": "Muddy Olive",
+    "productcode": 9034,
+    "hex": "#407036"
+  },
+  {
+    "productline": "MSP",
+    "name": "Olive Green",
+    "productcode": 9035,
+    "hex": "#729656"
+  },
+  {
+    "productline": "MSP",
+    "name": "Pale Olive",
+    "productcode": 9036,
+    "hex": "#a6b68f"
+  },
+  {
+    "productline": "MSP",
+    "name": "Pure Black",
+    "productcode": 9037,
+    "hex": "#000000"
+  },
+  {
+    "productline": "MSP",
+    "name": "Rainy Grey",
+    "productcode": 9038,
+    "hex": "#7f7f7f"
+  },
+  {
+    "productline": "MSP",
+    "name": "Pure White",
+    "productcode": 9039,
+    "hex": "#ffffff"
+  },
+  {
+    "productline": "MSP",
+    "name": "Dark Shadow",
+    "productcode": 9040,
+    "hex": "#220d0c"
+  },
+  {
+    "productline": "MSP",
+    "name": "Dark Skin",
+    "productcode": 9041,
+    "hex": "#41241e"
+  },
+  {
+    "productline": "MSP",
+    "name": "Dark Highlights",
+    "productcode": 9042,
+    "hex": "#422b19"
+  },
+  {
+    "productline": "MSP",
+    "name": "Tanned Shadow",
+    "productcode": 9043,
+    "hex": "#a5755e"
+  },
+  {
+    "productline": "MSP",
+    "name": "Tanned Skin",
+    "productcode": 9044,
+    "hex": "#bc8d6f"
+  },
+  {
+    "productline": "MSP",
+    "name": "Tanned Highlight",
+    "productcode": 9045,
+    "hex": "#d2a681"
+  },
+  {
+    "productline": "MSP",
+    "name": "Fair Shadow",
+    "productcode": 9046,
+    "hex": "#e7be92"
+  },
+  {
+    "productline": "MSP",
+    "name": "Fair Skin",
+    "productcode": 9047,
+    "hex": "#f1d4b4"
+  },
+  {
+    "productline": "MSP",
+    "name": "Fair Highlights",
+    "productcode": 9048,
+    "hex": "#f4e5ce"
+  },
+  {
+    "productline": "MSP",
+    "name": "Breonne Blue",
+    "productcode": 9055,
+    "hex": "#01273c"
+  },
+  {
+    "productline": "MSP",
+    "name": "Templar Blue",
+    "productcode": 9056,
+    "hex": "#314659"
+  },
+  {
+    "productline": "MSP",
+    "name": "Ashen Blue",
+    "productcode": 9057,
+    "hex": "#557e90"
+  },
+  {
+    "productline": "MSP",
+    "name": "Bone Shadow",
+    "productcode": 9058,
+    "hex": "#d6c6af"
+  },
+  {
+    "productline": "MSP",
+    "name": "Aged Bone",
+    "productcode": 9059,
+    "hex": "#e1d7bc"
+  },
+  {
+    "productline": "MSP",
+    "name": "Polished Bone",
+    "productcode": 9060,
+    "hex": "#ece1cd"
+  },
+  {
+    "productline": "MSP",
+    "name": "Linen White",
+    "productcode": 9061,
+    "hex": "#fefced"
+  },
+  {
+    "productline": "MSP",
+    "name": "Leather White",
+    "productcode": 9062,
+    "hex": "#ebe1d5"
+  },
+  {
+    "productline": "MSP",
+    "name": "Ghost White",
+    "productcode": 9063,
+    "hex": "#eaf5fb"
+  },
+  {
+    "productline": "MSP",
+    "name": "Brown Liner",
+    "productcode": 9064,
+    "hex": "#241510"
+  },
+  {
+    "productline": "MSP",
+    "name": "Grey Liner",
+    "productcode": 9065,
+    "hex": "#363636"
+  },
+  {
+    "productline": "MSP",
+    "name": "Blue Liner",
+    "productcode": 9066,
+    "hex": "#011422"
+  },
+  {
+    "productline": "MSP",
+    "name": "Rosy Shadow",
+    "productcode": 9067,
+    "hex": "#cf9685"
+  },
+  {
+    "productline": "MSP",
+    "name": "Rosy Skin",
+    "productcode": 9068,
+    "hex": "#ecae9f"
+  },
+  {
+    "productline": "MSP",
+    "name": "Rosy Highlight",
+    "productcode": 9069,
+    "hex": "#f0c2aa"
+  },
+  {
+    "productline": "MSP",
+    "name": "Mahogany Brown",
+    "productcode": 9070,
+    "hex": "#23110f"
+  },
+  {
+    "productline": "MSP",
+    "name": "Chestnut Brown",
+    "productcode": 9071,
+    "hex": "#7f433b"
+  },
+  {
+    "productline": "MSP",
+    "name": "Rust Brown",
+    "productcode": 9072,
+    "hex": "#b24a41"
+  },
+  {
+    "productline": "MSP",
+    "name": "Chestnut Gold",
+    "productcode": 9073,
+    "hex": "#986a39"
+  },
+  {
+    "productline": "MSP",
+    "name": "Palomino Gold",
+    "productcode": 9074,
+    "hex": "#bb962e"
+  },
+  {
+    "productline": "MSP",
+    "name": "Buckskin Pale",
+    "productcode": 9075,
+    "hex": "#dcb85a"
+  },
+  {
+    "productline": "MSP",
+    "name": "Deep Ocean",
+    "productcode": 9076,
+    "hex": "#1c3947"
+  },
+  {
+    "productline": "MSP",
+    "name": "Marine Teal",
+    "productcode": 9077,
+    "hex": "#005f6d"
+  },
+  {
+    "productline": "MSP",
+    "name": "Surf Aqua",
+    "productcode": 9078,
+    "hex": "#66b3b9"
+  },
+  {
+    "productline": "MSP",
+    "name": "Jungle Moss",
+    "productcode": 9082,
+    "hex": "#28382d"
+  },
+  {
+    "productline": "MSP",
+    "name": "Highland Moss",
+    "productcode": 9083,
+    "hex": "#3d504a"
+  },
+  {
+    "productline": "MSP",
+    "name": "Pale Lichen",
+    "productcode": 9084,
+    "hex": "#7d978c"
+  },
+  {
+    "productline": "MSP",
+    "name": "Shadowed Stone",
+    "productcode": 9085,
+    "hex": "#63605b"
+  },
+  {
+    "productline": "MSP",
+    "name": "Stone Grey",
+    "productcode": 9086,
+    "hex": "#7c7771"
+  },
+  {
+    "productline": "MSP",
+    "name": "Weathered Stone",
+    "productcode": 9087,
+    "hex": "#948f8c"
+  },
+  {
+    "productline": "MSP",
+    "name": "Stormy Grey",
+    "productcode": 9088,
+    "hex": "#464646"
+  },
+  {
+    "productline": "MSP",
+    "name": "Cloudy Grey",
+    "productcode": 9089,
+    "hex": "#707070"
+  },
+  {
+    "productline": "MSP",
+    "name": "Misty Grey",
+    "productcode": 9090,
+    "hex": "#cccccc"
+  },
+  {
+    "productline": "MSP",
+    "name": "Golden Shadow",
+    "productcode": 9091,
+    "hex": "#bd9564"
+  },
+  {
+    "productline": "MSP",
+    "name": "Golden Skin",
+    "productcode": 9092,
+    "hex": "#d2ad83"
+  },
+  {
+    "productline": "MSP",
+    "name": "Golden Highlight",
+    "productcode": 9093,
+    "hex": "#f2ce9a"
+  },
+  {
+    "productline": "MSP",
+    "name": "Clear Red",
+    "productcode": 9094,
+    "hex": "#e00024"
+  },
+  {
+    "productline": "MSP",
+    "name": "Clear Yellow",
+    "productcode": 9095,
+    "hex": "#f8f400"
+  },
+  {
+    "productline": "MSP",
+    "name": "Clear Green",
+    "productcode": 9096,
+    "hex": "#009f3b"
+  },
+  {
+    "productline": "MSP",
+    "name": "Clear Blue",
+    "productcode": 9097,
+    "hex": "#324496"
+  },
+  {
+    "productline": "MSP",
+    "name": "Clear Magenta",
+    "productcode": 9098,
+    "hex": "#e4007b"
+  },
+  {
+    "productline": "MSP",
+    "name": "Clear Purple",
+    "productcode": 9099,
+    "hex": "#5e0c7b"
+  },
+  {
+    "productline": "MSP",
+    "name": "Ruddy Leather",
+    "productcode": 9109,
+    "hex": "#6a342a"
+  },
+  {
+    "productline": "MSP",
+    "name": "Oiled Leather",
+    "productcode": 9110,
+    "hex": "#965336"
+  },
+  {
+    "productline": "MSP",
+    "name": "Burnt Orange",
+    "productcode": 9111,
+    "hex": "#e18749"
+  },
+  {
+    "productline": "MSP",
+    "name": "Ritterlich Blue",
+    "productcode": 9115,
+    "hex": "#003760"
+  },
+  {
+    "productline": "MSP",
+    "name": "Brilliant Blue",
+    "productcode": 9116,
+    "hex": "#01588e"
+  },
+  {
+    "productline": "MSP",
+    "name": "Cyan Blue",
+    "productcode": 9117,
+    "hex": "#0089d1"
+  },
+  {
+    "productline": "MSP",
+    "name": "Khaki Shadow",
+    "productcode": 9121,
+    "hex": "#b4a07b"
+  },
+  {
+    "productline": "MSP",
+    "name": "Terran Khaki",
+    "productcode": 9122,
+    "hex": "#c7ba9a"
+  },
+  {
+    "productline": "MSP",
+    "name": "Khaki Highlight",
+    "productcode": 9123,
+    "hex": "#dbd5bd"
+  },
+  {
+    "productline": "MSP",
+    "name": "Uniform Brown",
+    "productcode": 9127,
+    "hex": "#6b4e00"
+  },
+  {
+    "productline": "MSP",
+    "name": "Green Ochre",
+    "productcode": 9128,
+    "hex": "#9f7319"
+  },
+  {
+    "productline": "MSP",
+    "name": "Faded Khaki",
+    "productcode": 9129,
+    "hex": "#bc9224"
+  },
+  {
+    "productline": "MSP",
+    "name": "Bloodstain Red",
+    "productcode": 9133,
+    "hex": "#680001"
+  },
+  {
+    "productline": "MSP",
+    "name": "Clotted Red",
+    "productcode": 9134,
+    "hex": "#8b0003"
+  },
+  {
+    "productline": "MSP",
+    "name": "Carnage Red",
+    "productcode": 9135,
+    "hex": "#b20d1e"
+  },
+  {
+    "productline": "MSP",
+    "name": "Walnut Brown",
+    "productcode": 9136,
+    "hex": "#470000"
+  },
+  {
+    "productline": "MSP",
+    "name": "Blackened Brown",
+    "productcode": 9137,
+    "hex": "#5d0400"
+  },
+  {
+    "productline": "MSP",
+    "name": "Intense Brown",
+    "productcode": 9138,
+    "hex": "#8d3102"
+  },
+  {
+    "productline": "MSP",
+    "name": "Stained Ivory",
+    "productcode": 9142,
+    "hex": "#c7a369"
+  },
+  {
+    "productline": "MSP",
+    "name": "Yellowed Ivory",
+    "productcode": 9143,
+    "hex": "#d3bd84"
+  },
+  {
+    "productline": "MSP",
+    "name": "Creamy Ivory",
+    "productcode": 9144,
+    "hex": "#e9d8a4"
+  },
+  {
+    "productline": "MSP",
+    "name": "Ghoul Skin",
+    "productcode": 9148,
+    "hex": "#909473"
+  },
+  {
+    "productline": "MSP",
+    "name": "Moldy Skin",
+    "productcode": 9149,
+    "hex": "#b2b580"
+  },
+  {
+    "productline": "MSP",
+    "name": "Bloodless Skin",
+    "productcode": 9150,
+    "hex": "#d2cf9a"
+  },
+  {
+    "productline": "MSP",
+    "name": "Olive Shadow",
+    "productcode": 9157,
+    "hex": "#4a3901"
+  },
+  {
+    "productline": "MSP",
+    "name": "Olive Drab",
+    "productcode": 9158,
+    "hex": "#5b5602"
+  },
+  {
+    "productline": "MSP",
+    "name": "Worn Olive",
+    "productcode": 9159,
+    "hex": "#827517"
+  },
+  {
+    "productline": "MSP",
+    "name": "Woodstain Brown",
+    "productcode": 9160,
+    "hex": "#573f27"
+  },
+  {
+    "productline": "MSP",
+    "name": "Shield Brown",
+    "productcode": 9161,
+    "hex": "#7d5329"
+  },
+  {
+    "productline": "MSP",
+    "name": "Driftwood Brown",
+    "productcode": 9162,
+    "hex": "#a67e4d"
+  },
+  {
+    "productline": "MSP",
+    "name": "Dark Elf Shadow",
+    "productcode": 6163,
+    "hex": "#473640"
+  },
+  {
+    "productline": "MSP",
+    "name": "Dark Elf Skin",
+    "productcode": 6164,
+    "hex": "#64575e"
+  },
+  {
+    "productline": "MSP",
+    "name": "Dark Elf Highlight",
+    "productcode": 9165,
+    "hex": "#867f87"
+  },
+  {
+    "productline": "MSP",
+    "name": "Swamp Green",
+    "productcode": 9175,
+    "hex": "#2a2400"
+  },
+  {
+    "productline": "MSP",
+    "name": "Military Green",
+    "productcode": 9176,
+    "hex": "#445020"
+  },
+  {
+    "productline": "MSP",
+    "name": "Camoflage Green",
+    "productcode": 9177,
+    "hex": "#8c8d27"
+  },
+  {
+    "productline": "MSP",
+    "name": "Ultramarine Shadow",
+    "productcode": 9187,
+    "hex": "#00223d"
+  },
+  {
+    "productline": "MSP",
+    "name": "Ultramarine Blue",
+    "productcode": 9188,
+    "hex": "#004d7e"
+  },
+  {
+    "productline": "MSP",
+    "name": "Ultramarine Highlight",
+    "productcode": 9189,
+    "hex": "#0076be"
+  },
+  {
+    "productline": "MSP",
+    "name": "Russet Brown",
+    "productcode": 9199,
+    "hex": "#530e00"
+  },
+  {
+    "productline": "MSP",
+    "name": "Harvest Brown",
+    "productcode": 9200,
+    "hex": "#8e3e00"
+  },
+  {
+    "productline": "MSP",
+    "name": "Orange Brown",
+    "productcode": 9201,
+    "hex": "#c85b18"
+  },
+  {
+    "productline": "MSP",
+    "name": "Magma Red",
+    "productcode": 9217,
+    "hex": "#db3a28"
+  },
+  {
+    "productline": "MSP",
+    "name": "Lava Orange",
+    "productcode": 9218,
+    "hex": "#de5622"
+  },
+  {
+    "productline": "MSP",
+    "name": "Explosion Orange",
+    "productcode": 9219,
+    "hex": "#de7c1b"
+  },
+  {
+    "productline": "MSP",
+    "name": "Olive Skin Shadow",
+    "productcode": 9220,
+    "hex": "#745213"
+  },
+  {
+    "productline": "MSP",
+    "name": "Olive Skin",
+    "productcode": 9221,
+    "hex": "#a97e1f"
+  },
+  {
+    "productline": "MSP",
+    "name": "Olive Skin Highlight",
+    "productcode": 9222,
+    "hex": "#bea551"
+  },
+  {
+    "productline": "MSP",
+    "name": "Redstone Shadow",
+    "productcode": 9223,
+    "hex": "#3a1f24"
+  },
+  {
+    "productline": "MSP",
+    "name": "Redstone",
+    "productcode": 9224,
+    "hex": "#7e3929"
+  },
+  {
+    "productline": "MSP",
+    "name": "Redstone Highlight",
+    "productcode": 9225,
+    "hex": "#a85837"
+  },
+  {
+    "productline": "MSP",
+    "name": "Peacock Green",
+    "productcode": 9226,
+    "hex": "#1e2e2b"
+  },
+  {
+    "productline": "MSP",
+    "name": "Brilliant Green",
+    "productcode": 9227,
+    "hex": "#00652d"
+  },
+  {
+    "productline": "MSP",
+    "name": "Viper Green",
+    "productcode": 9228,
+    "hex": "#008f35"
+  },
+  {
+    "productline": "MSP",
+    "name": "Worn Navy",
+    "productcode": 9229,
+    "hex": "#121315"
+  },
+  {
+    "productline": "MSP",
+    "name": "Soft Blue",
+    "productcode": 9230,
+    "hex": "#13475f"
+  },
+  {
+    "productline": "MSP",
+    "name": "Heather Blue",
+    "productcode": 9231,
+    "hex": "#547c95"
+  },
+  {
+    "productline": "MSP",
+    "name": "Bright Skin Shadow",
+    "productcode": 9232,
+    "hex": "#de8871"
+  },
+  {
+    "productline": "MSP",
+    "name": "Bright Skin",
+    "productcode": 9233,
+    "hex": "#ebaa58"
+  },
+  {
+    "productline": "MSP",
+    "name": "Bright Skin Highlight",
+    "productcode": 9234,
+    "hex": "#f1d45f"
+  },
+  {
+    "productline": "MSP",
+    "name": "Red Shadow",
+    "productcode": 9235,
+    "hex": "#60001d"
+  },
+  {
+    "productline": "MSP",
+    "name": "Green Shadow",
+    "productcode": 9236,
+    "hex": "#011f07"
+  },
+  {
+    "productline": "MSP",
+    "name": "Violet Shadow",
+    "productcode": 9237,
+    "hex": "#440039"
+  },
+  {
+    "productline": "MSP",
+    "name": "Regal Purple",
+    "productcode": 9238,
+    "hex": "#2e001d"
+  },
+  {
+    "productline": "MSP",
+    "name": "Monarch Purple",
+    "productcode": 9239,
+    "hex": "#4d0034"
+  },
+  {
+    "productline": "MSP",
+    "name": "Royal Purple",
+    "productcode": 9240,
+    "hex": "#840053"
+  },
+  {
+    "productline": "MSP",
+    "name": "Auburn Shadow",
+    "productcode": 9241,
+    "hex": "#81301f"
+  },
+  {
+    "productline": "MSP",
+    "name": "Carrottop Red",
+    "productcode": 9242,
+    "hex": "#c14917"
+  },
+  {
+    "productline": "MSP",
+    "name": "Highlight Orange",
+    "productcode": 9243,
+    "hex": "#e27814"
+  },
+  {
+    "productline": "MSP",
+    "name": "Muddy Soil",
+    "productcode": 9244,
+    "hex": "#1b1603"
+  },
+  {
+    "productline": "MSP",
+    "name": "Basic Dirt",
+    "productcode": 9245,
+    "hex": "#57432b"
+  },
+  {
+    "productline": "MSP",
+    "name": "Brown Sand",
+    "productcode": 9246,
+    "hex": "#8a693e"
+  },
+  {
+    "productline": "MSP",
+    "name": "Saffron Sunset",
+    "productcode": 9247,
+    "hex": "#eea500"
+  },
+  {
+    "productline": "MSP",
+    "name": "Moth Green",
+    "productcode": 9248,
+    "hex": "#6cc128"
+  },
+  {
+    "productline": "MSP",
+    "name": "Sandy Brown",
+    "productcode": 9249,
+    "hex": "#b88532"
+  },
+  {
+    "productline": "MSP",
+    "name": "Dusky Skin Shadow",
+    "productcode": 9250,
+    "hex": "#46373a"
+  },
+  {
+    "productline": "MSP",
+    "name": "Dusky Skin",
+    "productcode": 9251,
+    "hex": "#766160"
+  },
+  {
+    "productline": "MSP",
+    "name": "Dusky Skin Highlight",
+    "productcode": 9252,
+    "hex": "#a89496"
+  },
+  {
+    "productline": "MSP",
+    "name": "Blonde Shadow",
+    "productcode": 9256,
+    "hex": "#a54201"
+  },
+  {
+    "productline": "MSP",
+    "name": "Blonde Hair",
+    "productcode": 9257,
+    "hex": "#d98d2d"
+  },
+  {
+    "productline": "MSP",
+    "name": "Blone Highlight",
+    "productcode": 9258,
+    "hex": "#f3c160"
+  },
+  {
+    "productline": "MSP",
+    "name": "Bronzed Skin Shadow",
+    "productcode": 9259,
+    "hex": "#a73300"
+  },
+  {
+    "productline": "MSP",
+    "name": "Bronzed Skin",
+    "productcode": 9260,
+    "hex": "#d05e17"
+  },
+  {
+    "productline": "MSP",
+    "name": "Bronzed Skin Highlight",
+    "productcode": 9261,
+    "hex": "#e5a039"
+  },
+  {
+    "productline": "MSP",
+    "name": "Blush Pink",
+    "productcode": 9262,
+    "hex": "#ff41ad"
+  },
+  {
+    "productline": "MSP",
+    "name": "Mint Green",
+    "productcode": 9263,
+    "hex": "#80fe80"
+  },
+  {
+    "productline": "MSP",
+    "name": "Light Blue",
+    "productcode": 9264,
+    "hex": "#73d9e5"
+  },
+  {
+    "productline": "MSP",
+    "name": "Deep Twilight",
+    "productcode": 9265,
+    "hex": "#080e28"
+  },
+  {
+    "productline": "MSP",
+    "name": "Violet Light",
+    "productcode": 9266,
+    "hex": "#162872"
+  },
+  {
+    "productline": "MSP",
+    "name": "Sunset Purple",
+    "productcode": 9267,
+    "hex": "#5a62b3"
+  },
+  {
+    "productline": "MSP",
+    "name": "Volcano Brown",
+    "productcode": 9268,
+    "hex": "#472428"
+  },
+  {
+    "productline": "MSP",
+    "name": "Military Blue",
+    "productcode": 9269,
+    "hex": "#14514c"
+  },
+  {
+    "productline": "MSP",
+    "name": "Shadow Green",
+    "productcode": 9270,
+    "hex": "#286009"
+  },
+  {
+    "productline": "MSP",
+    "name": "Dirty Bone",
+    "productcode": 9271,
+    "hex": "#a89867"
+  },
+  {
+    "productline": "MSP",
+    "name": "Graveyard Bone",
+    "productcode": 9272,
+    "hex": "#c9b88d"
+  },
+  {
+    "productline": "MSP",
+    "name": "Splintered Bone",
+    "productcode": 9273,
+    "hex": "#dbceae"
+  },
+  {
+    "productline": "MSP",
+    "name": "Vampiric Shadow",
+    "productcode": 9274,
+    "hex": "#a9998a"
+  },
+  {
+    "productline": "MSP",
+    "name": "Vampiric Skin",
+    "productcode": 9275,
+    "hex": "#d1bfa9"
+  },
+  {
+    "productline": "MSP",
+    "name": "Vampiric Highlight",
+    "productcode": 9276,
+    "hex": "#e7dac7"
+  },
+  {
+    "productline": "MSP",
+    "name": "Spattered Crimson",
+    "productcode": 9277,
+    "hex": "#6f0f1a"
+  },
+  {
+    "productline": "MSP",
+    "name": "Gory Red",
+    "productcode": 9278,
+    "hex": "#85111a"
+  },
+  {
+    "productline": "MSP",
+    "name": "Fresh Blood",
+    "productcode": 9279,
+    "hex": "#be1a21"
+  },
+  {
+    "productline": "MSP",
+    "name": "Nightmare Black",
+    "productcode": 9280,
+    "hex": "#000f24"
+  },
+  {
+    "productline": "MSP",
+    "name": "Braaaaiins Pink",
+    "productcode": 9281,
+    "hex": "#c88e8d"
+  },
+  {
+    "productline": "MSP",
+    "name": "Maggot White",
+    "productcode": 9282,
+    "hex": "#ddefe1"
+  },
+  {
+    "productline": "MSP",
+    "name": "Old West Rose",
+    "productcode": 9283,
+    "hex": "#a44243"
+  },
+  {
+    "productline": "MSP",
+    "name": "Lonestar Leather",
+    "productcode": 9284,
+    "hex": "#6c6322"
+  },
+  {
+    "productline": "MSP",
+    "name": "Denim Blue",
+    "productcode": 9285,
+    "hex": "#083151"
+  },
+  {
+    "productline": "MSP",
+    "name": "Punk Rock Pink",
+    "productcode": 9286,
+    "hex": "#c43257"
+  },
+  {
+    "productline": "MSP",
+    "name": "Neon Yellow",
+    "productcode": 9287,
+    "hex": "#d6e041"
+  },
+  {
+    "productline": "MSP",
+    "name": "LED Blue",
+    "productcode": 9288,
+    "hex": "#9ac3bd"
+  },
+  {
+    "productline": "MSP",
+    "name": "Noir Black",
+    "productcode": 9289,
+    "hex": "#26211e"
+  },
+  {
+    "productline": "MSP",
+    "name": "Aircraft Grey",
+    "productcode": 9290,
+    "hex": "#b5aaa8"
+  },
+  {
+    "productline": "MSP",
+    "name": "IMEF Olive",
+    "productcode": 9291,
+    "hex": "#505c2e"
+  },
+  {
+    "productline": "MSP",
+    "name": "Bathalian Chitin",
+    "productcode": 9292,
+    "hex": "#e7bb70"
+  },
+  {
+    "productline": "MSP",
+    "name": "Alien Flesh",
+    "productcode": 9293,
+    "hex": "#a98972"
+  },
+  {
+    "productline": "MSP",
+    "name": "Alien Goo",
+    "productcode": 9294,
+    "hex": "#c1f91c"
+  },
+  {
+    "productline": "MSP",
+    "name": "Terra Nova Tundra",
+    "productcode": 61101,
+    "hex": "#cb862b"
+  },
+  {
+    "productline": "MSP",
+    "name": "MacAllen Brown",
+    "productcode": 61102,
+    "hex": "#552f08"
+  },
+  {
+    "productline": "MSP",
+    "name": "Redrider Crimson",
+    "productcode": 61103,
+    "hex": "#9b090c"
+  },
+  {
+    "productline": "MSP",
+    "name": "Dune Shadow",
+    "productcode": 61104,
+    "hex": "#725626"
+  },
+  {
+    "productline": "MSP",
+    "name": "Mekong Moss [HD]",
+    "productcode": 61105,
+    "hex": "#a0a00c"
+  },
+  {
+    "productline": "MSP",
+    "name": "Giant Fern",
+    "productcode": 61106,
+    "hex": "#00632d"
+  },
+  {
+    "productline": "MSP",
+    "name": "Okavango Swamp",
+    "productcode": 61107,
+    "hex": "#6c6c2e"
+  },
+  {
+    "productline": "MSP",
+    "name": "Republique Red",
+    "productcode": 61108,
+    "hex": "#ef4023"
+  },
+  {
+    "productline": "MSP",
+    "name": "Armadillo Tusk [HD]",
+    "productcode": 61109,
+    "hex": "#f1cfa2"
+  },
+  {
+    "productline": "MSP",
+    "name": "White Sand",
+    "productcode": 61110,
+    "hex": "#fde9d0"
+  },
+  {
+    "productline": "MSP",
+    "name": "Paxton Red",
+    "productcode": 61111,
+    "hex": "#8c3a22"
+  },
+  {
+    "productline": "MSP",
+    "name": "War Paint Red",
+    "productcode": 61112,
+    "hex": "#ca471b"
+  },
+  {
+    "productline": "MSP",
+    "name": "Arthurian Blue",
+    "productcode": 61113,
+    "hex": "#01366c"
+  },
+  {
+    "productline": "MSP",
+    "name": "Blue Crescent",
+    "productcode": 61114,
+    "hex": "#0093d8"
+  },
+  {
+    "productline": "MSP",
+    "name": "Atlantean Aqua",
+    "productcode": 61115,
+    "hex": "#71cde2"
+  },
+  {
+    "productline": "MSP",
+    "name": "Coated Armor",
+    "productcode": 61116,
+    "hex": "#4c7183"
+  },
+  {
+    "productline": "MSP",
+    "name": "Factory White",
+    "productcode": 61117,
+    "hex": "#dbf1fc"
+  },
+  {
+    "productline": "MSP",
+    "name": "GREL Flesh",
+    "productcode": 61118,
+    "hex": "#c9bbd2"
+  },
+  {
+    "productline": "MSP",
+    "name": "Afterburn Grey",
+    "productcode": 61119,
+    "hex": "#566165"
+  },
+  {
+    "productline": "MSP",
+    "name": "Hazard Yellow [HD]",
+    "productcode": 61120,
+    "hex": "#fdb016"
+  },
+  {
+    "productline": "MSP",
+    "name": "R.A.M. Black [HD]",
+    "productcode": 61121,
+    "hex": "#00394d"
+  },
+  {
+    "productline": "MSP",
+    "name": "Beacon Yellow",
+    "productcode": 61124,
+    "hex": "#ffe401"
+  },
+  {
+    "productline": "MSP",
+    "name": "Fallout Grey",
+    "productcode": 61125,
+    "hex": "#888888"
+  },
+  {
+    "productline": "MSP",
+    "name": "Ash Grey",
+    "productcode": 61126,
+    "hex": "#d0cfcd"
+  },
+  {
+    "productline": "MSP",
+    "name": "Waveform Aquamarine",
+    "productcode": 61127,
+    "hex": "#0082a2"
+  },
+  {
+    "productline": "MSP",
+    "name": "Coalition Blue",
+    "productcode": 61129,
+    "hex": "#014e9c"
+  },
+  {
+    "productline": "MSP",
+    "name": "Cat's Eye Base",
+    "productcode": 61130,
+    "hex": "#9d580a"
+  },
+  {
+    "productline": "MSP",
+    "name": "Red Dust",
+    "productcode": 61131,
+    "hex": "#f26b3e"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Crimson Red ",
+    "productcode": 29801,
+    "hex": "#721213"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Brilliant Red ",
+    "productcode": 29802,
+    "hex": "#e92028"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Entrail Pink ",
+    "productcode": 29803,
+    "hex": "#c15d5d"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Rusty Red ",
+    "productcode": 29804,
+    "hex": "#b82f25"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Burning Orange ",
+    "productcode": 29805,
+    "hex": "#ca4f26"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Fireball Orange ",
+    "productcode": 29806,
+    "hex": "#ef6f24"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Mustard Yellow ",
+    "productcode": 29807,
+    "hex": "#e8b623"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Golden Yellow ",
+    "productcode": 29808,
+    "hex": "#f7b719"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Pale Saffron ",
+    "productcode": 29809,
+    "hex": "#ffde2f"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Mossy Green ",
+    "productcode": 29810,
+    "hex": "#21502c"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Turf Green ",
+    "productcode": 29811,
+    "hex": "#28813f"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Meadow Green ",
+    "productcode": 29812,
+    "hex": "#6c923b"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Bright Turquoise ",
+    "productcode": 29813,
+    "hex": "#025c5d"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Ice Blue ",
+    "productcode": 29814,
+    "hex": "#4197d2"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Dragon Blue ",
+    "productcode": 29815,
+    "hex": "#086cb7"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Solid Blue ",
+    "productcode": 29816,
+    "hex": "#015861"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Winter Blue ",
+    "productcode": 29817,
+    "hex": "#1d6d74"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Nightsky Blue ",
+    "productcode": 29818,
+    "hex": "#053c5b"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Twilight Purple ",
+    "productcode": 29819,
+    "hex": "#213165"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Gem Purple ",
+    "productcode": 29820,
+    "hex": "#47286e"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Sunburn Flesh ",
+    "productcode": 29821,
+    "hex": "#bb6437"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Suntan Flesh ",
+    "productcode": 29822,
+    "hex": "#b26b29"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Caucasian Flesh ",
+    "productcode": 29823,
+    "hex": "#e6b17b"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Maiden Flesh ",
+    "productcode": 29824,
+    "hex": "#f2e0c8"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Tusk Ivory ",
+    "productcode": 29825,
+    "hex": "#dfbe6f"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Desert Tan ",
+    "productcode": 29826,
+    "hex": "#ba9159"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Griffon Tan ",
+    "productcode": 29827,
+    "hex": "#c48639"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Woodland Brown ",
+    "productcode": 29828,
+    "hex": "#a17035"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Golden Brown ",
+    "productcode": 29829,
+    "hex": "#6c4a1d"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Ruddy Brown ",
+    "productcode": 29830,
+    "hex": "#722314"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Ashen Brown ",
+    "productcode": 29831,
+    "hex": "#74685a"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Concrete Grey ",
+    "productcode": 29832,
+    "hex": "#bcc1c4"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Ash Grey ",
+    "productcode": 29833,
+    "hex": "#3a4d54"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Field Grey ",
+    "productcode": 29834,
+    "hex": "#97a08f"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Dirty Grey ",
+    "productcode": 29835,
+    "hex": "#7f756b"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Military Grey ",
+    "productcode": 29836,
+    "hex": "#506c78"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Armor Grey ",
+    "productcode": 29837,
+    "hex": "#0e181a"
+  },
+  {
+    "productline": "HD",
+    "name": "HD Stained Olive ",
+    "productcode": 29838,
+    "hex": "#3b431c"
+  },
+  {
+    "productline": "Pro",
+    "name": "Armor Grey",
+    "productcode": 19084,
+    "hex": "#0b161a"
+  },
+  {
+    "productline": "Pro",
+    "name": "Ash Grey",
+    "productcode": 19083,
+    "hex": "#3a4d54"
+  },
+  {
+    "productline": "Pro",
+    "name": "Autumn Orange",
+    "productcode": 19012,
+    "hex": "#d2721c"
+  },
+  {
+    "productline": "Pro",
+    "name": "Bleached Olive",
+    "productcode": 19029,
+    "hex": "#829836"
+  },
+  {
+    "productline": "Pro",
+    "name": "Blood Black",
+    "productcode": 19091,
+    "hex": "#230001"
+  },
+  {
+    "productline": "Pro",
+    "name": "Blood Red",
+    "productcode": 19002,
+    "hex": "#960202"
+  },
+  {
+    "productline": "Pro",
+    "name": "Blushing Flesh",
+    "productcode": 19067,
+    "hex": "#e86f54"
+  },
+  {
+    "productline": "Pro",
+    "name": "Bright Blue",
+    "productcode": 19035,
+    "hex": "#005a99"
+  },
+  {
+    "productline": "Pro",
+    "name": "Bright Red",
+    "productcode": 19003,
+    "hex": "#eb1c24"
+  },
+  {
+    "productline": "Pro",
+    "name": "Brutal Purple",
+    "productcode": 19048,
+    "hex": "#381627"
+  },
+  {
+    "productline": "Pro",
+    "name": "Burning Orange",
+    "productcode": 19011,
+    "hex": "#c64c1b"
+  },
+  {
+    "productline": "Pro",
+    "name": "Candleflame Orange",
+    "productcode": 19010,
+    "hex": "#f7811f"
+  },
+  {
+    "productline": "Pro",
+    "name": "Cat's Eye Green",
+    "productcode": 19023,
+    "hex": "#8cc63e"
+  },
+  {
+    "productline": "Pro",
+    "name": "Chestnut Brown",
+    "productcode": 19067,
+    "hex": "#9a6e41"
+  },
+  {
+    "productline": "Pro",
+    "name": "Crimson Red",
+    "productcode": 19001,
+    "hex": "#6e0f11"
+  },
+  {
+    "productline": "Pro",
+    "name": "Dark Flesh",
+    "productcode": 19076,
+    "hex": "#392105"
+  },
+  {
+    "productline": "Pro",
+    "name": "Deadrose Red",
+    "productcode": 19005,
+    "hex": "#9a302a"
+  },
+  {
+    "productline": "Pro",
+    "name": "Deep Yellow",
+    "productcode": 19013,
+    "hex": "#f9b813"
+  },
+  {
+    "productline": "Pro",
+    "name": "Deepwater Blue",
+    "productcode": 19033,
+    "hex": "#02223e"
+  },
+  {
+    "productline": "Pro",
+    "name": "Desert Tan",
+    "productcode": 19051,
+    "hex": "#ba925b"
+  },
+  {
+    "productline": "Pro",
+    "name": "Desert Yellow",
+    "productcode": 19017,
+    "hex": "#c7ab2a"
+  },
+  {
+    "productline": "Pro",
+    "name": "Dragon Blue",
+    "productcode": 19036,
+    "hex": "#026bb6"
+  },
+  {
+    "productline": "Pro",
+    "name": "Dwarf Flesh",
+    "productcode": 19075,
+    "hex": "#b87d47"
+  },
+  {
+    "productline": "Pro",
+    "name": "Elf Flesh",
+    "productcode": 19074,
+    "hex": "#eca05d"
+  },
+  {
+    "productline": "Pro",
+    "name": "Elf Green",
+    "productcode": 19019,
+    "hex": "#03462b"
+  },
+  {
+    "productline": "Pro",
+    "name": "Emerald Green",
+    "productcode": 19021,
+    "hex": "#4fb649"
+  },
+  {
+    "productline": "Pro",
+    "name": "Entrail Pink",
+    "productcode": 19006,
+    "hex": "#b55c5c"
+  },
+  {
+    "productline": "Pro",
+    "name": "Exotic Turquoise",
+    "productcode": 19032,
+    "hex": "#035a5b"
+  },
+  {
+    "productline": "Pro",
+    "name": "Faded Black",
+    "productcode": 19093,
+    "hex": "#161417"
+  },
+  {
+    "productline": "Pro",
+    "name": "Faded Brown",
+    "productcode": 19066,
+    "hex": "#64552d"
+  },
+  {
+    "productline": "Pro",
+    "name": "Faded Olive",
+    "productcode": 19028,
+    "hex": "#64681f"
+  },
+  {
+    "productline": "Pro",
+    "name": "Field Grey",
+    "productcode": 19085,
+    "hex": "#97a18f"
+  },
+  {
+    "productline": "Pro",
+    "name": "Fireball Orange",
+    "productcode": 19009,
+    "hex": "#f06424"
+  },
+  {
+    "productline": "Pro",
+    "name": "Firehawk Red",
+    "productcode": 19004,
+    "hex": "#ed3f23"
+  },
+  {
+    "productline": "Pro",
+    "name": "Gemstone Purple",
+    "productcode": 19050,
+    "hex": "#724988"
+  },
+  {
+    "productline": "Pro",
+    "name": "Ghost White",
+    "productcode": 19080,
+    "hex": "#e2f4fc"
+  },
+  {
+    "productline": "Pro",
+    "name": "Golden Brown",
+    "productcode": 19060,
+    "hex": "#4a2907"
+  },
+  {
+    "productline": "Pro",
+    "name": "Golden Flesh",
+    "productcode": 19072,
+    "hex": "#ba8d53"
+  },
+  {
+    "productline": "Pro",
+    "name": "Goldenrod Yellow",
+    "productcode": 19016,
+    "hex": "#e7b517"
+  },
+  {
+    "productline": "Pro",
+    "name": "Granite Grey",
+    "productcode": 19082,
+    "hex": "#bac2c5"
+  },
+  {
+    "productline": "Pro",
+    "name": "Greyed Olive",
+    "productcode": 19026,
+    "hex": "#718c39"
+  },
+  {
+    "productline": "Pro",
+    "name": "Icy Blue",
+    "productcode": 19037,
+    "hex": "#4195d0"
+  },
+  {
+    "productline": "Pro",
+    "name": "Imperial Purple",
+    "productcode": 19046,
+    "hex": "#18105c"
+  },
+  {
+    "productline": "Pro",
+    "name": "Ivy Green",
+    "productcode": 19030,
+    "hex": "#023f11"
+  },
+  {
+    "productline": "Pro",
+    "name": "Kilt Green",
+    "productcode": 19020,
+    "hex": "#066d39"
+  },
+  {
+    "productline": "Pro",
+    "name": "Leather Tan",
+    "productcode": 19052,
+    "hex": "#c4883f"
+  },
+  {
+    "productline": "Pro",
+    "name": "Leather White",
+    "productcode": 19079,
+    "hex": "#f9f6f1"
+  },
+  {
+    "productline": "Pro",
+    "name": "Linen White",
+    "productcode": 19078,
+    "hex": "#fcfcf2"
+  },
+  {
+    "productline": "Pro",
+    "name": "Maiden Flesh",
+    "productcode": 19071,
+    "hex": "#e6d8cf"
+  },
+  {
+    "productline": "Pro",
+    "name": "Military Grey",
+    "productcode": 19087,
+    "hex": "#526c78"
+  },
+  {
+    "productline": "Pro",
+    "name": "Moody Indigo",
+    "productcode": 19043,
+    "hex": "#02203d"
+  },
+  {
+    "productline": "Pro",
+    "name": "Mossy Green",
+    "productcode": 19031,
+    "hex": "#03330c"
+  },
+  {
+    "productline": "Pro",
+    "name": "Neutral Grey",
+    "productcode": 19088,
+    "hex": "#808185"
+  },
+  {
+    "productline": "Pro",
+    "name": "Nightmare Black",
+    "productcode": 19090,
+    "hex": "#020c1d"
+  },
+  {
+    "productline": "Pro",
+    "name": "Nightsky Blue",
+    "productcode": 19042,
+    "hex": "#033a59"
+  },
+  {
+    "productline": "Pro",
+    "name": "Ocean Blue",
+    "productcode": 19034,
+    "hex": "#03406f"
+  },
+  {
+    "productline": "Pro",
+    "name": "Oiled Leather",
+    "productcode": 19055,
+    "hex": "#a95f2f"
+  },
+  {
+    "productline": "Pro",
+    "name": "Olive Flesh",
+    "productcode": 19073,
+    "hex": "#a07a3e"
+  },
+  {
+    "productline": "Pro",
+    "name": "Olive Green",
+    "productcode": 19024,
+    "hex": "#5b7a27"
+  },
+  {
+    "productline": "Pro",
+    "name": "Pale Yellow",
+    "productcode": 19015,
+    "hex": "#fcf15f"
+  },
+  {
+    "productline": "Pro",
+    "name": "Poison Green",
+    "productcode": 19022,
+    "hex": "#28a44b"
+  },
+  {
+    "productline": "Pro",
+    "name": "Ruddy Brown",
+    "productcode": 19063,
+    "hex": "#742312"
+  },
+  {
+    "productline": "Pro",
+    "name": "Rusted Brown",
+    "productcode": 19062,
+    "hex": "#b43e1d"
+  },
+  {
+    "productline": "Pro",
+    "name": "Rusty Red",
+    "productcode": 19007,
+    "hex": "#b72c1c"
+  },
+  {
+    "productline": "Pro",
+    "name": "Sable Brown",
+    "productcode": 19059,
+    "hex": "#2b1823"
+  },
+  {
+    "productline": "Pro",
+    "name": "Salamander Orange",
+    "productcode": 19008,
+    "hex": "#d83e23"
+  },
+  {
+    "productline": "Pro",
+    "name": "Shield Brown",
+    "productcode": 19053,
+    "hex": "#866937"
+  },
+  {
+    "productline": "Pro",
+    "name": "Slime Black",
+    "productcode": 19092,
+    "hex": "#011502"
+  },
+  {
+    "productline": "Pro",
+    "name": "Soft Purple",
+    "productcode": 19049,
+    "hex": "#484e6a"
+  },
+  {
+    "productline": "Pro",
+    "name": "Soiled Grey",
+    "productcode": 19086,
+    "hex": "#81766a"
+  },
+  {
+    "productline": "Pro",
+    "name": "Solid Blue",
+    "productcode": 19040,
+    "hex": "#02585e"
+  },
+  {
+    "productline": "Pro",
+    "name": "Sombre Blue",
+    "productcode": 19039,
+    "hex": "#033c3a"
+  },
+  {
+    "productline": "Pro",
+    "name": "Stained Olive",
+    "productcode": 19027,
+    "hex": "#374009"
+  },
+  {
+    "productline": "Pro",
+    "name": "Sunburn Flesh",
+    "productcode": 19068,
+    "hex": "#b86538"
+  },
+  {
+    "productline": "Pro",
+    "name": "Sunlight Yellow",
+    "productcode": 19014,
+    "hex": "#f7e608"
+  },
+  {
+    "productline": "Pro",
+    "name": "Sunset Purple",
+    "productcode": 19047,
+    "hex": "#45196d"
+  },
+  {
+    "productline": "Pro",
+    "name": "Suntan Flesh",
+    "productcode": 19069,
+    "hex": "#b16a2f"
+  },
+  {
+    "productline": "Pro",
+    "name": "Troll Olive",
+    "productcode": 19025,
+    "hex": "#444e14"
+  },
+  {
+    "productline": "Pro",
+    "name": "Turf Green",
+    "productcode": 19018,
+    "hex": "#28803b"
+  },
+  {
+    "productline": "Pro",
+    "name": "Tusk Ivory",
+    "productcode": 19081,
+    "hex": "#dcbe6f"
+  },
+  {
+    "productline": "Pro",
+    "name": "Twilight Purple",
+    "productcode": 19045,
+    "hex": "#042966"
+  },
+  {
+    "productline": "Pro",
+    "name": "Umber Brown",
+    "productcode": 19064,
+    "hex": "#1a0604"
+  },
+  {
+    "productline": "Pro",
+    "name": "Uniform Blue",
+    "productcode": 19041,
+    "hex": "#2b6678"
+  },
+  {
+    "productline": "Pro",
+    "name": "Uniform Brown",
+    "productcode": 19065,
+    "hex": "#8e6924"
+  },
+  {
+    "productline": "Pro",
+    "name": "Volcano Brown",
+    "productcode": 19065,
+    "hex": "#604030"
+  },
+  {
+    "productline": "Pro",
+    "name": "Walnut Brown",
+    "productcode": 19058,
+    "hex": "#220506"
+  },
+  {
+    "productline": "Pro",
+    "name": "Weathered Brown",
+    "productcode": 19061,
+    "hex": "#716c47"
+  },
+  {
+    "productline": "Pro",
+    "name": "Wicked Purple",
+    "productcode": 19044,
+    "hex": "#040b48"
+  },
+  {
+    "productline": "Pro",
+    "name": "Winter Blue",
+    "productcode": 19038,
+    "hex": "#1c6c72"
+  },
+  {
+    "productline": "Pro",
+    "name": "Woodland Brown",
+    "productcode": 19054,
+    "hex": "#a07038"
+  }
+]

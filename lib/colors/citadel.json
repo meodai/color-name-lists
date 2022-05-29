@@ -1,0 +1,800 @@
+[
+  {
+    "productline": "Base",
+    "name": "Ceramite White",
+    "productcode": "-",
+    "hex": "#ffffff"
+  },
+  {
+    "productline": "Base",
+    "name": "Averland Sunset",
+    "productcode": "-",
+    "hex": "#fcb825"
+  },
+  {
+    "productline": "Base",
+    "name": "Jokaero Orange",
+    "productcode": "-",
+    "hex": "#ee3823"
+  },
+  {
+    "productline": "Base",
+    "name": "Mephiston Red",
+    "productcode": "-",
+    "hex": "#991115"
+  },
+  {
+    "productline": "Base",
+    "name": "Khorne Red",
+    "productcode": "-",
+    "hex": "#6a0002"
+  },
+  {
+    "productline": "Base",
+    "name": "Naggaroth Night",
+    "productcode": "-",
+    "hex": "#3e3355"
+  },
+  {
+    "productline": "Base",
+    "name": "Daemonette Hide",
+    "productcode": "-",
+    "hex": "#696685"
+  },
+  {
+    "productline": "Base",
+    "name": "Kantor Blue",
+    "productcode": "-",
+    "hex": "#002051"
+  },
+  {
+    "productline": "Base",
+    "name": "Macragge Blue",
+    "productcode": "-",
+    "hex": "#0d407f"
+  },
+  {
+    "productline": "Base",
+    "name": "Caledor Sky",
+    "productcode": "-",
+    "hex": "#396f9e"
+  },
+  {
+    "productline": "Base",
+    "name": "Stegadon Scale Green",
+    "productcode": "-",
+    "hex": "#074864"
+  },
+  {
+    "productline": "Base",
+    "name": "Incubi Darkness",
+    "productcode": "-",
+    "hex": "#0b4849"
+  },
+  {
+    "productline": "Base",
+    "name": "Caliban Green",
+    "productcode": "-",
+    "hex": "#00401e"
+  },
+  {
+    "productline": "Base",
+    "name": "Waaagh! Flesh",
+    "productcode": "-",
+    "hex": "#20552b"
+  },
+  {
+    "productline": "Base",
+    "name": "Castellan Green",
+    "productcode": "-",
+    "hex": "#304921"
+  },
+  {
+    "productline": "Base",
+    "name": "Death World Forest",
+    "productcode": "-",
+    "hex": "#496732"
+  },
+  {
+    "productline": "Base",
+    "name": "Zandri Dust",
+    "productcode": "-",
+    "hex": "#9e915c"
+  },
+  {
+    "productline": "Base",
+    "name": "Steel Legion Drab",
+    "productcode": "-",
+    "hex": "#5f5134"
+  },
+  {
+    "productline": "Base",
+    "name": "Bugman's Glow",
+    "productcode": "-",
+    "hex": "#845045"
+  },
+  {
+    "productline": "Base",
+    "name": "Ratskin Flesh",
+    "productcode": "-",
+    "hex": "#ae6b4e"
+  },
+  {
+    "productline": "Base",
+    "name": "Mournfang Brown",
+    "productcode": "-",
+    "hex": "#650a09"
+  },
+  {
+    "productline": "Base",
+    "name": "XV-88",
+    "productcode": "-",
+    "hex": "#72481e"
+  },
+  {
+    "productline": "Base",
+    "name": "Rhinox Hide",
+    "productcode": "-",
+    "hex": "#493335"
+  },
+  {
+    "productline": "Base",
+    "name": "Dryad Bark",
+    "productcode": "-",
+    "hex": "#34312c"
+  },
+  {
+    "productline": "Base",
+    "name": "Mechanicus Standard Grey",
+    "productcode": "-",
+    "hex": "#3d4b4e"
+  },
+  {
+    "productline": "Base",
+    "name": "Celestra Grey",
+    "productcode": "-",
+    "hex": "#90a8a8"
+  },
+  {
+    "productline": "Base",
+    "name": "Abaddon Black",
+    "productcode": "-",
+    "hex": "#231f20"
+  },
+  {
+    "productline": "Base",
+    "name": "Rakarth Flesh",
+    "productcode": "-",
+    "hex": "#a29e92"
+  },
+  {
+    "productline": "Base",
+    "name": "The Fang",
+    "productcode": "-",
+    "hex": "#436276"
+  },
+  {
+    "productline": "Base",
+    "name": "Screamer Pink",
+    "productcode": "-",
+    "hex": "#7c1645"
+  },
+  {
+    "productline": "Base",
+    "name": "Thousand Sons Blue",
+    "productcode": "-",
+    "hex": "#18ABCC"
+  },
+  {
+    "productline": "Base",
+    "name": "Death Guard Green",
+    "productcode": "-",
+    "hex": "#848A66"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "White Scar",
+    "productcode": "-",
+    "hex": "#ffffff"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Yriel Yellow",
+    "productcode": "-",
+    "hex": "#ffdb01"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Flash Gitz Yellow",
+    "productcode": "-",
+    "hex": "#fef200"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Troll Slayer Orange",
+    "productcode": "-",
+    "hex": "#f46c2e"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Fire Dragon Bright",
+    "productcode": "-",
+    "hex": "#f58651"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Evil Sunz Scarlet",
+    "productcode": "-",
+    "hex": "#c21920"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Wild Rider Red",
+    "productcode": "-",
+    "hex": "#eb2e28"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Wazdakka Red",
+    "productcode": "-",
+    "hex": "#8c0a0c"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Squig Orange",
+    "productcode": "-",
+    "hex": "#a94f44"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Xerus Purple",
+    "productcode": "-",
+    "hex": "#471f5e"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Genestealer Purple",
+    "productcode": "-",
+    "hex": "#7761aa"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Warpfiend Grey",
+    "productcode": "-",
+    "hex": "#6c6a75"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Slanesh Grey",
+    "productcode": "-",
+    "hex": "#8e8c97"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Alaitoc Blue",
+    "productcode": "-",
+    "hex": "#295788"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Hoeth Blue",
+    "productcode": "-",
+    "hex": "#4c7fb4"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Altdorf Guard Blue",
+    "productcode": "-",
+    "hex": "#1f56a8"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Calgar Blue",
+    "productcode": "-",
+    "hex": "#4273b8"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Teclis Blue",
+    "productcode": "-",
+    "hex": "#317fc1"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Lothern Blue",
+    "productcode": "-",
+    "hex": "#33a2cf"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Sotek Green",
+    "productcode": "-",
+    "hex": "#0c6a74"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Temple Guard Blue",
+    "productcode": "-",
+    "hex": "#329b8d"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Kabalite Green",
+    "productcode": "-",
+    "hex": "#028d66"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Sybarite Green",
+    "productcode": "-",
+    "hex": "#30a66c"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Warpstone Glow",
+    "productcode": "-",
+    "hex": "#1e7332"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Moot Green",
+    "productcode": "-",
+    "hex": "#52b246"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Warboss Green",
+    "productcode": "-",
+    "hex": "#3e7f5d"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Skarsnik Green",
+    "productcode": "-",
+    "hex": "#5f936f"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Loren Forest",
+    "productcode": "-",
+    "hex": "#51702d"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Straken Green",
+    "productcode": "-",
+    "hex": "#628026"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Nurgling Green",
+    "productcode": "-",
+    "hex": "#849b63"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Elysian Green",
+    "productcode": "-",
+    "hex": "#758e3a"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Ogryn Camo",
+    "productcode": "-",
+    "hex": "#9ea94b"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Ushabti Bone",
+    "productcode": "-",
+    "hex": "#bcbc80"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Screaming Skull",
+    "productcode": "-",
+    "hex": "#d4d3a3"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Tallarn Sand",
+    "productcode": "-",
+    "hex": "#a67610"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Karak Stone",
+    "productcode": "-",
+    "hex": "#bb9662"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Cadian Fleshtone",
+    "productcode": "-",
+    "hex": "#c87958"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Kislev Flesh",
+    "productcode": "-",
+    "hex": "#d6a876"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Bestigor Flesh",
+    "productcode": "-",
+    "hex": "#d28b57"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Ungor Flesh",
+    "productcode": "-",
+    "hex": "#d7a767"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Skrag Brown",
+    "productcode": "-",
+    "hex": "#904a0f"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Deathclaw Brown",
+    "productcode": "-",
+    "hex": "#b36853"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Tau Light Ochre",
+    "productcode": "-",
+    "hex": "#bf6e1d"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Balor Brown",
+    "productcode": "-",
+    "hex": "#8b5910"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Zamesi Desert",
+    "productcode": "-",
+    "hex": "#dca026"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Doombull Brown",
+    "productcode": "-",
+    "hex": "#5d000a"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Tuskgor Fur",
+    "productcode": "-",
+    "hex": "#883736"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Gorthor Brown",
+    "productcode": "-",
+    "hex": "#654641"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Baneblade Brown",
+    "productcode": "-",
+    "hex": "#927f6e"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Dawnstone",
+    "productcode": "-",
+    "hex": "#70756e"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Administratum Grey",
+    "productcode": "-",
+    "hex": "#949b94"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Eshin Grey",
+    "productcode": "-",
+    "hex": "#4a4f53"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Dark Reaper",
+    "productcode": "-",
+    "hex": "#3c3c51"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Thunderhawk Blue",
+    "productcode": "-",
+    "hex": "#417175"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Skavenblight Dinge",
+    "productcode": "-",
+    "hex": "#48413b"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Stormvermin Fur",
+    "productcode": "-",
+    "hex": "#736c66"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Ulthuan Grey",
+    "productcode": "-",
+    "hex": "#c7e0da"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Pallid Wych Flesh",
+    "productcode": "-",
+    "hex": "#cdcebe"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Russ Grey",
+    "productcode": "-",
+    "hex": "#54758b"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Fenrisian Grey",
+    "productcode": "-",
+    "hex": "#709cb7"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Pink Horror",
+    "productcode": "-",
+    "hex": "#91305d"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Emperor's Children",
+    "productcode": "-",
+    "hex": "#b94278"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Baharroth Blue",
+    "productcode": "-",
+    "hex": "#59c1ce"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Blue Horror",
+    "productcode": "-",
+    "hex": "#a2bad2"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Dechala Lilac",
+    "productcode": "-",
+    "hex": "#b69fcd"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Dorn Yellow",
+    "productcode": "-",
+    "hex": "#fff683"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Flayed One Flesh",
+    "productcode": "-",
+    "hex": "#cdc586"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Fulgrim Pink",
+    "productcode": "-",
+    "hex": "#f4afcc"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Gauss Blaster Green",
+    "productcode": "-",
+    "hex": "#84c2a9"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Krieg Khaki",
+    "productcode": "-",
+    "hex": "#bfbd82"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Lugganath Orange",
+    "productcode": "-",
+    "hex": "#f89e86"
+  },
+  {
+    "productline": "Layer & Edge",
+    "name": "Ahriman Blue",
+    "productcode": "-",
+    "hex": "#1F8C9C"
+  },
+  {
+    "productline": "Dry",
+    "name": "Astorath Red",
+    "productcode": "-",
+    "hex": "#DD482B"
+  },
+  {
+    "productline": "Dry",
+    "name": "Changeling Pink",
+    "productcode": "-",
+    "hex": "#F4AFCD"
+  },
+  {
+    "productline": "Dry",
+    "name": "Chronus Blue",
+    "productcode": "-",
+    "hex": "#72A8D1"
+  },
+  {
+    "productline": "Dry",
+    "name": "Dawnstone",
+    "productcode": "-",
+    "hex": "#919C9F"
+  },
+  {
+    "productline": "Dry",
+    "name": "Eldar Flesh",
+    "productcode": "-",
+    "hex": "#ECC083"
+  },
+  {
+    "productline": "Dry",
+    "name": "Etherium Blue",
+    "productcode": "-",
+    "hex": "#A2BAD2"
+  },
+  {
+    "productline": "Dry",
+    "name": "Golgfag Brown",
+    "productcode": "-",
+    "hex": "#C2804F"
+  },
+  {
+    "productline": "Dry",
+    "name": "Hellion Green",
+    "productcode": "-",
+    "hex": "#84C3AA"
+  },
+  {
+    "productline": "Dry",
+    "name": "Hexos Palesun",
+    "productcode": "-",
+    "hex": "#FFF200"
+  },
+  {
+    "productline": "Dry",
+    "name": "Hoeth Blue",
+    "productcode": "-",
+    "hex": "#57A9D4"
+  },
+  {
+    "productline": "Dry",
+    "name": "Imrik Blue",
+    "productcode": "-",
+    "hex": "#67AED0"
+  },
+  {
+    "productline": "Dry",
+    "name": "Kindleflame",
+    "productcode": "-",
+    "hex": "#F79E86"
+  },
+  {
+    "productline": "Dry",
+    "name": "Longbeard Grey",
+    "productcode": "-",
+    "hex": "#CECEAF"
+  },
+  {
+    "productline": "Dry",
+    "name": "Lucius Lilac",
+    "productcode": "-",
+    "hex": "#B69FCC"
+  },
+  {
+    "productline": "Dry",
+    "name": "Niblet Green",
+    "productcode": "-",
+    "hex": "#7DC734"
+  },
+  {
+    "productline": "Dry",
+    "name": "Nurgling Green",
+    "productcode": "-",
+    "hex": "#B8CC82"
+  },
+  {
+    "productline": "Dry",
+    "name": "Praxeti White",
+    "productcode": "-",
+    "hex": "#FFFFFF"
+  },
+  {
+    "productline": "Dry",
+    "name": "Ryza Rust",
+    "productcode": "-",
+    "hex": "#EC631A"
+  },
+  {
+    "productline": "Dry",
+    "name": "Sigmarite",
+    "productcode": "-",
+    "hex": "#CAAD76"
+  },
+  {
+    "productline": "Dry",
+    "name": "Skink Blue",
+    "productcode": "-",
+    "hex": "#58C1CD"
+  },
+  {
+    "productline": "Dry",
+    "name": "Slaanesh Grey",
+    "productcode": "-",
+    "hex": "#DBD5E6"
+  },
+  {
+    "productline": "Dry",
+    "name": "Stormfang",
+    "productcode": "-",
+    "hex": "#80A7C1"
+  },
+  {
+    "productline": "Dry",
+    "name": "Sylvaneth Bark",
+    "productcode": "-",
+    "hex": "#AC8262"
+  },
+  {
+    "productline": "Dry",
+    "name": "Terminatus Stone",
+    "productcode": "-",
+    "hex": "#BDB192"
+  },
+  {
+    "productline": "Dry",
+    "name": "Thunderhawk Blue",
+    "productcode": "-",
+    "hex": "#509BA9"
+  },
+  {
+    "productline": "Dry",
+    "name": "Tyrant Skull",
+    "productcode": "-",
+    "hex": "#CDC586"
+  },
+  {
+    "productline": "Dry",
+    "name": "Underhive Ash",
+    "productcode": "-",
+    "hex": "#C0BD81"
+  },
+  {
+    "productline": "Dry",
+    "name": "Verminlord Hide",
+    "productcode": "-",
+    "hex": "#A16954"
+  },
+  {
+    "productline": "Dry",
+    "name": "Wrack White",
+    "productcode": "-",
+    "hex": "#FCFBFA"
+  }
+]

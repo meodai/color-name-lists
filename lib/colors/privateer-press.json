@@ -1,0 +1,332 @@
+[
+  {
+    "productline": "P3",
+    "name": "Sanguine Base ",
+    "productcode": 93019,
+    "hex": "#67120d"
+  },
+  {
+    "productline": "P3",
+    "name": "Skorne Red ",
+    "productcode": 93020,
+    "hex": "#ad1e22"
+  },
+  {
+    "productline": "P3",
+    "name": "Khador Red Base ",
+    "productcode": 93021,
+    "hex": "#ec2822"
+  },
+  {
+    "productline": "P3",
+    "name": "Khador Red Highlight ",
+    "productcode": 93022,
+    "hex": "#f08f41"
+  },
+  {
+    "productline": "P3",
+    "name": "Ember Orange ",
+    "productcode": 93023,
+    "hex": "#dd8828"
+  },
+  {
+    "productline": "P3",
+    "name": "Heartfire ",
+    "productcode": 93024,
+    "hex": "#e0ae43"
+  },
+  {
+    "productline": "P3",
+    "name": "Cygnus Yellow ",
+    "productcode": 93025,
+    "hex": "#f2e429"
+  },
+  {
+    "productline": "P3",
+    "name": "Sulfuric Yellow ",
+    "productcode": 93026,
+    "hex": "#edd031"
+  },
+  {
+    "productline": "P3",
+    "name": "Battlefield Brown ",
+    "productcode": 93027,
+    "hex": "#2f231a"
+  },
+  {
+    "productline": "P3",
+    "name": "Umbral Umber ",
+    "productcode": 93028,
+    "hex": "#220601"
+  },
+  {
+    "productline": "P3",
+    "name": "Bloodstone ",
+    "productcode": 93029,
+    "hex": "#9c4621"
+  },
+  {
+    "productline": "P3",
+    "name": "Bloodtracker Brown ",
+    "productcode": 93030,
+    "hex": "#a36827"
+  },
+  {
+    "productline": "P3",
+    "name": "Bootstrap Leather ",
+    "productcode": 93031,
+    "hex": "#926637"
+  },
+  {
+    "productline": "P3",
+    "name": "Hammerfall Khaki ",
+    "productcode": 93032,
+    "hex": "#c6bd95"
+  },
+  {
+    "productline": "P3",
+    "name": "Thornwood Green ",
+    "productcode": 93033,
+    "hex": "#63634a"
+  },
+  {
+    "productline": "P3",
+    "name": "Gnarls Green ",
+    "productcode": 93034,
+    "hex": "#0f5f31"
+  },
+  {
+    "productline": "P3",
+    "name": "Iosan Green ",
+    "productcode": 93035,
+    "hex": "#23a551"
+  },
+  {
+    "productline": "P3",
+    "name": "Ordic Olive ",
+    "productcode": 93036,
+    "hex": "#6c7c34"
+  },
+  {
+    "productline": "P3",
+    "name": "Traitor Green ",
+    "productcode": 93037,
+    "hex": "#7e8d63"
+  },
+  {
+    "productline": "P3",
+    "name": "Wurm Green ",
+    "productcode": 93038,
+    "hex": "#8bbc3e"
+  },
+  {
+    "productline": "P3",
+    "name": "Necrotite Green ",
+    "productcode": 93039,
+    "hex": "#7cc046"
+  },
+  {
+    "productline": "P3",
+    "name": "Exile Blue ",
+    "productcode": 93040,
+    "hex": "#1e3166"
+  },
+  {
+    "productline": "P3",
+    "name": "Cygnar Blue Base ",
+    "productcode": 93041,
+    "hex": "#124999"
+  },
+  {
+    "productline": "P3",
+    "name": "Cygnar Blue Highlight ",
+    "productcode": 93042,
+    "hex": "#1f73ba"
+  },
+  {
+    "productline": "P3",
+    "name": "Greatcoat Grey ",
+    "productcode": 93043,
+    "hex": "#4a565f"
+  },
+  {
+    "productline": "P3",
+    "name": "Ironhull Grey ",
+    "productcode": 93044,
+    "hex": "#8c949a"
+  },
+  {
+    "productline": "P3",
+    "name": "Frostbite ",
+    "productcode": 93045,
+    "hex": "#e7f2f7"
+  },
+  {
+    "productline": "P3",
+    "name": "Coal Black ",
+    "productcode": 93046,
+    "hex": "#015960"
+  },
+  {
+    "productline": "P3",
+    "name": "Trollblood Base ",
+    "productcode": 93047,
+    "hex": "#1a8799"
+  },
+  {
+    "productline": "P3",
+    "name": "Meridius Blue ",
+    "productcode": 93048,
+    "hex": "#01afb7"
+  },
+  {
+    "productline": "P3",
+    "name": "Arcane Blue ",
+    "productcode": 93049,
+    "hex": "#78cdd8"
+  },
+  {
+    "productline": "P3",
+    "name": "Underbelly Blue ",
+    "productcode": 93050,
+    "hex": "#bed2d8"
+  },
+  {
+    "productline": "P3",
+    "name": "Beaten Purple ",
+    "productcode": 93051,
+    "hex": "#532870"
+  },
+  {
+    "productline": "P3",
+    "name": "Murderous Magenta ",
+    "productcode": 93052,
+    "hex": "#a61e5d"
+  },
+  {
+    "productline": "P3",
+    "name": "Sanguine Highlight ",
+    "productcode": 93053,
+    "hex": "#c54757"
+  },
+  {
+    "productline": "P3",
+    "name": "Carnal Pink ",
+    "productcode": 93054,
+    "hex": "#f8e0ea"
+  },
+  {
+    "productline": "P3",
+    "name": "Idrian Flesh ",
+    "productcode": 93055,
+    "hex": "#995d35"
+  },
+  {
+    "productline": "P3",
+    "name": "Beast Hide ",
+    "productcode": 93056,
+    "hex": "#b09369"
+  },
+  {
+    "productline": "P3",
+    "name": "Khardic Flesh ",
+    "productcode": 93057,
+    "hex": "#c97958"
+  },
+  {
+    "productline": "P3",
+    "name": "Midlund Flesh ",
+    "productcode": 93058,
+    "hex": "#eda781"
+  },
+  {
+    "productline": "P3",
+    "name": "Ryn Flesh ",
+    "productcode": 93059,
+    "hex": "#f9e2d0"
+  },
+  {
+    "productline": "P3",
+    "name": "Battledress Green ",
+    "productcode": 93060,
+    "hex": "#737030"
+  },
+  {
+    "productline": "P3",
+    "name": "Gun Corps Brown ",
+    "productcode": 93061,
+    "hex": "#8f7b46"
+  },
+  {
+    "productline": "P3",
+    "name": "Rucksack Tan ",
+    "productcode": 93062,
+    "hex": "#b1943b"
+  },
+  {
+    "productline": "P3",
+    "name": "Moldy Ochre ",
+    "productcode": 93063,
+    "hex": "#dab33b"
+  },
+  {
+    "productline": "P3",
+    "name": "'Jack Bone ",
+    "productcode": 93064,
+    "hex": "#d5d2a9"
+  },
+  {
+    "productline": "P3",
+    "name": "Menoth White Base ",
+    "productcode": 93065,
+    "hex": "#ecedb9"
+  },
+  {
+    "productline": "P3",
+    "name": "Menoth White Highlight ",
+    "productcode": 93066,
+    "hex": "#f2f2dc"
+  },
+  {
+    "productline": "P3",
+    "name": "Cryx Bane Base ",
+    "productcode": 93067,
+    "hex": "#2d3723"
+  },
+  {
+    "productline": "P3",
+    "name": "Bastion Grey ",
+    "productcode": 93068,
+    "hex": "#747762"
+  },
+  {
+    "productline": "P3",
+    "name": "Cryx Bane Highlight ",
+    "productcode": 93069,
+    "hex": "#908e7a"
+  },
+  {
+    "productline": "P3",
+    "name": "Trollblood Highlight ",
+    "productcode": 93070,
+    "hex": "#bab2a1"
+  },
+  {
+    "productline": "P3",
+    "name": "Thrall Flesh ",
+    "productcode": 93071,
+    "hex": "#cdd6ab"
+  },
+  {
+    "productline": "P3",
+    "name": "Thamar Black ",
+    "productcode": 93072,
+    "hex": "#0a0a08"
+  },
+  {
+    "productline": "P3",
+    "name": "Morrow White ",
+    "productcode": 93073,
+    "hex": "#fdfbfc"
+  }
+]
