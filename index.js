@@ -39,6 +39,10 @@ const jsonFiles = fs.readdirSync(directoryPath).filter(
   file => file.endsWith('.json')
 );
 
+function hyphensToCamelCase(str) {
+  return str.replace(/-([a-z])/g, g => g[1].toUpperCase());
+}
+
 const lists = {};
 
 lists.wikipedia = wikipediaList;
@@ -47,10 +51,8 @@ jsonFiles.map(file => {
   const filePath = path.join(directoryPath, file);
   const fileContents = fs.readFileSync(filePath, 'utf8');
   const listOfColors = JSON.parse(fileContents);
-
-  lists[
-    file.replace('.json', '')
-  ] = listOfColors;
+  const listName = hyphensToCamelCase(file.replace('.json', ''));
+  lists[listName] = listOfColors;
 });
 
 Object.keys(lists).forEach(listName => {
@@ -64,4 +66,3 @@ Object.keys(lists).forEach(listName => {
 });
 
 module.exports = lists;
-//let rawdata = fs.readFileSync('student.json');
