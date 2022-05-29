@@ -4,6 +4,8 @@ const path = require('path');
 const directoryPath = path.join(__dirname, 'lib/colors');
 
 const wikipediaList = require('wikipedia-color-names/colors.min.json');
+const hexColorValidation = /^#([0-9A-F]{3}){1,2}$/i;
+
 
 function moveNonAllowedKeysToMeta(
   obj,
@@ -52,14 +54,25 @@ jsonFiles.map(file => {
   const fileContents = fs.readFileSync(filePath, 'utf8');
   const listOfColors = JSON.parse(fileContents);
   const listName = hyphensToCamelCase(file.replace('.json', ''));
+
   lists[listName] = listOfColors;
 });
 
 Object.keys(lists).forEach(listName => {
   const listOfColors = lists[listName];
+
   const sanitizedList = listOfColors.map(color => {
     const sanitizedColor = toLowerKeys(color);
-    return moveNonAllowedKeysToMeta(sanitizedColor, ['name', 'hex']);
+    const { hex } = sanitizedColor;
+
+    if ( !hexColorValidation.test(hex) ) {
+     throw console.error(`${hex} is not a valid hex color in "${listName}"`);
+    }
+
+    return moveNonAllowedKeysToMeta(
+      sanitizedColor, 
+      ['name', 'hex']
+    );
   });
 
   lists[listName] = sanitizedList;
