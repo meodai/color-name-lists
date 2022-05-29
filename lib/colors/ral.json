@@ -1,0 +1,2770 @@
+[{
+    "RAL": "RAL 1000",
+    "RGB": "190-189-127",
+    "HEX": "#BEBD7F",
+    "German": "Grünbeige",
+    "English": "Green beige",
+    "name": "Green beige",
+    
+    "French": "Beige vert",
+    "Spanish": "Beige verdoso",
+    "Italian": "Beige verdastro",
+    "Nederlands": "Groenbeige"
+  },
+  {
+    "RAL": "RAL 1001",
+    "RGB": "194-176-120",
+    "HEX": "#C2B078",
+    "German": "Beige",
+    "English": "Beige",
+    "name": "Beige",
+    
+    "French": "Beige",
+    "Spanish": "Beige",
+    "Italian": "Beige",
+    "Nederlands": "Beige"
+  },
+  {
+    "RAL": "RAL 1002",
+    "RGB": "198-166-100",
+    "HEX": "#C6A664",
+    "German": "Sandgelb",
+    "English": "Sand yellow",
+    "name": "Sand yellow",
+    
+    "French": "Jaune sable",
+    "Spanish": "Amarillo arena",
+    "Italian": "Giallo sabbia",
+    "Nederlands": "Zandgeel"
+  },
+  {
+    "RAL": "RAL 1003",
+    "RGB": "229-190-001",
+    "HEX": "#E5BE01",
+    "German": "Signalgelb",
+    "English": "Signal yellow",
+    "name": "Signal yellow",
+    
+    "French": "Jaune de sécurité",
+    "Spanish": "Amarillo señales",
+    "Italian": "Giallo segnale",
+    "Nederlands": "Signaalgeel"
+  },
+  {
+    "RAL": "RAL 1004",
+    "RGB": "205-164-052",
+    "HEX": "#CDA434",
+    "German": "Goldgelb",
+    "English": "Golden yellow",
+    "name": "Golden yellow",
+    
+    "French": "Jaune or",
+    "Spanish": "Amarillo oro",
+    "Italian": "Giallo oro",
+    "Nederlands": "Goudgeel"
+  },
+  {
+    "RAL": "RAL 1005",
+    "RGB": "169-131-007",
+    "HEX": "#A98307",
+    "German": "Honiggelb",
+    "English": "Honey yellow",
+    "name": "Honey yellow",
+    
+    "French": "Jaune miel",
+    "Spanish": "Amarillo miel",
+    "Italian": "Giallo miele",
+    "Nederlands": "Honinggeel"
+  },
+  {
+    "RAL": "RAL 1006",
+    "RGB": "228-160-016",
+    "HEX": "#E4A010",
+    "German": "Maisgelb",
+    "English": "Maize yellow",
+    "name": "Maize yellow",
+    
+    "French": "Jaune maïs",
+    "Spanish": "Amarillo maiz",
+    "Italian": "Giallo polenta",
+    "Nederlands": "Maisgeel"
+  },
+  {
+    "RAL": "RAL 1007",
+    "RGB": "220-156-000",
+    "HEX": "#DC9D00",
+    "German": "Narzissengelb",
+    "English": "Daffodil yellow",
+    "name": "Daffodil yellow",
+    
+    "French": "Jaune narcisse",
+    "Spanish": "Amarillo narciso",
+    "Italian": "Giallo narciso",
+    "Nederlands": "Narcissengeel"
+  },
+  {
+    "RAL": "RAL 1011",
+    "RGB": "138-102-066",
+    "HEX": "#8A6642",
+    "German": "Braunbeige",
+    "English": "Brown beige",
+    "name": "Brown beige",
+    
+    "French": "Beige brun",
+    "Spanish": "Beige pardo",
+    "Italian": "Beige marrone",
+    "Nederlands": "Bruinbeige"
+  },
+  {
+    "RAL": "RAL 1012",
+    "RGB": "199-180-070",
+    "HEX": "#C7B446",
+    "German": "Zitronengelb",
+    "English": "Lemon yellow",
+    "name": "Lemon yellow",
+    
+    "French": "Jaune citron",
+    "Spanish": "Amarillo limón",
+    "Italian": "Giallo limone",
+    "Nederlands": "Citroengeel"
+  },
+  {
+    "RAL": "RAL 1013",
+    "RGB": "234-230-202",
+    "HEX": "#EAE6CA",
+    "German": "Perlweiß",
+    "English": "Oyster white",
+    "name": "Oyster white",
+    
+    "French": "Blanc perlé",
+    "Spanish": "Blanco perla",
+    "Italian": "Bianco perla",
+    "Nederlands": "Parelwit"
+  },
+  {
+    "RAL": "RAL 1014",
+    "RGB": "225-204-079",
+    "HEX": "#E1CC4F",
+    "German": "Elfenbein",
+    "English": "Ivory",
+    "name": "Ivory",
+    
+    "French": "Ivoire",
+    "Spanish": "Marfil",
+    "Italian": "Avorio",
+    "Nederlands": "Ivoorkleurig"
+  },
+  {
+    "RAL": "RAL 1015",
+    "RGB": "230-214-144",
+    "HEX": "#E6D690",
+    "German": "Hellelfenbein",
+    "English": "Light ivory",
+    "name": "Light ivory",
+    
+    "French": "Ivoire clair",
+    "Spanish": "Marfil claro",
+    "Italian": "Avorio chiaro",
+    "Nederlands": "Licht ivoorkleurig"
+  },
+  {
+    "RAL": "RAL 1016",
+    "RGB": "237-255-033",
+    "HEX": "#EDFF21",
+    "German": "Schwefelgelb",
+    "English": "Sulfur yellow",
+    "name": "Sulfur yellow",
+    
+    "French": "Jaune soufre",
+    "Spanish": "Amarillo azufre",
+    "Italian": "Giallo zolfo",
+    "Nederlands": "Zwavelgeel"
+  },
+  {
+    "RAL": "RAL 1017",
+    "RGB": "245-208-051",
+    "HEX": "#F5D033",
+    "German": "Safrangelb",
+    "English": "Saffron yellow",
+    "name": "Saffron yellow",
+    
+    "French": "Jaune safran",
+    "Spanish": "Amarillo azafrán",
+    "Italian": "Giallo zafferano",
+    "Nederlands": "Saffraangeel"
+  },
+  {
+    "RAL": "RAL 1018",
+    "RGB": "248-243-053",
+    "HEX": "#F8F32B",
+    "German": "Zinkgelb",
+    "English": "Zinc yellow",
+    "name": "Zinc yellow",
+    
+    "French": "Jaune zinc",
+    "Spanish": "Amarillo de zinc",
+    "Italian": "Giallo zinco",
+    "Nederlands": "Zinkgeel"
+  },
+  {
+    "RAL": "RAL 1019",
+    "RGB": "158-151-100",
+    "HEX": "#9E9764",
+    "German": "Graubeige",
+    "English": "Grey beige",
+    "name": "Grey beige",
+    
+    "French": "Beige gris",
+    "Spanish": "Beige agrisado",
+    "Italian": "Beige grigiastro",
+    "Nederlands": "Grijsbeige"
+  },
+  {
+    "RAL": "RAL 1020",
+    "RGB": "153-153-080",
+    "HEX": "#999950",
+    "German": "Olivgelb",
+    "English": "Olive yellow",
+    "name": "Olive yellow",
+    
+    "French": "Jaune olive",
+    "Spanish": "Amarillo oliva",
+    "Italian": "Giallo olivastro",
+    "Nederlands": "Olijfgeel"
+  },
+  {
+    "RAL": "RAL 1021",
+    "RGB": "243-218-011",
+    "HEX": "#F3DA0B",
+    "German": "Rapsgelb",
+    "English": "Rape yellow",
+    "name": "Rape yellow",
+    
+    "French": "Jaune colza",
+    "Spanish": "Amarillo colza",
+    "Italian": "Giallo navone",
+    "Nederlands": "Koolzaadgeel"
+  },
+  {
+    "RAL": "RAL 1023",
+    "RGB": "250-210-001",
+    "HEX": "#FAD201",
+    "German": "Verkehrsgelb",
+    "English": "Traffic yellow",
+    "name": "Traffic yellow",
+    
+    "French": "Jaune signalisation",
+    "Spanish": "Amarillo tráfico",
+    "Italian": "Giallo traffico",
+    "Nederlands": "Verkeersgeel"
+  },
+  {
+    "RAL": "RAL 1024",
+    "RGB": "174-160-075",
+    "HEX": "#AEA04B",
+    "German": "Ockergelb",
+    "English": "Ochre yellow",
+    "name": "Ochre yellow",
+    
+    "French": "Jaune ocre",
+    "Spanish": "Amarillo ocre",
+    "Italian": "Giallo ocra",
+    "Nederlands": "Okergeel"
+  },
+  {
+    "RAL": "RAL 1026",
+    "RGB": "255-255-000",
+    "HEX": "#FFFF00",
+    "German": "Leuchtgelb",
+    "English": "Luminous yellow",
+    "name": "Luminous yellow",
+    
+    "French": "Jaune brillant",
+    "Spanish": "Amarillo brillante",
+    "Italian": "Giallo brillante",
+    "Nederlands": "Briljantgeel"
+  },
+  {
+    "RAL": "RAL 1027",
+    "RGB": "157-145-001",
+    "HEX": "#9D9101",
+    "German": "Currygelb",
+    "English": "Curry",
+    "name": "Curry",
+    
+    "French": "Jaune curry",
+    "Spanish": "Amarillo curry",
+    "Italian": "Giallo curry",
+    "Nederlands": "Kerriegeel"
+  },
+  {
+    "RAL": "RAL 1028",
+    "RGB": "244-169-000",
+    "HEX": "#F4A900",
+    "German": "Melonengelb",
+    "English": "Melon yellow",
+    "name": "Melon yellow",
+    
+    "French": "Jaune melon",
+    "Spanish": "Amarillo melón",
+    "Italian": "Giallo melone",
+    "Nederlands": "Meloengeel"
+  },
+  {
+    "RAL": "RAL 1032",
+    "RGB": "214-174-001",
+    "HEX": "#D6AE01",
+    "German": "Ginstergelb",
+    "English": "Broom yellow",
+    "name": "Broom yellow",
+    
+    "French": "Jaune genêt",
+    "Spanish": "Amarillo retama",
+    "Italian": "Giallo scopa",
+    "Nederlands": "Bremgeel"
+  },
+  {
+    "RAL": "RAL 1033",
+    "RGB": "243-165-005",
+    "HEX": "#F3A505",
+    "German": "Dahliengelb",
+    "English": "Dahlia yellow",
+    "name": "Dahlia yellow",
+    
+    "French": "Jaune dahlia",
+    "Spanish": "Amarillo dalia",
+    "Italian": "Giallo dahlien",
+    "Nederlands": "Dahliageel"
+  },
+  {
+    "RAL": "RAL 1034",
+    "RGB": "239-169-074",
+    "HEX": "#EFA94A",
+    "German": "Pastellgelb",
+    "English": "Pastel yellow",
+    "name": "Pastel yellow",
+    
+    "French": "Jaune pastel",
+    "Spanish": "Amarillo pastel",
+    "Italian": "Giallo pastello",
+    "Nederlands": "Pastelgeel"
+  },
+  {
+    "RAL": "RAL 1035",
+    "RGB": "106-093-077",
+    "HEX": "#6A5D4D",
+    "German": "Perlbeige",
+    "English": "Pearl beige",
+    "name": "Pearl beige",
+    
+    "French": "Beige nacré",
+    "Spanish": "Beige perlado",
+    "Italian": "Beige perlato",
+    "Nederlands": "Parelmoergrijs"
+  },
+  {
+    "RAL": "RAL 1036",
+    "RGB": "112-083-053",
+    "HEX": "#705335",
+    "German": "Perlgold",
+    "English": "Pearl gold",
+    "name": "Pearl gold",
+    
+    "French": "Or nacré",
+    "Spanish": "Oro perlado",
+    "Italian": "Oro perlato",
+    "Nederlands": "Parelmoergoud"
+  },
+  {
+    "RAL": "RAL 1037",
+    "RGB": "243-159-024",
+    "HEX": "#F39F18",
+    "German": "Sonnengelb",
+    "English": "Sun yellow",
+    "name": "Sun yellow",
+    
+    "French": "Jaune soleil",
+    "Spanish": "Amarillo sol",
+    "Italian": "Giallo sole",
+    "Nederlands": "Zonnegeel"
+  },
+  {
+    "RAL": "RAL 2000",
+    "RGB": "237-118-014",
+    "HEX": "#ED760E",
+    "German": "Gelborange",
+    "English": "Yellow orange",
+    "name": "Yellow orange",
+    
+    "French": "Orangé jaune",
+    "Spanish": "Amarillo naranja",
+    "Italian": "Arancio giallastro",
+    "Nederlands": "Geeloranje"
+  },
+  {
+    "RAL": "RAL 2001",
+    "RGB": "201-060-032",
+    "HEX": "#C93C20",
+    "German": "Rotorange",
+    "English": "Red orange",
+    "name": "Red orange",
+    
+    "French": "Orangé rouge",
+    "Spanish": "Rojo anaranjado",
+    "Italian": "Arancio rossastro",
+    "Nederlands": "Roodoranje"
+  },
+  {
+    "RAL": "RAL 2002",
+    "RGB": "203-040-033",
+    "HEX": "#CB2821",
+    "German": "Blutorange",
+    "English": "Vermilion",
+    "name": "Vermilion",
+    
+    "French": "Orangé sang",
+    "Spanish": "Naranja sanguineo",
+    "Italian": "Arancio sanguigno",
+    "Nederlands": "Vermiljoen"
+  },
+  {
+    "RAL": "RAL 2003",
+    "RGB": "255-117-020",
+    "HEX": "#FF7514",
+    "German": "Pastellorange",
+    "English": "Pastel orange",
+    "name": "Pastel orange",
+    
+    "French": "Orangé pastel",
+    "Spanish": "Naranja pálido",
+    "Italian": "Arancio pastello",
+    "Nederlands": "Pasteloranje"
+  },
+  {
+    "RAL": "RAL 2004",
+    "RGB": "244-070-017",
+    "HEX": "#F44611",
+    "German": "Reinorange",
+    "English": "Pure orange",
+    "name": "Pure orange",
+    
+    "French": "Orangé pur",
+    "Spanish": "Naranja puro",
+    "Italian": "Arancio puro",
+    "Nederlands": "Zuiver oranje"
+  },
+  {
+    "RAL": "RAL 2005",
+    "RGB": "255-035-001",
+    "HEX": "#FF2301",
+    "German": "Leuchtorange",
+    "English": "Luminous orange",
+    "name": "Luminous orange",
+    
+    "French": "Orangé brillant",
+    "Spanish": "Naranja brillante",
+    "Italian": "Arancio brillante",
+    "Nederlands": "Briljant oranje"
+  },
+  {
+    "RAL": "RAL 2007",
+    "RGB": "255-164-032",
+    "HEX": "#FFA420",
+    "German": "Leuchthellorange",
+    "English": "Luminous bright orange",
+    "name": "Luminous bright orange",
+    
+    "French": "Orangé clair rillant",
+    "Spanish": "Naranja claro brillante",
+    "Italian": "Arancio chiaro brillante",
+    "Nederlands": "Briljant lichtoranje"
+  },
+  {
+    "RAL": "RAL 2008",
+    "RGB": "247-094-037",
+    "HEX": "#F75E25",
+    "German": "Hellrotorange",
+    "English": "Bright red orange",
+    "name": "Bright red orange",
+    
+    "French": "Orangé rouge clair",
+    "Spanish": "Rojo claro anaranjado",
+    "Italian": "Rosso arancio chiaro",
+    "Nederlands": "Licht roodoranje"
+  },
+  {
+    "RAL": "RAL 2009",
+    "RGB": "245-064-033",
+    "HEX": "#F54021",
+    "German": "Verkehrsorange",
+    "English": "Traffic orange",
+    "name": "Traffic orange",
+    
+    "French": "Orangé signalisation",
+    "Spanish": "Naranja tráfico",
+    "Italian": "Arancio traffico",
+    "Nederlands": "Verkeersoranje"
+  },
+  {
+    "RAL": "RAL 2010",
+    "RGB": "216-075-032",
+    "HEX": "#D84B20",
+    "German": "Signalorange",
+    "English": "Signal orange",
+    "name": "Signal orange",
+    
+    "French": "Orangé de sécurité",
+    "Spanish": "Naranja señales",
+    "Italian": "Arancio segnale",
+    "Nederlands": "Signaaloranje"
+  },
+  {
+    "RAL": "RAL 2011",
+    "RGB": "236-124-038",
+    "HEX": "#EC7C26",
+    "German": "Tieforange",
+    "English": "Deep orange",
+    "name": "Deep orange",
+    
+    "French": "Orangé foncé",
+    "Spanish": "Naranja intenso",
+    "Italian": "Arancio profondo",
+    "Nederlands": "Dieporanje"
+  },
+  {
+    "RAL": "RAL 2012",
+    "RGB": "235-106-014",
+    "HEX": "#E55137",
+    "German": "Lachsorange",
+    "English": "Salmon range",
+    "name": "Salmon range",
+    
+    "French": "Orangé saumon",
+    "Spanish": "Naranja salmón",
+    "Italian": "Arancio salmone",
+    "Nederlands": "Zalmoranje"
+  },
+  {
+    "RAL": "RAL 2013",
+    "RGB": "195-088-049",
+    "HEX": "#C35831",
+    "German": "Perlorange",
+    "English": "Pearl orange",
+    "name": "Pearl orange",
+    
+    "French": "Orangé nacré",
+    "Spanish": "Naranja perlado",
+    "Italian": "Arancio perlato",
+    "Nederlands": "Parelmoeroranje"
+  },
+  {
+    "RAL": "RAL 3000",
+    "RGB": "175-043-030",
+    "HEX": "#AF2B1E",
+    "German": "Feuerrot",
+    "English": "Flame red",
+    "name": "Flame red",
+    
+    "French": "Rouge feu",
+    "Spanish": "Rojo vivo",
+    "Italian": "Rosso fuoco",
+    "Nederlands": "Vuurrood"
+  },
+  {
+    "RAL": "RAL 3001",
+    "RGB": "165-032-025",
+    "HEX": "#A52019",
+    "German": "Signalrot",
+    "English": "Signal red",
+    "name": "Signal red",
+    
+    "French": "Rouge de sécurité",
+    "Spanish": "Rojo señales",
+    "Italian": "Rosso  segnale",
+    "Nederlands": "Signaalrood"
+  },
+  {
+    "RAL": "RAL 3002",
+    "RGB": "162-035-029",
+    "HEX": "#A2231D",
+    "German": "Karminrot",
+    "English": "Carmine red",
+    "name": "Carmine red",
+    
+    "French": "Rouge carmin",
+    "Spanish": "Rojo carmin",
+    "Italian": "Rosso carminio",
+    "Nederlands": "Karmijnrood"
+  },
+  {
+    "RAL": "RAL 3003",
+    "RGB": "155-017-030",
+    "HEX": "#9B111E",
+    "German": "Rubinrot",
+    "English": "Ruby red",
+    "name": "Ruby red",
+    
+    "French": "Rouge rubis",
+    "Spanish": "Rojo rubí",
+    "Italian": "Rosso rubino",
+    "Nederlands": "Robijnrood"
+  },
+  {
+    "RAL": "RAL 3004",
+    "RGB": "117-021-030",
+    "HEX": "#75151E",
+    "German": "Purpurrot",
+    "English": "Purple red",
+    "name": "Purple red",
+    
+    "French": "Rouge pourpre",
+    "Spanish": "Rojo purpura",
+    "Italian": "Rosso porpora",
+    "Nederlands": "Purperrood"
+  },
+  {
+    "RAL": "RAL 3005",
+    "RGB": "094-033-041",
+    "HEX": "#5E2129",
+    "German": "Weinrot",
+    "English": "Wine red",
+    "name": "Wine red",
+    
+    "French": "Rouge vin",
+    "Spanish": "Rojo vino",
+    "Italian": "Rosso vino",
+    "Nederlands": "Wijnrood"
+  },
+  {
+    "RAL": "RAL 3007",
+    "RGB": "065-034-039",
+    "HEX": "#412227",
+    "German": "Schwarzrot",
+    "English": "Black red",
+    "name": "Black red",
+    
+    "French": "Rouge noir",
+    "Spanish": "Rojo negruzco",
+    "Italian": "Rosso nerastro",
+    "Nederlands": "Zwartrood"
+  },
+  {
+    "RAL": "RAL 3009",
+    "RGB": "100-036-036",
+    "HEX": "#642424",
+    "German": "Oxidrot",
+    "English": "Oxide red",
+    "name": "Oxide red",
+    
+    "French": "Rouge oxyde",
+    "Spanish": "Rojo óxido",
+    "Italian": "Rosso  ossido",
+    "Nederlands": "Oxyderood"
+  },
+  {
+    "RAL": "RAL 3011",
+    "RGB": "120-031-025",
+    "HEX": "#781F19",
+    "German": "Braunrot",
+    "English": "Brown red",
+    "name": "Brown red",
+    
+    "French": "Rouge brun",
+    "Spanish": "Rojo pardo",
+    "Italian": "Rosso marrone",
+    "Nederlands": "Bruinrood"
+  },
+  {
+    "RAL": "RAL 3012",
+    "RGB": "193-135-107",
+    "HEX": "#C1876B",
+    "German": "Beigerot",
+    "English": "Beige red",
+    "name": "Beige red",
+    
+    "French": "Rouge beige",
+    "Spanish": "Rojo beige",
+    "Italian": "Rosso beige",
+    "Nederlands": "Beigerood"
+  },
+  {
+    "RAL": "RAL 3013",
+    "RGB": "161-035-018",
+    "HEX": "#A12312",
+    "German": "Tomatenrot",
+    "English": "Tomato red",
+    "name": "Tomato red",
+    
+    "French": "Rouge tomate",
+    "Spanish": "Rojo tomate",
+    "Italian": "Rosso pomodoro",
+    "Nederlands": "Tomaatrood"
+  },
+  {
+    "RAL": "RAL 3014",
+    "RGB": "211-110-112",
+    "HEX": "#D36E70",
+    "German": "Altrosa",
+    "English": "Antique pink",
+    "name": "Antique pink",
+    
+    "French": "Vieux rose",
+    "Spanish": "Rojo viejo",
+    "Italian": "Rosa antico",
+    "Nederlands": "Oudroze"
+  },
+  {
+    "RAL": "RAL 3015",
+    "RGB": "234-137-154",
+    "HEX": "#EA899A",
+    "German": "Hellrosa",
+    "English": "Light pink",
+    "name": "Light pink",
+    
+    "French": "Rose clair",
+    "Spanish": "Rosa claro",
+    "Italian": "Rosa chiaro",
+    "Nederlands": "Lichtroze"
+  },
+  {
+    "RAL": "RAL 3016",
+    "RGB": "179-040-033",
+    "HEX": "#B32821",
+    "German": "Korallenrot",
+    "English": "Coral red",
+    "name": "Coral red",
+    
+    "French": "Rouge corail",
+    "Spanish": "Rojo coral",
+    "Italian": "Rosso corallo",
+    "Nederlands": "Koraalrood"
+  },
+  {
+    "RAL": "RAL 3017",
+    "RGB": "230-050-068",
+    "HEX": "#E63244",
+    "German": "Rosé",
+    "English": "Rose",
+    "name": "Rose",
+    
+    "French": "Rosé",
+    "Spanish": "Rosa",
+    "Italian": "Rosato",
+    "Nederlands": "Bleekrood"
+  },
+  {
+    "RAL": "RAL 3018",
+    "RGB": "213-048-050",
+    "HEX": "#D53032",
+    "German": "Erdbeerrot",
+    "English": "Strawberry red",
+    "name": "Strawberry red",
+    
+    "French": "Rouge fraise",
+    "Spanish": "Rojo fresa",
+    "Italian": "Rosso fragola",
+    "Nederlands": "Aardbeirood"
+  },
+  {
+    "RAL": "RAL 3020",
+    "RGB": "204-006-005",
+    "HEX": "#CC0605",
+    "German": "Verkehrsrot",
+    "English": "Traffic red",
+    "name": "Traffic red",
+    
+    "French": "Rouge signalisation",
+    "Spanish": "Rojo tráfico",
+    "Italian": "Rosso traffico",
+    "Nederlands": "Verkeersrood"
+  },
+  {
+    "RAL": "RAL 3022",
+    "RGB": "217-080-048",
+    "HEX": "#D95030",
+    "German": "Lachsrot",
+    "English": "Salmon pink",
+    "name": "Salmon pink",
+    
+    "French": "Rouge saumon",
+    "Spanish": "Rojo salmón",
+    "Italian": "Rosso salmone",
+    "Nederlands": "Zalmrood"
+  },
+  {
+    "RAL": "RAL 3024",
+    "RGB": "248-000-000",
+    "HEX": "#F80000",
+    "German": "Leuchtrot",
+    "English": "Luminous red",
+    "name": "Luminous red",
+    
+    "French": "Rouge brillant",
+    "Spanish": "Rojo brillante",
+    "Italian": "Rosso brillante",
+    "Nederlands": "Briljantrood"
+  },
+  {
+    "RAL": "RAL 3026",
+    "RGB": "254-000-000",
+    "HEX": "#FE0000",
+    "German": "Leuchthellrot",
+    "English": "\"Luminous bright red\"",
+    "name": "\"Luminous bright red\"",
+    
+    "French": "Rouge clair brillant",
+    "Spanish": "Rojo claro brillante",
+    "Italian": "Rosso chiaro brillante",
+    "Nederlands": "Briljant lichtrood"
+  },
+  {
+    "RAL": "RAL 3027",
+    "RGB": "197-029-052",
+    "HEX": "#C51D34",
+    "German": "Himbeerrot",
+    "English": "Raspberry red",
+    "name": "Raspberry red",
+    
+    "French": "Rouge framboise",
+    "Spanish": "Rojo frambuesa",
+    "Italian": "Rosso lampone",
+    "Nederlands": "Framboosrood"
+  },
+  {
+    "RAL": "RAL 3028",
+    "RGB": "203-050-052",
+    "HEX": "#CB3234",
+    "German": "Reinrot",
+    "English": "Pure  red",
+    "name": "Pure  red",
+    
+    "French": "Rouge puro",
+    "Spanish": "Rojo puro",
+    "Italian": "Rosso puro",
+    "Nederlands": "Zuiverrood"
+  },
+  {
+    "RAL": "RAL 3031",
+    "RGB": "179-036-040",
+    "HEX": "#B32428",
+    "German": "Orientrot",
+    "English": "Orient red",
+    "name": "Orient red",
+    
+    "French": "Rouge oriental",
+    "Spanish": "Rojo oriente",
+    "Italian": "Rosso oriente",
+    "Nederlands": "Oriëntrood"
+  },
+  {
+    "RAL": "RAL 3032",
+    "RGB": "114-020-034",
+    "HEX": "#721422",
+    "German": "Perlrubinrot",
+    "English": "Pearl ruby red",
+    "name": "Pearl ruby red",
+    
+    "French": "Rouge rubis nacré",
+    "Spanish": "Rojo rubí perlado",
+    "Italian": "Rosso rubino perlato",
+    "Nederlands": "\"Parelmoer-donkerrood\""
+  },
+  {
+    "RAL": "RAL 3033",
+    "RGB": "180-076-067",
+    "HEX": "#B44C43",
+    "German": "Perlrosa",
+    "English": "Pearl pink",
+    "name": "Pearl pink",
+    
+    "French": "Rose nacré",
+    "Spanish": "Rosa perlado",
+    "Italian": "Rosa perlato",
+    "Nederlands": "\"Parelmoer-lichtrood\""
+  },
+  {
+    "RAL": "RAL 4001",
+    "RGB": "222-076-138",
+    "HEX": "#6D3F5B",
+    "German": "Rotlila",
+    "English": "Red lilac",
+    "name": "Red lilac",
+    
+    "French": "Lilas rouge",
+    "Spanish": "Rojo lila",
+    "Italian": "Lilla rossastro",
+    "Nederlands": "Roodlila"
+  },
+  {
+    "RAL": "RAL 4002",
+    "RGB": "146-043-062",
+    "HEX": "#922B3E",
+    "German": "Rotviolett",
+    "English": "Red violet",
+    "name": "Red violet",
+    
+    "French": "Violet rouge",
+    "Spanish": "Rojo violeta",
+    "Italian": "Viola rossastro",
+    "Nederlands": "Roodpaars"
+  },
+  {
+    "RAL": "RAL 4003",
+    "RGB": "222-076-138",
+    "HEX": "#DE4C8A",
+    "German": "Erikaviolett",
+    "English": "Heather violet",
+    "name": "Heather violet",
+    
+    "French": "Violet bruyère",
+    "Spanish": "Violeta érica",
+    "Italian": "Viola erica",
+    "Nederlands": "Heidepaars"
+  },
+  {
+    "RAL": "RAL 4004",
+    "RGB": "110-028-052",
+    "HEX": "#641C34",
+    "German": "Bordeauxviolett",
+    "English": "Claret violet",
+    "name": "Claret violet",
+    
+    "French": "Violet bordeaux",
+    "Spanish": "Burdeos",
+    "Italian": "Viola bordeaux",
+    "Nederlands": "Bordeauxpaars"
+  },
+  {
+    "RAL": "RAL 4005",
+    "RGB": "108-070-117",
+    "HEX": "#6C4675",
+    "German": "Blaulila",
+    "English": "Blue lilac",
+    "name": "Blue lilac",
+    
+    "French": "Lilas bleu",
+    "Spanish": "Lila azulado",
+    "Italian": "Lilla bluastro",
+    "Nederlands": "Blauwlila"
+  },
+  {
+    "RAL": "RAL 4006",
+    "RGB": "160-052-114",
+    "HEX": "#A03472",
+    "German": "Verkehrspurpur",
+    "English": "Traffic purple",
+    "name": "Traffic purple",
+    
+    "French": "Pourpre signalisation",
+    "Spanish": "Púrpurá tráfico",
+    "Italian": "Porpora traffico",
+    "Nederlands": "Verkeerspurper"
+  },
+  {
+    "RAL": "RAL 4007",
+    "RGB": "074-025-044",
+    "HEX": "#4A192C",
+    "German": "Purpurviolett",
+    "English": "Purple violet",
+    "name": "Purple violet",
+    
+    "French": "Violet pourpre",
+    "Spanish": "Violeta púrpura",
+    "Italian": "Porpora violetto",
+    "Nederlands": "Purperviolet"
+  },
+  {
+    "RAL": "RAL 4008",
+    "RGB": "144-070-132",
+    "HEX": "#924E7D",
+    "German": "Signalviolett",
+    "English": "Signal violet",
+    "name": "Signal violet",
+    
+    "French": "Violet de sécurité",
+    "Spanish": "Violeta señales",
+    "Italian": "Violetto segnale",
+    "Nederlands": "Signaalviolet"
+  },
+  {
+    "RAL": "RAL 4009",
+    "RGB": "164-125-144",
+    "HEX": "#A18594",
+    "German": "Pastellviolett",
+    "English": "Pastel violet",
+    "name": "Pastel violet",
+    
+    "French": "Violet pastel",
+    "Spanish": "Violeta pastel",
+    "Italian": "Violetto pastello",
+    "Nederlands": "Pastelviolet"
+  },
+  {
+    "RAL": "RAL 4010",
+    "RGB": "215-045-109",
+    "HEX": "#CF3476",
+    "German": "Telemagenta",
+    "English": "Telemagenta",
+    "name": "Telemagenta",
+    
+    "French": "Telemagenta",
+    "Spanish": "Magenta tele",
+    "Italian": "Tele Magenta",
+    "Nederlands": "Telemagenta"
+  },
+  {
+    "RAL": "RAL 4011",
+    "RGB": "134-115-161",
+    "HEX": "#8673A1",
+    "German": "Perlviolett",
+    "English": "Pearl violet",
+    "name": "Pearl violet",
+    
+    "French": "Violet nacré",
+    "Spanish": "Violeta perlado",
+    "Italian": "Violetto perlato",
+    "Nederlands": "\"Parelmoer-donkerviolet\""
+  },
+  {
+    "RAL": "RAL 4012",
+    "RGB": "108-104-129",
+    "HEX": "#6C6874",
+    "German": "Perlbrombeer",
+    "English": "Pearl black berry",
+    "name": "Pearl black berry",
+    
+    "French": "Mûre nacré",
+    "Spanish": "Morado perlado",
+    "Italian": "Mora perlato",
+    "Nederlands": "\"Parelmoer-lichtviolet\""
+  },
+  {
+    "RAL": "RAL 5000",
+    "RGB": "042-046-075",
+    "HEX": "#354D73",
+    "German": "Violettblau",
+    "English": "Violet blue",
+    "name": "Violet blue",
+    
+    "French": "Bleu violet",
+    "Spanish": "Azul violeta",
+    "Italian": "Blu violaceo",
+    "Nederlands": "Paarsblauw"
+  },
+  {
+    "RAL": "RAL 5001",
+    "RGB": "031-052-056",
+    "HEX": "#1F3438",
+    "German": "Grünblau",
+    "English": "Green blue",
+    "name": "Green blue",
+    
+    "French": "Bleu vert",
+    "Spanish": "Azul verdoso",
+    "Italian": "Blu verdastro",
+    "Nederlands": "Groenblauw"
+  },
+  {
+    "RAL": "RAL 5002",
+    "RGB": "032-033-079",
+    "HEX": "#20214F",
+    "German": "Ultramarinblau",
+    "English": "Ultramarine blue",
+    "name": "Ultramarine blue",
+    
+    "French": "Bleu outremer",
+    "Spanish": "Azul ultramar",
+    "Italian": "Blu oltremare",
+    "Nederlands": "Ultramarijnblauw"
+  },
+  {
+    "RAL": "RAL 5003",
+    "RGB": "029-030-051",
+    "HEX": "#1D1E33",
+    "German": "Saphirblau",
+    "English": "Saphire blue",
+    "name": "Saphire blue",
+    
+    "French": "Bleu saphir",
+    "Spanish": "Azul zafiro",
+    "Italian": "Blu zaffiro",
+    "Nederlands": "Saffierblauw"
+  },
+  {
+    "RAL": "RAL 5004",
+    "RGB": "032-033-079",
+    "HEX": "#18171C",
+    "German": "Schwarzblau",
+    "English": "Black blue",
+    "name": "Black blue",
+    
+    "French": "Bleu noir",
+    "Spanish": "Azul negruzco",
+    "Italian": "Blu nerastro",
+    "Nederlands": "Zwartblauw"
+  },
+  {
+    "RAL": "RAL 5005",
+    "RGB": "030-045-110",
+    "HEX": "#1E2460",
+    "German": "Signalblau",
+    "English": "Signal blue",
+    "name": "Signal blue",
+    
+    "French": "Bleu de sécurité",
+    "Spanish": "Azul señales",
+    "Italian": "Blu segnale",
+    "Nederlands": "Signaalblauw"
+  },
+  {
+    "RAL": "RAL 5007",
+    "RGB": "062-095-138",
+    "HEX": "#3E5F8A",
+    "German": "Brillantblau",
+    "English": "Brillant blue",
+    "name": "Brillant blue",
+    
+    "French": "Bleu brillant",
+    "Spanish": "Azul brillante",
+    "Italian": "Blu brillante",
+    "Nederlands": "Briljantblauw"
+  },
+  {
+    "RAL": "RAL 5008",
+    "RGB": "038-037-045",
+    "HEX": "#26252D",
+    "German": "Graublau",
+    "English": "Grey blue",
+    "name": "Grey blue",
+    
+    "French": "Bleu gris",
+    "Spanish": "Azul grisáceo",
+    "Italian": "Blu grigiastro",
+    "Nederlands": "Grijsblauw"
+  },
+  {
+    "RAL": "RAL 5009",
+    "RGB": "002-086-105",
+    "HEX": "#025669",
+    "German": "Azurblau",
+    "English": "Azure blue",
+    "name": "Azure blue",
+    
+    "French": "Bleu azur",
+    "Spanish": "Azul azur",
+    "Italian": "Blu  azzurro",
+    "Nederlands": "Azuurblauw"
+  },
+  {
+    "RAL": "RAL 5010",
+    "RGB": "014-041-075",
+    "HEX": "#0E294B",
+    "German": "Enzianblau",
+    "English": "Gentian blue",
+    "name": "Gentian blue",
+    
+    "French": "Bleu gentiane",
+    "Spanish": "Azul genciana",
+    "Italian": "Blu  genziana",
+    "Nederlands": "Gentiaanblauw"
+  },
+  {
+    "RAL": "RAL 5011",
+    "RGB": "035-026-036",
+    "HEX": "#231A24",
+    "German": "Stahlblau",
+    "English": "Steel blue",
+    "name": "Steel blue",
+    
+    "French": "Bleu acier",
+    "Spanish": "Azul acero",
+    "Italian": "Blu acciaio",
+    "Nederlands": "Staalblauw"
+  },
+  {
+    "RAL": "RAL 5012",
+    "RGB": "059-131-189",
+    "HEX": "#3B83BD",
+    "German": "Lichtblau",
+    "English": "Light blue",
+    "name": "Light blue",
+    
+    "French": "Bleu clair",
+    "Spanish": "Azul luminoso",
+    "Italian": "Blu luce",
+    "Nederlands": "Lichtblauw"
+  },
+  {
+    "RAL": "RAL 5013",
+    "RGB": "037-041-074",
+    "HEX": "#1E213D",
+    "German": "Kobaltblau",
+    "English": "Cobalt blue",
+    "name": "Cobalt blue",
+    
+    "French": "Bleu cobalt",
+    "Spanish": "Azul cobalto",
+    "Italian": "Blu cobalto",
+    "Nederlands": "Kobaltblauw"
+  },
+  {
+    "RAL": "RAL 5014",
+    "RGB": "096-111-140",
+    "HEX": "#606E8C",
+    "German": "Taubenblau",
+    "English": "Pigeon blue",
+    "name": "Pigeon blue",
+    
+    "French": "Bleu pigeon",
+    "Spanish": "Azul olombino",
+    "Italian": "Blu colomba",
+    "Nederlands": "Duifblauw"
+  },
+  {
+    "RAL": "RAL 5015",
+    "RGB": "034-113-179",
+    "HEX": "#2271B3",
+    "German": "Himmelblau",
+    "English": "Sky blue",
+    "name": "Sky blue",
+    
+    "French": "Bleu ciel",
+    "Spanish": "Azul celeste",
+    "Italian": "Blu cielo",
+    "Nederlands": "Hemelsblauw"
+  },
+  {
+    "RAL": "RAL 5017",
+    "RGB": "006-057-113",
+    "HEX": "#063971",
+    "German": "Verkehrsblau",
+    "English": "Traffic blue",
+    "name": "Traffic blue",
+    
+    "French": "Bleu signalisation",
+    "Spanish": "Azul tráfico",
+    "Italian": "Blu traffico",
+    "Nederlands": "Verkeersblauw"
+  },
+  {
+    "RAL": "RAL 5018",
+    "RGB": "063-136-143",
+    "HEX": "#3F888F",
+    "German": "Türkisblau",
+    "English": "Turquoise blue",
+    "name": "Turquoise blue",
+    
+    "French": "Bleu turquoise",
+    "Spanish": "Azul turquesa",
+    "Italian": "Blu turchese",
+    "Nederlands": "Turkooisblauw"
+  },
+  {
+    "RAL": "RAL 5019",
+    "RGB": "027-085-131",
+    "HEX": "#1B5583",
+    "German": "Capriblau",
+    "English": "Capri blue",
+    "name": "Capri blue",
+    
+    "French": "Bleu capri",
+    "Spanish": "Azul capri",
+    "Italian": "Blu capri",
+    "Nederlands": "Capriblauw"
+  },
+  {
+    "RAL": "RAL 5020",
+    "RGB": "029-051-074",
+    "HEX": "#1D334A",
+    "German": "Ozeanblau",
+    "English": "Ocean blue",
+    "name": "Ocean blue",
+    
+    "French": "Bleu océan",
+    "Spanish": "Azul oceano",
+    "Italian": "Blu oceano",
+    "Nederlands": "Oceaanblauw"
+  },
+  {
+    "RAL": "RAL 5021",
+    "RGB": "037-109-123",
+    "HEX": "#256D7B",
+    "German": "Wasserblau",
+    "English": "Water blue",
+    "name": "Water blue",
+    
+    "French": "Bleu d’eau",
+    "Spanish": "Azul agua",
+    "Italian": "Blu acqua",
+    "Nederlands": "Waterblauw"
+  },
+  {
+    "RAL": "RAL 5022",
+    "RGB": "037-040-080",
+    "HEX": "#252850",
+    "German": "Nachtblau",
+    "English": "Night blue",
+    "name": "Night blue",
+    
+    "French": "Bleu nocturne",
+    "Spanish": "Azul noche",
+    "Italian": "Blu notte",
+    "Nederlands": "Nachtblauw"
+  },
+  {
+    "RAL": "RAL 5023",
+    "RGB": "073-103-141",
+    "HEX": "#49678D",
+    "German": "Fernblau",
+    "English": "Distant blue",
+    "name": "Distant blue",
+    
+    "French": "Bleu distant",
+    "Spanish": "Azul lejanía",
+    "Italian": "Blu distante",
+    "Nederlands": "Verblauw"
+  },
+  {
+    "RAL": "RAL 5024",
+    "RGB": "093-155-155",
+    "HEX": "#5D9B9B",
+    "German": "Pastellblau",
+    "English": "Pastel blue",
+    "name": "Pastel blue",
+    
+    "French": "Bleu pastel",
+    "Spanish": "Azul pastel",
+    "Italian": "Blu pastello",
+    "Nederlands": "Pastelblauw"
+  },
+  {
+    "RAL": "RAL 5025",
+    "RGB": "042-100-120",
+    "HEX": "#2A6478",
+    "German": "Perlenzian",
+    "English": "Pearl gentian blue",
+    "name": "Pearl gentian blue",
+    
+    "French": "Gentiane nacré",
+    "Spanish": "Gencian perlado",
+    "Italian": "Blu genziana perlato",
+    "Nederlands": "Parelmoerblauw"
+  },
+  {
+    "RAL": "RAL 5026",
+    "RGB": "016-044-084",
+    "HEX": "#102C54",
+    "German": "Perlnachtblau",
+    "English": "Pearl night blue",
+    "name": "Pearl night blue",
+    
+    "French": "Bleu nuit nacré",
+    "Spanish": "Azul noche perlado",
+    "Italian": "Blu notte perlato",
+    "Nederlands": "\"Parelmoer-nachtblauw\""
+  },
+  {
+    "RAL": "RAL 6000",
+    "RGB": "049-102-080",
+    "HEX": "#316650",
+    "German": "Patinagrün",
+    "English": "Patina green",
+    "name": "Patina green",
+    
+    "French": "Vert patine",
+    "Spanish": "Verde patina",
+    "Italian": "Verde patina",
+    "Nederlands": "Patinagroen"
+  },
+  {
+    "RAL": "RAL 6001",
+    "RGB": "040-114-051",
+    "HEX": "#287233",
+    "German": "Smaragdgrün",
+    "English": "Emerald green",
+    "name": "Emerald green",
+    
+    "French": "Vert émeraude",
+    "Spanish": "Verde esmeralda",
+    "Italian": "Verde smeraldo",
+    "Nederlands": "Smaragdgroen"
+  },
+  {
+    "RAL": "RAL 6002",
+    "RGB": "045-087-044",
+    "HEX": "#2D572C",
+    "German": "Laubgrün",
+    "English": "Leaf green",
+    "name": "Leaf green",
+    
+    "French": "Vert feuillage",
+    "Spanish": "Verde hoja",
+    "Italian": "Verde foglia",
+    "Nederlands": "Loofgroen"
+  },
+  {
+    "RAL": "RAL 6003",
+    "RGB": "066-070-050",
+    "HEX": "#424632",
+    "German": "Olivgrün",
+    "English": "Olive green",
+    "name": "Olive green",
+    
+    "French": "Vert olive",
+    "Spanish": "Verde oliva",
+    "Italian": "Verde oliva",
+    "Nederlands": "Olijfgroen"
+  },
+  {
+    "RAL": "RAL 6004",
+    "RGB": "031-058-061",
+    "HEX": "#1F3A3D",
+    "German": "Blaugrün",
+    "English": "Blue green",
+    "name": "Blue green",
+    
+    "French": "Vert bleu",
+    "Spanish": "Verde azulado",
+    "Italian": "Verde bluastro",
+    "Nederlands": "Blauwgroen"
+  },
+  {
+    "RAL": "RAL 6005",
+    "RGB": "047-069-056",
+    "HEX": "#2F4538",
+    "German": "Moosgrün",
+    "English": "Moss green",
+    "name": "Moss green",
+    
+    "French": "Vert mousse",
+    "Spanish": "Verde musgo",
+    "Italian": "Verde muschio",
+    "Nederlands": "Mosgroen"
+  },
+  {
+    "RAL": "RAL 6006",
+    "RGB": "062-059-050",
+    "HEX": "#3E3B32",
+    "German": "Grauoliv",
+    "English": "Grey olive",
+    "name": "Grey olive",
+    
+    "French": "Olive gris",
+    "Spanish": "Oliva grisáceo",
+    "Italian": "Oliva grigiastro",
+    "Nederlands": "Grijs olijfgroen"
+  },
+  {
+    "RAL": "RAL 6007",
+    "RGB": "052-059-041",
+    "HEX": "#343B29",
+    "German": "Flaschengrün",
+    "English": "Bottle green",
+    "name": "Bottle green",
+    
+    "French": "Vert bouteille",
+    "Spanish": "Verde botella",
+    "Italian": "Verde bottiglia",
+    "Nederlands": "Flessegroen"
+  },
+  {
+    "RAL": "RAL 6008",
+    "RGB": "057-053-042",
+    "HEX": "#39352A",
+    "German": "Braungrün",
+    "English": "Brown green",
+    "name": "Brown green",
+    
+    "French": "Vert brun",
+    "Spanish": "Verde parduzco",
+    "Italian": "Verde brunastro",
+    "Nederlands": "Bruingroen"
+  },
+  {
+    "RAL": "RAL 6009",
+    "RGB": "049-055-043",
+    "HEX": "#31372B",
+    "German": "Tannengrün",
+    "English": "Fir green",
+    "name": "Fir green",
+    
+    "French": "Vert sapin",
+    "Spanish": "Verde abeto",
+    "Italian": "Verde abete",
+    "Nederlands": "Dennegroen"
+  },
+  {
+    "RAL": "RAL 6010",
+    "RGB": "053-104-045",
+    "HEX": "#35682D",
+    "German": "Grasgrün",
+    "English": "Grass green",
+    "name": "Grass green",
+    
+    "French": "Vert herbe",
+    "Spanish": "Verde hierba",
+    "Italian": "Verde erba",
+    "Nederlands": "Grasgroen"
+  },
+  {
+    "RAL": "RAL 6011",
+    "RGB": "088-114-070",
+    "HEX": "#587246",
+    "German": "Resedagrün",
+    "English": "Reseda green",
+    "name": "Reseda green",
+    
+    "French": "Vert réséda",
+    "Spanish": "Verde reseda",
+    "Italian": "Verde reseda",
+    "Nederlands": "Resedagroen"
+  },
+  {
+    "RAL": "RAL 6012",
+    "RGB": "052-062-064",
+    "HEX": "#343E40",
+    "German": "Schwarzgrün",
+    "English": "Black green",
+    "name": "Black green",
+    
+    "French": "Vert noir",
+    "Spanish": "Verde negruzco",
+    "Italian": "Verde nerastro",
+    "Nederlands": "Zwartgroen"
+  },
+  {
+    "RAL": "RAL 6013",
+    "RGB": "108-113-086",
+    "HEX": "#6C7156",
+    "German": "Schilfgrün",
+    "English": "Reed green",
+    "name": "Reed green",
+    
+    "French": "Vert jonc",
+    "Spanish": "Verde caña",
+    "Italian": "Verde canna",
+    "Nederlands": "Rietgroen"
+  },
+  {
+    "RAL": "RAL 6014",
+    "RGB": "071-064-046",
+    "HEX": "#47402E",
+    "German": "Gelboliv",
+    "English": "Yellow olive",
+    "name": "Yellow olive",
+    
+    "French": "Olive jaune",
+    "Spanish": "Amarillo oliva",
+    "Italian": "Oliva giallastro",
+    "Nederlands": "Geel olijfgroen"
+  },
+  {
+    "RAL": "RAL 6015",
+    "RGB": "059-060-054",
+    "HEX": "#3B3C36",
+    "German": "Schwarzoliv",
+    "English": "Black olive",
+    "name": "Black olive",
+    
+    "French": "Olive noir",
+    "Spanish": "Oliva negruzco",
+    "Italian": "Oliva nerastro",
+    "Nederlands": "Zwart olijfgroen"
+  },
+  {
+    "RAL": "RAL 6016",
+    "RGB": "030-089-069",
+    "HEX": "#1E5945",
+    "German": "Türkisgrün",
+    "English": "Turquoise green",
+    "name": "Turquoise green",
+    
+    "French": "Vert turquoise",
+    "Spanish": "Verde turquesa",
+    "Italian": "Verde turchese",
+    "Nederlands": "Turkooisgroen"
+  },
+  {
+    "RAL": "RAL 6017",
+    "RGB": "076-145-065",
+    "HEX": "#4C9141",
+    "German": "Maigrün",
+    "English": "May green",
+    "name": "May green",
+    
+    "French": "Vert mai",
+    "Spanish": "Verde mayo",
+    "Italian": "Verde maggio",
+    "Nederlands": "Meigroen"
+  },
+  {
+    "RAL": "RAL 6018",
+    "RGB": "087-166-057",
+    "HEX": "#57A639",
+    "German": "Gelbgrün",
+    "English": "Yellow green",
+    "name": "Yellow green",
+    
+    "French": "Vert jaune",
+    "Spanish": "Verde amarillento",
+    "Italian": "Verde giallastro",
+    "Nederlands": "Geelgroen"
+  },
+  {
+    "RAL": "RAL 6019",
+    "RGB": "189-236-182",
+    "HEX": "#BDECB6",
+    "German": "Weißgrün",
+    "English": "Pastel green",
+    "name": "Pastel green",
+    
+    "French": "Vert blanc",
+    "Spanish": "Verde lanquecino",
+    "Italian": "Verde biancastro",
+    "Nederlands": "Witgroen"
+  },
+  {
+    "RAL": "RAL 6020",
+    "RGB": "046-058-035",
+    "HEX": "#2E3A23",
+    "German": "Chromoxidgrün",
+    "English": "Chrome green",
+    "name": "Chrome green",
+    
+    "French": "Vert oxyde chromique",
+    "Spanish": "Verde cromo",
+    "Italian": "Verde cromo",
+    "Nederlands": "\"Chroom-oxydegroen\""
+  },
+  {
+    "RAL": "RAL 6021",
+    "RGB": "137-172-118",
+    "HEX": "#89AC76",
+    "German": "Blassgrün",
+    "English": "Pale green",
+    "name": "Pale green",
+    
+    "French": "Vert pâle",
+    "Spanish": "Verde pálido",
+    "Italian": "Verde pallido",
+    "Nederlands": "Bleekgroen"
+  },
+  {
+    "RAL": "RAL 6022",
+    "RGB": "037-034-027",
+    "HEX": "#25221B",
+    "German": "Braunoliv",
+    "English": "Olive drab",
+    "name": "Olive drab",
+    
+    "French": "Olive brun",
+    "Spanish": "Oliva parduzco",
+    "Italian": "Oliva brunastro",
+    "Nederlands": "Bruin olijfgroen"
+  },
+  {
+    "RAL": "RAL 6024",
+    "RGB": "048-132-070",
+    "HEX": "#308446",
+    "German": "Verkehrsgrün",
+    "English": "Traffic green",
+    "name": "Traffic green",
+    
+    "French": "Vert signalisation",
+    "Spanish": "Verde tráfico",
+    "Italian": "Verde traffico",
+    "Nederlands": "Verkeersgroen"
+  },
+  {
+    "RAL": "RAL 6025",
+    "RGB": "061-100-045",
+    "HEX": "#3D642D",
+    "German": "Farngrün",
+    "English": "Fern green",
+    "name": "Fern green",
+    
+    "French": "Vert fougère",
+    "Spanish": "Verde helecho",
+    "Italian": "Verde felce",
+    "Nederlands": "Varengroen"
+  },
+  {
+    "RAL": "RAL 6026",
+    "RGB": "001-093-082",
+    "HEX": "#015D52",
+    "German": "Opalgrün",
+    "English": "Opal green",
+    "name": "Opal green",
+    
+    "French": "Vert opale",
+    "Spanish": "Verde opalo",
+    "Italian": "Verde opale",
+    "Nederlands": "Opaalgroen"
+  },
+  {
+    "RAL": "RAL 6027",
+    "RGB": "132-195-190",
+    "HEX": "#84C3BE",
+    "German": "Lichtgrün",
+    "English": "Light green",
+    "name": "Light green",
+    
+    "French": "Vert clair",
+    "Spanish": "Verde luminoso",
+    "Italian": "Verde chiaro",
+    "Nederlands": "Lichtgroen"
+  },
+  {
+    "RAL": "RAL 6028",
+    "RGB": "044-085-069",
+    "HEX": "#2C5545",
+    "German": "Kieferngrün",
+    "English": "Pine green",
+    "name": "Pine green",
+    
+    "French": "Vert pin",
+    "Spanish": "Verde pino",
+    "Italian": "Verde pino",
+    "Nederlands": "Pijnboomgroen"
+  },
+  {
+    "RAL": "RAL 6029",
+    "RGB": "032-096-061",
+    "HEX": "#20603D",
+    "German": "Minzgrün",
+    "English": "Mint green",
+    "name": "Mint green",
+    
+    "French": "Vert menthe",
+    "Spanish": "Verde menta",
+    "Italian": "Verde menta",
+    "Nederlands": "Mintgroen"
+  },
+  {
+    "RAL": "RAL 6032",
+    "RGB": "049-127-067",
+    "HEX": "#317F43",
+    "German": "Signalgrün",
+    "English": "Signal green",
+    "name": "Signal green",
+    
+    "French": "Vert de sécurité",
+    "Spanish": "Verde señales",
+    "Italian": "Verde segnale",
+    "Nederlands": "Signaalgroen"
+  },
+  {
+    "RAL": "RAL 6033",
+    "RGB": "073-126-118",
+    "HEX": "#497E76",
+    "German": "Minttürkis",
+    "English": "Mint turquoise",
+    "name": "Mint turquoise",
+    
+    "French": "Turquoise menthe",
+    "Spanish": "Turquesa menta",
+    "Italian": "Turchese menta",
+    "Nederlands": "Mintturquoise"
+  },
+  {
+    "RAL": "RAL 6034",
+    "RGB": "127-181-181",
+    "HEX": "#7FB5B5",
+    "German": "Pastelltürkis",
+    "English": "Pastel turquoise",
+    "name": "Pastel turquoise",
+    
+    "French": "Turquoise pastel",
+    "Spanish": "Turquesa pastel",
+    "Italian": "Turchese pastello",
+    "Nederlands": "Pastelturquoise"
+  },
+  {
+    "RAL": "RAL 6035",
+    "RGB": "028-084-045",
+    "HEX": "#1C542D",
+    "German": "Perlgrün",
+    "English": "Pearl green",
+    "name": "Pearl green",
+    
+    "French": "Vert nacré",
+    "Spanish": "Verde perlado",
+    "Italian": "Verde perlato",
+    "Nederlands": "\"Parelmoer-donkergroen\""
+  },
+  {
+    "RAL": "RAL 6036",
+    "RGB": "022-053-055",
+    "HEX": "#193737",
+    "German": "Perlopalgrün",
+    "English": "Pearl opal green",
+    "name": "Pearl opal green",
+    
+    "French": "Vert opal nacré",
+    "Spanish": "Verde ópalo perlado",
+    "Italian": "Verde opalo perlato",
+    "Nederlands": "\"Parelmoer-lichtgroen\""
+  },
+  {
+    "RAL": "RAL 6037",
+    "RGB": "000-143-057",
+    "HEX": "#008F39",
+    "German": "Reingrün",
+    "English": "Pure green",
+    "name": "Pure green",
+    
+    "French": "Vert pur",
+    "Spanish": "Verde puro",
+    "Italian": "Verde puro",
+    "Nederlands": "Zuivergroen"
+  },
+  {
+    "RAL": "RAL 6038",
+    "RGB": "000-187-045",
+    "HEX": "#00BB2D",
+    "German": "Leuchtgrün",
+    "English": "Luminous green",
+    "name": "Luminous green",
+    
+    "French": "Vert brillant",
+    "Spanish": "Verde brillante",
+    "Italian": "Verde brillante",
+    "Nederlands": "Briljantgroen"
+  },
+  {
+    "RAL": "RAL 7000",
+    "RGB": "120-133-139",
+    "HEX": "#78858B",
+    "German": "Fehgrau",
+    "English": "Squirrel grey",
+    "name": "Squirrel grey",
+    
+    "French": "Gris petit-gris",
+    "Spanish": "Gris ardilla",
+    "Italian": "Grigio vaio",
+    "Nederlands": "Pelsgrijs"
+  },
+  {
+    "RAL": "RAL 7001",
+    "RGB": "138-149-151",
+    "HEX": "#8A9597",
+    "German": "Silbergrau",
+    "English": "Silver grey",
+    "name": "Silver grey",
+    
+    "French": "Gris argent",
+    "Spanish": "Gris plata",
+    "Italian": "Grigio argento",
+    "Nederlands": "Zilvergrijs"
+  },
+  {
+    "RAL": "RAL 7002",
+    "RGB": "126-123-082",
+    "HEX": "#7E7B52",
+    "German": "Olivgrau",
+    "English": "Olive grey",
+    "name": "Olive grey",
+    
+    "French": "Gris olive",
+    "Spanish": "Gris oliva",
+    "Italian": "Grigio olivastro",
+    "Nederlands": "Olijfgrijs"
+  },
+  {
+    "RAL": "RAL 7003",
+    "RGB": "108-112-089",
+    "HEX": "#6C7059",
+    "German": "Moosgrau",
+    "English": "Moss grey",
+    "name": "Moss grey",
+    
+    "French": "Gris mousse",
+    "Spanish": "Gris musgo",
+    "Italian": "Grigio muschio",
+    "Nederlands": "Mosgrijs"
+  },
+  {
+    "RAL": "RAL 7004",
+    "RGB": "150-153-146",
+    "HEX": "#969992",
+    "German": "Signalgrau",
+    "English": "Signal grey",
+    "name": "Signal grey",
+    
+    "French": "Gris de sécurité",
+    "Spanish": "Gris señales",
+    "Italian": "Grigio segnale",
+    "Nederlands": "Signaalgrijs"
+  },
+  {
+    "RAL": "RAL 7005",
+    "RGB": "100-107-099",
+    "HEX": "#646B63",
+    "German": "Mausgrau",
+    "English": "Mouse grey",
+    "name": "Mouse grey",
+    
+    "French": "Gris souris",
+    "Spanish": "Gris ratón",
+    "Italian": "Grigio topo",
+    "Nederlands": "Muisgrijs"
+  },
+  {
+    "RAL": "RAL 7006",
+    "RGB": "109-101-082",
+    "HEX": "#6D6552",
+    "German": "Beigegrau",
+    "English": "Beige grey",
+    "name": "Beige grey",
+    
+    "French": "Gris beige",
+    "Spanish": "Gris beige",
+    "Italian": "Grigio beige",
+    "Nederlands": "Beigegrijs"
+  },
+  {
+    "RAL": "RAL 7008",
+    "RGB": "106-095-049",
+    "HEX": "#6A5F31",
+    "German": "Khakigrau",
+    "English": "Khaki grey",
+    "name": "Khaki grey",
+    
+    "French": "Gris kaki",
+    "Spanish": "Gris caqui",
+    "Italian": "Grigio kaki",
+    "Nederlands": "Kakigrijs"
+  },
+  {
+    "RAL": "RAL 7009",
+    "RGB": "077-086-069",
+    "HEX": "#4D5645",
+    "German": "Grüngrau",
+    "English": "Green grey",
+    "name": "Green grey",
+    
+    "French": "Gris vert",
+    "Spanish": "Gris verdoso",
+    "Italian": "Grigio verdastro",
+    "Nederlands": "Groengrijs"
+  },
+  {
+    "RAL": "RAL 7010",
+    "RGB": "076-081-074",
+    "HEX": "#4C514A",
+    "German": "Zeltgrau",
+    "English": "Tarpaulin grey",
+    "name": "Tarpaulin grey",
+    
+    "French": "Gris tente",
+    "Spanish": "Gris lona",
+    "Italian": "Grigio tenda",
+    "Nederlands": "Zeildoekgrijs"
+  },
+  {
+    "RAL": "RAL 7011",
+    "RGB": "067-075-077",
+    "HEX": "#434B4D",
+    "German": "Eisengrau",
+    "English": "Iron grey",
+    "name": "Iron grey",
+    
+    "French": "Gris fer",
+    "Spanish": "Gris hierro",
+    "Italian": "Grigio ferro",
+    "Nederlands": "IJzergrijs"
+  },
+  {
+    "RAL": "RAL 7012",
+    "RGB": "078-087-084",
+    "HEX": "#4E5754",
+    "German": "Basaltgrau",
+    "English": "Basalt grey",
+    "name": "Basalt grey",
+    
+    "French": "Gris basalte",
+    "Spanish": "Gris basalto",
+    "Italian": "Grigio basalto",
+    "Nederlands": "Bazaltgrijs"
+  },
+  {
+    "RAL": "RAL 7013",
+    "RGB": "070-069-049",
+    "HEX": "#464531",
+    "German": "Braungrau",
+    "English": "Brown grey",
+    "name": "Brown grey",
+    
+    "French": "Gris brun",
+    "Spanish": "Gris parduzco",
+    "Italian": "Grigio brunastro",
+    "Nederlands": "Bruingrijs"
+  },
+  {
+    "RAL": "RAL 7015",
+    "RGB": "067-071-080",
+    "HEX": "#434750",
+    "German": "Schiefergrau",
+    "English": "Slate grey",
+    "name": "Slate grey",
+    
+    "French": "Gris ardoise",
+    "Spanish": "Gris pizarra",
+    "Italian": "Grigio ardesia",
+    "Nederlands": "Leigrijs"
+  },
+  {
+    "RAL": "RAL 7016",
+    "RGB": "041-049-051",
+    "HEX": "#293133",
+    "German": "Anthrazitgrau",
+    "English": "Anthracite grey",
+    "name": "Anthracite grey",
+    
+    "French": "Gris anthracite",
+    "Spanish": "Gris antracita",
+    "Italian": "Grigio antracite",
+    "Nederlands": "Antracietgrijs"
+  },
+  {
+    "RAL": "RAL 7021",
+    "RGB": "035-040-043",
+    "HEX": "#23282B",
+    "German": "Schwarzgrau",
+    "English": "Black grey",
+    "name": "Black grey",
+    
+    "French": "Gris noir",
+    "Spanish": "Gris negruzco",
+    "Italian": "Grigio nerastro",
+    "Nederlands": "Zwartgrijs"
+  },
+  {
+    "RAL": "RAL 7022",
+    "RGB": "051-047-044",
+    "HEX": "#332F2C",
+    "German": "Umbragrau",
+    "English": "Umbra grey",
+    "name": "Umbra grey",
+    
+    "French": "Gris terre d’ombre",
+    "Spanish": "Gris sombra",
+    "Italian": "Grigio ombra",
+    "Nederlands": "Ombergrijs"
+  },
+  {
+    "RAL": "RAL 7023",
+    "RGB": "104-108-094",
+    "HEX": "#686C5E",
+    "German": "Betongrau",
+    "English": "Concrete grey",
+    "name": "Concrete grey",
+    
+    "French": "Gris béton",
+    "Spanish": "Gris hormigón",
+    "Italian": "Grigio calcestruzzo",
+    "Nederlands": "Betongrijs"
+  },
+  {
+    "RAL": "RAL 7024",
+    "RGB": "071-074-081",
+    "HEX": "#474A51",
+    "German": "Graphitgrau",
+    "English": "Graphite grey",
+    "name": "Graphite grey",
+    
+    "French": "Gris graphite",
+    "Spanish": "Gris grafita",
+    "Italian": "Grigio grafite",
+    "Nederlands": "Grafietgrijs"
+  },
+  {
+    "RAL": "RAL 7026",
+    "RGB": "047-053-059",
+    "HEX": "#2F353B",
+    "German": "Granitgrau",
+    "English": "Granite grey",
+    "name": "Granite grey",
+    
+    "French": "Gris granit",
+    "Spanish": "Gris granito",
+    "Italian": "Grigio granito",
+    "Nederlands": "Granietgrijs"
+  },
+  {
+    "RAL": "RAL 7030",
+    "RGB": "139-140-122",
+    "HEX": "#8B8C7A",
+    "German": "Steingrau",
+    "English": "Stone grey",
+    "name": "Stone grey",
+    
+    "French": "Gris pierre",
+    "Spanish": "Gris piedra",
+    "Italian": "Grigio pietra",
+    "Nederlands": "Steengrijs"
+  },
+  {
+    "RAL": "RAL 7031",
+    "RGB": "071-075-078",
+    "HEX": "#474B4E",
+    "German": "Blaugrau",
+    "English": "Blue grey",
+    "name": "Blue grey",
+    
+    "French": "Gris bleu",
+    "Spanish": "Gris azulado",
+    "Italian": "Grigio bluastro",
+    "Nederlands": "Blauwgrijs"
+  },
+  {
+    "RAL": "RAL 7032",
+    "RGB": "184-183-153",
+    "HEX": "#B8B799",
+    "German": "Kieselgrau",
+    "English": "Pebble grey",
+    "name": "Pebble grey",
+    
+    "French": "Gris silex",
+    "Spanish": "Gris guijarro",
+    "Italian": "Grigio ghiaia",
+    "Nederlands": "Kiezelgrijs"
+  },
+  {
+    "RAL": "RAL 7033",
+    "RGB": "125-132-113",
+    "HEX": "#7D8471",
+    "German": "Zementgrau",
+    "English": "Cement grey",
+    "name": "Cement grey",
+    
+    "French": "Gris ciment",
+    "Spanish": "Gris cemento",
+    "Italian": "Grigio cemento",
+    "Nederlands": "Cementgrijs"
+  },
+  {
+    "RAL": "RAL 7034",
+    "RGB": "143-139-102",
+    "HEX": "#8F8B66",
+    "German": "Gelbgrau",
+    "English": "Yellow grey",
+    "name": "Yellow grey",
+    
+    "French": "Gris jaune",
+    "Spanish": "Gris amarillento",
+    "Italian": "Grigio giallastro",
+    "Nederlands": "Geelgrijs"
+  },
+  {
+    "RAL": "RAL 7035",
+    "RGB": "215-215-215",
+    "HEX": "#D7D7D7",
+    "German": "Lichtgrau",
+    "English": "Light grey",
+    "name": "Light grey",
+    
+    "French": "Gris clair",
+    "Spanish": "Gris luminoso",
+    "Italian": "Grigio luce",
+    "Nederlands": "Lichtgrijs"
+  },
+  {
+    "RAL": "RAL 7036",
+    "RGB": "127-118-121",
+    "HEX": "#7F7679",
+    "German": "Platingrau",
+    "English": "Platinum grey",
+    "name": "Platinum grey",
+    
+    "French": "Gris platine",
+    "Spanish": "Gris platino",
+    "Italian": "Grigio platino",
+    "Nederlands": "Platinagrijs"
+  },
+  {
+    "RAL": "RAL 7037",
+    "RGB": "125-127-120",
+    "HEX": "#7D7F7D",
+    "German": "Staubgrau",
+    "English": "Dusty grey",
+    "name": "Dusty grey",
+    
+    "French": "Gris poussière",
+    "Spanish": "Gris polvo",
+    "Italian": "Grigio polvere",
+    "Nederlands": "Stofgrijs"
+  },
+  {
+    "RAL": "RAL 7038",
+    "RGB": "195-195-195",
+    "HEX": "#B5B8B1",
+    "German": "Achatgrau",
+    "English": "Agate grey",
+    "name": "Agate grey",
+    
+    "French": "Gris agate",
+    "Spanish": "Gris ágata",
+    "Italian": "Grigio agata",
+    "Nederlands": "Agaatgrijs"
+  },
+  {
+    "RAL": "RAL 7039",
+    "RGB": "108-105-096",
+    "HEX": "#6C6960",
+    "German": "Quarzgrau",
+    "English": "Quartz grey",
+    "name": "Quartz grey",
+    
+    "French": "Gris quartz",
+    "Spanish": "Gris cuarzo",
+    "Italian": "Grigio quarzo",
+    "Nederlands": "Kwartsgrijs"
+  },
+  {
+    "RAL": "RAL 7040",
+    "RGB": "157-161-170",
+    "HEX": "#9DA1AA",
+    "German": "Fenstergrau",
+    "English": "Window grey",
+    "name": "Window grey",
+    
+    "French": "Gris fenêtre",
+    "Spanish": "Gris ventana",
+    "Italian": "Grigio finestra",
+    "Nederlands": "Venstergrijs"
+  },
+  {
+    "RAL": "RAL 7042",
+    "RGB": "141-148-141",
+    "HEX": "#8D948D",
+    "German": "Verkehrsgrau A",
+    "English": "Traffic grey A",
+    "name": "Traffic grey A",
+    
+    "French": "Gris signalisation A",
+    "Spanish": "Gris tráfico A",
+    "Italian": "Grigio traffico A",
+    "Nederlands": "Verkeesgrijs A"
+  },
+  {
+    "RAL": "RAL 7043",
+    "RGB": "078-084-082",
+    "HEX": "#4E5452",
+    "German": "Verkehrsgrau B",
+    "English": "Traffic grey B",
+    "name": "Traffic grey B",
+    
+    "French": "Gris signalisation B",
+    "Spanish": "Gris tráfico B",
+    "Italian": "Grigio traffico B",
+    "Nederlands": "Verkeersgrijs B"
+  },
+  {
+    "RAL": "RAL 7044",
+    "RGB": "202-196-176",
+    "HEX": "#CAC4B0",
+    "German": "Seidengrau",
+    "English": "Silk grey",
+    "name": "Silk grey",
+    
+    "French": "Gris soie",
+    "Spanish": "Gris seda",
+    "Italian": "Grigio seta",
+    "Nederlands": "Zijdegrijs"
+  },
+  {
+    "RAL": "RAL 7045",
+    "RGB": "144-144-144",
+    "HEX": "#909090",
+    "German": "Telegrau 1",
+    "English": "Telegrey 1",
+    "name": "Telegrey 1",
+    
+    "French": "Telegris 1",
+    "Spanish": "Gris tele 1",
+    "Italian": "Tele grigio 1",
+    "Nederlands": "Telegrijs 1"
+  },
+  {
+    "RAL": "RAL 7046",
+    "RGB": "130-137-143",
+    "HEX": "#82898F",
+    "German": "Telegrau 2",
+    "English": "Telegrey 2",
+    "name": "Telegrey 2",
+    
+    "French": "Telegris 2",
+    "Spanish": "Gris tele 2",
+    "Italian": "Tele grigio 2",
+    "Nederlands": "Telegrijs 2"
+  },
+  {
+    "RAL": "RAL 7047",
+    "RGB": "208-208-208",
+    "HEX": "#D0D0D0",
+    "German": "Telegrau 4",
+    "English": "Telegrey 4",
+    "name": "Telegrey 4",
+    
+    "French": "Telegris 4",
+    "Spanish": "Gris tele 4",
+    "Italian": "Tele grigio 4",
+    "Nederlands": "Telegrijs 4"
+  },
+  {
+    "RAL": "RAL 7048",
+    "RGB": "137-129-118",
+    "HEX": "#898176",
+    "German": "Perlmausgrau",
+    "English": "Pearl mouse grey",
+    "name": "Pearl mouse grey",
+    
+    "French": "Gris souris nacré",
+    "Spanish": "Gris musgo perlado",
+    "Italian": "Grigio topo perlato",
+    "Nederlands": "\"Parelmoer-muisgrijs\""
+  },
+  {
+    "RAL": "RAL 8000",
+    "RGB": "130-108-052",
+    "HEX": "#826C34",
+    "German": "Grünbraun",
+    "English": "Green brown",
+    "name": "Green brown",
+    
+    "French": "Brun vert",
+    "Spanish": "Pardo verdoso",
+    "Italian": "Marrone verdastro",
+    "Nederlands": "Groenbruin"
+  },
+  {
+    "RAL": "RAL 8001",
+    "RGB": "149-095-032",
+    "HEX": "#955F20",
+    "German": "Ockerbraun",
+    "English": "Ochre brown",
+    "name": "Ochre brown",
+    
+    "French": "Brun terre de Sienne",
+    "Spanish": "Pardo ocre",
+    "Italian": "Marrone ocra",
+    "Nederlands": "Okerbruin"
+  },
+  {
+    "RAL": "RAL 8002",
+    "RGB": "108-059-042",
+    "HEX": "#6C3B2A",
+    "German": "Signalbraun",
+    "English": "Signal brown",
+    "name": "Signal brown",
+    
+    "French": "Brun de sécurité",
+    "Spanish": "Marrón señales",
+    "Italian": "Marrone segnale",
+    "Nederlands": "Signaalbruin"
+  },
+  {
+    "RAL": "RAL 8003",
+    "RGB": "115-066-034",
+    "HEX": "#734222",
+    "German": "Lehmbraun",
+    "English": "Clay brown",
+    "name": "Clay brown",
+    
+    "French": "Brun argile",
+    "Spanish": "Pardo arcilla",
+    "Italian": "Marrone fango",
+    "Nederlands": "Leembruin"
+  },
+  {
+    "RAL": "RAL 8004",
+    "RGB": "142-064-042",
+    "HEX": "#8E402A",
+    "German": "Kupferbraun",
+    "English": "Copper brown",
+    "name": "Copper brown",
+    
+    "French": "Brun cuivré",
+    "Spanish": "Pardo cobre",
+    "Italian": "\"Marrone rame\"",
+    "Nederlands": "Koperbruin"
+  },
+  {
+    "RAL": "RAL 8007",
+    "RGB": "089-053-031",
+    "HEX": "#59351F",
+    "German": "Rehbraun",
+    "English": "Fawn brown",
+    "name": "Fawn brown",
+    
+    "French": "Brun fauve",
+    "Spanish": "Pardo corzo",
+    "Italian": "Marrone capriolo",
+    "Nederlands": "Reebruin"
+  },
+  {
+    "RAL": "RAL 8008",
+    "RGB": "111-079-040",
+    "HEX": "#6F4F28",
+    "German": "Olivbraun",
+    "English": "Olive brown",
+    "name": "Olive brown",
+    
+    "French": "Brun olive",
+    "Spanish": "Pardo oliva",
+    "Italian": "Marrone oliva",
+    "Nederlands": "Olijfbruin"
+  },
+  {
+    "RAL": "RAL 8011",
+    "RGB": "091-058-041",
+    "HEX": "#5B3A29",
+    "German": "Nussbraun",
+    "English": "Nut brown",
+    "name": "Nut brown",
+    
+    "French": "Brun noisette",
+    "Spanish": "Pardo nuez",
+    "Italian": "Marrone noce",
+    "Nederlands": "Notebruin"
+  },
+  {
+    "RAL": "RAL 8012",
+    "RGB": "089-035-033",
+    "HEX": "#592321",
+    "German": "Rotbraun",
+    "English": "Red brown",
+    "name": "Red brown",
+    
+    "French": "Brun rouge",
+    "Spanish": "Pardo rojo",
+    "Italian": "Marrone rossiccio",
+    "Nederlands": "Roodbruin"
+  },
+  {
+    "RAL": "RAL 8014",
+    "RGB": "056-044-030",
+    "HEX": "#382C1E",
+    "German": "Sepiabraun",
+    "English": "Sepia brown",
+    "name": "Sepia brown",
+    
+    "French": "Brun sépia",
+    "Spanish": "Sepia",
+    "Italian": "Marrone seppia",
+    "Nederlands": "Sepiabruin"
+  },
+  {
+    "RAL": "RAL 8015",
+    "RGB": "099-058-052",
+    "HEX": "#633A34",
+    "German": "Kastanienbraun",
+    "English": "Chestnut brown",
+    "name": "Chestnut brown",
+    
+    "French": "Marron",
+    "Spanish": "Castaño",
+    "Italian": "Marrone castagna",
+    "Nederlands": "Kastanjebruin"
+  },
+  {
+    "RAL": "RAL 8016",
+    "RGB": "076-047-039",
+    "HEX": "#4C2F27",
+    "German": "Mahagonibraun",
+    "English": "Mahogany brown",
+    "name": "Mahogany brown",
+    
+    "French": "Brun acajou",
+    "Spanish": "Caoba",
+    "Italian": "Marrone mogano",
+    "Nederlands": "Mahoniebruin"
+  },
+  {
+    "RAL": "RAL 8017",
+    "RGB": "069-050-046",
+    "HEX": "#45322E",
+    "German": "\"Schokoladen-braun\"",
+    "English": "Chocolate brown",
+    "name": "Chocolate brown",
+    
+    "French": "Brun chocolat",
+    "Spanish": "Chocolate",
+    "Italian": "Marrone cioccolata",
+    "Nederlands": "Chocoladebruin"
+  },
+  {
+    "RAL": "RAL 8019",
+    "RGB": "064-058-058",
+    "HEX": "#403A3A",
+    "German": "Graubraun",
+    "English": "Grey brown",
+    "name": "Grey brown",
+    
+    "French": "Brun gris",
+    "Spanish": "Pardo grisáceo",
+    "Italian": "Marrone grigiastro",
+    "Nederlands": "Grijsbruin"
+  },
+  {
+    "RAL": "RAL 8022",
+    "RGB": "033-033-033",
+    "HEX": "#212121",
+    "German": "Schwarzbraun",
+    "English": "Black brown",
+    "name": "Black brown",
+    
+    "French": "Brun noir",
+    "Spanish": "Pardo negruzco",
+    "Italian": "Marrone nerastro",
+    "Nederlands": "Zwartbruin"
+  },
+  {
+    "RAL": "RAL 8023",
+    "RGB": "166-094-046",
+    "HEX": "#A65E2E",
+    "German": "Orangebraun",
+    "English": "Orange brown",
+    "name": "Orange brown",
+    
+    "French": "Brun orangé",
+    "Spanish": "Pardo anaranjado",
+    "Italian": "Marrone arancio",
+    "Nederlands": "Oranjebruin"
+  },
+  {
+    "RAL": "RAL 8024",
+    "RGB": "121-085-061",
+    "HEX": "#79553D",
+    "German": "Beigebraun",
+    "English": "Beige brown",
+    "name": "Beige brown",
+    
+    "French": "Brun beige",
+    "Spanish": "Pardo beige",
+    "Italian": "Marrone beige",
+    "Nederlands": "Beigebruin"
+  },
+  {
+    "RAL": "RAL 8025",
+    "RGB": "117-092-072",
+    "HEX": "#755C48",
+    "German": "Blassbraun",
+    "English": "Pale brown",
+    "name": "Pale brown",
+    
+    "French": "Brun pâle",
+    "Spanish": "Pardo pálido",
+    "Italian": "Marrone pallido",
+    "Nederlands": "Bleekbruin"
+  },
+  {
+    "RAL": "RAL 8028",
+    "RGB": "078-059-049",
+    "HEX": "#4E3B31",
+    "German": "Terrabraun",
+    "English": "Terra brown",
+    "name": "Terra brown",
+    
+    "French": "Brun terre",
+    "Spanish": "Marrón tierra",
+    "Italian": "Marrone terra",
+    "Nederlands": "Terrabruin"
+  },
+  {
+    "RAL": "RAL 8029",
+    "RGB": "118-060-040",
+    "HEX": "#763C28",
+    "German": "Perlkupfer",
+    "English": "Pearl copper",
+    "name": "Pearl copper",
+    
+    "French": "Cuivre nacré",
+    "Spanish": "Cobre perlado",
+    "Italian": "Rame perlato",
+    "Nederlands": "Parelmoerkoper"
+  },
+  {
+    "RAL": "RAL 9001",
+    "RGB": "250-244-227",
+    "HEX": "#FDF4E3",
+    "German": "Cremeweiß",
+    "English": "Cream",
+    "name": "Cream",
+    
+    "French": "Blanc crème",
+    "Spanish": "Blanco crema",
+    "Italian": "Bianco crema",
+    "Nederlands": "Crèmewit"
+  },
+  {
+    "RAL": "RAL 9002",
+    "RGB": "231-235-218",
+    "HEX": "#E7EBDA",
+    "German": "Grauweiß",
+    "English": "Grey white",
+    "name": "Grey white",
+    
+    "French": "Blanc gris",
+    "Spanish": "Blanco grisáceo",
+    "Italian": "Bianco grigiastro",
+    "Nederlands": "Grijswit"
+  },
+  {
+    "RAL": "RAL 9003",
+    "RGB": "244-244-244",
+    "HEX": "#F4F4F4",
+    "German": "Signalweiß",
+    "English": "Signal white",
+    "name": "Signal white",
+    
+    "French": "Blanc de sécurité",
+    "Spanish": "Blanco señales",
+    "Italian": "Bianco segnale",
+    "Nederlands": "Signaalwit"
+  },
+  {
+    "RAL": "RAL 9004",
+    "RGB": "040-040-040",
+    "HEX": "#282828",
+    "German": "Signalschwarz",
+    "English": "Signal black",
+    "name": "Signal black",
+    
+    "French": "Noir de sécurité",
+    "Spanish": "Negro señales",
+    "Italian": "Nero segnale",
+    "Nederlands": "Signaalzwart"
+  },
+  {
+    "RAL": "RAL 9005",
+    "RGB": "010-010-013",
+    "HEX": "#0A0A0A",
+    "German": "Tiefschwarz",
+    "English": "Jet black",
+    "name": "Jet black",
+    
+    "French": "Noir foncé",
+    "Spanish": "Negro intenso",
+    "Italian": "Nero intenso",
+    "Nederlands": "Gitzwart"
+  },
+  {
+    "RAL": "RAL 9006",
+    "RGB": "165-165-165",
+    "HEX": "#A5A5A5",
+    "German": "Weißaluminium",
+    "English": "White aluminium",
+    "name": "White aluminium",
+    
+    "French": "Aluminium blanc",
+    "Spanish": "Aluminio blanco",
+    "Italian": "Aluminio brillante",
+    "Nederlands": "Blank aluminiumkleurig"
+  },
+  {
+    "RAL": "RAL 9007",
+    "RGB": "143-143-143",
+    "HEX": "#8F8F8F",
+    "German": "Graualuminium",
+    "English": "Grey aluminium",
+    "name": "Grey aluminium",
+    
+    "French": "Aluminium gris",
+    "Spanish": "Aluminio gris",
+    "Italian": "Aluminio grigiastro",
+    "Nederlands": "Grijs aluminiumkleurig"
+  },
+  {
+    "RAL": "RAL 9010",
+    "RGB": "255-255-255",
+    "HEX": "#FFFFFF",
+    "German": "Reinweiß",
+    "English": "Pure white",
+    "name": "Pure white",
+    
+    "French": "Blanc pur",
+    "Spanish": "Blanco puro",
+    "Italian": "Bianco puro",
+    "Nederlands": "Zuiverwit"
+  },
+  {
+    "RAL": "RAL 9011",
+    "RGB": "028-028-028",
+    "HEX": "#1C1C1C",
+    "German": "Graphitschwarz",
+    "English": "Graphite black",
+    "name": "Graphite black",
+    
+    "French": "Noir graphite",
+    "Spanish": "Negro grafito",
+    "Italian": "Nero grafite",
+    "Nederlands": "Grafietzwart"
+  },
+  {
+    "RAL": "RAL 9016",
+    "RGB": "246-246-246",
+    "HEX": "#F6F6F6",
+    "German": "Verkehrsweiß",
+    "English": "Traffic white",
+    "name": "Traffic white",
+    
+    "French": "Blanc signalisation",
+    "Spanish": "Blanco tráfico",
+    "Italian": "Bianco traffico",
+    "Nederlands": "Verkeerswit"
+  },
+  {
+    "RAL": "RAL 9017",
+    "RGB": "030-030-030",
+    "HEX": "#1E1E1E",
+    "German": "Verkehrs-schwarz",
+    "English": "Traffic black",
+    "name": "Traffic black",
+    
+    "French": "Noir signalisation",
+    "Spanish": "Negro tráfico",
+    "Italian": "Nero traffico",
+    "Nederlands": "Verkeerszwart"
+  },
+  {
+    "RAL": "RAL 9018",
+    "RGB": "215-215-215",
+    "HEX": "#D7D7D7",
+    "German": "Papyrusweiß",
+    "English": "Papyrus white",
+    "name": "Papyrus white",
+    
+    "French": "Blanc papyrus",
+    "Spanish": "Blanco papiro",
+    "Italian": "Bianco papiro",
+    "Nederlands": "Papyruswit"
+  },
+  {
+    "RAL": "RAL 9022",
+    "RGB": "156-156-156",
+    "HEX": "#9C9C9C",
+    "German": "Perlhellgrau",
+    "English": "Pearl light grey",
+    "name": "Pearl light grey",
+    
+    "French": "Gris clair nacré",
+    "Spanish": "Gris claro perlado",
+    "Italian": "Grigio chiaro perlato",
+    "Nederlands": "Parelmoer-lichtgrijs"
+  },
+  {
+    "RAL": "RAL 9023",
+    "RGB": "130-130-130",
+    "HEX": "#828282",
+    "German": "Perldunkelgrau",
+    "English": "Pearl dark grey",
+    "name": "Pearl dark grey",
+    
+    "French": "Gris fonçé nacré",
+    "Spanish": "Gris oscuro perlado",
+    "Italian": "Grigio scuro perlato",
+    "Nederlands": "Parelmoer-donkergrijs"
+  }
+]
