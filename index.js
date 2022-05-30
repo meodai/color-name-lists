@@ -89,8 +89,6 @@ Object.keys(descriptions).forEach(key => {
   sanitizedDescriptions[sanitizedKey] = description;
 });
 
-console.log(lists)
-
 module.exports = {
   lists,
   meta: sanitizedDescriptions
