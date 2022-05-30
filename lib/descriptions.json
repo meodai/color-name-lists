@@ -1,0 +1,230 @@
+{
+  "army-painter": {
+    "title": "The Army Painter",
+    "description": "Figure painting, or miniature painting paint colors",
+    "data-source": "https://github.com/J0shW/Pigment",
+    "key": "army-painter"
+  },
+  "avery": {
+    "title": "Avery",
+    "description": "Avery is a set of colors that are used in the printing industry.",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "avery"
+  },
+  "basic": {
+    "title": "Basic",
+    "description": "A set of basic colors.",
+    "data-source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
+    "key": "basic"
+  },
+  "behr": {
+    "title": "Behr",
+    "description": "A set of colors from paint colors from Behr.",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "behr"
+  },
+  "benjamin-moore": {
+    "title": "Benjamin Moore",
+    "description": "A set of colors from Benjamin Moore's paint.",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "benjamin-moore"
+  },
+  "citadel": {
+    "title": "Warhammer: Citadel Colour",
+    "description": "A set of colors from Warhammer Citadel paint.",
+    "data-source": "https://github.com/J0shW/Pigment",
+    "key": "citadel"
+  },
+  "colorhouse": {
+    "title": "Color House",
+    "description": "Color House paint colors.",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "citadel"
+  },
+  "dic": {
+    "title": "DIC",
+    "description": "DIC Color Guide colors.",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "dic"
+  },
+  "dunn-edwards": {
+    "title": "Dunn-Edwards Paints",
+    "description": "Dunn-Edwards paint colors",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "dunn-edwards"
+  },
+  "dutch": {
+    "title": "Dutch Boy",
+    "description": "Dutch boy paint colors.",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "dutch"
+  },
+  "farrow-ball": {
+    "title": "Farrow & Ball",
+    "description": "Farrow & Ball paint colors.",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "farrow-ball"
+  },
+  "hks": {
+    "title": "HKS",
+    "description": "HKS matching colors",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "hks"
+  },
+  "hl": {
+    "title": "Hallman Lindsay",
+    "description": "Hallman Lindsay paint colors",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "hl"
+  },
+  "html": {
+    "title": "HTML Colors",
+    "description": "HTML color names",
+    "data-source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
+    "key": "html"
+  },
+  "ikea": {
+    "title": "IKEA",
+    "description": "IKEA paint colors",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "ikea"
+  },
+  "japanese-traditional": {
+    "title": "Traditional Colors of Japan",
+    "description": "The traditional colors of Japan are a collection of colors traditionally used in Japanese art, literature, textiles such as kimono, and other Japanese arts and crafts.",
+    "data-source": "https://en.wikipedia.org/wiki/Traditional_colors_of_Japan",
+    "key": "japanese-traditional"
+  },
+  "kliz": {
+    "title": "Kliz",
+    "description": "Kliz paint colors",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "kliz"
+  },
+  "kobra": {
+    "title": "Kobra Paint",
+    "description": "Kobra spray-paint colors names",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "kobra"
+  },
+  "le-corbusier": {
+    "title": "Le Corbusier",
+    "description": "Architectural colours in Le Corbusier's colour system.",
+    "data-source": "https://www.lescouleurs.ch/en/the-colours/63-colours",
+    "key": "le-corbusier"
+  },
+  "mpc": {
+    "title": "Matthews Paint",
+    "description": "Matthews Paint colors.",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "mpc"
+  },
+  "neenah": {
+    "title": "Neenah Paper",
+    "description": "Neenah paper color names.",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "neenah"
+  },
+  "ntc": {
+    "title": "NTC.js",
+    "description": "NTC.js color matching library names",
+    "data-source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
+    "key": "ntc"
+  },
+  "pantone": {
+    "title": "Pantone",
+    "description": "Pantone color matching names",
+    "data-source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
+    "key": "pantone"
+  },
+  "ppg": {
+    "title": "PPG Paints",
+    "description": "PPG paint colors",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "ppg"
+  },
+  "privateer-press": {
+    "title": "Privateer Press",
+    "description": "Privateer Miniature and Model paint names.",
+    "data-source": "https://github.com/J0shW/Pigment",
+    "key": "privateer-press"
+  },
+  "ral": {
+    "title": "RAL Color",
+    "description": "RAL color matching color names",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "ral"
+  },
+  "reaper": {
+    "title": "Reaper",
+    "description": "Reaper Miniature and Model paint names.",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "reaper"
+  },
+  "sanzo-wada-I": {
+    "title": "Wada Sanzō Japanese Color Dictionary Volume I",
+    "description": "Names from Wada Sanzō 和田 三造 Colors Dictionary volume I",
+    "data-source": "https://sanzo-wada.dmbk.io/",
+    "key": "sanzo-wada-I"
+  },
+  "sherwin-williams": {
+    "title": "Sherwin-Williams Paints",
+    "description": "Sherwin Williams paint colors names",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "sherwin-williams"
+  },
+  "toyo": {
+    "title": "Toyo",
+    "description": "Toyo colors names",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "toyo"
+  },
+  "truematch": {
+    "title": "TRUMATCH Colors",
+    "description": "TrueMatch color matching names",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "truematch"
+  },
+  "vellejo": {
+    "title": "Vallejo Acrylic Model Colors",
+    "description": "Acrylic Model Colors names",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "vellejo"
+  },
+  "valspar": {
+    "title": "Valspar",
+    "description": "Valspar paint colors",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "valspar"
+  },
+  "vista": {
+    "title": "Vista Paint",
+    "description": "Vista paint colors",
+    "data-source": "https://jpederson.com/colornerd/",
+    "key": "vista"
+  },
+  "werner": {
+    "title": "Werner's Nomenclature of Colours",
+    "description": "All colors from the book Werner's Nomenclature of Colours.",
+    "data-source": "https://www.c82.net/werner/",
+    "key": "werner"
+  },
+  "wikipedia": {
+    "title": "Wikipedia Color Names",
+    "description": "List color names from wikipedia",
+    "data-source": "https://github.com/meodai/wikipedia-color-names",
+    "key": "wikipedia"
+  },
+  "x11": {
+    "title": "X11 Color Names",
+    "description": "Standard Xlib or the X11 protocol color names.",
+    "data-source": "https://en.wikipedia.org/wiki/X11_color_names",
+    "key": "x11"
+  },
+  "xkcd": {
+    "title": "XKCD Colors",
+    "description": "The 954 most common RGB monitor colors, as defined by several hundred thousand participants in the xkcd color name survey.",
+    "data-source": "https://xkcd.com/color/rgb/",
+    "key": "xkcd"
+  }
+}

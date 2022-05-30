@@ -1,7 +1,9 @@
 const { on } = require('events');
 const fs = require('fs');
 const path = require('path');
-const directoryPath = path.join(__dirname, 'lib/colors');
+const libPath = path.join(__dirname, 'lib');
+const directoryPath = path.join(libPath, 'colors');
+const descriptions = require(libPath + '/descriptions.json');
 
 const wikipediaList = require('wikipedia-color-names/colors.min.json');
 const hexColorValidation = /^#([0-9A-F]{3}){1,2}$/i;
@@ -78,4 +80,18 @@ Object.keys(lists).forEach(listName => {
   lists[listName] = sanitizedList;
 });
 
-module.exports = lists;
+const sanitizedDescriptions = {};
+
+Object.keys(descriptions).forEach(key => {
+  const sanitizedKey = hyphensToCamelCase(key); 
+  const description = descriptions[key];
+  description.key = sanitizedKey;
+  sanitizedDescriptions[sanitizedKey] = description;
+});
+
+console.log(lists)
+
+module.exports = {
+  lists,
+  meta: sanitizedDescriptions
+};
