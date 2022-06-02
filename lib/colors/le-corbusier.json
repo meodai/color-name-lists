@@ -1,379 +1,380 @@
-[{
-    "name": "32001 blanc",
-    "shade": "White",
-    "description": "The cream white. Balanced, with stable aesthetics. The first mural ‘Velvet’ shade. ",
-    "hex": "#eadbc0"
-  },
-  {
-    "name": "32010 gris foncé 31",
-    "shade": "Grey & Black",
-    "description": "The iron grey. Soft, warm, expressive. The darkest shade of 1931.",
-    "hex": "#5e6061"
-  },
-  {
-    "name": "32011 gris 31",
-    "shade": "Grey & Black",
-    "description": "The medium grey. Elegant and restrained. It can place the walls into shadow.",
-    "hex": "#929494"
-  },
-  {
-    "name": "32012 gris moyen",
-    "shade": "Grey & Black",
-    "description": "The discreet grey. Natural, neutral, discreetly calm. The second ‘Velvet’ shade.",
-    "hex": "#a7a8a5"
-  },
-  {
-    "name": "32013 gris clair 31",
-    "shade": "Grey & Black",
-    "description": "The pearl grey. Weakly luminescent and airy. The third mural ‘Velvet’ shade.",
-    "hex": "#bcbbb6"
-  },
-  {
-    "name": "32020 bleu outremer 31",
-    "shade": "Blue",
-    "description": "The luminous ultramarin. Dynamic, imposing and much in demand.",
-    "hex": "#4d6aa8"
-  },
-  {
-    "name": "32021 outremer moyen",
-    "shade": "Blue",
-    "description": "The lucent sky blue. Like the sky on a clear, sunny day in summer.",
-    "hex": "#8fabc9"
-  },
-  {
-    "name": "32022 outremer clair",
-    "shade": "Blue",
-    "description": "The brightened ultramarine. A space atmosphere that loosens up. The first ‘Space’ shade.",
-    "hex": "#abbdc8"
-  },
-  {
-    "name": "32023 outremer pâle",
-    "shade": "Blue",
-    "description": "The light ultramarine. An atmosphere that recedes gently. The second ‘Space’ shade.",
-    "hex": "#b6c6ce"
-  },
-  {
-    "name": "32024 outremer gris",
-    "shade": "Blue",
-    "description": "The blue grey. The imagination. A restrained atmosphere. The third ‘Space’ shade.",
-    "hex": "#d9e1dd"
-  },
-  {
-    "name": "32030 bleu céruléen 31",
-    "shade": "Blue",
-    "description": "The powerful cerulean. Appears dynamic and attracts the attention.",
-    "hex": "#3e6e90"
-  },
-  {
-    "name": "32031 céruléen vif",
-    "shade": "Blue",
-    "description": "The luminous cerulean. Warm, sensual, Mediterranean. The colour tends towards the observer.",
-    "hex": "#679dae"
-  },
-  {
-    "name": "32032 céruléen moyen",
-    "shade": "Blue",
-    "description": "The summery sky. Static, does not come forward anymore. The first mural ‘Sky’ shade.",
-    "hex": "#8ab5ba"
-  },
-  {
-    "name": "32033 céruléen clair",
-    "shade": "Blue",
-    "description": "The sky reflected in the water. Subordinates itself. The second mural ‘Sky’ shade.",
-    "hex": "#a8c4c1"
-  },
-  {
-    "name": "32034 céruléen pâle",
-    "shade": "Blue",
-    "description": "The sky reflected in ocean waves. Somewhat greenish. The third mural ‘Sky’ colour shade.",
-    "hex": "#c6d5cc"
-  },
-  {
-    "name": "32040 vert anglais",
-    "shade": "Green",
-    "description": "The english green. Reminds of aristocracy, also of freshness of the forest.",
-    "hex": "#406e58"
-  },
-  {
-    "name": "32041 vert anglais clair",
-    "shade": "Green",
-    "description": "The slightly greyed english green. Like a discreet Verona green.",
-    "hex": "#91afa1"
-  },
-  {
-    "name": "32042 vert anglais pâle",
-    "shade": "Green",
-    "description": "The mild grey green. The colour shade links retentively to the landscape.",
-    "hex": "#becbb7"
-  },
-  {
-    "name": "32050 vert foncé",
-    "shade": "Green",
-    "description": "The rich brilliant green. A deep and very neutral green; expressing the summer.",
-    "hex": "#3e6f42"
-  },
-  {
-    "name": "32051 vert 31",
-    "shade": "Green",
-    "description": "The vernal green. Very expressive. The first tone of the ‘Scenery’ atmosphere.",
-    "hex": "#7fa25a"
-  },
-  {
-    "name": "32052 vert clair",
-    "shade": "Green",
-    "description": "The green of spring. Natural and fruitful. The second shade representing ‘Scenery’.",
-    "hex": "#abc17a"
-  },
-  {
-    "name": "32053 vert jaune clair",
-    "shade": "Green",
-    "description": "The pale green. Gentle, smooth and balanced. The third tone with the mural value of ‘Scenery’.",
-    "hex": "#c4d39b"
-  },
-  {
-    "name": "32060 ocre",
-    "shade": "Ochre & Yellow",
-    "description": "The natural sand. Restrained and very elegant. The first tone with mural value of ‘Sand’.",
-    "hex": "#eacfa6"
-  },
-  {
-    "name": "32080 orange",
-    "shade": "Orange",
-    "description": "The shiny orange. A dynamic, youthful and optimistic colour.",
-    "hex": "#d46c40"
-  },
-  {
-    "name": "32081 orange clair",
-    "shade": "Orange",
-    "description": "The orange apricot. A dynamic, touching and consistently attractive ton.",
-    "hex": "#dc8d67"
-  },
-  {
-    "name": "32082 orange pâle",
-    "shade": "Orange",
-    "description": "The sandy orange. Earthy, gentle and constructive. The second mural ‘Sand’ colour.",
-    "hex": "#eacfb9"
-  },
-  {
-    "name": "32090 rouge vermillon 31",
-    "shade": "Red",
-    "description": "The deep dynamic red. Or the luminescent vermilion red.",
-    "hex": "#9b3738"
-  },
-  {
-    "name": "32091 rose pâle",
-    "shade": "Red",
-    "description": "The gentle pink. Earthy, warm and restrained. The first shade with ‘Masonry’ significance.",
-    "hex": "#e6cdbf"
-  },
-  {
-    "name": "32100 rouge carmin",
-    "shade": "Red",
-    "description": "The noble carmine red. Steeped in history, dignified and brilliant. ",
-    "hex": "#8f3a43"
-  },
-  {
-    "name": "32101 rouge rubia",
-    "shade": "Red",
-    "description": "The artistic red. The tradition-rich red of famous painters.",
-    "hex": "#943a4d"
-  },
-  {
-    "name": "32102 rose clair",
-    "shade": "Red",
-    "description": "The bright pink. Or the medium dynamic rose.",
-    "hex": "#d6afa6"
-  },
-  {
-    "name": "32110 l'ocre rouge",
-    "shade": "Red ochre & Brown",
-    "description": "The red of ancient architecture. An earthy and deeply luminescent nuance. ",
-    "hex": "#8b4d3e"
-  },
-  {
-    "name": "32111 l'ocre rouge moyen",
-    "shade": "Red ochre & Brown",
-    "description": "The medium Terracotta. An earthy and warm tone, which emphasises comfort.",
-    "hex": "#cd9886"
-  },
-  {
-    "name": "32112 l'ocre rouge clair",
-    "shade": "Red ochre & Brown",
-    "description": "The bright red ochre. Earthy and stable. The second shade with ‘Masonry’ significance.",
-    "hex": "#dbbeaa"
-  },
-  {
-    "name": "32120 terre sienne brûlée 31",
-    "shade": "Red ochre & Brown",
-    "description": "The deeply burnt sienna. It fixes the wall impressively.",
-    "hex": "#68443c"
-  },
-  {
-    "name": "32121 terre sienne brique",
-    "shade": "Red ochre & Brown",
-    "description": "The light brick red. Suited for timeless colour combinations.",
-    "hex": "#b67b66"
-  },
-  {
-    "name": "32122 terre sienne claire 31",
-    "shade": "Red ochre & Brown",
-    "description": "The colour of the summery masonry. Loamy and soft. The third ‘Masonry’ shade.",
-    "hex": "#d8b29a"
-  },
-  {
-    "name": "32123 terre sienne pâle ",
-    "shade": "Red ochre & Brown",
-    "description": "The pale sienna. A sandy, discreet and stable colour shade.",
-    "hex": "#e2cbb5"
-  },
-  {
-    "name": "32130 terre d'ombre brûlée 31",
-    "shade": "Umber",
-    "description": "The marron. Deeply red brown, burnt. Like a chestnut.",
-    "hex": "#4c423d"
-  },
-  {
-    "name": "32131 ombre brûlée claire",
-    "shade": "Umber",
-    "description": "The burnt umber. An ideal background colour. The third shade with mural value of ‘Sand’.",
-    "hex": "#b7a392"
-  },
-  {
-    "name": "32140 ombre naturelle 31",
-    "shade": "Umber",
-    "description": "The dark natural umber. An elegant brown grey colour.",
-    "hex": "#5a5550"
-  },
-  {
-    "name": "32141 ombre naturelle moyenne",
-    "shade": "Umber",
-    "description": "The grey brown natural umber. A balanced, aesthetic and appealing colour.",
-    "hex": "#928a7e"
-  },
-  {
-    "name": "32142 ombre naturelle claire",
-    "shade": "Umber",
-    "description": "The discrete natural umber. As shadow colour, ideal for combinations.",
-    "hex": "#b7ac9d"
-  },
-  {
-    "name": "4320A rouge vermillon 59",
-    "shade": "Red",
-    "description": "The cinnabar red. A fiery shade which catches the eye and reduces the space.",
-    "hex": "#ac443a"
-  },
-  {
-    "name": "4320B blanc ivoire",
-    "shade": "White",
-    "description": "The ivory white. Elegant, charming, chalky. The calm background colour. ",
-    "hex": "#eae4d7"
-  },
-  {
-    "name": "4320C rose vif",
-    "shade": "Red",
-    "description": "The luminous pink. Less earthy and mostly used as complement to other luscious colours.",
-    "hex": "#dba3af"
-  },
-  {
-    "name": "4320D terre sienne brûlée 59",
-    "shade": "Red ochre & Brown",
-    "description": "The deep brown sienna. A burnt, rich, dynamic and stable colour tone. ",
-    "hex": "#744438"
-  },
-  {
-    "name": "4320E noir d'ivoire",
-    "shade": "Grey & Black",
-    "description": "The ivory black. Black as the night. Le Corbusier’s only, impressive black tone.",
-    "hex": "#3a3b3b"
-  },
-  {
-    "name": "4320F vert olive vif",
-    "shade": "Green",
-    "description": "The olive green. Green yellow or yellow green? A unique classic.",
-    "hex": "#b8a136"
-  },
-  {
-    "name": "4320G vert 59",
-    "shade": "Green",
-    "description": "The emerald green. A dynamic shade with luminous power.",
-    "hex": "#428f70"
-  },
-  {
-    "name": "4320H gris 59",
-    "shade": "Grey & Black",
-    "description": "The dynamic medium grey. It reacts stable and dynamic in any light.",
-    "hex": "#81868b"
-  },
-  {
-    "name": "4320J terre d'ombre brûlée 59",
-    "shade": "Umber",
-    "description": "The dark burnt umber. Resembles mahogany. It can camouflage and hide.",
-    "hex": "#403c3a"
-  },
-  {
-    "name": "4320K bleu outremer 59",
-    "shade": "Blue",
-    "description": "The spectacular ultramarine. An impressive colour shade which moves worlds.",
-    "hex": "#3957a5"
-  },
-  {
-    "name": "4320L ocre jaune clair",
-    "shade": "Ochre & Yellow",
-    "description": "The golden ochre. A deep, powerful and very present colour tone.",
-    "hex": "#dbb07f"
-  },
-  {
-    "name": "4320M le rubis ",
-    "shade": "Red",
-    "description": "The ruby. It is darksome and shining, velvety, festive and luxurious.",
-    "hex": "#74393b"
-  },
-  {
-    "name": "4320N bleu céruléen 59",
-    "shade": "Blue",
-    "description": "Represents sky and sea. The colour shade is virtually infinitely combinable.",
-    "hex": "#7aa7cb"
-  },
-  {
-    "name": "4320O gris clair 59",
-    "shade": "Grey & Black",
-    "description": "The grey in the morning. Somewhat cool. The shade is receding in contrast to white.",
-    "hex": "#92969a"
-  },
-  {
-    "name": "4320P terre sienne claire 59",
-    "shade": "Ochre & Yellow",
-    "description": "The natural sienna ochre. Earthy, warm and softer than yellow.",
-    "hex": "#ddbf99"
-  },
-  {
-    "name": "4320R ombre naturelle 59",
-    "shade": "Umber",
-    "description": "The deeply dark natural umber. Camouflaging, emphasising other colours.",
-    "hex": "#45423e"
-  },
-  {
-    "name": "4320S orange vif",
-    "shade": "Orange",
-    "description": "The powerful orange. Saturated and energetic. It steps forward and unfolds bold effects.",
-    "hex": "#c45e3a"
-  },
-  {
-    "name": "4320T bleu outremer foncé",
-    "shade": "Blue",
-    "description": "The profound ultramarine blue. A fascinating shade which reflects infinity.",
-    "hex": "#313d6b"
-  },
-  {
-    "name": "4320U gris foncé 59",
-    "shade": "Grey & Black",
-    "description": "The dark grey. Strong, rich and close to a metallic effect.",
-    "hex": "#60646a"
-  },
-  {
-    "name": "4320W le jaune vif",
-    "shade": "Ochre & Yellow",
-    "description": "The yellow colour of the sun. It shines impressively in good light.",
-    "hex": "#f2bb1d"
-  }
+[
+    {
+        "name": "32001 blanc",
+        "shade": "White",
+        "description": "The cream white. Balanced, with stable aesthetics. The first mural ‘Velvet’ shade. ",
+        "hex": "#eadbc0"
+    },
+    {
+        "name": "32010 gris foncé 31",
+        "shade": "Grey & Black",
+        "description": "The iron grey. Soft, warm, expressive. The darkest shade of 1931.",
+        "hex": "#5e6061"
+    },
+    {
+        "name": "32011 gris 31",
+        "shade": "Grey & Black",
+        "description": "The medium grey. Elegant and restrained. It can place the walls into shadow.",
+        "hex": "#929494"
+    },
+    {
+        "name": "32012 gris moyen",
+        "shade": "Grey & Black",
+        "description": "The discreet grey. Natural, neutral, discreetly calm. The second ‘Velvet’ shade.",
+        "hex": "#a7a8a5"
+    },
+    {
+        "name": "32013 gris clair 31",
+        "shade": "Grey & Black",
+        "description": "The pearl grey. Weakly luminescent and airy. The third mural ‘Velvet’ shade.",
+        "hex": "#bcbbb6"
+    },
+    {
+        "name": "32020 bleu outremer 31",
+        "shade": "Blue",
+        "description": "The luminous ultramarin. Dynamic, imposing and much in demand.",
+        "hex": "#4d6aa8"
+    },
+    {
+        "name": "32021 outremer moyen",
+        "shade": "Blue",
+        "description": "The lucent sky blue. Like the sky on a clear, sunny day in summer.",
+        "hex": "#8fabc9"
+    },
+    {
+        "name": "32022 outremer clair",
+        "shade": "Blue",
+        "description": "The brightened ultramarine. A space atmosphere that loosens up. The first ‘Space’ shade.",
+        "hex": "#abbdc8"
+    },
+    {
+        "name": "32023 outremer pâle",
+        "shade": "Blue",
+        "description": "The light ultramarine. An atmosphere that recedes gently. The second ‘Space’ shade.",
+        "hex": "#b6c6ce"
+    },
+    {
+        "name": "32024 outremer gris",
+        "shade": "Blue",
+        "description": "The blue grey. The imagination. A restrained atmosphere. The third ‘Space’ shade.",
+        "hex": "#d9e1dd"
+    },
+    {
+        "name": "32030 bleu céruléen 31",
+        "shade": "Blue",
+        "description": "The powerful cerulean. Appears dynamic and attracts the attention.",
+        "hex": "#3e6e90"
+    },
+    {
+        "name": "32031 céruléen vif",
+        "shade": "Blue",
+        "description": "The luminous cerulean. Warm, sensual, Mediterranean. The colour tends towards the observer.",
+        "hex": "#679dae"
+    },
+    {
+        "name": "32032 céruléen moyen",
+        "shade": "Blue",
+        "description": "The summery sky. Static, does not come forward anymore. The first mural ‘Sky’ shade.",
+        "hex": "#8ab5ba"
+    },
+    {
+        "name": "32033 céruléen clair",
+        "shade": "Blue",
+        "description": "The sky reflected in the water. Subordinates itself. The second mural ‘Sky’ shade.",
+        "hex": "#a8c4c1"
+    },
+    {
+        "name": "32034 céruléen pâle",
+        "shade": "Blue",
+        "description": "The sky reflected in ocean waves. Somewhat greenish. The third mural ‘Sky’ colour shade.",
+        "hex": "#c6d5cc"
+    },
+    {
+        "name": "32040 vert anglais",
+        "shade": "Green",
+        "description": "The english green. Reminds of aristocracy, also of freshness of the forest.",
+        "hex": "#406e58"
+    },
+    {
+        "name": "32041 vert anglais clair",
+        "shade": "Green",
+        "description": "The slightly greyed english green. Like a discreet Verona green.",
+        "hex": "#91afa1"
+    },
+    {
+        "name": "32042 vert anglais pâle",
+        "shade": "Green",
+        "description": "The mild grey green. The colour shade links retentively to the landscape.",
+        "hex": "#becbb7"
+    },
+    {
+        "name": "32050 vert foncé",
+        "shade": "Green",
+        "description": "The rich brilliant green. A deep and very neutral green; expressing the summer.",
+        "hex": "#3e6f42"
+    },
+    {
+        "name": "32051 vert 31",
+        "shade": "Green",
+        "description": "The vernal green. Very expressive. The first tone of the ‘Scenery’ atmosphere.",
+        "hex": "#7fa25a"
+    },
+    {
+        "name": "32052 vert clair",
+        "shade": "Green",
+        "description": "The green of spring. Natural and fruitful. The second shade representing ‘Scenery’.",
+        "hex": "#abc17a"
+    },
+    {
+        "name": "32053 vert jaune clair",
+        "shade": "Green",
+        "description": "The pale green. Gentle, smooth and balanced. The third tone with the mural value of ‘Scenery’.",
+        "hex": "#c4d39b"
+    },
+    {
+        "name": "32060 ocre",
+        "shade": "Ochre & Yellow",
+        "description": "The natural sand. Restrained and very elegant. The first tone with mural value of ‘Sand’.",
+        "hex": "#eacfa6"
+    },
+    {
+        "name": "32080 orange",
+        "shade": "Orange",
+        "description": "The shiny orange. A dynamic, youthful and optimistic colour.",
+        "hex": "#d46c40"
+    },
+    {
+        "name": "32081 orange clair",
+        "shade": "Orange",
+        "description": "The orange apricot. A dynamic, touching and consistently attractive ton.",
+        "hex": "#dc8d67"
+    },
+    {
+        "name": "32082 orange pâle",
+        "shade": "Orange",
+        "description": "The sandy orange. Earthy, gentle and constructive. The second mural ‘Sand’ colour.",
+        "hex": "#eacfb9"
+    },
+    {
+        "name": "32090 rouge vermillon 31",
+        "shade": "Red",
+        "description": "The deep dynamic red. Or the luminescent vermilion red.",
+        "hex": "#9b3738"
+    },
+    {
+        "name": "32091 rose pâle",
+        "shade": "Red",
+        "description": "The gentle pink. Earthy, warm and restrained. The first shade with ‘Masonry’ significance.",
+        "hex": "#e6cdbf"
+    },
+    {
+        "name": "32100 rouge carmin",
+        "shade": "Red",
+        "description": "The noble carmine red. Steeped in history, dignified and brilliant. ",
+        "hex": "#8f3a43"
+    },
+    {
+        "name": "32101 rouge rubia",
+        "shade": "Red",
+        "description": "The artistic red. The tradition-rich red of famous painters.",
+        "hex": "#943a4d"
+    },
+    {
+        "name": "32102 rose clair",
+        "shade": "Red",
+        "description": "The bright pink. Or the medium dynamic rose.",
+        "hex": "#d6afa6"
+    },
+    {
+        "name": "32110 l'ocre rouge",
+        "shade": "Red ochre & Brown",
+        "description": "The red of ancient architecture. An earthy and deeply luminescent nuance. ",
+        "hex": "#8b4d3e"
+    },
+    {
+        "name": "32111 l'ocre rouge moyen",
+        "shade": "Red ochre & Brown",
+        "description": "The medium Terracotta. An earthy and warm tone, which emphasises comfort.",
+        "hex": "#cd9886"
+    },
+    {
+        "name": "32112 l'ocre rouge clair",
+        "shade": "Red ochre & Brown",
+        "description": "The bright red ochre. Earthy and stable. The second shade with ‘Masonry’ significance.",
+        "hex": "#dbbeaa"
+    },
+    {
+        "name": "32120 terre sienne brûlée 31",
+        "shade": "Red ochre & Brown",
+        "description": "The deeply burnt sienna. It fixes the wall impressively.",
+        "hex": "#68443c"
+    },
+    {
+        "name": "32121 terre sienne brique",
+        "shade": "Red ochre & Brown",
+        "description": "The light brick red. Suited for timeless colour combinations.",
+        "hex": "#b67b66"
+    },
+    {
+        "name": "32122 terre sienne claire 31",
+        "shade": "Red ochre & Brown",
+        "description": "The colour of the summery masonry. Loamy and soft. The third ‘Masonry’ shade.",
+        "hex": "#d8b29a"
+    },
+    {
+        "name": "32123 terre sienne pâle ",
+        "shade": "Red ochre & Brown",
+        "description": "The pale sienna. A sandy, discreet and stable colour shade.",
+        "hex": "#e2cbb5"
+    },
+    {
+        "name": "32130 terre d'ombre brûlée 31",
+        "shade": "Umber",
+        "description": "The marron. Deeply red brown, burnt. Like a chestnut.",
+        "hex": "#4c423d"
+    },
+    {
+        "name": "32131 ombre brûlée claire",
+        "shade": "Umber",
+        "description": "The burnt umber. An ideal background colour. The third shade with mural value of ‘Sand’.",
+        "hex": "#b7a392"
+    },
+    {
+        "name": "32140 ombre naturelle 31",
+        "shade": "Umber",
+        "description": "The dark natural umber. An elegant brown grey colour.",
+        "hex": "#5a5550"
+    },
+    {
+        "name": "32141 ombre naturelle moyenne",
+        "shade": "Umber",
+        "description": "The grey brown natural umber. A balanced, aesthetic and appealing colour.",
+        "hex": "#928a7e"
+    },
+    {
+        "name": "32142 ombre naturelle claire",
+        "shade": "Umber",
+        "description": "The discrete natural umber. As shadow colour, ideal for combinations.",
+        "hex": "#b7ac9d"
+    },
+    {
+        "name": "4320A rouge vermillon 59",
+        "shade": "Red",
+        "description": "The cinnabar red. A fiery shade which catches the eye and reduces the space.",
+        "hex": "#ac443a"
+    },
+    {
+        "name": "4320B blanc ivoire",
+        "shade": "White",
+        "description": "The ivory white. Elegant, charming, chalky. The calm background colour. ",
+        "hex": "#eae4d7"
+    },
+    {
+        "name": "4320C rose vif",
+        "shade": "Red",
+        "description": "The luminous pink. Less earthy and mostly used as complement to other luscious colours.",
+        "hex": "#dba3af"
+    },
+    {
+        "name": "4320D terre sienne brûlée 59",
+        "shade": "Red ochre & Brown",
+        "description": "The deep brown sienna. A burnt, rich, dynamic and stable colour tone. ",
+        "hex": "#744438"
+    },
+    {
+        "name": "4320E noir d'ivoire",
+        "shade": "Grey & Black",
+        "description": "The ivory black. Black as the night. Le Corbusier’s only, impressive black tone.",
+        "hex": "#3a3b3b"
+    },
+    {
+        "name": "4320F vert olive vif",
+        "shade": "Green",
+        "description": "The olive green. Green yellow or yellow green? A unique classic.",
+        "hex": "#b8a136"
+    },
+    {
+        "name": "4320G vert 59",
+        "shade": "Green",
+        "description": "The emerald green. A dynamic shade with luminous power.",
+        "hex": "#428f70"
+    },
+    {
+        "name": "4320H gris 59",
+        "shade": "Grey & Black",
+        "description": "The dynamic medium grey. It reacts stable and dynamic in any light.",
+        "hex": "#81868b"
+    },
+    {
+        "name": "4320J terre d'ombre brûlée 59",
+        "shade": "Umber",
+        "description": "The dark burnt umber. Resembles mahogany. It can camouflage and hide.",
+        "hex": "#403c3a"
+    },
+    {
+        "name": "4320K bleu outremer 59",
+        "shade": "Blue",
+        "description": "The spectacular ultramarine. An impressive colour shade which moves worlds.",
+        "hex": "#3957a5"
+    },
+    {
+        "name": "4320L ocre jaune clair",
+        "shade": "Ochre & Yellow",
+        "description": "The golden ochre. A deep, powerful and very present colour tone.",
+        "hex": "#dbb07f"
+    },
+    {
+        "name": "4320M le rubis ",
+        "shade": "Red",
+        "description": "The ruby. It is darksome and shining, velvety, festive and luxurious.",
+        "hex": "#74393b"
+    },
+    {
+        "name": "4320N bleu céruléen 59",
+        "shade": "Blue",
+        "description": "Represents sky and sea. The colour shade is virtually infinitely combinable.",
+        "hex": "#7aa7cb"
+    },
+    {
+        "name": "4320O gris clair 59",
+        "shade": "Grey & Black",
+        "description": "The grey in the morning. Somewhat cool. The shade is receding in contrast to white.",
+        "hex": "#92969a"
+    },
+    {
+        "name": "4320P terre sienne claire 59",
+        "shade": "Ochre & Yellow",
+        "description": "The natural sienna ochre. Earthy, warm and softer than yellow.",
+        "hex": "#ddbf99"
+    },
+    {
+        "name": "4320R ombre naturelle 59",
+        "shade": "Umber",
+        "description": "The deeply dark natural umber. Camouflaging, emphasising other colours.",
+        "hex": "#45423e"
+    },
+    {
+        "name": "4320S orange vif",
+        "shade": "Orange",
+        "description": "The powerful orange. Saturated and energetic. It steps forward and unfolds bold effects.",
+        "hex": "#c45e3a"
+    },
+    {
+        "name": "4320T bleu outremer foncé",
+        "shade": "Blue",
+        "description": "The profound ultramarine blue. A fascinating shade which reflects infinity.",
+        "hex": "#313d6b"
+    },
+    {
+        "name": "4320U gris foncé 59",
+        "shade": "Grey & Black",
+        "description": "The dark grey. Strong, rich and close to a metallic effect.",
+        "hex": "#60646a"
+    },
+    {
+        "name": "4320W le jaune vif",
+        "shade": "Ochre & Yellow",
+        "description": "The yellow colour of the sun. It shines impressively in good light.",
+        "hex": "#f2bb1d"
+    }
 ]
