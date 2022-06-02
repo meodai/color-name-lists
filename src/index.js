@@ -1,7 +1,6 @@
-const { on } = require('events');
 const fs = require('fs');
 const path = require('path');
-const libPath = path.join(__dirname, 'lib');
+const libPath = path.join(__dirname, '../lib');
 const directoryPath = path.join(libPath, 'colors');
 const descriptions = require(libPath + '/descriptions.json');
 

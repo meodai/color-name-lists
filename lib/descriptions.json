@@ -2,79 +2,79 @@
   "basic": {
     "title": "Basic",
     "description": "A set of basic colors.",
-    "data-source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
+    "source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
     "key": "basic"
   },
   "html": {
     "title": "HTML Colors",
     "description": "HTML color names",
-    "data-source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
+    "source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
     "key": "html"
   },
   "japanese-traditional": {
     "title": "Traditional Colors of Japan",
     "description": "The traditional colors of Japan are a collection of colors traditionally used in Japanese art, literature, textiles such as kimono, and other Japanese arts and crafts.",
-    "data-source": "https://en.wikipedia.org/wiki/Traditional_colors_of_Japan",
+    "source": "https://en.wikipedia.org/wiki/Traditional_colors_of_Japan",
     "key": "japanese-traditional"
   },
   "le-corbusier": {
     "title": "Le Corbusier",
     "description": "Architectural colours in Le Corbusier's colour system.",
-    "data-source": "https://www.lescouleurs.ch/en/the-colours/63-colours",
+    "source": "https://www.lescouleurs.ch/en/the-colours/63-colours",
     "key": "le-corbusier"
   },
   "ntc": {
     "title": "NTC.js",
     "description": "NTC.js color matching library names",
-    "data-source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
+    "source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
     "key": "ntc"
   },
   "osxcrayons": {
     "title": "OS X Crayons",
     "description": "OS X Crayons color names",
-    "data-source": "http://www.randomactsofsentience.com/2013/06/os-x-crayon-color-hex-table.html",
+    "source": "http://www.randomactsofsentience.com/2013/06/os-x-crayon-color-hex-table.html",
     "key": "osxcrayons"
   },
   "ral": {
     "title": "RAL Color",
     "description": "RAL color matching color names",
-    "data-source": "https://jpederson.com/colornerd/",
+    "source": "https://jpederson.com/colornerd/",
     "key": "ral"
   },
   "sanzo-wada-I": {
     "title": "Wada Sanzō Japanese Color Dictionary Volume I",
     "description": "Names from Wada Sanzō 和田 三造 Colors Dictionary volume I",
-    "data-source": "https://sanzo-wada.dmbk.io/",
+    "source": "https://sanzo-wada.dmbk.io/",
     "key": "sanzo-wada-I"
   },
   "werner": {
     "title": "Werner's Nomenclature of Colours",
     "description": "All colors from the book Werner's Nomenclature of Colours.",
-    "data-source": "https://www.c82.net/werner/",
+    "source": "https://www.c82.net/werner/",
     "key": "werner"
   },
   "windows": {
     "title": "Microsoft Windows Color Names",
     "description": "List of colors used in older microsoft windows systems",
-    "data-source": "https://docs.microsoft.com/en-us/dotnet/api/system.windows.media.colors?view=windowsdesktop-6.0",
+    "source": "https://docs.microsoft.com/en-us/dotnet/api/system.windows.media.colors?view=windowsdesktop-6.0",
     "key": "windows"
   },
   "wikipedia": {
     "title": "Wikipedia Color Names",
     "description": "List color names from wikipedia",
-    "data-source": "https://github.com/meodai/wikipedia-color-names",
+    "source": "https://github.com/meodai/wikipedia-color-names",
     "key": "wikipedia"
   },
   "x11": {
     "title": "X11 Color Names",
     "description": "Standard Xlib or the X11 protocol color names.",
-    "data-source": "https://en.wikipedia.org/wiki/X11_color_names",
+    "source": "https://en.wikipedia.org/wiki/X11_color_names",
     "key": "x11"
   },
   "xkcd": {
     "title": "XKCD Colors",
     "description": "The 954 most common RGB monitor colors, as defined by several hundred thousand participants in the xkcd color name survey.",
-    "data-source": "https://xkcd.com/color/rgb/",
+    "source": "https://xkcd.com/color/rgb/",
     "key": "xkcd"
   }
 }
