@@ -47,6 +47,12 @@
         "source": "https://sanzo-wada.dmbk.io/",
         "key": "sanzo-wada-I"
     },
+    "thesaurus": {
+        "title": "The Color Thesaurus",
+        "description": "The Color Thesaurus by Ingrid Sundberg",
+        "source": "https://ingridsnotes.wordpress.com/2014/02/04/the-color-thesaurus/",
+        "key": "thesaurus"
+    },
     "werner": {
         "title": "Werner's Nomenclature of Colours",
         "description": "All colors from the book Werner's Nomenclature of Colours.",
