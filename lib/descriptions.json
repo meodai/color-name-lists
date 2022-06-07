@@ -41,6 +41,12 @@
         "source": "https://jpederson.com/colornerd/",
         "key": "ral"
     },
+    "ridgway": {
+        "title": "Robert Ridgway's Color Standards and Color Nomenclature",
+        "description": "Color Nomenclature by Robert Ridgway (1850-1929) was published in Washignton, DC in 1912, it's part of the public domain in the USA. In August 31, 2020 was added to the Gutenberg Project.",
+        "source": "https://github.com/davo/Color-Standards-and-Color-Nomenclature",
+        "key": "ridgway"
+    },
     "sanzo-wada-I": {
         "title": "Wada Sanzō Japanese Color Dictionary Volume I",
         "description": "Names from Wada Sanzō 和田 三造 Colors Dictionary volume I",
