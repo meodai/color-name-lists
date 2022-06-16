@@ -1,6 +1,6 @@
 {
   "name": "color-name-lists",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "description": "A collection of color name lists",
   "main": "src/index.js",
   "directories": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/meodai/color-name-lists#readme",
   "dependencies": {
-    "wikipedia-color-names": "^1.6.1"
+    "wikipedia-color-names": "^1.6.2"
   },
   "devDependencies": {
     "path-browserify": "^1.0.1",

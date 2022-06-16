@@ -2375,6 +2375,13 @@
         }
       },
       {
+        "name": "Grenadier",
+        "hex": "#d34600",
+        "meta": {
+          "link": "https://en.wikipedia.org/wiki/Shades_of_red#Grenadier"
+        }
+      },
+      {
         "name": "Grullo",
         "hex": "#a99a86",
         "meta": {
@@ -5528,14 +5535,14 @@
         "name": "Teal",
         "hex": "#008080",
         "meta": {
-          "link": "https://en.wikipedia.org/wiki/Teal_(color)"
+          "link": "https://en.wikipedia.org/wiki/Teal"
         }
       },
       {
         "name": "Teal Blue",
         "hex": "#367588",
         "meta": {
-          "link": "https://en.wikipedia.org/wiki/Teal_(color)#Teal_blue"
+          "link": "https://en.wikipedia.org/wiki/Teal#Teal_blue"
         }
       },
       {
