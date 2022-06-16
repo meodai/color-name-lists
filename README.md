@@ -22,7 +22,7 @@ A set of basic colors.
 source: https://github.com/colorjs/color-namer/tree/master/lib/colors
 file: ./lib/colors/basic.json
 
-### HTML Colors
+### HTML Colors
 
 HTML color names
 
