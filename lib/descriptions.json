@@ -23,6 +23,12 @@
         "source": "https://www.lescouleurs.ch/en/the-colours/63-colours",
         "key": "le-corbusier"
     },
+    "nbs-iscc": {
+        "title": "The Universal Color Language",
+        "description": "ISCC–NBS System of Color Designation: Naming system for colors based on a set of 12 basic color terms and a small set of adjective modifiers.",
+        "source": "https://web.archive.org/web/20121103030619/http://tx4.us/nbs-iscc.htm",
+        "key": "nbs-iscc"
+    },
     "ntc": {
         "title": "NTC.js",
         "description": "NTC.js color matching library names",

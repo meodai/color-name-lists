@@ -1409,6 +1409,13 @@
         }
       },
       {
+        "name": "Drab Dark Brown",
+        "hex": "#4a412a",
+        "meta": {
+          "link": "https://en.wikipedia.org/wiki/Pantone_448_C"
+        }
+      },
+      {
         "name": "Duke Blue",
         "hex": "#00009c",
         "meta": {
@@ -31019,6 +31026,1076 @@
         }
       }
     ],
+    "nbsIscc": [
+      {
+        "name": "Vivid Pink",
+        "hex": "#FFB5BA"
+      },
+      {
+        "name": "Strong Pink",
+        "hex": "#EA9399"
+      },
+      {
+        "name": "Deep Pink",
+        "hex": "#E4717A"
+      },
+      {
+        "name": "Light Pink",
+        "hex": "#F9CCCA"
+      },
+      {
+        "name": "Moderate Pink",
+        "hex": "#DEA5A4"
+      },
+      {
+        "name": "Dark Pink",
+        "hex": "#C08081"
+      },
+      {
+        "name": "Pale Pink",
+        "hex": "#EAD8D7"
+      },
+      {
+        "name": "Grayish Pink",
+        "hex": "#C4AEAD"
+      },
+      {
+        "name": "Pinkish White",
+        "hex": "#EAE3E1"
+      },
+      {
+        "name": "Pinkish Gray",
+        "hex": "#C1B6B3"
+      },
+      {
+        "name": "Vivid Red",
+        "hex": "#BE0032"
+      },
+      {
+        "name": "Strong Red",
+        "hex": "#BC3F4A"
+      },
+      {
+        "name": "Deep Red",
+        "hex": "#841B2D"
+      },
+      {
+        "name": "Very Deep Red",
+        "hex": "#5C0923"
+      },
+      {
+        "name": "Moderate Red",
+        "hex": "#AB4E52"
+      },
+      {
+        "name": "Dark Red",
+        "hex": "#722F37"
+      },
+      {
+        "name": "Very Dark Red",
+        "hex": "#3F1728"
+      },
+      {
+        "name": "Light Grayish Red",
+        "hex": "#AD8884"
+      },
+      {
+        "name": "Grayish Red",
+        "hex": "#905D5D"
+      },
+      {
+        "name": "Dark Grayish Red",
+        "hex": "#543D3F"
+      },
+      {
+        "name": "Blackish Red",
+        "hex": "#2E1D21"
+      },
+      {
+        "name": "Reddish Gray",
+        "hex": "#8F817F"
+      },
+      {
+        "name": "Dark Reddish Gray",
+        "hex": "#5C504F"
+      },
+      {
+        "name": "Reddish Black",
+        "hex": "#282022"
+      },
+      {
+        "name": "Vivid Yellowish Pink",
+        "hex": "#FFB7A5"
+      },
+      {
+        "name": "Strong Yellowish Pink",
+        "hex": "#F99379"
+      },
+      {
+        "name": "Deep Yellowish Pink",
+        "hex": "#E66761"
+      },
+      {
+        "name": "Light Yellowish Pink",
+        "hex": "#F4C2C2"
+      },
+      {
+        "name": "Moderate Yellowish Pink",
+        "hex": "#D9A6A9"
+      },
+      {
+        "name": "Dark Yellowish Pink",
+        "hex": "#C48379"
+      },
+      {
+        "name": "Pale Yellowish Pink",
+        "hex": "#ECD5C5"
+      },
+      {
+        "name": "Grayish Yellowish Pink",
+        "hex": "#C7ADA3"
+      },
+      {
+        "name": "Brownish Pink",
+        "hex": "#C2AC99"
+      },
+      {
+        "name": "Vivid Reddish Orange",
+        "hex": "#E25822"
+      },
+      {
+        "name": "Strong Reddish Orange",
+        "hex": "#D9603B"
+      },
+      {
+        "name": "Deep Reddish Orange",
+        "hex": "#AA381E"
+      },
+      {
+        "name": "Moderate Reddish Orange",
+        "hex": "#CB6D51"
+      },
+      {
+        "name": "Dark Reddish Orange",
+        "hex": "#9E4732"
+      },
+      {
+        "name": "Grayish Reddish Orange",
+        "hex": "#B4745E"
+      },
+      {
+        "name": "Strong Reddish Brown",
+        "hex": "#882D17"
+      },
+      {
+        "name": "Deep Reddish Brown",
+        "hex": "#56070C"
+      },
+      {
+        "name": "Light Reddish Brown",
+        "hex": "#A87C6D"
+      },
+      {
+        "name": "Moderate Reddish Brown",
+        "hex": "#79443B"
+      },
+      {
+        "name": "Dark Reddish Brown",
+        "hex": "#3E1D1E"
+      },
+      {
+        "name": "Light Grayish Reddish Brown",
+        "hex": "#977F73"
+      },
+      {
+        "name": "Grayish Reddish Brown",
+        "hex": "#674C47"
+      },
+      {
+        "name": "Dark Grayish Reddish Brown",
+        "hex": "#43302E"
+      },
+      {
+        "name": "Vivid Orange",
+        "hex": "#F38400"
+      },
+      {
+        "name": "Brilliant Orange",
+        "hex": "#FD943F"
+      },
+      {
+        "name": "Strong Orange",
+        "hex": "#ED872D"
+      },
+      {
+        "name": "Deep Orange",
+        "hex": "#BE6516"
+      },
+      {
+        "name": "Light Orange",
+        "hex": "#FAB57F"
+      },
+      {
+        "name": "Moderate Orange",
+        "hex": "#D99058"
+      },
+      {
+        "name": "Brownish Orange",
+        "hex": "#AE6938"
+      },
+      {
+        "name": "Strong Brown",
+        "hex": "#80461B"
+      },
+      {
+        "name": "Deep Brown",
+        "hex": "#593319"
+      },
+      {
+        "name": "Light Brown",
+        "hex": "#A67B5B"
+      },
+      {
+        "name": "Moderate Brown",
+        "hex": "#6F4E37"
+      },
+      {
+        "name": "Dark Brown",
+        "hex": "#422518"
+      },
+      {
+        "name": "Light Grayish Brown",
+        "hex": "#958070"
+      },
+      {
+        "name": "Grayish Brown",
+        "hex": "#635147"
+      },
+      {
+        "name": "Dark Grayish Brown",
+        "hex": "#3E322C"
+      },
+      {
+        "name": "Light Brownish Gray",
+        "hex": "#8E8279"
+      },
+      {
+        "name": "Brownish Gray",
+        "hex": "#5B504F"
+      },
+      {
+        "name": "Brownish Black",
+        "hex": "#28201C"
+      },
+      {
+        "name": "Vivid Orange Yellow",
+        "hex": "#F6A600"
+      },
+      {
+        "name": "Brilliant Orange Yellow",
+        "hex": "#FFC14F"
+      },
+      {
+        "name": "Strong Orange Yellow",
+        "hex": "#EAA221"
+      },
+      {
+        "name": "Deep Orange Yellow",
+        "hex": "#C98500"
+      },
+      {
+        "name": "Light Orange Yellow",
+        "hex": "#FBC97F"
+      },
+      {
+        "name": "Moderate Orange Yellow",
+        "hex": "#E3A857"
+      },
+      {
+        "name": "Dark Orange Yellow",
+        "hex": "#BE8A3D"
+      },
+      {
+        "name": "Pale Orange Yellow",
+        "hex": "#FAD6A5"
+      },
+      {
+        "name": "Strong Yellowish Brown",
+        "hex": "#996515"
+      },
+      {
+        "name": "Deep Yellowish Brown",
+        "hex": "#654522"
+      },
+      {
+        "name": "Light Yellowish Brown",
+        "hex": "#C19A6B"
+      },
+      {
+        "name": "Moderate Yellowish Brown",
+        "hex": "#826644"
+      },
+      {
+        "name": "Dark Yellowish Brown",
+        "hex": "#4B3621"
+      },
+      {
+        "name": "Light Grayish Yellowish Brown",
+        "hex": "#AE9B82"
+      },
+      {
+        "name": "Grayish Yellowish Brown",
+        "hex": "#7E6D5A"
+      },
+      {
+        "name": "Dark Grayish Yellowish Brown",
+        "hex": "#483C32"
+      },
+      {
+        "name": "Vivid Yellow",
+        "hex": "#F3C300"
+      },
+      {
+        "name": "Brilliant Yellow",
+        "hex": "#FADA5E"
+      },
+      {
+        "name": "Strong Yellow",
+        "hex": "#D4AF37"
+      },
+      {
+        "name": "Deep Yellow",
+        "hex": "#AF8D13"
+      },
+      {
+        "name": "Light Yellow",
+        "hex": "#F8DE7E"
+      },
+      {
+        "name": "Moderate Yellow",
+        "hex": "#C9AE5D"
+      },
+      {
+        "name": "Dark Yellow",
+        "hex": "#AB9144"
+      },
+      {
+        "name": "Pale Yellow",
+        "hex": "#F3E5AB"
+      },
+      {
+        "name": "Grayish Yellow",
+        "hex": "#C2B280"
+      },
+      {
+        "name": "Dark Grayish Yellow",
+        "hex": "#A18F60"
+      },
+      {
+        "name": "Yellowish White",
+        "hex": "#F0EAD6"
+      },
+      {
+        "name": "Yellowish Gray",
+        "hex": "#BFB8A5"
+      },
+      {
+        "name": "Light Olive Brown",
+        "hex": "#967117"
+      },
+      {
+        "name": "Moderate Olive Brown",
+        "hex": "#6C541E"
+      },
+      {
+        "name": "Dark Olive Brown",
+        "hex": "#3B3121"
+      },
+      {
+        "name": "Vivid Greenish Yellow",
+        "hex": "#DCD300"
+      },
+      {
+        "name": "Brilliant Greenish Yellow",
+        "hex": "#E9E450"
+      },
+      {
+        "name": "Strong Greenish Yellow",
+        "hex": "#BEB72E"
+      },
+      {
+        "name": "Deep Greenish Yellow",
+        "hex": "#9B9400"
+      },
+      {
+        "name": "Light Greenish Yellow",
+        "hex": "#EAE679"
+      },
+      {
+        "name": "Moderate Greenish Yellow",
+        "hex": "#B9B459"
+      },
+      {
+        "name": "Dark Greenish Yellow",
+        "hex": "#98943E"
+      },
+      {
+        "name": "Pale Greenish Yellow",
+        "hex": "#EBE8A4"
+      },
+      {
+        "name": "Grayish Greenish Yellow",
+        "hex": "#B9B57D"
+      },
+      {
+        "name": "Light Olive",
+        "hex": "#867E36"
+      },
+      {
+        "name": "Moderate Olive",
+        "hex": "#665D1E"
+      },
+      {
+        "name": "Dark Olive",
+        "hex": "#403D21"
+      },
+      {
+        "name": "Light Grayish Olive",
+        "hex": "#8C8767"
+      },
+      {
+        "name": "Grayish Olive",
+        "hex": "#5B5842"
+      },
+      {
+        "name": "Dark Grayish Olive",
+        "hex": "#363527"
+      },
+      {
+        "name": "Light Olive Gray",
+        "hex": "#8A8776"
+      },
+      {
+        "name": "Olive Gray",
+        "hex": "#57554C"
+      },
+      {
+        "name": "Olive Black",
+        "hex": "#25241D"
+      },
+      {
+        "name": "Vivid Yellow Green",
+        "hex": "#8DB600"
+      },
+      {
+        "name": "Brilliant Yellow Green",
+        "hex": "#BDDA57"
+      },
+      {
+        "name": "Strong Yellow Green",
+        "hex": "#7E9F2E"
+      },
+      {
+        "name": "Deep Yellow Green",
+        "hex": "#467129"
+      },
+      {
+        "name": "Light Yellow Green",
+        "hex": "#C9DC89"
+      },
+      {
+        "name": "Moderate Yellow Green",
+        "hex": "#8A9A5B"
+      },
+      {
+        "name": "Pale Yellow Green",
+        "hex": "#DADFB7"
+      },
+      {
+        "name": "Grayish Yellow Green",
+        "hex": "#8F9779"
+      },
+      {
+        "name": "Strong Olive Green",
+        "hex": "#404F00"
+      },
+      {
+        "name": "Deep Olive Green",
+        "hex": "#232F00"
+      },
+      {
+        "name": "Moderate Olive Green",
+        "hex": "#4A5D23"
+      },
+      {
+        "name": "Dark Olive Green",
+        "hex": "#2B3D26"
+      },
+      {
+        "name": "Grayish Olive Green",
+        "hex": "#515744"
+      },
+      {
+        "name": "Dark Grayish Olive Green",
+        "hex": "#31362B"
+      },
+      {
+        "name": "Vivid Yellowish Green see #115",
+        "hex": "#27A64C"
+      },
+      {
+        "name": "Brilliant Yellowish Green",
+        "hex": "#83D37D"
+      },
+      {
+        "name": "Strong Yellowish Green",
+        "hex": "#44944A"
+      },
+      {
+        "name": "Deep Yellowish Green",
+        "hex": "#00622D"
+      },
+      {
+        "name": "Very Deep Yellowish Green",
+        "hex": "#003118"
+      },
+      {
+        "name": "Very Light Yellowish Green",
+        "hex": "#B6E5AF"
+      },
+      {
+        "name": "Light Yellowish Green",
+        "hex": "#93C592"
+      },
+      {
+        "name": "Moderate Yellowish Green",
+        "hex": "#679267"
+      },
+      {
+        "name": "Dark Yellowish Green",
+        "hex": "#355E3B"
+      },
+      {
+        "name": "Very Dark Yellowish Green",
+        "hex": "#173620"
+      },
+      {
+        "name": "Vivid Green",
+        "hex": "#008856"
+      },
+      {
+        "name": "Brilliant Green",
+        "hex": "#3EB489"
+      },
+      {
+        "name": "Strong Green",
+        "hex": "#007959"
+      },
+      {
+        "name": "Deep Green",
+        "hex": "#00543D"
+      },
+      {
+        "name": "Very Light Green",
+        "hex": "#8ED1B2"
+      },
+      {
+        "name": "Light Green",
+        "hex": "#6AAB8E"
+      },
+      {
+        "name": "Moderate Green",
+        "hex": "#3B7861"
+      },
+      {
+        "name": "Dark Green",
+        "hex": "#1B4D3E"
+      },
+      {
+        "name": "Very Dark Green",
+        "hex": "#1C352D"
+      },
+      {
+        "name": "Very Pale Green",
+        "hex": "#C7E6D7"
+      },
+      {
+        "name": "Pale Green",
+        "hex": "#8DA399"
+      },
+      {
+        "name": "Grayish Green",
+        "hex": "#5E716A"
+      },
+      {
+        "name": "Dark Grayish Green",
+        "hex": "#3A4B47"
+      },
+      {
+        "name": "Blackish Green",
+        "hex": "#1A2421"
+      },
+      {
+        "name": "Greenish White",
+        "hex": "#DFEDE8"
+      },
+      {
+        "name": "Light Greenish Gray",
+        "hex": "#B2BEB5"
+      },
+      {
+        "name": "Greenish Gray",
+        "hex": "#7D8984"
+      },
+      {
+        "name": "Dark Greenish Gray",
+        "hex": "#4E5755"
+      },
+      {
+        "name": "Greenish Black",
+        "hex": "#1E2321"
+      },
+      {
+        "name": "Vivid Bluish Green",
+        "hex": "#008882"
+      },
+      {
+        "name": "Brilliant Bluish Green",
+        "hex": "#00A693"
+      },
+      {
+        "name": "Strong Bluish Green",
+        "hex": "#007A74"
+      },
+      {
+        "name": "Deep Bluish Green",
+        "hex": "#00443F"
+      },
+      {
+        "name": "Very Light Bluish Green",
+        "hex": "#96DED1"
+      },
+      {
+        "name": "Light Bluish Green",
+        "hex": "#66ADA4"
+      },
+      {
+        "name": "Moderate Bluish Green",
+        "hex": "#317873"
+      },
+      {
+        "name": "Dark Bluish Green",
+        "hex": "#004B49"
+      },
+      {
+        "name": "Very Dark Bluish Green",
+        "hex": "#002A29"
+      },
+      {
+        "name": "Vivid Greenish Blue",
+        "hex": "#0085A1"
+      },
+      {
+        "name": "Brilliant Greenish Blue",
+        "hex": "#239EBA"
+      },
+      {
+        "name": "Strong Greenish Blue",
+        "hex": "#007791"
+      },
+      {
+        "name": "Deep Greenish Blue",
+        "hex": "#2E8495"
+      },
+      {
+        "name": "Very Light Greenish Blue",
+        "hex": "#9CD1DC"
+      },
+      {
+        "name": "Light Greenish Blue",
+        "hex": "#66AABC"
+      },
+      {
+        "name": "Moderate Greenish Blue",
+        "hex": "#367588"
+      },
+      {
+        "name": "Dark Greenish Blue",
+        "hex": "#004958"
+      },
+      {
+        "name": "Very Dark Greenish Blue",
+        "hex": "#002E3B"
+      },
+      {
+        "name": "Vivid Blue, ultramarine",
+        "hex": "#00A1C2"
+      },
+      {
+        "name": "Brilliant Blue, celestial blue",
+        "hex": "#4997D0"
+      },
+      {
+        "name": "Strong Blue, bright blue",
+        "hex": "#0067A5"
+      },
+      {
+        "name": "Deep Blue, royal blue",
+        "hex": "#00416A"
+      },
+      {
+        "name": "Very Light Blue, baby blue",
+        "hex": "#A1CAF1"
+      },
+      {
+        "name": "Light Blue, sky blue",
+        "hex": "#70A3CC"
+      },
+      {
+        "name": "Moderate Blue, cerulean blue",
+        "hex": "#436B95"
+      },
+      {
+        "name": "Dark Blue, navy blue",
+        "hex": "#00304E"
+      },
+      {
+        "name": "Very Pale Blue, cloud blue",
+        "hex": "#BCD4E6"
+      },
+      {
+        "name": "Pale Blue, alice blue",
+        "hex": "#91A3B0"
+      },
+      {
+        "name": "Grayish Blue, slate blue",
+        "hex": "#536878"
+      },
+      {
+        "name": "Dark Grayish Blue",
+        "hex": "#36454F"
+      },
+      {
+        "name": "Blackish Blue",
+        "hex": "#202830"
+      },
+      {
+        "name": "Bluish White",
+        "hex": "#E9E9ED"
+      },
+      {
+        "name": "Light Bluish Gray",
+        "hex": "#B4BCC0"
+      },
+      {
+        "name": "Bluish Gray",
+        "hex": "#81878B"
+      },
+      {
+        "name": "Dark Bluish Gray",
+        "hex": "#51585E"
+      },
+      {
+        "name": "Bluish Black",
+        "hex": "#202428"
+      },
+      {
+        "name": "Vivid Purplish Blue",
+        "hex": "#30267A"
+      },
+      {
+        "name": "Brilliant Purplish Blue",
+        "hex": "#6C79B8"
+      },
+      {
+        "name": "Strong Purplish Blue",
+        "hex": "#545AA7"
+      },
+      {
+        "name": "Deep Purplish Blue",
+        "hex": "#272458"
+      },
+      {
+        "name": "Very Light Purplish Blue",
+        "hex": "#B3BCE2"
+      },
+      {
+        "name": "Light Purplish Blue",
+        "hex": "#8791BF"
+      },
+      {
+        "name": "Moderate Purplish Blue",
+        "hex": "#4E5180"
+      },
+      {
+        "name": "Dark Purplish Blue",
+        "hex": "#252440"
+      },
+      {
+        "name": "Very Pale Purplish Blue",
+        "hex": "#C0C8E1"
+      },
+      {
+        "name": "Pale Purplish Blue",
+        "hex": "#8C92AC"
+      },
+      {
+        "name": "Grayish Purplish Blue",
+        "hex": "#4C516D"
+      },
+      {
+        "name": "Vivid Violet",
+        "hex": "#9065CA"
+      },
+      {
+        "name": "Brilliant Violet",
+        "hex": "#7E73B8"
+      },
+      {
+        "name": "Strong Violet",
+        "hex": "#604E97"
+      },
+      {
+        "name": "Deep Violet",
+        "hex": "#32174D"
+      },
+      {
+        "name": "Very Light Violet",
+        "hex": "#DCD0FF"
+      },
+      {
+        "name": "Light Violet",
+        "hex": "#8C82B6"
+      },
+      {
+        "name": "Moderate Violet",
+        "hex": "#604E81"
+      },
+      {
+        "name": "Dark Violet",
+        "hex": "#2F2140"
+      },
+      {
+        "name": "Very Pale Violet",
+        "hex": "#C4C3DD"
+      },
+      {
+        "name": "Pale Violet",
+        "hex": "#9690AB"
+      },
+      {
+        "name": "Grayish Violet",
+        "hex": "#554C69"
+      },
+      {
+        "name": "Vivid Purple",
+        "hex": "#9A4EAE"
+      },
+      {
+        "name": "Brilliant Purple",
+        "hex": "#D399E6"
+      },
+      {
+        "name": "Strong Purple",
+        "hex": "#875692"
+      },
+      {
+        "name": "Deep Purple",
+        "hex": "#602F6B"
+      },
+      {
+        "name": "Very Deep Purple",
+        "hex": "#401A4C"
+      },
+      {
+        "name": "Very Light Purple",
+        "hex": "#D5BADB"
+      },
+      {
+        "name": "Light Purple",
+        "hex": "#B695C0"
+      },
+      {
+        "name": "Moderate Purple",
+        "hex": "#86608E"
+      },
+      {
+        "name": "Dark Purple",
+        "hex": "#563C5C"
+      },
+      {
+        "name": "Very Dark Purple",
+        "hex": "#301934"
+      },
+      {
+        "name": "Very Pale Purple",
+        "hex": "#D6CADD"
+      },
+      {
+        "name": "Pale Purple",
+        "hex": "#AA98A9"
+      },
+      {
+        "name": "Grayish Purple",
+        "hex": "#796878"
+      },
+      {
+        "name": "Dark Grayish Purple",
+        "hex": "#50404D"
+      },
+      {
+        "name": "Blackish Purple",
+        "hex": "#291E29"
+      },
+      {
+        "name": "Purplish White",
+        "hex": "#E8E3E5"
+      },
+      {
+        "name": "Light Purplish Gray",
+        "hex": "#BFB9BD"
+      },
+      {
+        "name": "Purplish Gray",
+        "hex": "#8B8589"
+      },
+      {
+        "name": "Dark Purplish Gray",
+        "hex": "#5D555B"
+      },
+      {
+        "name": "Purplish Black",
+        "hex": "#242124"
+      },
+      {
+        "name": "Vivid Reddish Purple",
+        "hex": "#870074"
+      },
+      {
+        "name": "Strong Reddish Purple",
+        "hex": "#9E4F88"
+      },
+      {
+        "name": "Deep Reddish Purple",
+        "hex": "#702963"
+      },
+      {
+        "name": "Very Deep Reddish Purple",
+        "hex": "#54194E"
+      },
+      {
+        "name": "Light Reddish Purple",
+        "hex": "#B784A7"
+      },
+      {
+        "name": "Moderate Reddish Purple",
+        "hex": "#915C83"
+      },
+      {
+        "name": "Dark Reddish Purple",
+        "hex": "#5D3954"
+      },
+      {
+        "name": "Very Dark Reddish Purple",
+        "hex": "#341731"
+      },
+      {
+        "name": "Pale Reddish Purple",
+        "hex": "#AA8A9E"
+      },
+      {
+        "name": "Grayish Reddish Purple",
+        "hex": "#836479"
+      },
+      {
+        "name": "Brilliant Purplish Pink",
+        "hex": "#FFC8D6"
+      },
+      {
+        "name": "Strong Purplish Pink",
+        "hex": "#E68FAC"
+      },
+      {
+        "name": "Deep Purplish Pink",
+        "hex": "#DE6FA1"
+      },
+      {
+        "name": "Light Purplish Pink",
+        "hex": "#EFBBCC"
+      },
+      {
+        "name": "Moderate Purplish Pink",
+        "hex": "#D597AE"
+      },
+      {
+        "name": "Dark Purplish Pink",
+        "hex": "#C17E91"
+      },
+      {
+        "name": "Pale Purplish Pink",
+        "hex": "#E8CCD7"
+      },
+      {
+        "name": "Grayish Purplish Pink",
+        "hex": "#C3A6B1"
+      },
+      {
+        "name": "Vivid Purplish Red",
+        "hex": "#CE4676"
+      },
+      {
+        "name": "Strong Purplish Red",
+        "hex": "#B3446C"
+      },
+      {
+        "name": "Deep Purplish Red",
+        "hex": "#78184A"
+      },
+      {
+        "name": "Very Deep Purplish Red",
+        "hex": "#54133B"
+      },
+      {
+        "name": "Moderate Purplish Red",
+        "hex": "#A8516E"
+      },
+      {
+        "name": "Dark Purplish Red",
+        "hex": "#673147"
+      },
+      {
+        "name": "Very Dark Purplish Red",
+        "hex": "#38152C"
+      },
+      {
+        "name": "Light Grayish Purplish Red",
+        "hex": "#AF868E"
+      },
+      {
+        "name": "Grayish Purplish Red",
+        "hex": "#915F6D"
+      },
+      {
+        "name": "White",
+        "hex": "#F2F3F4"
+      },
+      {
+        "name": "Light Gray",
+        "hex": "#B9B8B5"
+      },
+      {
+        "name": "Medium Gray",
+        "hex": "#848482"
+      },
+      {
+        "name": "Dark Gray",
+        "hex": "#555555"
+      },
+      {
+        "name": "Black",
+        "hex": "#222222"
+      }
+    ],
     "ntc": [
       {
         "name": "Black",
@@ -53656,6 +54733,12 @@
       "description": "Architectural colours in Le Corbusier's colour system.",
       "source": "https://www.lescouleurs.ch/en/the-colours/63-colours",
       "key": "leCorbusier"
+    },
+    "nbsIscc": {
+      "title": "The Universal Color Language",
+      "description": "ISCC–NBS System of Color Designation: Naming system for colors based on a set of 12 basic color terms and a small set of adjective modifiers.",
+      "source": "https://web.archive.org/web/20121103030619/http://tx4.us/nbs-iscc.htm",
+      "key": "nbsIscc"
     },
     "ntc": {
       "title": "NTC.js",
