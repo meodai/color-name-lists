@@ -2,7 +2,7 @@
     {
         "RAL": "RAL 1000",
         "RGB": "190-189-127",
-        "HEX": "#BEBD7F",
+        "HEX": "#bebd7f",
         "German": "Grünbeige",
         "English": "Green beige",
         "name": "Green beige",
@@ -14,7 +14,7 @@
     {
         "RAL": "RAL 1001",
         "RGB": "194-176-120",
-        "HEX": "#C2B078",
+        "HEX": "#c2b078",
         "German": "Beige",
         "English": "Beige",
         "name": "Beige",
@@ -26,7 +26,7 @@
     {
         "RAL": "RAL 1002",
         "RGB": "198-166-100",
-        "HEX": "#C6A664",
+        "HEX": "#c6a664",
         "German": "Sandgelb",
         "English": "Sand yellow",
         "name": "Sand yellow",
@@ -38,7 +38,7 @@
     {
         "RAL": "RAL 1003",
         "RGB": "229-190-001",
-        "HEX": "#E5BE01",
+        "HEX": "#e5be01",
         "German": "Signalgelb",
         "English": "Signal yellow",
         "name": "Signal yellow",
@@ -50,7 +50,7 @@
     {
         "RAL": "RAL 1004",
         "RGB": "205-164-052",
-        "HEX": "#CDA434",
+        "HEX": "#cda434",
         "German": "Goldgelb",
         "English": "Golden yellow",
         "name": "Golden yellow",
@@ -62,7 +62,7 @@
     {
         "RAL": "RAL 1005",
         "RGB": "169-131-007",
-        "HEX": "#A98307",
+        "HEX": "#a98307",
         "German": "Honiggelb",
         "English": "Honey yellow",
         "name": "Honey yellow",
@@ -74,7 +74,7 @@
     {
         "RAL": "RAL 1006",
         "RGB": "228-160-016",
-        "HEX": "#E4A010",
+        "HEX": "#e4a010",
         "German": "Maisgelb",
         "English": "Maize yellow",
         "name": "Maize yellow",
@@ -86,7 +86,7 @@
     {
         "RAL": "RAL 1007",
         "RGB": "220-156-000",
-        "HEX": "#DC9D00",
+        "HEX": "#dc9d00",
         "German": "Narzissengelb",
         "English": "Daffodil yellow",
         "name": "Daffodil yellow",
@@ -98,7 +98,7 @@
     {
         "RAL": "RAL 1011",
         "RGB": "138-102-066",
-        "HEX": "#8A6642",
+        "HEX": "#8a6642",
         "German": "Braunbeige",
         "English": "Brown beige",
         "name": "Brown beige",
@@ -110,7 +110,7 @@
     {
         "RAL": "RAL 1012",
         "RGB": "199-180-070",
-        "HEX": "#C7B446",
+        "HEX": "#c7b446",
         "German": "Zitronengelb",
         "English": "Lemon yellow",
         "name": "Lemon yellow",
@@ -122,7 +122,7 @@
     {
         "RAL": "RAL 1013",
         "RGB": "234-230-202",
-        "HEX": "#EAE6CA",
+        "HEX": "#eae6ca",
         "German": "Perlweiß",
         "English": "Oyster white",
         "name": "Oyster white",
@@ -134,7 +134,7 @@
     {
         "RAL": "RAL 1014",
         "RGB": "225-204-079",
-        "HEX": "#E1CC4F",
+        "HEX": "#e1cc4f",
         "German": "Elfenbein",
         "English": "Ivory",
         "name": "Ivory",
@@ -146,7 +146,7 @@
     {
         "RAL": "RAL 1015",
         "RGB": "230-214-144",
-        "HEX": "#E6D690",
+        "HEX": "#e6d690",
         "German": "Hellelfenbein",
         "English": "Light ivory",
         "name": "Light ivory",
@@ -158,7 +158,7 @@
     {
         "RAL": "RAL 1016",
         "RGB": "237-255-033",
-        "HEX": "#EDFF21",
+        "HEX": "#edff21",
         "German": "Schwefelgelb",
         "English": "Sulfur yellow",
         "name": "Sulfur yellow",
@@ -170,7 +170,7 @@
     {
         "RAL": "RAL 1017",
         "RGB": "245-208-051",
-        "HEX": "#F5D033",
+        "HEX": "#f5d033",
         "German": "Safrangelb",
         "English": "Saffron yellow",
         "name": "Saffron yellow",
@@ -182,7 +182,7 @@
     {
         "RAL": "RAL 1018",
         "RGB": "248-243-053",
-        "HEX": "#F8F32B",
+        "HEX": "#f8f32b",
         "German": "Zinkgelb",
         "English": "Zinc yellow",
         "name": "Zinc yellow",
@@ -194,7 +194,7 @@
     {
         "RAL": "RAL 1019",
         "RGB": "158-151-100",
-        "HEX": "#9E9764",
+        "HEX": "#9e9764",
         "German": "Graubeige",
         "English": "Grey beige",
         "name": "Grey beige",
@@ -218,7 +218,7 @@
     {
         "RAL": "RAL 1021",
         "RGB": "243-218-011",
-        "HEX": "#F3DA0B",
+        "HEX": "#f3da0b",
         "German": "Rapsgelb",
         "English": "Rape yellow",
         "name": "Rape yellow",
@@ -230,7 +230,7 @@
     {
         "RAL": "RAL 1023",
         "RGB": "250-210-001",
-        "HEX": "#FAD201",
+        "HEX": "#fad201",
         "German": "Verkehrsgelb",
         "English": "Traffic yellow",
         "name": "Traffic yellow",
@@ -242,7 +242,7 @@
     {
         "RAL": "RAL 1024",
         "RGB": "174-160-075",
-        "HEX": "#AEA04B",
+        "HEX": "#aea04b",
         "German": "Ockergelb",
         "English": "Ochre yellow",
         "name": "Ochre yellow",
@@ -254,7 +254,7 @@
     {
         "RAL": "RAL 1026",
         "RGB": "255-255-000",
-        "HEX": "#FFFF00",
+        "HEX": "#ffff00",
         "German": "Leuchtgelb",
         "English": "Luminous yellow",
         "name": "Luminous yellow",
@@ -266,7 +266,7 @@
     {
         "RAL": "RAL 1027",
         "RGB": "157-145-001",
-        "HEX": "#9D9101",
+        "HEX": "#9d9101",
         "German": "Currygelb",
         "English": "Curry",
         "name": "Curry",
@@ -278,7 +278,7 @@
     {
         "RAL": "RAL 1028",
         "RGB": "244-169-000",
-        "HEX": "#F4A900",
+        "HEX": "#f4a900",
         "German": "Melonengelb",
         "English": "Melon yellow",
         "name": "Melon yellow",
@@ -290,7 +290,7 @@
     {
         "RAL": "RAL 1032",
         "RGB": "214-174-001",
-        "HEX": "#D6AE01",
+        "HEX": "#d6ae01",
         "German": "Ginstergelb",
         "English": "Broom yellow",
         "name": "Broom yellow",
@@ -302,7 +302,7 @@
     {
         "RAL": "RAL 1033",
         "RGB": "243-165-005",
-        "HEX": "#F3A505",
+        "HEX": "#f3a505",
         "German": "Dahliengelb",
         "English": "Dahlia yellow",
         "name": "Dahlia yellow",
@@ -314,7 +314,7 @@
     {
         "RAL": "RAL 1034",
         "RGB": "239-169-074",
-        "HEX": "#EFA94A",
+        "HEX": "#efa94a",
         "German": "Pastellgelb",
         "English": "Pastel yellow",
         "name": "Pastel yellow",
@@ -326,7 +326,7 @@
     {
         "RAL": "RAL 1035",
         "RGB": "106-093-077",
-        "HEX": "#6A5D4D",
+        "HEX": "#6a5d4d",
         "German": "Perlbeige",
         "English": "Pearl beige",
         "name": "Pearl beige",
@@ -350,7 +350,7 @@
     {
         "RAL": "RAL 1037",
         "RGB": "243-159-024",
-        "HEX": "#F39F18",
+        "HEX": "#f39f18",
         "German": "Sonnengelb",
         "English": "Sun yellow",
         "name": "Sun yellow",
@@ -362,7 +362,7 @@
     {
         "RAL": "RAL 2000",
         "RGB": "237-118-014",
-        "HEX": "#ED760E",
+        "HEX": "#ed760e",
         "German": "Gelborange",
         "English": "Yellow orange",
         "name": "Yellow orange",
@@ -374,7 +374,7 @@
     {
         "RAL": "RAL 2001",
         "RGB": "201-060-032",
-        "HEX": "#C93C20",
+        "HEX": "#c93c20",
         "German": "Rotorange",
         "English": "Red orange",
         "name": "Red orange",
@@ -386,7 +386,7 @@
     {
         "RAL": "RAL 2002",
         "RGB": "203-040-033",
-        "HEX": "#CB2821",
+        "HEX": "#cb2821",
         "German": "Blutorange",
         "English": "Vermilion",
         "name": "Vermilion",
@@ -398,7 +398,7 @@
     {
         "RAL": "RAL 2003",
         "RGB": "255-117-020",
-        "HEX": "#FF7514",
+        "HEX": "#ff7514",
         "German": "Pastellorange",
         "English": "Pastel orange",
         "name": "Pastel orange",
@@ -410,7 +410,7 @@
     {
         "RAL": "RAL 2004",
         "RGB": "244-070-017",
-        "HEX": "#F44611",
+        "HEX": "#f44611",
         "German": "Reinorange",
         "English": "Pure orange",
         "name": "Pure orange",
@@ -422,7 +422,7 @@
     {
         "RAL": "RAL 2005",
         "RGB": "255-035-001",
-        "HEX": "#FF2301",
+        "HEX": "#ff2301",
         "German": "Leuchtorange",
         "English": "Luminous orange",
         "name": "Luminous orange",
@@ -434,7 +434,7 @@
     {
         "RAL": "RAL 2007",
         "RGB": "255-164-032",
-        "HEX": "#FFA420",
+        "HEX": "#ffa420",
         "German": "Leuchthellorange",
         "English": "Luminous bright orange",
         "name": "Luminous bright orange",
@@ -446,7 +446,7 @@
     {
         "RAL": "RAL 2008",
         "RGB": "247-094-037",
-        "HEX": "#F75E25",
+        "HEX": "#f75e25",
         "German": "Hellrotorange",
         "English": "Bright red orange",
         "name": "Bright red orange",
@@ -458,7 +458,7 @@
     {
         "RAL": "RAL 2009",
         "RGB": "245-064-033",
-        "HEX": "#F54021",
+        "HEX": "#f54021",
         "German": "Verkehrsorange",
         "English": "Traffic orange",
         "name": "Traffic orange",
@@ -470,7 +470,7 @@
     {
         "RAL": "RAL 2010",
         "RGB": "216-075-032",
-        "HEX": "#D84B20",
+        "HEX": "#d84b20",
         "German": "Signalorange",
         "English": "Signal orange",
         "name": "Signal orange",
@@ -482,7 +482,7 @@
     {
         "RAL": "RAL 2011",
         "RGB": "236-124-038",
-        "HEX": "#EC7C26",
+        "HEX": "#ec7c26",
         "German": "Tieforange",
         "English": "Deep orange",
         "name": "Deep orange",
@@ -494,7 +494,7 @@
     {
         "RAL": "RAL 2012",
         "RGB": "235-106-014",
-        "HEX": "#E55137",
+        "HEX": "#e55137",
         "German": "Lachsorange",
         "English": "Salmon range",
         "name": "Salmon range",
@@ -506,7 +506,7 @@
     {
         "RAL": "RAL 2013",
         "RGB": "195-088-049",
-        "HEX": "#C35831",
+        "HEX": "#c35831",
         "German": "Perlorange",
         "English": "Pearl orange",
         "name": "Pearl orange",
@@ -518,7 +518,7 @@
     {
         "RAL": "RAL 3000",
         "RGB": "175-043-030",
-        "HEX": "#AF2B1E",
+        "HEX": "#af2b1e",
         "German": "Feuerrot",
         "English": "Flame red",
         "name": "Flame red",
@@ -530,7 +530,7 @@
     {
         "RAL": "RAL 3001",
         "RGB": "165-032-025",
-        "HEX": "#A52019",
+        "HEX": "#a52019",
         "German": "Signalrot",
         "English": "Signal red",
         "name": "Signal red",
@@ -542,7 +542,7 @@
     {
         "RAL": "RAL 3002",
         "RGB": "162-035-029",
-        "HEX": "#A2231D",
+        "HEX": "#a2231d",
         "German": "Karminrot",
         "English": "Carmine red",
         "name": "Carmine red",
@@ -554,7 +554,7 @@
     {
         "RAL": "RAL 3003",
         "RGB": "155-017-030",
-        "HEX": "#9B111E",
+        "HEX": "#9b111e",
         "German": "Rubinrot",
         "English": "Ruby red",
         "name": "Ruby red",
@@ -566,7 +566,7 @@
     {
         "RAL": "RAL 3004",
         "RGB": "117-021-030",
-        "HEX": "#75151E",
+        "HEX": "#75151e",
         "German": "Purpurrot",
         "English": "Purple red",
         "name": "Purple red",
@@ -578,7 +578,7 @@
     {
         "RAL": "RAL 3005",
         "RGB": "094-033-041",
-        "HEX": "#5E2129",
+        "HEX": "#5e2129",
         "German": "Weinrot",
         "English": "Wine red",
         "name": "Wine red",
@@ -614,7 +614,7 @@
     {
         "RAL": "RAL 3011",
         "RGB": "120-031-025",
-        "HEX": "#781F19",
+        "HEX": "#781f19",
         "German": "Braunrot",
         "English": "Brown red",
         "name": "Brown red",
@@ -626,7 +626,7 @@
     {
         "RAL": "RAL 3012",
         "RGB": "193-135-107",
-        "HEX": "#C1876B",
+        "HEX": "#c1876b",
         "German": "Beigerot",
         "English": "Beige red",
         "name": "Beige red",
@@ -638,7 +638,7 @@
     {
         "RAL": "RAL 3013",
         "RGB": "161-035-018",
-        "HEX": "#A12312",
+        "HEX": "#a12312",
         "German": "Tomatenrot",
         "English": "Tomato red",
         "name": "Tomato red",
@@ -650,7 +650,7 @@
     {
         "RAL": "RAL 3014",
         "RGB": "211-110-112",
-        "HEX": "#D36E70",
+        "HEX": "#d36e70",
         "German": "Altrosa",
         "English": "Antique pink",
         "name": "Antique pink",
@@ -662,7 +662,7 @@
     {
         "RAL": "RAL 3015",
         "RGB": "234-137-154",
-        "HEX": "#EA899A",
+        "HEX": "#ea899a",
         "German": "Hellrosa",
         "English": "Light pink",
         "name": "Light pink",
@@ -674,7 +674,7 @@
     {
         "RAL": "RAL 3016",
         "RGB": "179-040-033",
-        "HEX": "#B32821",
+        "HEX": "#b32821",
         "German": "Korallenrot",
         "English": "Coral red",
         "name": "Coral red",
@@ -686,7 +686,7 @@
     {
         "RAL": "RAL 3017",
         "RGB": "230-050-068",
-        "HEX": "#E63244",
+        "HEX": "#e63244",
         "German": "Rosé",
         "English": "Rose",
         "name": "Rose",
@@ -698,7 +698,7 @@
     {
         "RAL": "RAL 3018",
         "RGB": "213-048-050",
-        "HEX": "#D53032",
+        "HEX": "#d53032",
         "German": "Erdbeerrot",
         "English": "Strawberry red",
         "name": "Strawberry red",
@@ -710,7 +710,7 @@
     {
         "RAL": "RAL 3020",
         "RGB": "204-006-005",
-        "HEX": "#CC0605",
+        "HEX": "#cc0605",
         "German": "Verkehrsrot",
         "English": "Traffic red",
         "name": "Traffic red",
@@ -722,7 +722,7 @@
     {
         "RAL": "RAL 3022",
         "RGB": "217-080-048",
-        "HEX": "#D95030",
+        "HEX": "#d95030",
         "German": "Lachsrot",
         "English": "Salmon pink",
         "name": "Salmon pink",
@@ -734,7 +734,7 @@
     {
         "RAL": "RAL 3024",
         "RGB": "248-000-000",
-        "HEX": "#F80000",
+        "HEX": "#f80000",
         "German": "Leuchtrot",
         "English": "Luminous red",
         "name": "Luminous red",
@@ -746,7 +746,7 @@
     {
         "RAL": "RAL 3026",
         "RGB": "254-000-000",
-        "HEX": "#FE0000",
+        "HEX": "#fe0000",
         "German": "Leuchthellrot",
         "English": "\"Luminous bright red\"",
         "name": "\"Luminous bright red\"",
@@ -758,7 +758,7 @@
     {
         "RAL": "RAL 3027",
         "RGB": "197-029-052",
-        "HEX": "#C51D34",
+        "HEX": "#c51d34",
         "German": "Himbeerrot",
         "English": "Raspberry red",
         "name": "Raspberry red",
@@ -770,7 +770,7 @@
     {
         "RAL": "RAL 3028",
         "RGB": "203-050-052",
-        "HEX": "#CB3234",
+        "HEX": "#cb3234",
         "German": "Reinrot",
         "English": "Pure  red",
         "name": "Pure  red",
@@ -782,7 +782,7 @@
     {
         "RAL": "RAL 3031",
         "RGB": "179-036-040",
-        "HEX": "#B32428",
+        "HEX": "#b32428",
         "German": "Orientrot",
         "English": "Orient red",
         "name": "Orient red",
@@ -806,7 +806,7 @@
     {
         "RAL": "RAL 3033",
         "RGB": "180-076-067",
-        "HEX": "#B44C43",
+        "HEX": "#b44c43",
         "German": "Perlrosa",
         "English": "Pearl pink",
         "name": "Pearl pink",
@@ -818,7 +818,7 @@
     {
         "RAL": "RAL 4001",
         "RGB": "222-076-138",
-        "HEX": "#6D3F5B",
+        "HEX": "#6d3f5b",
         "German": "Rotlila",
         "English": "Red lilac",
         "name": "Red lilac",
@@ -830,7 +830,7 @@
     {
         "RAL": "RAL 4002",
         "RGB": "146-043-062",
-        "HEX": "#922B3E",
+        "HEX": "#922b3e",
         "German": "Rotviolett",
         "English": "Red violet",
         "name": "Red violet",
@@ -842,7 +842,7 @@
     {
         "RAL": "RAL 4003",
         "RGB": "222-076-138",
-        "HEX": "#DE4C8A",
+        "HEX": "#de4c8a",
         "German": "Erikaviolett",
         "English": "Heather violet",
         "name": "Heather violet",
@@ -854,7 +854,7 @@
     {
         "RAL": "RAL 4004",
         "RGB": "110-028-052",
-        "HEX": "#641C34",
+        "HEX": "#641c34",
         "German": "Bordeauxviolett",
         "English": "Claret violet",
         "name": "Claret violet",
@@ -866,7 +866,7 @@
     {
         "RAL": "RAL 4005",
         "RGB": "108-070-117",
-        "HEX": "#6C4675",
+        "HEX": "#6c4675",
         "German": "Blaulila",
         "English": "Blue lilac",
         "name": "Blue lilac",
@@ -878,7 +878,7 @@
     {
         "RAL": "RAL 4006",
         "RGB": "160-052-114",
-        "HEX": "#A03472",
+        "HEX": "#a03472",
         "German": "Verkehrspurpur",
         "English": "Traffic purple",
         "name": "Traffic purple",
@@ -890,7 +890,7 @@
     {
         "RAL": "RAL 4007",
         "RGB": "074-025-044",
-        "HEX": "#4A192C",
+        "HEX": "#4a192c",
         "German": "Purpurviolett",
         "English": "Purple violet",
         "name": "Purple violet",
@@ -902,7 +902,7 @@
     {
         "RAL": "RAL 4008",
         "RGB": "144-070-132",
-        "HEX": "#924E7D",
+        "HEX": "#924e7d",
         "German": "Signalviolett",
         "English": "Signal violet",
         "name": "Signal violet",
@@ -914,7 +914,7 @@
     {
         "RAL": "RAL 4009",
         "RGB": "164-125-144",
-        "HEX": "#A18594",
+        "HEX": "#a18594",
         "German": "Pastellviolett",
         "English": "Pastel violet",
         "name": "Pastel violet",
@@ -926,7 +926,7 @@
     {
         "RAL": "RAL 4010",
         "RGB": "215-045-109",
-        "HEX": "#CF3476",
+        "HEX": "#cf3476",
         "German": "Telemagenta",
         "English": "Telemagenta",
         "name": "Telemagenta",
@@ -938,7 +938,7 @@
     {
         "RAL": "RAL 4011",
         "RGB": "134-115-161",
-        "HEX": "#8673A1",
+        "HEX": "#8673a1",
         "German": "Perlviolett",
         "English": "Pearl violet",
         "name": "Pearl violet",
@@ -950,7 +950,7 @@
     {
         "RAL": "RAL 4012",
         "RGB": "108-104-129",
-        "HEX": "#6C6874",
+        "HEX": "#6c6874",
         "German": "Perlbrombeer",
         "English": "Pearl black berry",
         "name": "Pearl black berry",
@@ -962,7 +962,7 @@
     {
         "RAL": "RAL 5000",
         "RGB": "042-046-075",
-        "HEX": "#354D73",
+        "HEX": "#354d73",
         "German": "Violettblau",
         "English": "Violet blue",
         "name": "Violet blue",
@@ -974,7 +974,7 @@
     {
         "RAL": "RAL 5001",
         "RGB": "031-052-056",
-        "HEX": "#1F3438",
+        "HEX": "#1f3438",
         "German": "Grünblau",
         "English": "Green blue",
         "name": "Green blue",
@@ -986,7 +986,7 @@
     {
         "RAL": "RAL 5002",
         "RGB": "032-033-079",
-        "HEX": "#20214F",
+        "HEX": "#20214f",
         "German": "Ultramarinblau",
         "English": "Ultramarine blue",
         "name": "Ultramarine blue",
@@ -998,7 +998,7 @@
     {
         "RAL": "RAL 5003",
         "RGB": "029-030-051",
-        "HEX": "#1D1E33",
+        "HEX": "#1d1e33",
         "German": "Saphirblau",
         "English": "Saphire blue",
         "name": "Saphire blue",
@@ -1010,7 +1010,7 @@
     {
         "RAL": "RAL 5004",
         "RGB": "032-033-079",
-        "HEX": "#18171C",
+        "HEX": "#18171c",
         "German": "Schwarzblau",
         "English": "Black blue",
         "name": "Black blue",
@@ -1022,7 +1022,7 @@
     {
         "RAL": "RAL 5005",
         "RGB": "030-045-110",
-        "HEX": "#1E2460",
+        "HEX": "#1e2460",
         "German": "Signalblau",
         "English": "Signal blue",
         "name": "Signal blue",
@@ -1034,7 +1034,7 @@
     {
         "RAL": "RAL 5007",
         "RGB": "062-095-138",
-        "HEX": "#3E5F8A",
+        "HEX": "#3e5f8a",
         "German": "Brillantblau",
         "English": "Brillant blue",
         "name": "Brillant blue",
@@ -1046,7 +1046,7 @@
     {
         "RAL": "RAL 5008",
         "RGB": "038-037-045",
-        "HEX": "#26252D",
+        "HEX": "#26252d",
         "German": "Graublau",
         "English": "Grey blue",
         "name": "Grey blue",
@@ -1070,7 +1070,7 @@
     {
         "RAL": "RAL 5010",
         "RGB": "014-041-075",
-        "HEX": "#0E294B",
+        "HEX": "#0e294b",
         "German": "Enzianblau",
         "English": "Gentian blue",
         "name": "Gentian blue",
@@ -1082,7 +1082,7 @@
     {
         "RAL": "RAL 5011",
         "RGB": "035-026-036",
-        "HEX": "#231A24",
+        "HEX": "#231a24",
         "German": "Stahlblau",
         "English": "Steel blue",
         "name": "Steel blue",
@@ -1094,7 +1094,7 @@
     {
         "RAL": "RAL 5012",
         "RGB": "059-131-189",
-        "HEX": "#3B83BD",
+        "HEX": "#3b83bd",
         "German": "Lichtblau",
         "English": "Light blue",
         "name": "Light blue",
@@ -1106,7 +1106,7 @@
     {
         "RAL": "RAL 5013",
         "RGB": "037-041-074",
-        "HEX": "#1E213D",
+        "HEX": "#1e213d",
         "German": "Kobaltblau",
         "English": "Cobalt blue",
         "name": "Cobalt blue",
@@ -1118,7 +1118,7 @@
     {
         "RAL": "RAL 5014",
         "RGB": "096-111-140",
-        "HEX": "#606E8C",
+        "HEX": "#606e8c",
         "German": "Taubenblau",
         "English": "Pigeon blue",
         "name": "Pigeon blue",
@@ -1130,7 +1130,7 @@
     {
         "RAL": "RAL 5015",
         "RGB": "034-113-179",
-        "HEX": "#2271B3",
+        "HEX": "#2271b3",
         "German": "Himmelblau",
         "English": "Sky blue",
         "name": "Sky blue",
@@ -1154,7 +1154,7 @@
     {
         "RAL": "RAL 5018",
         "RGB": "063-136-143",
-        "HEX": "#3F888F",
+        "HEX": "#3f888f",
         "German": "Türkisblau",
         "English": "Turquoise blue",
         "name": "Turquoise blue",
@@ -1166,7 +1166,7 @@
     {
         "RAL": "RAL 5019",
         "RGB": "027-085-131",
-        "HEX": "#1B5583",
+        "HEX": "#1b5583",
         "German": "Capriblau",
         "English": "Capri blue",
         "name": "Capri blue",
@@ -1178,7 +1178,7 @@
     {
         "RAL": "RAL 5020",
         "RGB": "029-051-074",
-        "HEX": "#1D334A",
+        "HEX": "#1d334a",
         "German": "Ozeanblau",
         "English": "Ocean blue",
         "name": "Ocean blue",
@@ -1190,7 +1190,7 @@
     {
         "RAL": "RAL 5021",
         "RGB": "037-109-123",
-        "HEX": "#256D7B",
+        "HEX": "#256d7b",
         "German": "Wasserblau",
         "English": "Water blue",
         "name": "Water blue",
@@ -1214,7 +1214,7 @@
     {
         "RAL": "RAL 5023",
         "RGB": "073-103-141",
-        "HEX": "#49678D",
+        "HEX": "#49678d",
         "German": "Fernblau",
         "English": "Distant blue",
         "name": "Distant blue",
@@ -1226,7 +1226,7 @@
     {
         "RAL": "RAL 5024",
         "RGB": "093-155-155",
-        "HEX": "#5D9B9B",
+        "HEX": "#5d9b9b",
         "German": "Pastellblau",
         "English": "Pastel blue",
         "name": "Pastel blue",
@@ -1238,7 +1238,7 @@
     {
         "RAL": "RAL 5025",
         "RGB": "042-100-120",
-        "HEX": "#2A6478",
+        "HEX": "#2a6478",
         "German": "Perlenzian",
         "English": "Pearl gentian blue",
         "name": "Pearl gentian blue",
@@ -1250,7 +1250,7 @@
     {
         "RAL": "RAL 5026",
         "RGB": "016-044-084",
-        "HEX": "#102C54",
+        "HEX": "#102c54",
         "German": "Perlnachtblau",
         "English": "Pearl night blue",
         "name": "Pearl night blue",
@@ -1286,7 +1286,7 @@
     {
         "RAL": "RAL 6002",
         "RGB": "045-087-044",
-        "HEX": "#2D572C",
+        "HEX": "#2d572c",
         "German": "Laubgrün",
         "English": "Leaf green",
         "name": "Leaf green",
@@ -1310,7 +1310,7 @@
     {
         "RAL": "RAL 6004",
         "RGB": "031-058-061",
-        "HEX": "#1F3A3D",
+        "HEX": "#1f3a3d",
         "German": "Blaugrün",
         "English": "Blue green",
         "name": "Blue green",
@@ -1322,7 +1322,7 @@
     {
         "RAL": "RAL 6005",
         "RGB": "047-069-056",
-        "HEX": "#2F4538",
+        "HEX": "#2f4538",
         "German": "Moosgrün",
         "English": "Moss green",
         "name": "Moss green",
@@ -1334,7 +1334,7 @@
     {
         "RAL": "RAL 6006",
         "RGB": "062-059-050",
-        "HEX": "#3E3B32",
+        "HEX": "#3e3b32",
         "German": "Grauoliv",
         "English": "Grey olive",
         "name": "Grey olive",
@@ -1346,7 +1346,7 @@
     {
         "RAL": "RAL 6007",
         "RGB": "052-059-041",
-        "HEX": "#343B29",
+        "HEX": "#343b29",
         "German": "Flaschengrün",
         "English": "Bottle green",
         "name": "Bottle green",
@@ -1358,7 +1358,7 @@
     {
         "RAL": "RAL 6008",
         "RGB": "057-053-042",
-        "HEX": "#39352A",
+        "HEX": "#39352a",
         "German": "Braungrün",
         "English": "Brown green",
         "name": "Brown green",
@@ -1370,7 +1370,7 @@
     {
         "RAL": "RAL 6009",
         "RGB": "049-055-043",
-        "HEX": "#31372B",
+        "HEX": "#31372b",
         "German": "Tannengrün",
         "English": "Fir green",
         "name": "Fir green",
@@ -1382,7 +1382,7 @@
     {
         "RAL": "RAL 6010",
         "RGB": "053-104-045",
-        "HEX": "#35682D",
+        "HEX": "#35682d",
         "German": "Grasgrün",
         "English": "Grass green",
         "name": "Grass green",
@@ -1406,7 +1406,7 @@
     {
         "RAL": "RAL 6012",
         "RGB": "052-062-064",
-        "HEX": "#343E40",
+        "HEX": "#343e40",
         "German": "Schwarzgrün",
         "English": "Black green",
         "name": "Black green",
@@ -1418,7 +1418,7 @@
     {
         "RAL": "RAL 6013",
         "RGB": "108-113-086",
-        "HEX": "#6C7156",
+        "HEX": "#6c7156",
         "German": "Schilfgrün",
         "English": "Reed green",
         "name": "Reed green",
@@ -1430,7 +1430,7 @@
     {
         "RAL": "RAL 6014",
         "RGB": "071-064-046",
-        "HEX": "#47402E",
+        "HEX": "#47402e",
         "German": "Gelboliv",
         "English": "Yellow olive",
         "name": "Yellow olive",
@@ -1442,7 +1442,7 @@
     {
         "RAL": "RAL 6015",
         "RGB": "059-060-054",
-        "HEX": "#3B3C36",
+        "HEX": "#3b3c36",
         "German": "Schwarzoliv",
         "English": "Black olive",
         "name": "Black olive",
@@ -1454,7 +1454,7 @@
     {
         "RAL": "RAL 6016",
         "RGB": "030-089-069",
-        "HEX": "#1E5945",
+        "HEX": "#1e5945",
         "German": "Türkisgrün",
         "English": "Turquoise green",
         "name": "Turquoise green",
@@ -1466,7 +1466,7 @@
     {
         "RAL": "RAL 6017",
         "RGB": "076-145-065",
-        "HEX": "#4C9141",
+        "HEX": "#4c9141",
         "German": "Maigrün",
         "English": "May green",
         "name": "May green",
@@ -1478,7 +1478,7 @@
     {
         "RAL": "RAL 6018",
         "RGB": "087-166-057",
-        "HEX": "#57A639",
+        "HEX": "#57a639",
         "German": "Gelbgrün",
         "English": "Yellow green",
         "name": "Yellow green",
@@ -1490,7 +1490,7 @@
     {
         "RAL": "RAL 6019",
         "RGB": "189-236-182",
-        "HEX": "#BDECB6",
+        "HEX": "#bdecb6",
         "German": "Weißgrün",
         "English": "Pastel green",
         "name": "Pastel green",
@@ -1502,7 +1502,7 @@
     {
         "RAL": "RAL 6020",
         "RGB": "046-058-035",
-        "HEX": "#2E3A23",
+        "HEX": "#2e3a23",
         "German": "Chromoxidgrün",
         "English": "Chrome green",
         "name": "Chrome green",
@@ -1514,7 +1514,7 @@
     {
         "RAL": "RAL 6021",
         "RGB": "137-172-118",
-        "HEX": "#89AC76",
+        "HEX": "#89ac76",
         "German": "Blassgrün",
         "English": "Pale green",
         "name": "Pale green",
@@ -1526,7 +1526,7 @@
     {
         "RAL": "RAL 6022",
         "RGB": "037-034-027",
-        "HEX": "#25221B",
+        "HEX": "#25221b",
         "German": "Braunoliv",
         "English": "Olive drab",
         "name": "Olive drab",
@@ -1550,7 +1550,7 @@
     {
         "RAL": "RAL 6025",
         "RGB": "061-100-045",
-        "HEX": "#3D642D",
+        "HEX": "#3d642d",
         "German": "Farngrün",
         "English": "Fern green",
         "name": "Fern green",
@@ -1562,7 +1562,7 @@
     {
         "RAL": "RAL 6026",
         "RGB": "001-093-082",
-        "HEX": "#015D52",
+        "HEX": "#015d52",
         "German": "Opalgrün",
         "English": "Opal green",
         "name": "Opal green",
@@ -1574,7 +1574,7 @@
     {
         "RAL": "RAL 6027",
         "RGB": "132-195-190",
-        "HEX": "#84C3BE",
+        "HEX": "#84c3be",
         "German": "Lichtgrün",
         "English": "Light green",
         "name": "Light green",
@@ -1586,7 +1586,7 @@
     {
         "RAL": "RAL 6028",
         "RGB": "044-085-069",
-        "HEX": "#2C5545",
+        "HEX": "#2c5545",
         "German": "Kieferngrün",
         "English": "Pine green",
         "name": "Pine green",
@@ -1598,7 +1598,7 @@
     {
         "RAL": "RAL 6029",
         "RGB": "032-096-061",
-        "HEX": "#20603D",
+        "HEX": "#20603d",
         "German": "Minzgrün",
         "English": "Mint green",
         "name": "Mint green",
@@ -1610,7 +1610,7 @@
     {
         "RAL": "RAL 6032",
         "RGB": "049-127-067",
-        "HEX": "#317F43",
+        "HEX": "#317f43",
         "German": "Signalgrün",
         "English": "Signal green",
         "name": "Signal green",
@@ -1622,7 +1622,7 @@
     {
         "RAL": "RAL 6033",
         "RGB": "073-126-118",
-        "HEX": "#497E76",
+        "HEX": "#497e76",
         "German": "Minttürkis",
         "English": "Mint turquoise",
         "name": "Mint turquoise",
@@ -1634,7 +1634,7 @@
     {
         "RAL": "RAL 6034",
         "RGB": "127-181-181",
-        "HEX": "#7FB5B5",
+        "HEX": "#7fb5b5",
         "German": "Pastelltürkis",
         "English": "Pastel turquoise",
         "name": "Pastel turquoise",
@@ -1646,7 +1646,7 @@
     {
         "RAL": "RAL 6035",
         "RGB": "028-084-045",
-        "HEX": "#1C542D",
+        "HEX": "#1c542d",
         "German": "Perlgrün",
         "English": "Pearl green",
         "name": "Pearl green",
@@ -1670,7 +1670,7 @@
     {
         "RAL": "RAL 6037",
         "RGB": "000-143-057",
-        "HEX": "#008F39",
+        "HEX": "#008f39",
         "German": "Reingrün",
         "English": "Pure green",
         "name": "Pure green",
@@ -1682,7 +1682,7 @@
     {
         "RAL": "RAL 6038",
         "RGB": "000-187-045",
-        "HEX": "#00BB2D",
+        "HEX": "#00bb2d",
         "German": "Leuchtgrün",
         "English": "Luminous green",
         "name": "Luminous green",
@@ -1694,7 +1694,7 @@
     {
         "RAL": "RAL 7000",
         "RGB": "120-133-139",
-        "HEX": "#78858B",
+        "HEX": "#78858b",
         "German": "Fehgrau",
         "English": "Squirrel grey",
         "name": "Squirrel grey",
@@ -1706,7 +1706,7 @@
     {
         "RAL": "RAL 7001",
         "RGB": "138-149-151",
-        "HEX": "#8A9597",
+        "HEX": "#8a9597",
         "German": "Silbergrau",
         "English": "Silver grey",
         "name": "Silver grey",
@@ -1718,7 +1718,7 @@
     {
         "RAL": "RAL 7002",
         "RGB": "126-123-082",
-        "HEX": "#7E7B52",
+        "HEX": "#7e7b52",
         "German": "Olivgrau",
         "English": "Olive grey",
         "name": "Olive grey",
@@ -1730,7 +1730,7 @@
     {
         "RAL": "RAL 7003",
         "RGB": "108-112-089",
-        "HEX": "#6C7059",
+        "HEX": "#6c7059",
         "German": "Moosgrau",
         "English": "Moss grey",
         "name": "Moss grey",
@@ -1754,7 +1754,7 @@
     {
         "RAL": "RAL 7005",
         "RGB": "100-107-099",
-        "HEX": "#646B63",
+        "HEX": "#646b63",
         "German": "Mausgrau",
         "English": "Mouse grey",
         "name": "Mouse grey",
@@ -1766,7 +1766,7 @@
     {
         "RAL": "RAL 7006",
         "RGB": "109-101-082",
-        "HEX": "#6D6552",
+        "HEX": "#6d6552",
         "German": "Beigegrau",
         "English": "Beige grey",
         "name": "Beige grey",
@@ -1778,7 +1778,7 @@
     {
         "RAL": "RAL 7008",
         "RGB": "106-095-049",
-        "HEX": "#6A5F31",
+        "HEX": "#6a5f31",
         "German": "Khakigrau",
         "English": "Khaki grey",
         "name": "Khaki grey",
@@ -1790,7 +1790,7 @@
     {
         "RAL": "RAL 7009",
         "RGB": "077-086-069",
-        "HEX": "#4D5645",
+        "HEX": "#4d5645",
         "German": "Grüngrau",
         "English": "Green grey",
         "name": "Green grey",
@@ -1802,7 +1802,7 @@
     {
         "RAL": "RAL 7010",
         "RGB": "076-081-074",
-        "HEX": "#4C514A",
+        "HEX": "#4c514a",
         "German": "Zeltgrau",
         "English": "Tarpaulin grey",
         "name": "Tarpaulin grey",
@@ -1814,7 +1814,7 @@
     {
         "RAL": "RAL 7011",
         "RGB": "067-075-077",
-        "HEX": "#434B4D",
+        "HEX": "#434b4d",
         "German": "Eisengrau",
         "English": "Iron grey",
         "name": "Iron grey",
@@ -1826,7 +1826,7 @@
     {
         "RAL": "RAL 7012",
         "RGB": "078-087-084",
-        "HEX": "#4E5754",
+        "HEX": "#4e5754",
         "German": "Basaltgrau",
         "English": "Basalt grey",
         "name": "Basalt grey",
@@ -1874,7 +1874,7 @@
     {
         "RAL": "RAL 7021",
         "RGB": "035-040-043",
-        "HEX": "#23282B",
+        "HEX": "#23282b",
         "German": "Schwarzgrau",
         "English": "Black grey",
         "name": "Black grey",
@@ -1886,7 +1886,7 @@
     {
         "RAL": "RAL 7022",
         "RGB": "051-047-044",
-        "HEX": "#332F2C",
+        "HEX": "#332f2c",
         "German": "Umbragrau",
         "English": "Umbra grey",
         "name": "Umbra grey",
@@ -1898,7 +1898,7 @@
     {
         "RAL": "RAL 7023",
         "RGB": "104-108-094",
-        "HEX": "#686C5E",
+        "HEX": "#686c5e",
         "German": "Betongrau",
         "English": "Concrete grey",
         "name": "Concrete grey",
@@ -1910,7 +1910,7 @@
     {
         "RAL": "RAL 7024",
         "RGB": "071-074-081",
-        "HEX": "#474A51",
+        "HEX": "#474a51",
         "German": "Graphitgrau",
         "English": "Graphite grey",
         "name": "Graphite grey",
@@ -1922,7 +1922,7 @@
     {
         "RAL": "RAL 7026",
         "RGB": "047-053-059",
-        "HEX": "#2F353B",
+        "HEX": "#2f353b",
         "German": "Granitgrau",
         "English": "Granite grey",
         "name": "Granite grey",
@@ -1934,7 +1934,7 @@
     {
         "RAL": "RAL 7030",
         "RGB": "139-140-122",
-        "HEX": "#8B8C7A",
+        "HEX": "#8b8c7a",
         "German": "Steingrau",
         "English": "Stone grey",
         "name": "Stone grey",
@@ -1946,7 +1946,7 @@
     {
         "RAL": "RAL 7031",
         "RGB": "071-075-078",
-        "HEX": "#474B4E",
+        "HEX": "#474b4e",
         "German": "Blaugrau",
         "English": "Blue grey",
         "name": "Blue grey",
@@ -1958,7 +1958,7 @@
     {
         "RAL": "RAL 7032",
         "RGB": "184-183-153",
-        "HEX": "#B8B799",
+        "HEX": "#b8b799",
         "German": "Kieselgrau",
         "English": "Pebble grey",
         "name": "Pebble grey",
@@ -1970,7 +1970,7 @@
     {
         "RAL": "RAL 7033",
         "RGB": "125-132-113",
-        "HEX": "#7D8471",
+        "HEX": "#7d8471",
         "German": "Zementgrau",
         "English": "Cement grey",
         "name": "Cement grey",
@@ -1982,7 +1982,7 @@
     {
         "RAL": "RAL 7034",
         "RGB": "143-139-102",
-        "HEX": "#8F8B66",
+        "HEX": "#8f8b66",
         "German": "Gelbgrau",
         "English": "Yellow grey",
         "name": "Yellow grey",
@@ -1994,7 +1994,7 @@
     {
         "RAL": "RAL 7035",
         "RGB": "215-215-215",
-        "HEX": "#D7D7D7",
+        "HEX": "#d7d7d7",
         "German": "Lichtgrau",
         "English": "Light grey",
         "name": "Light grey",
@@ -2006,7 +2006,7 @@
     {
         "RAL": "RAL 7036",
         "RGB": "127-118-121",
-        "HEX": "#7F7679",
+        "HEX": "#7f7679",
         "German": "Platingrau",
         "English": "Platinum grey",
         "name": "Platinum grey",
@@ -2018,7 +2018,7 @@
     {
         "RAL": "RAL 7037",
         "RGB": "125-127-120",
-        "HEX": "#7D7F7D",
+        "HEX": "#7d7f7d",
         "German": "Staubgrau",
         "English": "Dusty grey",
         "name": "Dusty grey",
@@ -2030,7 +2030,7 @@
     {
         "RAL": "RAL 7038",
         "RGB": "195-195-195",
-        "HEX": "#B5B8B1",
+        "HEX": "#b5b8b1",
         "German": "Achatgrau",
         "English": "Agate grey",
         "name": "Agate grey",
@@ -2042,7 +2042,7 @@
     {
         "RAL": "RAL 7039",
         "RGB": "108-105-096",
-        "HEX": "#6C6960",
+        "HEX": "#6c6960",
         "German": "Quarzgrau",
         "English": "Quartz grey",
         "name": "Quartz grey",
@@ -2054,7 +2054,7 @@
     {
         "RAL": "RAL 7040",
         "RGB": "157-161-170",
-        "HEX": "#9DA1AA",
+        "HEX": "#9da1aa",
         "German": "Fenstergrau",
         "English": "Window grey",
         "name": "Window grey",
@@ -2066,7 +2066,7 @@
     {
         "RAL": "RAL 7042",
         "RGB": "141-148-141",
-        "HEX": "#8D948D",
+        "HEX": "#8d948d",
         "German": "Verkehrsgrau A",
         "English": "Traffic grey A",
         "name": "Traffic grey A",
@@ -2078,7 +2078,7 @@
     {
         "RAL": "RAL 7043",
         "RGB": "078-084-082",
-        "HEX": "#4E5452",
+        "HEX": "#4e5452",
         "German": "Verkehrsgrau B",
         "English": "Traffic grey B",
         "name": "Traffic grey B",
@@ -2090,7 +2090,7 @@
     {
         "RAL": "RAL 7044",
         "RGB": "202-196-176",
-        "HEX": "#CAC4B0",
+        "HEX": "#cac4b0",
         "German": "Seidengrau",
         "English": "Silk grey",
         "name": "Silk grey",
@@ -2114,7 +2114,7 @@
     {
         "RAL": "RAL 7046",
         "RGB": "130-137-143",
-        "HEX": "#82898F",
+        "HEX": "#82898f",
         "German": "Telegrau 2",
         "English": "Telegrey 2",
         "name": "Telegrey 2",
@@ -2126,7 +2126,7 @@
     {
         "RAL": "RAL 7047",
         "RGB": "208-208-208",
-        "HEX": "#D0D0D0",
+        "HEX": "#d0d0d0",
         "German": "Telegrau 4",
         "English": "Telegrey 4",
         "name": "Telegrey 4",
@@ -2150,7 +2150,7 @@
     {
         "RAL": "RAL 8000",
         "RGB": "130-108-052",
-        "HEX": "#826C34",
+        "HEX": "#826c34",
         "German": "Grünbraun",
         "English": "Green brown",
         "name": "Green brown",
@@ -2162,7 +2162,7 @@
     {
         "RAL": "RAL 8001",
         "RGB": "149-095-032",
-        "HEX": "#955F20",
+        "HEX": "#955f20",
         "German": "Ockerbraun",
         "English": "Ochre brown",
         "name": "Ochre brown",
@@ -2174,7 +2174,7 @@
     {
         "RAL": "RAL 8002",
         "RGB": "108-059-042",
-        "HEX": "#6C3B2A",
+        "HEX": "#6c3b2a",
         "German": "Signalbraun",
         "English": "Signal brown",
         "name": "Signal brown",
@@ -2198,7 +2198,7 @@
     {
         "RAL": "RAL 8004",
         "RGB": "142-064-042",
-        "HEX": "#8E402A",
+        "HEX": "#8e402a",
         "German": "Kupferbraun",
         "English": "Copper brown",
         "name": "Copper brown",
@@ -2210,7 +2210,7 @@
     {
         "RAL": "RAL 8007",
         "RGB": "089-053-031",
-        "HEX": "#59351F",
+        "HEX": "#59351f",
         "German": "Rehbraun",
         "English": "Fawn brown",
         "name": "Fawn brown",
@@ -2222,7 +2222,7 @@
     {
         "RAL": "RAL 8008",
         "RGB": "111-079-040",
-        "HEX": "#6F4F28",
+        "HEX": "#6f4f28",
         "German": "Olivbraun",
         "English": "Olive brown",
         "name": "Olive brown",
@@ -2234,7 +2234,7 @@
     {
         "RAL": "RAL 8011",
         "RGB": "091-058-041",
-        "HEX": "#5B3A29",
+        "HEX": "#5b3a29",
         "German": "Nussbraun",
         "English": "Nut brown",
         "name": "Nut brown",
@@ -2258,7 +2258,7 @@
     {
         "RAL": "RAL 8014",
         "RGB": "056-044-030",
-        "HEX": "#382C1E",
+        "HEX": "#382c1e",
         "German": "Sepiabraun",
         "English": "Sepia brown",
         "name": "Sepia brown",
@@ -2270,7 +2270,7 @@
     {
         "RAL": "RAL 8015",
         "RGB": "099-058-052",
-        "HEX": "#633A34",
+        "HEX": "#633a34",
         "German": "Kastanienbraun",
         "English": "Chestnut brown",
         "name": "Chestnut brown",
@@ -2282,7 +2282,7 @@
     {
         "RAL": "RAL 8016",
         "RGB": "076-047-039",
-        "HEX": "#4C2F27",
+        "HEX": "#4c2f27",
         "German": "Mahagonibraun",
         "English": "Mahogany brown",
         "name": "Mahogany brown",
@@ -2294,7 +2294,7 @@
     {
         "RAL": "RAL 8017",
         "RGB": "069-050-046",
-        "HEX": "#45322E",
+        "HEX": "#45322e",
         "German": "\"Schokoladen-braun\"",
         "English": "Chocolate brown",
         "name": "Chocolate brown",
@@ -2306,7 +2306,7 @@
     {
         "RAL": "RAL 8019",
         "RGB": "064-058-058",
-        "HEX": "#403A3A",
+        "HEX": "#403a3a",
         "German": "Graubraun",
         "English": "Grey brown",
         "name": "Grey brown",
@@ -2330,7 +2330,7 @@
     {
         "RAL": "RAL 8023",
         "RGB": "166-094-046",
-        "HEX": "#A65E2E",
+        "HEX": "#a65e2e",
         "German": "Orangebraun",
         "English": "Orange brown",
         "name": "Orange brown",
@@ -2342,7 +2342,7 @@
     {
         "RAL": "RAL 8024",
         "RGB": "121-085-061",
-        "HEX": "#79553D",
+        "HEX": "#79553d",
         "German": "Beigebraun",
         "English": "Beige brown",
         "name": "Beige brown",
@@ -2354,7 +2354,7 @@
     {
         "RAL": "RAL 8025",
         "RGB": "117-092-072",
-        "HEX": "#755C48",
+        "HEX": "#755c48",
         "German": "Blassbraun",
         "English": "Pale brown",
         "name": "Pale brown",
@@ -2366,7 +2366,7 @@
     {
         "RAL": "RAL 8028",
         "RGB": "078-059-049",
-        "HEX": "#4E3B31",
+        "HEX": "#4e3b31",
         "German": "Terrabraun",
         "English": "Terra brown",
         "name": "Terra brown",
@@ -2378,7 +2378,7 @@
     {
         "RAL": "RAL 8029",
         "RGB": "118-060-040",
-        "HEX": "#763C28",
+        "HEX": "#763c28",
         "German": "Perlkupfer",
         "English": "Pearl copper",
         "name": "Pearl copper",
@@ -2390,7 +2390,7 @@
     {
         "RAL": "RAL 9001",
         "RGB": "250-244-227",
-        "HEX": "#FDF4E3",
+        "HEX": "#fdf4e3",
         "German": "Cremeweiß",
         "English": "Cream",
         "name": "Cream",
@@ -2402,7 +2402,7 @@
     {
         "RAL": "RAL 9002",
         "RGB": "231-235-218",
-        "HEX": "#E7EBDA",
+        "HEX": "#e7ebda",
         "German": "Grauweiß",
         "English": "Grey white",
         "name": "Grey white",
@@ -2414,7 +2414,7 @@
     {
         "RAL": "RAL 9003",
         "RGB": "244-244-244",
-        "HEX": "#F4F4F4",
+        "HEX": "#f4f4f4",
         "German": "Signalweiß",
         "English": "Signal white",
         "name": "Signal white",
@@ -2438,7 +2438,7 @@
     {
         "RAL": "RAL 9005",
         "RGB": "010-010-013",
-        "HEX": "#0A0A0A",
+        "HEX": "#0a0a0a",
         "German": "Tiefschwarz",
         "English": "Jet black",
         "name": "Jet black",
@@ -2450,7 +2450,7 @@
     {
         "RAL": "RAL 9006",
         "RGB": "165-165-165",
-        "HEX": "#A5A5A5",
+        "HEX": "#a5a5a5",
         "German": "Weißaluminium",
         "English": "White aluminium",
         "name": "White aluminium",
@@ -2462,7 +2462,7 @@
     {
         "RAL": "RAL 9007",
         "RGB": "143-143-143",
-        "HEX": "#8F8F8F",
+        "HEX": "#8f8f8f",
         "German": "Graualuminium",
         "English": "Grey aluminium",
         "name": "Grey aluminium",
@@ -2474,7 +2474,7 @@
     {
         "RAL": "RAL 9010",
         "RGB": "255-255-255",
-        "HEX": "#FFFFFF",
+        "HEX": "#ffffff",
         "German": "Reinweiß",
         "English": "Pure white",
         "name": "Pure white",
@@ -2486,7 +2486,7 @@
     {
         "RAL": "RAL 9011",
         "RGB": "028-028-028",
-        "HEX": "#1C1C1C",
+        "HEX": "#1c1c1c",
         "German": "Graphitschwarz",
         "English": "Graphite black",
         "name": "Graphite black",
@@ -2498,7 +2498,7 @@
     {
         "RAL": "RAL 9016",
         "RGB": "246-246-246",
-        "HEX": "#F6F6F6",
+        "HEX": "#f6f6f6",
         "German": "Verkehrsweiß",
         "English": "Traffic white",
         "name": "Traffic white",
@@ -2510,7 +2510,7 @@
     {
         "RAL": "RAL 9017",
         "RGB": "030-030-030",
-        "HEX": "#1E1E1E",
+        "HEX": "#1e1e1e",
         "German": "Verkehrs-schwarz",
         "English": "Traffic black",
         "name": "Traffic black",
@@ -2522,7 +2522,7 @@
     {
         "RAL": "RAL 9018",
         "RGB": "215-215-215",
-        "HEX": "#D7D7D7",
+        "HEX": "#d7d7d7",
         "German": "Papyrusweiß",
         "English": "Papyrus white",
         "name": "Papyrus white",
@@ -2534,7 +2534,7 @@
     {
         "RAL": "RAL 9022",
         "RGB": "156-156-156",
-        "HEX": "#9C9C9C",
+        "HEX": "#9c9c9c",
         "German": "Perlhellgrau",
         "English": "Pearl light grey",
         "name": "Pearl light grey",

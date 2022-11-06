@@ -5,11 +5,11 @@
     },
     {
         "name": "blue",
-        "hex": "#0000FF"
+        "hex": "#0000ff"
     },
     {
         "name": "cyan",
-        "hex": "#00FFFF"
+        "hex": "#00ffff"
     },
     {
         "name": "green",
@@ -21,11 +21,11 @@
     },
     {
         "name": "turquoise",
-        "hex": "#40E0D0"
+        "hex": "#40e0d0"
     },
     {
         "name": "indigo",
-        "hex": "#4B0082"
+        "hex": "#4b0082"
     },
     {
         "name": "gray",
@@ -37,50 +37,50 @@
     },
     {
         "name": "brown",
-        "hex": "#A52A2A"
+        "hex": "#a52a2a"
     },
     {
         "name": "tan",
-        "hex": "#D2B48C"
+        "hex": "#d2b48c"
     },
     {
         "name": "violet",
-        "hex": "#EE82EE"
+        "hex": "#ee82ee"
     },
     {
         "name": "beige",
-        "hex": "#F5F5DC"
+        "hex": "#f5f5dc"
     },
     {
         "name": "fuchsia",
-        "hex": "#FF00FF"
+        "hex": "#ff00ff"
     },
     {
         "name": "gold",
-        "hex": "#FFD700"
+        "hex": "#ffd700"
     },
     {
         "name": "magenta",
-        "hex": "#FF00FF"
+        "hex": "#ff00ff"
     },
     {
         "name": "orange",
-        "hex": "#FFA500"
+        "hex": "#ffa500"
     },
     {
         "name": "pink",
-        "hex": "#FFC0CB"
+        "hex": "#ffc0cb"
     },
     {
         "name": "red",
-        "hex": "#FF0000"
+        "hex": "#ff0000"
     },
     {
         "name": "white",
-        "hex": "#FFFFFF"
+        "hex": "#ffffff"
     },
     {
         "name": "yellow",
-        "hex": "#FFFF00"
+        "hex": "#ffff00"
     }
 ]

@@ -3,79 +3,79 @@
         "name": "一斤染",
         "romanized": "Ikkonzome",
         "english translation": "One kin (0.6 kg (1.3 lb)) dye",
-        "hex": "#F08F90"
+        "hex": "#f08f90"
     },
     {
         "name": "紅梅色",
         "romanized": "Kōbai-iro",
         "english translation": "Red plum colored",
-        "hex": "#DB5A6B"
+        "hex": "#db5a6b"
     },
     {
         "name": "桜色",
         "romanized": "Sakura-iro",
         "english translation": "Cherry blossom color",
-        "hex": "#FCC9B9"
+        "hex": "#fcc9b9"
     },
     {
         "name": "薄紅",
         "romanized": "Usubeni",
         "english translation": "Pale crimson (dye)",
-        "hex": "#F2666C"
+        "hex": "#f2666c"
     },
     {
         "name": "桃色",
         "romanized": "Momo-iro",
         "english translation": "Peach-colored",
-        "hex": "#F47983"
+        "hex": "#f47983"
     },
     {
         "name": "中紅",
         "romanized": "Nakabeni",
         "english translation": "Medium crimson (dye)",
-        "hex": "#C93756"
+        "hex": "#c93756"
     },
     {
         "name": "退紅",
         "romanized": "Arazome",
         "english translation": "Washed-out crimson (dye)",
-        "hex": "#FFB3A7"
+        "hex": "#ffb3a7"
     },
     {
         "name": "鴇羽色",
         "romanized": "Tokiha-iro",
         "english translation": "Ibis wing color",
-        "hex": "#F58F84"
+        "hex": "#f58f84"
     },
     {
         "name": "長春色",
         "romanized": "Chōshun-iro",
         "english translation": "Long spring (season) color",
-        "hex": "#B95754"
+        "hex": "#b95754"
     },
     {
         "name": "臙脂色",
         "romanized": "Enji-iro",
         "english translation": "Cochineal red/rouge",
-        "hex": "#9D2933"
+        "hex": "#9d2933"
     },
     {
         "name": "甚三紅",
         "romanized": "Jinzamomi",
         "english translation": "Thrice-dyed crimson",
-        "hex": "#F7665A"
+        "hex": "#f7665a"
     },
     {
         "name": "梅鼠",
         "romanized": "Umenezumi",
         "english translation": "Plum-blossom mouse grey",
-        "hex": "#97645A"
+        "hex": "#97645a"
     },
     {
         "name": "赤紅",
         "romanized": "Akabeni",
         "english translation": "Pure crimson (dye)",
-        "hex": "#C3272B"
+        "hex": "#c3272b"
     },
     {
         "name": "小豆色",
@@ -87,19 +87,19 @@
         "name": "海老茶",
         "romanized": "Ebicha",
         "english translation": "Maroon (shrimp brown)",
-        "hex": "#5E2824"
+        "hex": "#5e2824"
     },
     {
         "name": "曙色",
         "romanized": "Akebono-iro",
         "english translation": "Dawn-color",
-        "hex": "#FA7B62"
+        "hex": "#fa7b62"
     },
     {
         "name": "猩々緋",
         "romanized": "Shōjōhi",
         "english translation": "Red-orange (lit. orangutan-colored)",
-        "hex": "#DC3023"
+        "hex": "#dc3023"
     },
     {
         "name": "柿渋色",
@@ -117,67 +117,67 @@
         "name": "黒鳶",
         "romanized": "Kurotobi",
         "english translation": "Black kite (bird species)",
-        "hex": "#351E1C"
+        "hex": "#351e1c"
     },
     {
         "name": "照柿",
         "romanized": "Terigaki",
         "english translation": "Glazed persimmon",
-        "hex": "#D34E36"
+        "hex": "#d34e36"
     },
     {
         "name": "江戸茶",
         "romanized": "Edocha",
         "english translation": "Red-brown (Edo brown)",
-        "hex": "#A13D2D"
+        "hex": "#a13d2d"
     },
     {
         "name": "檜皮色",
         "romanized": "Hihada-iro",
         "english translation": "Cypress bark color",
-        "hex": "#752E23"
+        "hex": "#752e23"
     },
     {
         "name": "洗朱",
         "romanized": "Araishu",
         "english translation": "Rinsed-out red",
-        "hex": "#FF7952"
+        "hex": "#ff7952"
     },
     {
         "name": "ときがら茶",
         "romanized": "Tokigaracha",
         "english translation": "Brewed mustard-brown",
-        "hex": "#E68364"
+        "hex": "#e68364"
     },
     {
         "name": "蘇比",
         "romanized": "Sohi",
         "english translation": "Overdyed/refreshed red-brown",
-        "hex": "#E35C38"
+        "hex": "#e35c38"
     },
     {
         "name": "唐茶",
         "romanized": "Karacha",
         "english translation": "Spicy red-brown (Chinese tea brown)",
-        "hex": "#B35C44"
+        "hex": "#b35c44"
     },
     {
         "name": "宗傳唐茶",
         "romanized": "Sōdenkaracha",
         "english translation": "Faded spicy red-brown",
-        "hex": "#9B533F"
+        "hex": "#9b533f"
     },
     {
         "name": "栗皮茶",
         "romanized": "Kurikawacha",
         "english translation": "Chestnut-leather brown",
-        "hex": "#60281E"
+        "hex": "#60281e"
     },
     {
         "name": "鳶色",
         "romanized": "Tobi-iro",
         "english translation": "Ibis-color",
-        "hex": "#4C221B"
+        "hex": "#4c221b"
     },
     {
         "name": "朱色",
@@ -189,85 +189,85 @@
         "name": "桜鼠",
         "romanized": "Sakuranezumi",
         "english translation": "Cherry blossom mouse grey",
-        "hex": "#AC8181"
+        "hex": "#ac8181"
     },
     {
         "name": "唐紅/韓紅",
         "romanized": "Karakurenai",
         "english translation": "Foreign crimson[a]",
-        "hex": "#C91F37"
+        "hex": "#c91f37"
     },
     {
         "name": "深緋",
         "romanized": "Kokiake",
         "english translation": "Deep scarlet",
-        "hex": "#7B3B3A"
+        "hex": "#7b3b3a"
     },
     {
         "name": "水がき",
         "romanized": "Mizugaki",
         "english translation": "Water persimmon",
-        "hex": "#B56C60"
+        "hex": "#b56c60"
     },
     {
         "name": "蘇芳香",
         "romanized": "Su'ōkō",
         "english translation": "Sappanwood incense",
-        "hex": "#A24F46"
+        "hex": "#a24f46"
     },
     {
         "name": "真朱",
         "romanized": "Shinshu",
         "english translation": "True red",
-        "hex": "#8F1D21"
+        "hex": "#8f1d21"
     },
     {
         "name": "銀朱",
         "romanized": "Ginshu",
         "english translation": "Greyed red (lit. silvered red)",
-        "hex": "#BC2D29"
+        "hex": "#bc2d29"
     },
     {
         "name": "栗梅",
         "romanized": "Kiriume",
         "english translation": "Red-brown (lit. chestnut-plum)",
-        "hex": "#8B352D"
+        "hex": "#8b352d"
     },
     {
         "name": "珊瑚色",
         "romanized": "Sango-iro",
         "english translation": "Coral color",
-        "hex": "#F8674F"
+        "hex": "#f8674f"
     },
     {
         "name": "芝翫茶",
         "romanized": "Shikancha",
         "english translation": "Wilted brown (lit. wilted lawn-clippings)",
-        "hex": "#AB4C3D"
+        "hex": "#ab4c3d"
     },
     {
         "name": "紅樺",
         "romanized": "Benikaba",
         "english translation": "Red birch",
-        "hex": "#9D2B22"
+        "hex": "#9d2b22"
     },
     {
         "name": "紅檜皮",
         "romanized": "Benihibata",
         "english translation": "Cypress bark red",
-        "hex": "#6F3028"
+        "hex": "#6f3028"
     },
     {
         "name": "紅緋",
         "romanized": "Benihi",
         "english translation": "Blood red",
-        "hex": "#F35336"
+        "hex": "#f35336"
     },
     {
         "name": "緋",
         "romanized": "Ake",
         "english translation": "Scarlet (blood)",
-        "hex": "#CF3A24"
+        "hex": "#cf3a24"
     },
     {
         "name": "紅柄色",
@@ -279,67 +279,67 @@
         "name": "宍色",
         "romanized": "Shishi-iro",
         "english translation": "Meat-color",
-        "hex": "#F9906F"
+        "hex": "#f9906f"
     },
     {
         "name": "赤香色",
         "romanized": "Akakō-iro",
         "english translation": "Red incense-colored",
-        "hex": "#F07F5E"
+        "hex": "#f07f5e"
     },
     {
         "name": "黄丹",
         "romanized": "Ōtan",
         "english translation": "Ochre (earthen yellow-red-brown)",
-        "hex": "#FF4E20"
+        "hex": "#ff4e20"
     },
     {
         "name": "遠州茶",
         "romanized": "Enshūcha",
         "english translation": "Muddy brown (lit. the brown of a distant river)",
-        "hex": "#CB6649"
+        "hex": "#cb6649"
     },
     {
         "name": "樺茶",
         "romanized": "Kabacha",
         "english translation": "Birch brown",
-        "hex": "#B14A30"
+        "hex": "#b14a30"
     },
     {
         "name": "雀茶",
         "romanized": "Suzumecha",
         "english translation": "Sparrow-brown",
-        "hex": "#8C4736"
+        "hex": "#8c4736"
     },
     {
         "name": "百塩茶",
         "romanized": "Momoshiocha",
         "english translation": "Boiled red bean brown",
-        "hex": "#542D24"
+        "hex": "#542d24"
     },
     {
         "name": "胡桃染",
         "romanized": "Kurumizome",
         "english translation": "Walnut-dyed",
-        "hex": "#9F7462"
+        "hex": "#9f7462"
     },
     {
         "name": "黄櫨染",
         "romanized": "Kōrozen",
         "english translation": "Sumac-dyed",
-        "hex": "#592B1F"
+        "hex": "#592b1f"
     },
     {
         "name": "深支子",
         "romanized": "Kokikuchinashi",
         "english translation": "Rich gardenia",
-        "hex": "#F57F4F"
+        "hex": "#f57f4f"
     },
     {
         "name": "代赭色",
         "romanized": "Taisha-iro",
         "english translation": "Red ochre color",
-        "hex": "#9F5233"
+        "hex": "#9f5233"
     },
     {
         "name": "礪茶",
@@ -351,139 +351,139 @@
         "name": "洒落柿",
         "romanized": "Sharegaki",
         "english translation": "Stylish persimmon",
-        "hex": "#FFA26B"
+        "hex": "#ffa26b"
     },
     {
         "name": "萱草色",
         "romanized": "Kanzō-iro",
         "english translation": "Daylily-colored",
-        "hex": "#FF8936"
+        "hex": "#ff8936"
     },
     {
         "name": "紅鬱金",
         "romanized": "Beni'ukon",
         "english translation": "Red-bronze (lit. red dye and turmeric)",
-        "hex": "#FB8136"
+        "hex": "#fb8136"
     },
     {
         "name": "憲法染",
         "romanized": "Kenpōzome",
         "english translation": "Legal dye (from when color use was regulated by class)",
-        "hex": "#2E211B"
+        "hex": "#2e211b"
     },
     {
         "name": "琥珀色",
         "romanized": "Kohaku-iro",
         "english translation": "Amber color",
-        "hex": "#CA6924"
+        "hex": "#ca6924"
     },
     {
         "name": "朽葉色",
         "romanized": "Kuchiba-iro",
         "english translation": "Decaying leaves color",
-        "hex": "#D57835"
+        "hex": "#d57835"
     },
     {
         "name": "丁子染",
         "romanized": "Chōjizome",
         "english translation": "Clove-dyed",
-        "hex": "#A96232"
+        "hex": "#a96232"
     },
     {
         "name": "柴染",
         "romanized": "Fushizome",
         "english translation": "Brushwood-dyed",
-        "hex": "#8C5939"
+        "hex": "#8c5939"
     },
     {
         "name": "煤竹色",
         "romanized": "Susutake-iro",
         "english translation": "Weathered bamboo (lit. \"sooty\")",
-        "hex": "#593A27"
+        "hex": "#593a27"
     },
     {
         "name": "黄土色",
         "romanized": "Ōdo-iro",
         "english translation": "Ochre (lit. earthen yellow)",
-        "hex": "#BE7F51"
+        "hex": "#be7f51"
     },
     {
         "name": "黄唐茶",
         "romanized": "Kigaracha",
         "english translation": "Chinese yellow tea-colored",
-        "hex": "#B7702D"
+        "hex": "#b7702d"
     },
     {
         "name": "赤朽葉",
         "romanized": "Akakuchiba",
         "english translation": "Red fallen leaves",
-        "hex": "#DB8449"
+        "hex": "#db8449"
     },
     {
         "name": "蒲色",
         "romanized": "Kaba-iro",
         "english translation": "Cattail color",
-        "hex": "#B64925"
+        "hex": "#b64925"
     },
     {
         "name": "焦茶",
         "romanized": "Kogecha",
         "english translation": "Scorched brown",
-        "hex": "#351F19"
+        "hex": "#351f19"
     },
     {
         "name": "洗柿",
         "romanized": "Araigaki",
         "english translation": "Washed-out persimmon",
-        "hex": "#EC8254"
+        "hex": "#ec8254"
     },
     {
         "name": "赤白橡",
         "romanized": "Akashirotsurubami",
         "english translation": "Sawtooth oak",
-        "hex": "#EC956C"
+        "hex": "#ec956c"
     },
     {
         "name": "煎茶色",
         "romanized": "Sencha-iro",
         "english translation": "Green tea-colored",
-        "hex": "#824B35"
+        "hex": "#824b35"
     },
     {
         "name": "薄柿",
         "romanized": "Usugaki",
         "english translation": "Pale persimmon",
-        "hex": "#FCA474"
+        "hex": "#fca474"
     },
     {
         "name": "梅染",
         "romanized": "Umezome",
         "english translation": "Plum-dyed",
-        "hex": "#FA9258"
+        "hex": "#fa9258"
     },
     {
         "name": "丁子茶",
         "romanized": "Chōjicha",
         "english translation": "Clove-brown",
-        "hex": "#8F583C"
+        "hex": "#8f583c"
     },
     {
         "name": "枇杷茶",
         "romanized": "Biwacha",
         "english translation": "Loquat tree-brown",
-        "hex": "#AB6134"
+        "hex": "#ab6134"
     },
     {
         "name": "淡香",
         "romanized": "Usukō",
         "english translation": "Pale incense",
-        "hex": "#FFA565"
+        "hex": "#ffa565"
     },
     {
         "name": "金茶",
         "romanized": "Kincha",
         "english translation": "Golden brown",
-        "hex": "#C66B27"
+        "hex": "#c66b27"
     },
     {
         "name": "狐色",
@@ -495,85 +495,85 @@
         "name": "伽羅色",
         "romanized": "Kyara-iro",
         "english translation": "Aloewood-color",
-        "hex": "#6A432D"
+        "hex": "#6a432d"
     },
     {
         "name": "白茶",
         "romanized": "Shiracha",
         "english translation": "White tea-colored",
-        "hex": "#C48E69"
+        "hex": "#c48e69"
     },
     {
         "name": "銀煤竹",
         "romanized": "Kinsusutake",
         "english translation": "Golden-grey bamboo (dried and weathered)",
-        "hex": "#7D4E2D"
+        "hex": "#7d4e2d"
     },
     {
         "name": "媚茶",
         "romanized": "Kobicha",
         "english translation": "Kobi tea",
-        "hex": "#6B4423"
+        "hex": "#6b4423"
     },
     {
         "name": "浅黄",
         "romanized": "Asagi",
         "english translation": "Light yellow",
-        "hex": "#F7BB7D"
+        "hex": "#f7bb7d"
     },
     {
         "name": "玉子色",
         "romanized": "Tamago-iro",
         "english translation": "Egg-colored",
-        "hex": "#FFA631"
+        "hex": "#ffa631"
     },
     {
         "name": "山吹茶",
         "romanized": "Yamabukicha",
         "english translation": "Gold-brown",
-        "hex": "#CB7E1F"
+        "hex": "#cb7e1f"
     },
     {
         "name": "生壁色",
         "romanized": "Namakabe-iro",
         "english translation": "The color of undried plaster",
-        "hex": "#785E49"
+        "hex": "#785e49"
     },
     {
         "name": "玉蜀黍色",
         "romanized": "Tōmorokoshi-iro",
         "english translation": "Corn-colored",
-        "hex": "#FAA945"
+        "hex": "#faa945"
     },
     {
         "name": "黄橡",
         "romanized": "Kitsurubami",
         "english translation": "Golden oak",
-        "hex": "#BB8141"
+        "hex": "#bb8141"
     },
     {
         "name": "花葉色",
         "romanized": "Hanaba-iro or kayou-iro",
         "english translation": "Floral leaf-colored",
-        "hex": "#FFB94E"
+        "hex": "#ffb94e"
     },
     {
         "name": "鬱金色",
         "romanized": "Ukon-iro",
         "english translation": "Turmeric-colored",
-        "hex": "#E69B3A"
+        "hex": "#e69b3a"
     },
     {
         "name": "利休白茶",
         "romanized": "Rikyūshiracha",
         "english translation": "Faded Sen no Rikyū's tea",
-        "hex": "#B0927A"
+        "hex": "#b0927a"
     },
     {
         "name": "灰汁色",
         "romanized": "Aku-iro",
         "english translation": "Lye-colored",
-        "hex": "#7F6B5D"
+        "hex": "#7f6b5d"
     },
     {
         "name": "路考茶",
@@ -585,31 +585,31 @@
         "name": "菜種油色",
         "romanized": "Nataneyu-iro",
         "english translation": "Rapeseed oil-colored",
-        "hex": "#A17917"
+        "hex": "#a17917"
     },
     {
         "name": "鶯茶",
         "romanized": "Uguisucha",
         "english translation": "Nightingale-brown (greenish brown)",
-        "hex": "#5C4827"
+        "hex": "#5c4827"
     },
     {
         "name": "苅萱",
         "romanized": "Kariyasu",
         "english translation": "Japanese triandra grass (Themeda japonica)",
-        "hex": "#E2B13C"
+        "hex": "#e2b13c"
     },
     {
         "name": "蒸栗色",
         "romanized": "Mushikuri-iro",
         "english translation": "Steamed chestnut color",
-        "hex": "#D3B17D"
+        "hex": "#d3b17d"
     },
     {
         "name": "鶸茶",
         "romanized": "Hiwacha",
         "english translation": "Finch-brown (Cardueline finch)",
-        "hex": "#957B38"
+        "hex": "#957b38"
     },
     {
         "name": "鶯色",
@@ -621,217 +621,217 @@
         "name": "山吹色",
         "romanized": "Yamabuki-iro",
         "english translation": "Golden yellow (a particular variety of rose)",
-        "hex": "#FFA400"
+        "hex": "#ffa400"
     },
     {
         "name": "櫨染",
         "romanized": "Hajizome",
         "english translation": "Sumac-dyed",
-        "hex": "#E08A1E"
+        "hex": "#e08a1e"
     },
     {
         "name": "桑染",
         "romanized": "Kuwazome",
         "english translation": "Mulberry-dyed",
-        "hex": "#C57F2E"
+        "hex": "#c57f2e"
     },
     {
         "name": "梔子",
         "romanized": "Kuchinashi",
         "english translation": "Cape jasmine or gardenia",
-        "hex": "#FFB95A"
+        "hex": "#ffb95a"
     },
     {
         "name": "白橡",
         "romanized": "Shirotsurubami",
         "english translation": "White oak",
-        "hex": "#CE9F6F"
+        "hex": "#ce9f6f"
     },
     {
         "name": "藤黄",
         "romanized": "Tō'ō",
         "english translation": "Gamboge",
-        "hex": "#FFB61E"
+        "hex": "#ffb61e"
     },
     {
         "name": "鳥の子色",
         "romanized": "Torinoko-iro",
         "english translation": "Eggshell paper-colored",
-        "hex": "#E2BE9F"
+        "hex": "#e2be9f"
     },
     {
         "name": "黄朽葉",
         "romanized": "Kikuchiba",
         "english translation": "Golden fallen leaves",
-        "hex": "#E29C45"
+        "hex": "#e29c45"
     },
     {
         "name": "利休茶",
         "romanized": "Rikyūcha",
         "english translation": "Sen no Rikyū's tea",
-        "hex": "#826B58"
+        "hex": "#826b58"
     },
     {
         "name": "肥後煤竹",
         "romanized": "Higosusutake",
         "english translation": "Japanese iris and sooty bamboo",
-        "hex": "#7F5D3B"
+        "hex": "#7f5d3b"
     },
     {
         "name": "海松茶",
         "romanized": "Mirucha",
         "english translation": "Simmered seaweed",
-        "hex": "#4C3D30"
+        "hex": "#4c3d30"
     },
     {
         "name": "黄海松茶",
         "romanized": "Kimirucha",
         "english translation": "Yellow Sea pine-brown",
-        "hex": "#896C39"
+        "hex": "#896c39"
     },
     {
         "name": "菜の花色",
         "romanized": "Nanohanacha",
         "english translation": "Rape-blossom brown",
-        "hex": "#E3B130"
+        "hex": "#e3b130"
     },
     {
         "name": "黄蘗",
         "romanized": "Kihada",
         "english translation": "Amur cork tree (Phellodendron amurense)",
-        "hex": "#F3C13A"
+        "hex": "#f3c13a"
     },
     {
         "name": "青朽葉",
         "romanized": "Aokuchiba",
         "english translation": "Pale fallen leaves",
-        "hex": "#AA8736"
+        "hex": "#aa8736"
     },
     {
         "name": "女郎花",
         "romanized": "Ominaeshi",
         "english translation": "Patrinia flowers (Patrinia scabiosaefolia)",
-        "hex": "#D9B611"
+        "hex": "#d9b611"
     },
     {
         "name": "鶸色",
         "romanized": "Hiwa-iro",
         "english translation": "Greenfinch color",
-        "hex": "#BDA928"
+        "hex": "#bda928"
     },
     {
         "name": "柳茶",
         "romanized": "Yanagicha",
         "english translation": "Willow tea",
-        "hex": "#9C8A4D"
+        "hex": "#9c8a4d"
     },
     {
         "name": "藍媚茶",
         "romanized": "Aikobicha",
         "english translation": "Indigo tea",
-        "hex": "#473F2D"
+        "hex": "#473f2d"
     },
     {
         "name": "海松色",
         "romanized": "Miru-iro",
         "english translation": "Codium fragile seaweed color",
-        "hex": "#524B2A"
+        "hex": "#524b2a"
     },
     {
         "name": "梅幸茶",
         "romanized": "Baikōcha",
         "english translation": "Baiko brown",
-        "hex": "#857C55"
+        "hex": "#857c55"
     },
     {
         "name": "鶸萌黄",
         "romanized": "Hiwamo'egi",
         "english translation": "Siskin sprout yellow",
-        "hex": "#7A942E"
+        "hex": "#7a942e"
     },
     {
         "name": "裏柳",
         "romanized": "Urahayanagi",
         "english translation": "Underside of willow leaves",
-        "hex": "#BCB58C"
+        "hex": "#bcb58c"
     },
     {
         "name": "柳染",
         "romanized": "Yanagizome",
         "english translation": "Willow-dyed",
-        "hex": "#8C9E5E"
+        "hex": "#8c9e5e"
     },
     {
         "name": "青丹",
         "romanized": "Aoni",
         "english translation": "Blue-black clay[3]",
-        "hex": "#52593B"
+        "hex": "#52593b"
     },
     {
         "name": "青白橡",
         "romanized": "Aoshirotsurubami",
         "english translation": "Pale oak",
-        "hex": "#BBA46D"
+        "hex": "#bba46d"
     },
     {
         "name": "璃寛茶",
         "romanized": "Rikancha",
         "english translation": "Rikan brown",
-        "hex": "#534A32"
+        "hex": "#534a32"
     },
     {
         "name": "苔色",
         "romanized": "Koke-iro",
         "english translation": "Moss color",
-        "hex": "#8B7D3A"
+        "hex": "#8b7d3a"
     },
     {
         "name": "千歳茶",
         "romanized": "Sensaicha",
         "english translation": "Thousand year old brown",
-        "hex": "#3B3429"
+        "hex": "#3b3429"
     },
     {
         "name": "岩井茶",
         "romanized": "Iwaicha",
         "english translation": "Iwai brown[2]",
-        "hex": "#5E5545"
+        "hex": "#5e5545"
     },
     {
         "name": "柳煤竹",
         "romanized": "Yanagisusutake",
         "english translation": "Sooty willow bamboo",
-        "hex": "#4D4B3A"
+        "hex": "#4d4b3a"
     },
     {
         "name": "淡萌黄",
         "romanized": "Usumo'egi",
         "english translation": "Pale young green onion",
-        "hex": "#8DB255"
+        "hex": "#8db255"
     },
     {
         "name": "萌黄",
         "romanized": "Mo'egi",
         "english translation": "Fresh onion",
-        "hex": "#5B8930"
+        "hex": "#5b8930"
     },
     {
         "name": "松葉色",
         "romanized": "Matsuba-iro",
         "english translation": "Pine needle color",
-        "hex": "#454D32"
+        "hex": "#454d32"
     },
     {
         "name": "薄青",
         "romanized": "Usu'ao",
         "english translation": "Pale blue",
-        "hex": "#8C9C76"
+        "hex": "#8c9c76"
     },
     {
         "name": "柳鼠",
         "romanized": "Yanaginezumi",
         "english translation": "Willow grey",
-        "hex": "#817B69"
+        "hex": "#817b69"
     },
     {
         "name": "千歳緑",
@@ -843,19 +843,19 @@
         "name": "白緑",
         "romanized": "Byakuroku",
         "english translation": "Whitish green",
-        "hex": "#A5BA93"
+        "hex": "#a5ba93"
     },
     {
         "name": "緑青",
         "romanized": "Rokushō",
         "english translation": "Patina",
-        "hex": "#407A52"
+        "hex": "#407a52"
     },
     {
         "name": "御納戸茶",
         "romanized": "Onandocha",
         "english translation": "Storeroom brown",
-        "hex": "#3D4035"
+        "hex": "#3d4035"
     },
     {
         "name": "利休鼠",
@@ -867,61 +867,61 @@
         "name": "虫襖",
         "romanized": "Mushi'ao",
         "english translation": "Insect screen",
-        "hex": "#2D4436"
+        "hex": "#2d4436"
     },
     {
         "name": "沈香茶",
         "romanized": "Tonocha",
         "english translation": "Aloeswood brown",
-        "hex": "#5A6457"
+        "hex": "#5a6457"
     },
     {
         "name": "青磁色",
         "romanized": "Seiji-iro",
         "english translation": "Celadon color",
-        "hex": "#819C8B"
+        "hex": "#819c8b"
     },
     {
         "name": "錆鉄御納戸",
         "romanized": "Sabitetsuonando",
         "english translation": "Rusty storeroom",
-        "hex": "#3A403B"
+        "hex": "#3a403b"
     },
     {
         "name": "御召茶",
         "romanized": "Omeshicha",
         "english translation": "Silk crepe brown",
-        "hex": "#354E4B"
+        "hex": "#354e4b"
     },
     {
         "name": "若竹色",
         "romanized": "Wakatake-iro",
         "english translation": "Young bamboo color",
-        "hex": "#6B9362"
+        "hex": "#6b9362"
     },
     {
         "name": "老竹色",
         "romanized": "Oitake-iro",
         "english translation": "Old bamboo color",
-        "hex": "#5E644F"
+        "hex": "#5e644f"
     },
     {
         "name": "緑",
         "romanized": "Midori",
         "english translation": "Green",
-        "hex": "#2A603B"
+        "hex": "#2a603b"
     },
     {
         "name": "錆青磁",
         "romanized": "Sabiseiji",
         "english translation": "Rusty celadon",
-        "hex": "#898A74"
+        "hex": "#898a74"
     },
     {
         "name": "木賊色",
         "romanized": "Tokusa-iro",
         "english translation": "Horsetail color",
-        "hex": "#3D5D42"
+        "hex": "#3d5d42"
     },
     {
         "name": "青竹色",
@@ -939,25 +939,25 @@
         "name": "藍海松茶",
         "romanized": "Aimirucha",
         "english translation": "Indigo Codium fragile seaweed brown",
-        "hex": "#2E372E"
+        "hex": "#2e372e"
     },
     {
         "name": "水浅葱",
         "romanized": "Mizu'asagi",
         "english translation": "Pale green onion",
-        "hex": "#749F8D"
+        "hex": "#749f8d"
     },
     {
         "name": "青碧",
         "romanized": "Seiheki",
         "english translation": "Blue-green",
-        "hex": "#3A6960"
+        "hex": "#3a6960"
     },
     {
         "name": "鉄色",
         "romanized": "Tetsu-iro",
         "english translation": "Iron color",
-        "hex": "#2B3733"
+        "hex": "#2b3733"
     },
     {
         "name": "高麗納戸",
@@ -969,25 +969,25 @@
         "name": "湊鼠",
         "romanized": "Minatonezumi",
         "english translation": "Harbor rat",
-        "hex": "#757D75"
+        "hex": "#757d75"
     },
     {
         "name": "鉄御納戸",
         "romanized": "Tetsuonando",
         "english translation": "Iron storage",
-        "hex": "#2B3736"
+        "hex": "#2b3736"
     },
     {
         "name": "錆浅葱",
         "romanized": "Sabi'asagi",
         "english translation": "Rusted light-blue",
-        "hex": "#6A7F7A"
+        "hex": "#6a7f7a"
     },
     {
         "name": "浅葱色",
         "romanized": "Asagi-iro",
         "english translation": "Light blue color",
-        "hex": "#48929B"
+        "hex": "#48929b"
     },
     {
         "name": "錆御納戸",
@@ -1005,37 +1005,37 @@
         "name": "花浅葱",
         "romanized": "Hana'asagi",
         "english translation": "Light blue flower",
-        "hex": "#1D697C"
+        "hex": "#1d697c"
     },
     {
         "name": "舛花色",
         "romanized": "Masuhana-iro",
         "english translation": "Opposite flower color",
-        "hex": "#4D646C"
+        "hex": "#4d646c"
     },
     {
         "name": "熨斗目花色",
         "romanized": "Noshimehana-iro",
         "english translation": "Iron head flower color",
-        "hex": "#344D56"
+        "hex": "#344d56"
     },
     {
         "name": "空色",
         "romanized": "Sora-iro",
         "english translation": "Sky Blue color",
-        "hex": "#4D8FAC"
+        "hex": "#4d8fac"
     },
     {
         "name": "群青色",
         "romanized": "Gunjō-iro",
         "english translation": "Ultramarine color",
-        "hex": "#5D8CAE"
+        "hex": "#5d8cae"
     },
     {
         "name": "褐色",
         "romanized": "Kachi-iro",
         "english translation": "Coarse wool color",
-        "hex": "#181B26"
+        "hex": "#181b26"
     },
     {
         "name": "紺青色",
@@ -1047,7 +1047,7 @@
         "name": "紅碧",
         "romanized": "Benimidori",
         "english translation": "Stained red",
-        "hex": "#78779B"
+        "hex": "#78779b"
     },
     {
         "name": "藤鼠",
@@ -1059,37 +1059,37 @@
         "name": "藤色",
         "romanized": "Fuji-iro",
         "english translation": "Wisteria color",
-        "hex": "#89729E"
+        "hex": "#89729e"
     },
     {
         "name": "青鈍",
         "romanized": "Aonibi",
         "english translation": "Dull blue",
-        "hex": "#4F4944"
+        "hex": "#4f4944"
     },
     {
         "name": "水色",
         "romanized": "Mizu-iro",
         "english translation": "Aqua Blue color",
-        "hex": "#86ABA5"
+        "hex": "#86aba5"
     },
     {
         "name": "瓶覗",
         "romanized": "Kamenozoki",
         "english translation": "Inside of a bottle",
-        "hex": "#C6C2B6"
+        "hex": "#c6c2b6"
     },
     {
         "name": "新橋色",
         "romanized": "Shinbashi-iro",
         "english translation": "New Bridge\" color",
-        "hex": "#006C7F"
+        "hex": "#006c7f"
     },
     {
         "name": "藍鼠",
         "romanized": "Ainezumi",
         "english translation": "Mousy indigo",
-        "hex": "#5C544E"
+        "hex": "#5c544e"
     },
     {
         "name": "御納戸色",
@@ -1107,13 +1107,13 @@
         "name": "縹",
         "romanized": "Hanada",
         "english translation": "Light blue silk",
-        "hex": "#044F67"
+        "hex": "#044f67"
     },
     {
         "name": "御召御納戸",
         "romanized": "Omeshi'onando",
         "english translation": "Kimono storage",
-        "hex": "#3D4C51"
+        "hex": "#3d4c51"
     },
     {
         "name": "黒橡",
@@ -1131,139 +1131,139 @@
         "name": "瑠璃色",
         "romanized": "Ruri-iro",
         "english translation": "Lapis lazuli color",
-        "hex": "#1F4788"
+        "hex": "#1f4788"
     },
     {
         "name": "瑠璃紺",
         "romanized": "Rurikon",
         "english translation": "Dark blue lapis lazuli",
-        "hex": "#1B294B"
+        "hex": "#1b294b"
     },
     {
         "name": "紺桔梗",
         "romanized": "Konkikyō",
         "english translation": "Navy blue bellflower",
-        "hex": "#191F45"
+        "hex": "#191f45"
     },
     {
         "name": "紅掛花色",
         "romanized": "Benikakehana-iro",
         "english translation": "Safflower color",
-        "hex": "#5A4F74"
+        "hex": "#5a4f74"
     },
     {
         "name": "二藍",
         "romanized": "Futa'ai",
         "english translation": "Dark indigo",
-        "hex": "#614E6E"
+        "hex": "#614e6e"
     },
     {
         "name": "藤紫",
         "romanized": "Fujimurasaki",
         "english translation": "Wisteria purple",
-        "hex": "#875F9A"
+        "hex": "#875f9a"
     },
     {
         "name": "紫苑色",
         "romanized": "Shi'on-iro",
         "english translation": "Tatarian aster color",
-        "hex": "#976E9A"
+        "hex": "#976e9a"
     },
     {
         "name": "紫紺",
         "romanized": "Shikon",
         "english translation": "Blue-violet",
-        "hex": "#2B2028"
+        "hex": "#2b2028"
     },
     {
         "name": "薄色",
         "romanized": "Usu-iro",
         "english translation": "Thin color",
-        "hex": "#A87CA0"
+        "hex": "#a87ca0"
     },
     {
         "name": "菫色",
         "romanized": "Sumire-iro",
         "english translation": "Violet color",
-        "hex": "#5B3256"
+        "hex": "#5b3256"
     },
     {
         "name": "黒紅",
         "romanized": "Kurobeni",
         "english translation": "Dark red",
-        "hex": "#23191E"
+        "hex": "#23191e"
     },
     {
         "name": "紅藤",
         "romanized": "Benifuji",
         "english translation": "Red wisteria",
-        "hex": "#BB7796"
+        "hex": "#bb7796"
     },
     {
         "name": "鳩羽鼠",
         "romanized": "Hatobanezumi",
         "english translation": "Dove feather grey",
-        "hex": "#755D5B"
+        "hex": "#755d5b"
     },
     {
         "name": "蒲萄",
         "romanized": "Ebizome",
         "english translation": "Vine grape",
-        "hex": "#6D2B50"
+        "hex": "#6d2b50"
     },
     {
         "name": "牡丹",
         "romanized": "Bōtan",
         "english translation": "Tree peony",
-        "hex": "#A4345D"
+        "hex": "#a4345d"
     },
     {
         "name": "似せ紫",
         "romanized": "Nisemurasaki",
         "english translation": "Fake purple",
-        "hex": "#43242A"
+        "hex": "#43242a"
     },
     {
         "name": "蘇芳",
         "romanized": "Su'ō",
         "english translation": "Sappanwood",
-        "hex": "#7E2639"
+        "hex": "#7e2639"
     },
     {
         "name": "紅消鼠",
         "romanized": "Benikeshinezumi",
         "english translation": "Vanishing red mouse",
-        "hex": "#44312E"
+        "hex": "#44312e"
     },
     {
         "name": "桔梗色",
         "romanized": "Kikyō-iro",
         "english translation": "Bellflower color",
-        "hex": "#5D3F6A"
+        "hex": "#5d3f6a"
     },
     {
         "name": "滅紫",
         "romanized": "Messhi",
         "english translation": "Disappearing purple",
-        "hex": "#3F313A"
+        "hex": "#3f313a"
     },
     {
         "name": "深紫",
         "romanized": "Kokimurasaki",
         "english translation": "Deep purple",
-        "hex": "#3A243B"
+        "hex": "#3a243b"
     },
     {
         "name": "半色",
         "romanized": "Hashita-iro",
         "english translation": "Half color",
-        "hex": "#8D608C"
+        "hex": "#8d608c"
     },
     {
         "name": "紫",
         "romanized": "Murasaki",
         "english translation": "Purple",
-        "hex": "#4F284B"
+        "hex": "#4f284b"
     },
     {
         "name": "菖蒲色",
@@ -1275,55 +1275,55 @@
         "name": "杜若",
         "romanized": "Kakitsubata",
         "english translation": "Rabbit-ear iris",
-        "hex": "#491E3C"
+        "hex": "#491e3c"
     },
     {
         "name": "葡萄鼠",
         "romanized": "Budōnezumi",
         "english translation": "Grape mouse",
-        "hex": "#63424B"
+        "hex": "#63424b"
     },
     {
         "name": "藤煤竹",
         "romanized": "Fujisusutake",
         "english translation": "Wisteria and burnt-bamboo",
-        "hex": "#4D3B3C"
+        "hex": "#4d3b3c"
     },
     {
         "name": "梅紫",
         "romanized": "Umemurasaki",
         "english translation": "Plum purple",
-        "hex": "#8F4155"
+        "hex": "#8f4155"
     },
     {
         "name": "紫鳶",
         "romanized": "Murasakitobi",
         "english translation": "Purple kite",
-        "hex": "#512C31"
+        "hex": "#512c31"
     },
     {
         "name": "桑染",
         "romanized": "Kuwazome",
         "english translation": "Mulberry dye",
-        "hex": "#59292C"
+        "hex": "#59292c"
     },
     {
         "name": "白練",
         "romanized": "Shironeri",
         "english translation": "Unbleached silk",
-        "hex": "#FFDDCA"
+        "hex": "#ffddca"
     },
     {
         "name": "銀鼠",
         "romanized": "Ginnezumi",
         "english translation": "Silver-grey",
-        "hex": "#97867C"
+        "hex": "#97867c"
     },
     {
         "name": "丼鼠",
         "romanized": "Dobunezumi",
         "english translation": "Brown rat grey",
-        "hex": "#4B3C39"
+        "hex": "#4b3c39"
     },
     {
         "name": "檳榔子染",
@@ -1341,13 +1341,13 @@
         "name": "白鼠",
         "romanized": "Shironezumi",
         "english translation": "White mouse",
-        "hex": "#B9A193"
+        "hex": "#b9a193"
     },
     {
         "name": "素鼠",
         "romanized": "Sunezumi",
         "english translation": "Plain mouse",
-        "hex": "#6E5F57"
+        "hex": "#6e5f57"
     },
     {
         "name": "藍墨茶",
@@ -1359,12 +1359,12 @@
         "name": "墨色",
         "romanized": "Sumi-iro",
         "english translation": "Ink color",
-        "hex": "#27221F"
+        "hex": "#27221f"
     },
     {
         "name": "藍白",
         "romanized": "Aijiro",
         "english translation": "Indigo white",
-        "hex": "#EBF6F7"
+        "hex": "#ebf6f7"
     }
 ]
