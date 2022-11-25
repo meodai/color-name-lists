@@ -54712,13 +54712,13 @@
   "meta": {
     "basic": {
       "title": "Basic",
-      "description": "A set of basic colors.",
+      "description": "A set of basic colors. Red, Green, Blue...",
       "source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
       "key": "basic"
     },
     "html": {
       "title": "HTML Colors",
-      "description": "HTML color names",
+      "description": "HTML/CSS color names. These can be used as keywords in CSS, SVG's or HTML.",
       "source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
       "key": "html"
     },
@@ -54742,13 +54742,13 @@
     },
     "ntc": {
       "title": "NTC.js",
-      "description": "NTC.js color matching library names",
+      "description": "NTC.js color matching library names released in 2007. The names were collected from various sources like Wikipedia, X11, Crayola etc.",
       "source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
       "key": "ntc"
     },
     "osxcrayons": {
       "title": "OS X Crayons",
-      "description": "OS X Crayons color names",
+      "description": "OS X Crayons color names mostly used in the OS X color-picker GUI.",
       "source": "http://www.randomactsofsentience.com/2013/06/os-x-crayon-color-hex-table.html",
       "key": "osxcrayons"
     },
@@ -54772,19 +54772,19 @@
     },
     "thesaurus": {
       "title": "The Color Thesaurus",
-      "description": "The Color Thesaurus by Ingrid Sundberg",
+      "description": "The Color Thesaurus by Ingrid Sundberg. As a writer she collected color names to dig into the emotion of a scene and create variety in her writing.",
       "source": "https://ingridsnotes.wordpress.com/2014/02/04/the-color-thesaurus/",
       "key": "thesaurus"
     },
     "werner": {
       "title": "Werner's Nomenclature of Colours",
-      "description": "All colors from the book Werner's Nomenclature of Colours.",
+      "description": "All colors from the book Werner's Nomenclature of Colours collected and described in the late 18th century",
       "source": "https://www.c82.net/werner/",
       "key": "werner"
     },
     "windows": {
       "title": "Microsoft Windows Color Names",
-      "description": "List of colors used in older microsoft windows systems",
+      "description": "List of colors used in legacy microsoft windows systems",
       "source": "https://docs.microsoft.com/en-us/dotnet/api/system.windows.media.colors?view=windowsdesktop-6.0",
       "key": "windows"
     },
