@@ -6,6 +6,8 @@ const descriptions = require(libPath + '/descriptions.json');
 
 const wikipediaList = require('wikipedia-color-names/colors.min.json');
 const ridgewayList = require('color-standards-and-color-nomenclature/dist/colornames.json');
+const risographColors = require('riso-colors');
+
 const hexColorValidation = /^#([0-9A-F]{3}){1,2}$/i;
 
 
@@ -51,6 +53,7 @@ const lists = {};
 
 lists.wikipedia = wikipediaList;
 lists.ridgway = ridgewayList;
+lists.risograph = risographColors;
 
 jsonFiles.map(file => {
   const filePath = path.join(directoryPath, file);

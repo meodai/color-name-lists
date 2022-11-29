@@ -28014,6 +28014,630 @@
         }
       }
     ],
+    "risograph": [
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "meta": {
+          "pantone": "BLACK U"
+        }
+      },
+      {
+        "name": "Burgundy",
+        "hex": "#914e72",
+        "meta": {
+          "pantone": "235 U",
+          "ztype": "S-4225"
+        }
+      },
+      {
+        "name": "Blue",
+        "hex": "#0078bf",
+        "meta": {
+          "pantone": "3005 U",
+          "ztype": "S-4257"
+        }
+      },
+      {
+        "name": "Green",
+        "hex": "#00a95c",
+        "meta": {
+          "pantone": "354 U",
+          "ztype": "S-4259"
+        }
+      },
+      {
+        "name": "Medium Blue",
+        "hex": "#3255a4",
+        "meta": {
+          "pantone": "286 U",
+          "ztype": "S-4261"
+        }
+      },
+      {
+        "name": "Bright Red",
+        "hex": "#f15060",
+        "meta": {
+          "pantone": "185 U",
+          "ztype": "S-4263"
+        }
+      },
+      {
+        "name": "RisoFederal Blue",
+        "hex": "#3d5588",
+        "meta": {
+          "pantone": "288 U",
+          "ztype": "S-4265"
+        }
+      },
+      {
+        "name": "Purple",
+        "hex": "#765ba7",
+        "meta": {
+          "pantone": "2685 U",
+          "ztype": "S-4267"
+        }
+      },
+      {
+        "name": "Teal",
+        "hex": "#00838a",
+        "meta": {
+          "pantone": "321 U",
+          "ztype": "S-4269"
+        }
+      },
+      {
+        "name": "Flat Gold",
+        "hex": "#bb8b41",
+        "meta": {
+          "pantone": "1245 U",
+          "ztype": "S-4271"
+        }
+      },
+      {
+        "name": "Hunter Green",
+        "hex": "#407060",
+        "meta": {
+          "pantone": "342 U",
+          "ztype": "S-4273"
+        }
+      },
+      {
+        "name": "Red",
+        "hex": "#ff665e",
+        "meta": {
+          "pantone": "WARM RED U",
+          "ztype": "S-4275"
+        }
+      },
+      {
+        "name": "Brown",
+        "hex": "#925f52",
+        "meta": {
+          "pantone": "7526 U",
+          "ztype": "S-4277"
+        }
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffe800",
+        "meta": {
+          "pantone": "YELLOW U",
+          "ztype": "S-4279"
+        }
+      },
+      {
+        "name": "Marine Red",
+        "hex": "#d2515e",
+        "meta": {
+          "pantone": "186 U",
+          "ztype": "S-4281"
+        }
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6c2f",
+        "meta": {
+          "pantone": "ORANGE 021 U",
+          "ztype": "S-4283"
+        }
+      },
+      {
+        "name": "Fluorescent Pink",
+        "hex": "#ff48b0",
+        "meta": {
+          "pantone": "806 U",
+          "ztype": "S-4287"
+        }
+      },
+      {
+        "name": "Light Gray",
+        "hex": "#88898a",
+        "meta": {
+          "pantone": "424 U",
+          "ztype": "S-4291"
+        }
+      },
+      {
+        "name": "Metallic Gold",
+        "hex": "#ac936e",
+        "meta": {
+          "pantone": "872 U",
+          "ztype": " S-2772"
+        }
+      },
+      {
+        "name": "Crimson",
+        "hex": "#e45d50",
+        "meta": {
+          "pantone": "485 U",
+          "ztype": "S-4285"
+        }
+      },
+      {
+        "name": "Fluorescent Orange",
+        "hex": "#ff7477",
+        "meta": {
+          "pantone": "805 U",
+          "ztype": "S-4289"
+        }
+      },
+      {
+        "name": "Cornflower",
+        "hex": "#62a8e5",
+        "meta": {
+          "pantone": "292 U",
+          "ztype": "S-4617"
+        }
+      },
+      {
+        "name": "Sky Blue",
+        "hex": "#4982cf",
+        "meta": {
+          "pantone": "285U",
+          "ztype": "S-4618"
+        }
+      },
+      {
+        "name": "Sea Blue",
+        "hex": "#0074a2",
+        "meta": {
+          "pantone": "307 U",
+          "ztype": "S-4619"
+        }
+      },
+      {
+        "name": "Lake",
+        "hex": "#235ba8",
+        "meta": {
+          "pantone": "293 U",
+          "ztype": "S-4620"
+        }
+      },
+      {
+        "name": "Indigo",
+        "hex": "#484d7a",
+        "meta": {
+          "pantone": "2758 U",
+          "ztype": "S-4621"
+        }
+      },
+      {
+        "name": "Midnight",
+        "hex": "#435060",
+        "meta": {
+          "pantone": "296 U",
+          "ztype": "S-4622"
+        }
+      },
+      {
+        "name": "Mist",
+        "hex": "#d5e4c0",
+        "meta": {
+          "pantone": "7485 U",
+          "ztype": "S-4623"
+        }
+      },
+      {
+        "name": "Granite",
+        "hex": "#a5aaa8",
+        "meta": {
+          "pantone": "7538 U",
+          "ztype": "S-4624"
+        }
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#70747c",
+        "meta": {
+          "pantone": "7540 U",
+          "ztype": "S-4625"
+        }
+      },
+      {
+        "name": "Smoky Teal",
+        "hex": "#5f8289",
+        "meta": {
+          "pantone": "5483 U",
+          "ztype": "S-4626"
+        }
+      },
+      {
+        "name": "Steel",
+        "hex": "#375e77",
+        "meta": {
+          "pantone": "302 U",
+          "ztype": "S-4627"
+        }
+      },
+      {
+        "name": "Slate",
+        "hex": "#5e695e",
+        "meta": {
+          "pantone": "5605 U",
+          "ztype": "S-4628"
+        }
+      },
+      {
+        "name": "Turquoise",
+        "hex": "#00aa93",
+        "meta": {
+          "pantone": "3275 U",
+          "ztype": "S-4629"
+        }
+      },
+      {
+        "name": "Emerald",
+        "hex": "#19975d",
+        "meta": {
+          "pantone": "355 U",
+          "ztype": "S-4630"
+        }
+      },
+      {
+        "name": "Grass",
+        "hex": "#397e58",
+        "meta": {
+          "pantone": "356 U",
+          "ztype": "S-4631"
+        }
+      },
+      {
+        "name": "Forest",
+        "hex": "#516e5a",
+        "meta": {
+          "pantone": "357 U",
+          "ztype": "S-4632"
+        }
+      },
+      {
+        "name": "Spruce",
+        "hex": "#4a635d",
+        "meta": {
+          "pantone": "567 U",
+          "ztype": "S-4633"
+        }
+      },
+      {
+        "name": "Moss",
+        "hex": "#68724d",
+        "meta": {
+          "pantone": "371 U",
+          "ztype": "S-4634"
+        }
+      },
+      {
+        "name": "Sea Foam",
+        "hex": "#62c2b1",
+        "meta": {
+          "pantone": "570 U",
+          "ztype": "S-4635"
+        }
+      },
+      {
+        "name": "Kelly Green",
+        "hex": "#67b346",
+        "meta": {
+          "pantone": " 368 U",
+          "ztype": "S-4636"
+        }
+      },
+      {
+        "name": "Light Teal",
+        "hex": "#009da5",
+        "meta": {
+          "pantone": "320 U",
+          "ztype": "S-4637"
+        }
+      },
+      {
+        "name": "Ivy",
+        "hex": "#169b62",
+        "meta": {
+          "pantone": "347 U",
+          "ztype": "S-4638"
+        }
+      },
+      {
+        "name": "Pine",
+        "hex": "#237e74",
+        "meta": {
+          "pantone": "3295 U",
+          "ztype": "S-4639"
+        }
+      },
+      {
+        "name": "Lagoon",
+        "hex": "#2f6165",
+        "meta": {
+          "pantone": "323 U",
+          "ztype": "S-4640"
+        }
+      },
+      {
+        "name": "Violet",
+        "hex": "#9d7ad2",
+        "meta": {
+          "pantone": "265 U",
+          "ztype": "S-4641"
+        }
+      },
+      {
+        "name": "Orchid",
+        "hex": "#aa60bf",
+        "meta": {
+          "pantone": "2592 U",
+          "ztype": "S-4642"
+        }
+      },
+      {
+        "name": "Plum",
+        "hex": "#845991",
+        "meta": {
+          "pantone": "2603 U",
+          "ztype": "S-4644"
+        }
+      },
+      {
+        "name": "Raisin",
+        "hex": "#775d7a",
+        "meta": {
+          "pantone": "519 U",
+          "ztype": "S-4645"
+        }
+      },
+      {
+        "name": "Grape",
+        "hex": "#6c5d80",
+        "meta": {
+          "pantone": "2695 U",
+          "ztype": "S-4646"
+        }
+      },
+      {
+        "name": "Scarlet",
+        "hex": "#f65058",
+        "meta": {
+          "pantone": "RED 032 U",
+          "ztype": "S-4647"
+        }
+      },
+      {
+        "name": "Tomato",
+        "hex": "#d2515e",
+        "meta": {
+          "pantone": "186 U",
+          "ztype": "S-4648"
+        }
+      },
+      {
+        "name": "Cranberry",
+        "hex": "#d1517a",
+        "meta": {
+          "pantone": "214 U",
+          "ztype": "S-4649"
+        }
+      },
+      {
+        "name": "Maroon",
+        "hex": "#9e4c6e",
+        "meta": {
+          "pantone": "221 U",
+          "ztype": "S-4650"
+        }
+      },
+      {
+        "name": "Raspberry Red",
+        "hex": "#d1517a",
+        "meta": {
+          "pantone": "214U",
+          "ztype": "S-4651"
+        }
+      },
+      {
+        "name": "Brick",
+        "hex": "#a75154",
+        "meta": {
+          "pantone": "1807 U",
+          "ztype": "S-4652"
+        }
+      },
+      {
+        "name": "Light Lime",
+        "hex": "#e3ed55",
+        "meta": {
+          "pantone": "387 U",
+          "ztype": "S-4653"
+        }
+      },
+      {
+        "name": "Sunflower",
+        "hex": "#ffb511",
+        "meta": {
+          "pantone": "116 U",
+          "ztype": "S-4654"
+        }
+      },
+      {
+        "name": "Melon",
+        "hex": "#ffae3b",
+        "meta": {
+          "pantone": "1235 U",
+          "ztype": "S-4655"
+        }
+      },
+      {
+        "name": "Apricot",
+        "hex": "#f6a04d",
+        "meta": {
+          "pantone": "143 U",
+          "ztype": "S-4656"
+        }
+      },
+      {
+        "name": "Paprika",
+        "hex": "#ee7f4b",
+        "meta": {
+          "pantone": "158 U",
+          "ztype": "S-4657"
+        }
+      },
+      {
+        "name": "Pumpkin",
+        "hex": "#ff6f4c",
+        "meta": {
+          "pantone": "1655 U",
+          "ztype": "S-4658"
+        }
+      },
+      {
+        "name": "Bright Olive Green",
+        "hex": "#b49f29",
+        "meta": {
+          "pantone": "103 U",
+          "ztype": "S-4659"
+        }
+      },
+      {
+        "name": "Bright Gold",
+        "hex": "#ba8032",
+        "meta": {
+          "pantone": "131 U",
+          "ztype": "S-4660"
+        }
+      },
+      {
+        "name": "Copper",
+        "hex": "#bd6439",
+        "meta": {
+          "pantone": "1525 U",
+          "ztype": "S-4661"
+        }
+      },
+      {
+        "name": "Mahogany",
+        "hex": "#8e595a",
+        "meta": {
+          "pantone": "491 U",
+          "ztype": "S-4662"
+        }
+      },
+      {
+        "name": "Bisque",
+        "hex": "#f2cdcf",
+        "meta": {
+          "pantone": "503 U",
+          "ztype": "S-4663"
+        }
+      },
+      {
+        "name": "Bubble Gum",
+        "hex": "#f984ca",
+        "meta": {
+          "pantone": "231 U",
+          "ztype": "S-4664"
+        }
+      },
+      {
+        "name": "Light Mauve",
+        "hex": "#e6b5c9",
+        "meta": {
+          "pantone": "7430 U",
+          "ztype": "S-4665"
+        }
+      },
+      {
+        "name": "Dark Mauve",
+        "hex": "#bd8ca6",
+        "meta": {
+          "pantone": "687 U",
+          "ztype": "S-4666"
+        }
+      },
+      {
+        "name": "Wine",
+        "hex": "#914e72",
+        "meta": {
+          "pantone": "235 U",
+          "ztype": "S-4674"
+        }
+      },
+      {
+        "name": "Gray",
+        "hex": "#928d88",
+        "meta": {
+          "pantone": "403 U",
+          "ztype": "S-4693"
+        }
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff",
+        "meta": {
+          "ztype": "S-4722 "
+        }
+      },
+      {
+        "name": "Aqua",
+        "hex": "#5ec8e5",
+        "meta": {
+          "pantone": "637 U",
+          "ztype": "S-4917"
+        }
+      },
+      {
+        "name": "Mint",
+        "hex": "#82d8d5",
+        "meta": {
+          "pantone": "324 U",
+          "ztype": "S-6316"
+        }
+      },
+      {
+        "name": "Fluorescent Yellow",
+        "hex": "#ffe900",
+        "meta": {
+          "pantone": "803 U",
+          "ztype": "S-7761"
+        }
+      },
+      {
+        "name": "Fluorescent Red",
+        "hex": "#ff4c65",
+        "meta": {
+          "pantone": "812 U",
+          "ztype": "S-7762"
+        }
+      },
+      {
+        "name": "Fluorescent Green",
+        "hex": "#44d62c",
+        "meta": {
+          "pantone": "802 U",
+          "ztype": "S-7763"
+        }
+      }
+    ],
     "basic": [
       {
         "name": "black",
@@ -54805,6 +55429,12 @@
       "description": "The 954 most common RGB monitor colors, as defined by several hundred thousand participants in the xkcd color name survey.",
       "source": "https://xkcd.com/color/rgb/",
       "key": "xkcd"
+    },
+    "risograph": {
+      "title": "Risograph Colors",
+      "description": "A list of popular colors for Risograph printers. Only includes colors with HEX, Pantone and Z-Type codes.",
+      "source": "https://github.com/mattdesl/riso-colors",
+      "key": "risograph"
     }
   }
 }

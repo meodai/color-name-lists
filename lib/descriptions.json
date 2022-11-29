@@ -94,5 +94,11 @@
         "description": "The 954 most common RGB monitor colors, as defined by several hundred thousand participants in the xkcd color name survey.",
         "source": "https://xkcd.com/color/rgb/",
         "key": "xkcd"
+    },
+    "risograph": {
+        "title": "Risograph Colors",
+        "description": "A list of popular colors for Risograph printers. Only includes colors with HEX, Pantone and Z-Type codes.",
+        "source": "https://github.com/mattdesl/riso-colors",
+        "key": "risograph"
     }
 }
