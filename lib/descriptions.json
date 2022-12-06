@@ -101,10 +101,10 @@
         "source": "https://github.com/mattdesl/riso-colors",
         "key": "risograph"
     },
-    "chinese": {
-        "title": "Chinese Colors",
-        "description": "A list of Chinese colors and their transliterations",
+    "chinese-traditional": {
+        "title": "Traditional Colors of China",
+        "description": "Traditional Colors of China: Color Aesthetics in the Forbidden City (中国传统色：故宫里的色彩美学) colors and their transliterations",
         "source": "https://github.com/ItMarki/files/blob/main/newcolorsandnames.csv",
-        "key": "chinese"
+        "key": "chinese-traditional"
     }
 }
