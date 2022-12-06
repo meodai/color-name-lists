@@ -28724,6 +28724,2696 @@
         "hex": "#ffff00"
       }
     ],
+    "chinese": [
+      {
+        "hex": "#509196",
+        "name": "扁青",
+        "meta": {
+          "transliteration": "Biǎnqīng"
+        }
+      },
+      {
+        "hex": "#fffbc7",
+        "name": "半見",
+        "meta": {
+          "transliteration": "Bànjiàn"
+        }
+      },
+      {
+        "hex": "#98b6c2",
+        "name": "白青",
+        "meta": {
+          "transliteration": "Báiqīng"
+        }
+      },
+      {
+        "hex": "#12507b",
+        "name": "碧城",
+        "meta": {
+          "transliteration": "Bìchéng"
+        }
+      },
+      {
+        "hex": "#aed0ee",
+        "name": "碧羅",
+        "meta": {
+          "transliteration": "Bìluò"
+        }
+      },
+      {
+        "hex": "#779649",
+        "name": "碧山",
+        "meta": {
+          "transliteration": "Bìshān"
+        }
+      },
+      {
+        "hex": "#90a07d",
+        "name": "碧滋",
+        "meta": {
+          "transliteration": "Bìzī"
+        }
+      },
+      {
+        "hex": "#a7aaa1",
+        "name": "不皂",
+        "meta": {
+          "transliteration": "Bùzào"
+        }
+      },
+      {
+        "hex": "#becab7",
+        "name": "冰台",
+        "meta": {
+          "transliteration": "Bīngtái"
+        }
+      },
+      {
+        "hex": "#dc6b82",
+        "name": "長春",
+        "meta": {
+          "transliteration": "Chángchūn"
+        }
+      },
+      {
+        "hex": "#887657",
+        "name": "茶色",
+        "meta": {
+          "transliteration": "Chásè"
+        }
+      },
+      {
+        "hex": "#99806c",
+        "name": "沉香",
+        "meta": {
+          "transliteration": "Chénxiāng"
+        }
+      },
+      {
+        "hex": "#954024",
+        "name": "赤靈",
+        "meta": {
+          "transliteration": "Chìlíng"
+        }
+      },
+      {
+        "hex": "#ba5b49",
+        "name": "赤緹",
+        "meta": {
+          "transliteration": "Chìtí"
+        }
+      },
+      {
+        "hex": "#e1c199",
+        "name": "赤璋",
+        "meta": {
+          "transliteration": "Chìzhāng"
+        }
+      },
+      {
+        "hex": "#c25160",
+        "name": "唇脂",
+        "meta": {
+          "transliteration": "Chúnzhī"
+        }
+      },
+      {
+        "hex": "#dcc7e1",
+        "name": "昌榮",
+        "meta": {
+          "transliteration": "Chāngróng"
+        }
+      },
+      {
+        "hex": "#ef845d",
+        "name": "赬尾",
+        "meta": {
+          "transliteration": "Chēngwěi"
+        }
+      },
+      {
+        "hex": "#f18f60",
+        "name": "赬霞",
+        "meta": {
+          "transliteration": "Chēngxiá"
+        }
+      },
+      {
+        "hex": "#8a1874",
+        "name": "赬紫",
+        "meta": {
+          "transliteration": "Chēngzǐ"
+        }
+      },
+      {
+        "hex": "#a85858",
+        "name": "蚩尤旗",
+        "meta": {
+          "transliteration": "Chīyóuqí"
+        }
+      },
+      {
+        "hex": "#9d9d82",
+        "name": "春碧",
+        "meta": {
+          "transliteration": "Chūnbì"
+        }
+      },
+      {
+        "hex": "#a9be7b",
+        "name": "春晨",
+        "meta": {
+          "transliteration": "Chūnchén"
+        }
+      },
+      {
+        "hex": "#a9a773",
+        "name": "出岫",
+        "meta": {
+          "transliteration": "Chūxiù"
+        }
+      },
+      {
+        "hex": "#b7d332",
+        "name": "翠縹",
+        "meta": {
+          "transliteration": "Cuìpiǎo"
+        }
+      },
+      {
+        "hex": "#446a37",
+        "name": "翠虯",
+        "meta": {
+          "transliteration": "Cuìqiú"
+        }
+      },
+      {
+        "hex": "#819d8e",
+        "name": "翠濤",
+        "meta": {
+          "transliteration": "Cuìtāo"
+        }
+      },
+      {
+        "hex": "#4c8045",
+        "name": "翠微",
+        "meta": {
+          "transliteration": "Cuìwēi"
+        }
+      },
+      {
+        "hex": "#cdd171",
+        "name": "翠樽",
+        "meta": {
+          "transliteration": "Cuìzūn"
+        }
+      },
+      {
+        "hex": "#b4884d",
+        "name": "雌黃",
+        "meta": {
+          "transliteration": "Cíhuáng"
+        }
+      },
+      {
+        "hex": "#bfc096",
+        "name": "瓷秘",
+        "meta": {
+          "transliteration": "Címì"
+        }
+      },
+      {
+        "hex": "#cf929e",
+        "name": "雌霓",
+        "meta": {
+          "transliteration": "Cíní"
+        }
+      },
+      {
+        "hex": "#5a4b3b",
+        "name": "蒼艾",
+        "meta": {
+          "transliteration": "Cāng'ài"
+        }
+      },
+      {
+        "hex": "#5976ba",
+        "name": "蒼蒼",
+        "meta": {
+          "transliteration": "Cāngcāng"
+        }
+      },
+      {
+        "hex": "#b6a014",
+        "name": "蒼黃",
+        "meta": {
+          "transliteration": "Cānghuáng"
+        }
+      },
+      {
+        "hex": "#a8bf8f",
+        "name": "蒼葭",
+        "meta": {
+          "transliteration": "Cāngjiā"
+        }
+      },
+      {
+        "hex": "#b1d5c8",
+        "name": "滄浪",
+        "meta": {
+          "transliteration": "Cānglàng"
+        }
+      },
+      {
+        "hex": "#99bcac",
+        "name": "蒼筤",
+        "meta": {
+          "transliteration": "Cāngláng"
+        }
+      },
+      {
+        "hex": "#c8b5b3",
+        "name": "蒼煙落照",
+        "meta": {
+          "transliteration": "Cāngyānluòzhào"
+        }
+      },
+      {
+        "hex": "#88bfb8",
+        "name": "蔥轄",
+        "meta": {
+          "transliteration": "Cōngjiè"
+        }
+      },
+      {
+        "hex": "#6c8650",
+        "name": "蔥倩",
+        "meta": {
+          "transliteration": "Cōngqiàn"
+        }
+      },
+      {
+        "hex": "#edf1bb",
+        "name": "蔥青",
+        "meta": {
+          "transliteration": "Cōngqīng"
+        }
+      },
+      {
+        "hex": "#cc73a0",
+        "name": "黲紫",
+        "meta": {
+          "transliteration": "Cǎnzǐ"
+        }
+      },
+      {
+        "hex": "#bfc1a9",
+        "name": "草白",
+        "meta": {
+          "transliteration": "Cǎobái"
+        }
+      },
+      {
+        "hex": "#ecebc2",
+        "name": "斷腸",
+        "meta": {
+          "transliteration": "Duàncháng"
+        }
+      },
+      {
+        "hex": "#aa9649",
+        "name": "大赤",
+        "meta": {
+          "transliteration": "Dàchì"
+        }
+      },
+      {
+        "hex": "#dd6b4f",
+        "name": "岱赭",
+        "meta": {
+          "transliteration": "Dàizhě"
+        }
+      },
+      {
+        "hex": "#bfa782",
+        "name": "大塊",
+        "meta": {
+          "transliteration": "Dàkuài"
+        }
+      },
+      {
+        "hex": "#226b68",
+        "name": "䌦色",
+        "meta": {
+          "transliteration": "Dàosè"
+        }
+      },
+      {
+        "hex": "#822327",
+        "name": "大繎",
+        "meta": {
+          "transliteration": "Dàrán"
+        }
+      },
+      {
+        "hex": "#94784f",
+        "name": "大雲",
+        "meta": {
+          "transliteration": "Dàyún"
+        }
+      },
+      {
+        "hex": "#dfceb4",
+        "name": "地籟",
+        "meta": {
+          "transliteration": "Dìlài"
+        }
+      },
+      {
+        "hex": "#003460",
+        "name": "帝釋青",
+        "meta": {
+          "transliteration": "Dìshìqīng"
+        }
+      },
+      {
+        "hex": "#814662",
+        "name": "地血",
+        "meta": {
+          "transliteration": "Dìxuè"
+        }
+      },
+      {
+        "hex": "#bec2b3",
+        "name": "凍縹",
+        "meta": {
+          "transliteration": "Dòngpiǎo"
+        }
+      },
+      {
+        "hex": "#e60012",
+        "name": "丹罽",
+        "meta": {
+          "transliteration": "Dānjì"
+        }
+      },
+      {
+        "hex": "#873424",
+        "name": "丹秫",
+        "meta": {
+          "transliteration": "Dānshú"
+        }
+      },
+      {
+        "hex": "#c8161d",
+        "name": "丹雘",
+        "meta": {
+          "transliteration": "Dānwò"
+        }
+      },
+      {
+        "hex": "#ce93bf",
+        "name": "丁香",
+        "meta": {
+          "transliteration": "Dīngxiāng"
+        }
+      },
+      {
+        "hex": "#bd9683",
+        "name": "丁香褐",
+        "meta": {
+          "transliteration": "Dīngxiānghè"
+        }
+      },
+      {
+        "hex": "#8ba3c7",
+        "name": "東方既白",
+        "meta": {
+          "transliteration": "Dōngfāngjìbái"
+        }
+      },
+      {
+        "hex": "#8f3d2c",
+        "name": "佛赤",
+        "meta": {
+          "transliteration": "Fóchì"
+        }
+      },
+      {
+        "hex": "#19325f",
+        "name": "佛頭青",
+        "meta": {
+          "transliteration": "Fótóuqīng"
+        }
+      },
+      {
+        "hex": "#f0c2a2",
+        "name": "扶光",
+        "meta": {
+          "transliteration": "Fúguāng"
+        }
+      },
+      {
+        "hex": "#ecd9c7",
+        "name": "弗肯紅",
+        "meta": {
+          "transliteration": "Fúkěnhóng"
+        }
+      },
+      {
+        "hex": "#662b2f",
+        "name": "福色",
+        "meta": {
+          "transliteration": "Fúsè"
+        }
+      },
+      {
+        "hex": "#7e527f",
+        "name": "拂紫綿",
+        "meta": {
+          "transliteration": "Fúzǐmián"
+        }
+      },
+      {
+        "hex": "#868c4e",
+        "name": "風入松",
+        "meta": {
+          "transliteration": "Fēngrùsōng"
+        }
+      },
+      {
+        "hex": "#efc4ce",
+        "name": "粉米",
+        "meta": {
+          "transliteration": "Fěnmǐ"
+        }
+      },
+      {
+        "hex": "#108b96",
+        "name": "法翠",
+        "meta": {
+          "transliteration": "Fǎcuì"
+        }
+      },
+      {
+        "hex": "#cc5d20",
+        "name": "光明砂",
+        "meta": {
+          "transliteration": "Guāngmíngshā"
+        }
+      },
+      {
+        "hex": "#2a6e3f",
+        "name": "官綠",
+        "meta": {
+          "transliteration": "Guānlǜ"
+        }
+      },
+      {
+        "hex": "#2c2f3b",
+        "name": "紺蝶",
+        "meta": {
+          "transliteration": "Gàndié"
+        }
+      },
+      {
+        "hex": "#003d74",
+        "name": "紺宇",
+        "meta": {
+          "transliteration": "Gànyǔ"
+        }
+      },
+      {
+        "hex": "#bdb2b2",
+        "name": "甘石",
+        "meta": {
+          "transliteration": "Gānshí"
+        }
+      },
+      {
+        "hex": "#efefef",
+        "name": "縞羽",
+        "meta": {
+          "transliteration": "Gǎoyǔ"
+        }
+      },
+      {
+        "hex": "#ebe3c7",
+        "name": "骨縹",
+        "meta": {
+          "transliteration": "Gǔpiǎo"
+        }
+      },
+      {
+        "hex": "#fff799",
+        "name": "黃白遊",
+        "meta": {
+          "transliteration": "Huángbáiyóu"
+        }
+      },
+      {
+        "hex": "#db9b34",
+        "name": "黃不老",
+        "meta": {
+          "transliteration": "Huángbùlǎo"
+        }
+      },
+      {
+        "hex": "#9e8c6b",
+        "name": "黃琮",
+        "meta": {
+          "transliteration": "Huángcóng"
+        }
+      },
+      {
+        "hex": "#ea5514",
+        "name": "黃丹",
+        "meta": {
+          "transliteration": "Huángdān"
+        }
+      },
+      {
+        "hex": "#cab272",
+        "name": "黃封",
+        "meta": {
+          "transliteration": "Huángfēng"
+        }
+      },
+      {
+        "hex": "#e5a84b",
+        "name": "黃河琉璃",
+        "meta": {
+          "transliteration": "Huánghéliúlí"
+        }
+      },
+      {
+        "hex": "#c4b798",
+        "name": "黃粱",
+        "meta": {
+          "transliteration": "Huángliáng"
+        }
+      },
+      {
+        "hex": "#9f6027",
+        "name": "黃流",
+        "meta": {
+          "transliteration": "Huángliú"
+        }
+      },
+      {
+        "hex": "#b4a379",
+        "name": "黃螺",
+        "meta": {
+          "transliteration": "Huángluó"
+        }
+      },
+      {
+        "hex": "#fedc5e",
+        "name": "黃栗留",
+        "meta": {
+          "transliteration": "Huánglìliú"
+        }
+      },
+      {
+        "hex": "#dfd6b8",
+        "name": "黃潤",
+        "meta": {
+          "transliteration": "Huángrùn"
+        }
+      },
+      {
+        "hex": "#b49273",
+        "name": "黃埃",
+        "meta": {
+          "transliteration": "Huángāi"
+        }
+      },
+      {
+        "hex": "#1a2847",
+        "name": "花青",
+        "meta": {
+          "transliteration": "Huāqīng"
+        }
+      },
+      {
+        "hex": "#d24735",
+        "name": "鶴頂紅",
+        "meta": {
+          "transliteration": "Hèdǐnghóng"
+        }
+      },
+      {
+        "hex": "#928187",
+        "name": "紅藤杖",
+        "meta": {
+          "transliteration": "Hóngténgzhàng"
+        }
+      },
+      {
+        "hex": "#d9883d",
+        "name": "紅友",
+        "meta": {
+          "transliteration": "Hóngyǒu"
+        }
+      },
+      {
+        "hex": "#cd7372",
+        "name": "紅䵂",
+        "meta": {
+          "transliteration": "Hóngzhí"
+        }
+      },
+      {
+        "hex": "#b83570",
+        "name": "紅躑躅",
+        "meta": {
+          "transliteration": "Hóngzhízhú"
+        }
+      },
+      {
+        "hex": "#70695d",
+        "name": "黑朱",
+        "meta": {
+          "transliteration": "Hēizhū"
+        }
+      },
+      {
+        "hex": "#f3a694",
+        "name": "海天霞",
+        "meta": {
+          "transliteration": "Hǎitiānxiá"
+        }
+      },
+      {
+        "hex": "#b27777",
+        "name": "絳紗",
+        "meta": {
+          "transliteration": "Jiàngshā"
+        }
+      },
+      {
+        "hex": "#9e8358",
+        "name": "降真香",
+        "meta": {
+          "transliteration": "Jiàngzhēnxiāng"
+        }
+      },
+      {
+        "hex": "#602641",
+        "name": "芥拾紫",
+        "meta": {
+          "transliteration": "Jièshízǐ"
+        }
+      },
+      {
+        "hex": "#555f4d",
+        "name": "結綠",
+        "meta": {
+          "transliteration": "Jiélǜ"
+        }
+      },
+      {
+        "hex": "#beb1aa",
+        "name": "葭灰",
+        "meta": {
+          "transliteration": "Jiāhuī"
+        }
+      },
+      {
+        "hex": "#6f94cd",
+        "name": "監德",
+        "meta": {
+          "transliteration": "Jiāndé"
+        }
+      },
+      {
+        "hex": "#d6c560",
+        "name": "薑黃",
+        "meta": {
+          "transliteration": "Jiānghuáng"
+        }
+      },
+      {
+        "hex": "#d5c8a0",
+        "name": "縑緗",
+        "meta": {
+          "transliteration": "Jiānxiāng"
+        }
+      },
+      {
+        "hex": "#db9c5e",
+        "name": "椒房",
+        "meta": {
+          "transliteration": "Jiāofáng"
+        }
+      },
+      {
+        "hex": "#72453a",
+        "name": "椒褐",
+        "meta": {
+          "transliteration": "Jiāohè"
+        }
+      },
+      {
+        "hex": "#86908a",
+        "name": "蕉月",
+        "meta": {
+          "transliteration": "Jiāoyuè"
+        }
+      },
+      {
+        "hex": "#cad7c5",
+        "name": "葭菼",
+        "meta": {
+          "transliteration": "Jiātǎn"
+        }
+      },
+      {
+        "hex": "#c6a268",
+        "name": "繭色",
+        "meta": {
+          "transliteration": "Jiǎnsè"
+        }
+      },
+      {
+        "hex": "#ebeee8",
+        "name": "皦玉",
+        "meta": {
+          "transliteration": "Jiǎoyù"
+        }
+      },
+      {
+        "hex": "#7f754c",
+        "name": "絞衣",
+        "meta": {
+          "transliteration": "Jiǎoyī"
+        }
+      },
+      {
+        "hex": "#d4c1a6",
+        "name": "假山南",
+        "meta": {
+          "transliteration": "Jiǎshānnán"
+        }
+      },
+      {
+        "hex": "#dd8078",
+        "name": "九斤黃",
+        "meta": {
+          "transliteration": "Jiǔjīnhuáng"
+        }
+      },
+      {
+        "hex": "#ece093",
+        "name": "絹紈",
+        "meta": {
+          "transliteration": "Juànwán"
+        }
+      },
+      {
+        "hex": "#631216",
+        "name": "爵頭",
+        "meta": {
+          "transliteration": "Juétóu"
+        }
+      },
+      {
+        "hex": "#4f794a",
+        "name": "芰荷",
+        "meta": {
+          "transliteration": "Jìhé"
+        }
+      },
+      {
+        "hex": "#7c4449",
+        "name": "霽紅",
+        "meta": {
+          "transliteration": "Jìhóng"
+        }
+      },
+      {
+        "hex": "#3c4654",
+        "name": "霽藍",
+        "meta": {
+          "transliteration": "Jìlán"
+        }
+      },
+      {
+        "hex": "#877d52",
+        "name": "藎篋",
+        "meta": {
+          "transliteration": "Jìnqiè"
+        }
+      },
+      {
+        "hex": "#ee7959",
+        "name": "縉雲",
+        "meta": {
+          "transliteration": "Jìnyún"
+        }
+      },
+      {
+        "hex": "#896d47",
+        "name": "吉金",
+        "meta": {
+          "transliteration": "Jíjīn"
+        }
+      },
+      {
+        "hex": "#ebeddf",
+        "name": "吉量",
+        "meta": {
+          "transliteration": "Jíliáng"
+        }
+      },
+      {
+        "hex": "#aa8e59",
+        "name": "巨呂",
+        "meta": {
+          "transliteration": "Jùlǚ"
+        }
+      },
+      {
+        "hex": "#906c4a",
+        "name": "荊褐",
+        "meta": {
+          "transliteration": "Jīnghè"
+        }
+      },
+      {
+        "hex": "#31322c",
+        "name": "京元",
+        "meta": {
+          "transliteration": "Jīngyuán"
+        }
+      },
+      {
+        "hex": "#be9457",
+        "name": "金埒",
+        "meta": {
+          "transliteration": "Jīnliè"
+        }
+      },
+      {
+        "hex": "#d3a237",
+        "name": "鞠衣",
+        "meta": {
+          "transliteration": "Jūyī"
+        }
+      },
+      {
+        "hex": "#a4c9cc",
+        "name": "井天",
+        "meta": {
+          "transliteration": "Jǐngtiān"
+        }
+      },
+      {
+        "hex": "#1e2732",
+        "name": "瑾瑜",
+        "meta": {
+          "transliteration": "Jǐnyú"
+        }
+      },
+      {
+        "hex": "#e18a3b",
+        "name": "庫金",
+        "meta": {
+          "transliteration": "Kùjīn"
+        }
+      },
+      {
+        "hex": "#66889e",
+        "name": "空青",
+        "meta": {
+          "transliteration": "Kōngqīng"
+        }
+      },
+      {
+        "hex": "#4994c4",
+        "name": "孔雀藍",
+        "meta": {
+          "transliteration": "Kǒngquèlán"
+        }
+      },
+      {
+        "hex": "#d9a0b3",
+        "name": "蓮紅",
+        "meta": {
+          "transliteration": "Liánhóng"
+        }
+      },
+      {
+        "hex": "#8b7042",
+        "name": "流黃",
+        "meta": {
+          "transliteration": "Liúhuáng"
+        }
+      },
+      {
+        "hex": "#c0ad5e",
+        "name": "欒華",
+        "meta": {
+          "transliteration": "Luánhuá"
+        }
+      },
+      {
+        "hex": "#d23918",
+        "name": "洛神珠",
+        "meta": {
+          "transliteration": "Luòshénzhū"
+        }
+      },
+      {
+        "hex": "#3f503b",
+        "name": "螺青",
+        "meta": {
+          "transliteration": "Luóqīng"
+        }
+      },
+      {
+        "hex": "#13393e",
+        "name": "螺子黛",
+        "meta": {
+          "transliteration": "Luózidài"
+        }
+      },
+      {
+        "hex": "#d5e3d4",
+        "name": "卵色",
+        "meta": {
+          "transliteration": "Luǎnsè"
+        }
+      },
+      {
+        "hex": "#06536f",
+        "name": "藍采和",
+        "meta": {
+          "transliteration": "Láncǎihé"
+        }
+      },
+      {
+        "hex": "#cb5c83",
+        "name": "瑯玕紫",
+        "meta": {
+          "transliteration": "Lánggānzǐ"
+        }
+      },
+      {
+        "hex": "#a8b78c",
+        "name": "蘭苕",
+        "meta": {
+          "transliteration": "Lántiáo"
+        }
+      },
+      {
+        "hex": "#7a7b78",
+        "name": "雷雨垂",
+        "meta": {
+          "transliteration": "Léiyǔchuí"
+        }
+      },
+      {
+        "hex": "#775039",
+        "name": "栗殼",
+        "meta": {
+          "transliteration": "Lìké"
+        }
+      },
+      {
+        "hex": "#756c4b",
+        "name": "綟綬",
+        "meta": {
+          "transliteration": "Lìshòu"
+        }
+      },
+      {
+        "hex": "#a6bab1",
+        "name": "醽醁",
+        "meta": {
+          "transliteration": "Línglù"
+        }
+      },
+      {
+        "hex": "#de82a7",
+        "name": "龍膏燭",
+        "meta": {
+          "transliteration": "Lónggāozhú"
+        }
+      },
+      {
+        "hex": "#5f4321",
+        "name": "龍戰",
+        "meta": {
+          "transliteration": "Lóngzhàn"
+        }
+      },
+      {
+        "hex": "#9bb496",
+        "name": "淥波",
+        "meta": {
+          "transliteration": "Lùbō"
+        }
+      },
+      {
+        "hex": "#bd8253",
+        "name": "露褐",
+        "meta": {
+          "transliteration": "Lùhè"
+        }
+      },
+      {
+        "hex": "#698e6a",
+        "name": "菉竹",
+        "meta": {
+          "transliteration": "Lùzhú"
+        }
+      },
+      {
+        "hex": "#aa8534",
+        "name": "老茯神",
+        "meta": {
+          "transliteration": "Lǎofúshén"
+        }
+      },
+      {
+        "hex": "#a46244",
+        "name": "老僧衣",
+        "meta": {
+          "transliteration": "Lǎosēngyī"
+        }
+      },
+      {
+        "hex": "#92896b",
+        "name": "綠豆褐",
+        "meta": {
+          "transliteration": "Lǜdòuhè"
+        }
+      },
+      {
+        "hex": "#938f4c",
+        "name": "綠沈",
+        "meta": {
+          "transliteration": "Lǜshěn"
+        }
+      },
+      {
+        "hex": "#45493d",
+        "name": "綠雲",
+        "meta": {
+          "transliteration": "Lǜyún"
+        }
+      },
+      {
+        "hex": "#bc6e37",
+        "name": "媚蝶",
+        "meta": {
+          "transliteration": "Mèidié"
+        }
+      },
+      {
+        "hex": "#9f5221",
+        "name": "韎韐",
+        "meta": {
+          "transliteration": "Mèigé"
+        }
+      },
+      {
+        "hex": "#4e6548",
+        "name": "莓莓",
+        "meta": {
+          "transliteration": "Méiméi"
+        }
+      },
+      {
+        "hex": "#683632",
+        "name": "蜜褐",
+        "meta": {
+          "transliteration": "Mìhè"
+        }
+      },
+      {
+        "hex": "#dfd7c2",
+        "name": "蜜合",
+        "meta": {
+          "transliteration": "Mìhé"
+        }
+      },
+      {
+        "hex": "#454659",
+        "name": "䒌靘",
+        "meta": {
+          "transliteration": "Mìngqìng"
+        }
+      },
+      {
+        "hex": "#b3934b",
+        "name": "密陀僧",
+        "meta": {
+          "transliteration": "Mìtuósēng"
+        }
+      },
+      {
+        "hex": "#91828f",
+        "name": "迷樓灰",
+        "meta": {
+          "transliteration": "Mílóuhuī"
+        }
+      },
+      {
+        "hex": "#9e8368",
+        "name": "明茶褐",
+        "meta": {
+          "transliteration": "Míngcháhè"
+        }
+      },
+      {
+        "hex": "#b3b59c",
+        "name": "鳴珂",
+        "meta": {
+          "transliteration": "Míngkē"
+        }
+      },
+      {
+        "hex": "#665f4d",
+        "name": "冥色",
+        "meta": {
+          "transliteration": "Míngsè"
+        }
+      },
+      {
+        "hex": "#d4d3ca",
+        "name": "明月璫",
+        "meta": {
+          "transliteration": "Míngyuèdāng"
+        }
+      },
+      {
+        "hex": "#585248",
+        "name": "墨黲",
+        "meta": {
+          "transliteration": "Mòcǎn"
+        }
+      },
+      {
+        "hex": "#ba79b1",
+        "name": "木槿",
+        "meta": {
+          "transliteration": "Mùjǐn"
+        }
+      },
+      {
+        "hex": "#662b1f",
+        "name": "木蘭",
+        "meta": {
+          "transliteration": "Mùlán"
+        }
+      },
+      {
+        "hex": "#a4abd6",
+        "name": "暮山紫",
+        "meta": {
+          "transliteration": "Mùshānzǐ"
+        }
+      },
+      {
+        "hex": "#5b3222",
+        "name": "目童子",
+        "meta": {
+          "transliteration": "Mùtóngzǐ"
+        }
+      },
+      {
+        "hex": "#c35c6a",
+        "name": "美人祭",
+        "meta": {
+          "transliteration": "Měirénjì"
+        }
+      },
+      {
+        "hex": "#eeead9",
+        "name": "米湯嬌",
+        "meta": {
+          "transliteration": "Mǐtāngjiāo"
+        }
+      },
+      {
+        "hex": "#f2c867",
+        "name": "嫩鵝黃",
+        "meta": {
+          "transliteration": "Nèn'éhuáng"
+        }
+      },
+      {
+        "hex": "#422256",
+        "name": "凝夜紫",
+        "meta": {
+          "transliteration": "Níngyèzǐ"
+        }
+      },
+      {
+        "hex": "#f5f2e9",
+        "name": "凝脂",
+        "meta": {
+          "transliteration": "Níngzhī"
+        }
+      },
+      {
+        "hex": "#f7eead",
+        "name": "女貞黃",
+        "meta": {
+          "transliteration": "Nǚzhēnhuáng"
+        }
+      },
+      {
+        "hex": "#80a492",
+        "name": "縹碧",
+        "meta": {
+          "transliteration": "Piǎobì"
+        }
+      },
+      {
+        "hex": "#ac9f8a",
+        "name": "佩玖",
+        "meta": {
+          "transliteration": "Pèijiǔ"
+        }
+      },
+      {
+        "hex": "#9e696d",
+        "name": "葡萄褐",
+        "meta": {
+          "transliteration": "Pútáohè"
+        }
+      },
+      {
+        "hex": "#8aabcc",
+        "name": "品月",
+        "meta": {
+          "transliteration": "Pǐnyuè"
+        }
+      },
+      {
+        "hex": "#9e2a22",
+        "name": "綪茷",
+        "meta": {
+          "transliteration": "Qiànfá"
+        }
+      },
+      {
+        "hex": "#88abda",
+        "name": "竊藍",
+        "meta": {
+          "transliteration": "Qièlán"
+        }
+      },
+      {
+        "hex": "#6d5c3d",
+        "name": "伽羅",
+        "meta": {
+          "transliteration": "Qiéluó"
+        }
+      },
+      {
+        "hex": "#d77f66",
+        "name": "瓊琚",
+        "meta": {
+          "transliteration": "Qióngjū"
+        }
+      },
+      {
+        "hex": "#343041",
+        "name": "璆琳",
+        "meta": {
+          "transliteration": "Qiúlín"
+        }
+      },
+      {
+        "hex": "#6b7d73",
+        "name": "千山翠",
+        "meta": {
+          "transliteration": "Qiānshāncuì"
+        }
+      },
+      {
+        "hex": "#7d929f",
+        "name": "秋藍",
+        "meta": {
+          "transliteration": "Qiūlán"
+        }
+      },
+      {
+        "hex": "#bf9c46",
+        "name": "秋香",
+        "meta": {
+          "transliteration": "Qiūxiāng"
+        }
+      },
+      {
+        "hex": "#eaeef1",
+        "name": "淺雲",
+        "meta": {
+          "transliteration": "Qiǎnyún"
+        }
+      },
+      {
+        "hex": "#ce8892",
+        "name": "縓緣",
+        "meta": {
+          "transliteration": "Quányuán"
+        }
+      },
+      {
+        "hex": "#788a6f",
+        "name": "雀梅",
+        "meta": {
+          "transliteration": "Quèméi"
+        }
+      },
+      {
+        "hex": "#12264f",
+        "name": "騏驎",
+        "meta": {
+          "transliteration": "Qílín"
+        }
+      },
+      {
+        "hex": "#4c1e1a",
+        "name": "麒麟竭",
+        "meta": {
+          "transliteration": "Qílínjié"
+        }
+      },
+      {
+        "hex": "#e94829",
+        "name": "檎丹",
+        "meta": {
+          "transliteration": "Qíndān"
+        }
+      },
+      {
+        "hex": "#a3bbdb",
+        "name": "晴山",
+        "meta": {
+          "transliteration": "Qíngshān"
+        }
+      },
+      {
+        "hex": "#6c216d",
+        "name": "齊紫",
+        "meta": {
+          "transliteration": "Qízǐ"
+        }
+      },
+      {
+        "hex": "#2e59a7",
+        "name": "群青",
+        "meta": {
+          "transliteration": "Qúnqīng"
+        }
+      },
+      {
+        "hex": "#5d8351",
+        "name": "漆姑",
+        "meta": {
+          "transliteration": "Qīgū"
+        }
+      },
+      {
+        "hex": "#cac5a0",
+        "name": "青白玉",
+        "meta": {
+          "transliteration": "Qīngbáiyù"
+        }
+      },
+      {
+        "hex": "#c3d94e",
+        "name": "青粲",
+        "meta": {
+          "transliteration": "Qīngcàn"
+        }
+      },
+      {
+        "hex": "#45465e",
+        "name": "青黛",
+        "meta": {
+          "transliteration": "Qīngdài"
+        }
+      },
+      {
+        "hex": "#284852",
+        "name": "青緺",
+        "meta": {
+          "transliteration": "Qīngguā"
+        }
+      },
+      {
+        "hex": "#92905d",
+        "name": "青圭",
+        "meta": {
+          "transliteration": "Qīngguī"
+        }
+      },
+      {
+        "hex": "#b3bda9",
+        "name": "青古",
+        "meta": {
+          "transliteration": "Qīnggǔ"
+        }
+      },
+      {
+        "hex": "#9aa7b1",
+        "name": "青鸞",
+        "meta": {
+          "transliteration": "Qīngluán"
+        }
+      },
+      {
+        "hex": "#422517",
+        "name": "青驪",
+        "meta": {
+          "transliteration": "Qīnglí"
+        }
+      },
+      {
+        "hex": "#778a77",
+        "name": "青梅",
+        "meta": {
+          "transliteration": "Qīngméi"
+        }
+      },
+      {
+        "hex": "#3271ae",
+        "name": "青冥",
+        "meta": {
+          "transliteration": "Qīngmíng"
+        }
+      },
+      {
+        "hex": "#81a380",
+        "name": "青楸",
+        "meta": {
+          "transliteration": "Qīngqiū"
+        }
+      },
+      {
+        "hex": "#354e6b",
+        "name": "青雀頭黛",
+        "meta": {
+          "transliteration": "Qīngquètóudài"
+        }
+      },
+      {
+        "hex": "#4f6f46",
+        "name": "青青",
+        "meta": {
+          "transliteration": "Qīngqīng"
+        }
+      },
+      {
+        "hex": "#007175",
+        "name": "青雘",
+        "meta": {
+          "transliteration": "Qīngwò"
+        }
+      },
+      {
+        "hex": "#a8b092",
+        "name": "青玉案",
+        "meta": {
+          "transliteration": "Qīngyù'àn"
+        }
+      },
+      {
+        "hex": "#c0d09d",
+        "name": "麴塵",
+        "meta": {
+          "transliteration": "Qūchén"
+        }
+      },
+      {
+        "hex": "#d8de8a",
+        "name": "綺錢",
+        "meta": {
+          "transliteration": "Qǐqián"
+        }
+      },
+      {
+        "hex": "#6e9bc5",
+        "name": "挼藍",
+        "meta": {
+          "transliteration": "Ruólán"
+        }
+      },
+      {
+        "hex": "#006d87",
+        "name": "軟翠",
+        "meta": {
+          "transliteration": "Ruǎncuì"
+        }
+      },
+      {
+        "hex": "#9ebc19",
+        "name": "人籟",
+        "meta": {
+          "transliteration": "Rénlài"
+        }
+      },
+      {
+        "hex": "#ddc5b8",
+        "name": "肉紅",
+        "meta": {
+          "transliteration": "Ròuhóng"
+        }
+      },
+      {
+        "hex": "#bec2bc",
+        "name": "溶溶月",
+        "meta": {
+          "transliteration": "Róngróngyuè"
+        }
+      },
+      {
+        "hex": "#106898",
+        "name": "柔藍",
+        "meta": {
+          "transliteration": "Róulán"
+        }
+      },
+      {
+        "hex": "#a35f65",
+        "name": "茹藘",
+        "meta": {
+          "transliteration": "Rúlǜ"
+        }
+      },
+      {
+        "hex": "#ddbb99",
+        "name": "如夢令",
+        "meta": {
+          "transliteration": "Rúmènglíng"
+        }
+      },
+      {
+        "hex": "#c7c6b6",
+        "name": "霜地",
+        "meta": {
+          "transliteration": "Shuāngdì"
+        }
+      },
+      {
+        "hex": "#a72126",
+        "name": "水華朱",
+        "meta": {
+          "transliteration": "Shuǐhuázhū"
+        }
+      },
+      {
+        "hex": "#ecb0c1",
+        "name": "水紅",
+        "meta": {
+          "transliteration": "Shuǐhóng"
+        }
+      },
+      {
+        "hex": "#84a729",
+        "name": "水龍吟",
+        "meta": {
+          "transliteration": "Shuǐlóngyín"
+        }
+      },
+      {
+        "hex": "#e3eb98",
+        "name": "少艾",
+        "meta": {
+          "transliteration": "Shào'ài"
+        }
+      },
+      {
+        "hex": "#a8a19c",
+        "name": "紹衣",
+        "meta": {
+          "transliteration": "Shàoyī"
+        }
+      },
+      {
+        "hex": "#e0e0d0",
+        "name": "韶粉",
+        "meta": {
+          "transliteration": "Sháofěn"
+        }
+      },
+      {
+        "hex": "#694b3c",
+        "name": "麝香褐",
+        "meta": {
+          "transliteration": "Shèxiānghè"
+        }
+      },
+      {
+        "hex": "#6a8d52",
+        "name": "石發",
+        "meta": {
+          "transliteration": "Shífà"
+        }
+      },
+      {
+        "hex": "#92897b",
+        "name": "石蓮褐",
+        "meta": {
+          "transliteration": "Shíliánhè"
+        }
+      },
+      {
+        "hex": "#b13b2e",
+        "name": "石榴裙",
+        "meta": {
+          "transliteration": "Shíliúqún"
+        }
+      },
+      {
+        "hex": "#206864",
+        "name": "石綠",
+        "meta": {
+          "transliteration": "Shílǜ"
+        }
+      },
+      {
+        "hex": "#d4bf89",
+        "name": "石蜜",
+        "meta": {
+          "transliteration": "Shímì"
+        }
+      },
+      {
+        "hex": "#686a67",
+        "name": "石涅",
+        "meta": {
+          "transliteration": "Shíniè"
+        }
+      },
+      {
+        "hex": "#f8c6b5",
+        "name": "十樣錦",
+        "meta": {
+          "transliteration": "Shíyàngjǐn"
+        }
+      },
+      {
+        "hex": "#c8b6bb",
+        "name": "石英",
+        "meta": {
+          "transliteration": "Shíyīng"
+        }
+      },
+      {
+        "hex": "#7c191e",
+        "name": "順聖",
+        "meta": {
+          "transliteration": "Shùnshèng"
+        }
+      },
+      {
+        "hex": "#f5f3f2",
+        "name": "山礬",
+        "meta": {
+          "transliteration": "Shānfán"
+        }
+      },
+      {
+        "hex": "#c12c1f",
+        "name": "珊瑚赫",
+        "meta": {
+          "transliteration": "Shānhúhè"
+        }
+      },
+      {
+        "hex": "#bed2bb",
+        "name": "山嵐",
+        "meta": {
+          "transliteration": "Shānlán"
+        }
+      },
+      {
+        "hex": "#bfa670",
+        "name": "沙餳",
+        "meta": {
+          "transliteration": "Shāxíng"
+        }
+      },
+      {
+        "hex": "#d4dde1",
+        "name": "素采",
+        "meta": {
+          "transliteration": "Sùcǎi"
+        }
+      },
+      {
+        "hex": "#595333",
+        "name": "素綦",
+        "meta": {
+          "transliteration": "Sùqí"
+        }
+      },
+      {
+        "hex": "#ead89a",
+        "name": "桑蕾",
+        "meta": {
+          "transliteration": "Sānglěi"
+        }
+      },
+      {
+        "hex": "#663d74",
+        "name": "三公子",
+        "meta": {
+          "transliteration": "Sāngōngzǐ"
+        }
+      },
+      {
+        "hex": "#ffee6f",
+        "name": "松花",
+        "meta": {
+          "transliteration": "Sōnghuā"
+        }
+      },
+      {
+        "hex": "#6b798e",
+        "name": "菘藍",
+        "meta": {
+          "transliteration": "Sōnglán"
+        }
+      },
+      {
+        "hex": "#81474c",
+        "name": "蘇方",
+        "meta": {
+          "transliteration": "Sūfāng"
+        }
+      },
+      {
+        "hex": "#dd7694",
+        "name": "蘇梅",
+        "meta": {
+          "transliteration": "Sūméi"
+        }
+      },
+      {
+        "hex": "#e1d384",
+        "name": "田赤",
+        "meta": {
+          "transliteration": "Tiánchì"
+        }
+      },
+      {
+        "hex": "#ed6d3d",
+        "name": "苕榮",
+        "meta": {
+          "transliteration": "Tiáoróng"
+        }
+      },
+      {
+        "hex": "#d5ebe1",
+        "name": "天縹",
+        "meta": {
+          "transliteration": "Tiānpiǎo"
+        }
+      },
+      {
+        "hex": "#e0dfc6",
+        "name": "天球",
+        "meta": {
+          "transliteration": "Tiānqiú"
+        }
+      },
+      {
+        "hex": "#5aa4ae",
+        "name": "天水碧",
+        "meta": {
+          "transliteration": "Tiānshuǐbì"
+        }
+      },
+      {
+        "hex": "#46433b",
+        "name": "驖驪",
+        "meta": {
+          "transliteration": "Tiělí"
+        }
+      },
+      {
+        "hex": "#f0cfe3",
+        "name": "退紅",
+        "meta": {
+          "transliteration": "Tuìhóng"
+        }
+      },
+      {
+        "hex": "#7c5b3e",
+        "name": "駝褐",
+        "meta": {
+          "transliteration": "Tuóhè"
+        }
+      },
+      {
+        "hex": "#547689",
+        "name": "太師青",
+        "meta": {
+          "transliteration": "Tàishīqīng"
+        }
+      },
+      {
+        "hex": "#d5b45c",
+        "name": "太一餘糧",
+        "meta": {
+          "transliteration": "Tàiyīyúliáng"
+        }
+      },
+      {
+        "hex": "#79836c",
+        "name": "苔古",
+        "meta": {
+          "transliteration": "Táigǔ"
+        }
+      },
+      {
+        "hex": "#da9e8c",
+        "name": "檀唇",
+        "meta": {
+          "transliteration": "Tánchún"
+        }
+      },
+      {
+        "hex": "#b15a43",
+        "name": "棠梨",
+        "meta": {
+          "transliteration": "Tánglí"
+        }
+      },
+      {
+        "hex": "#955a42",
+        "name": "棠梨褐",
+        "meta": {
+          "transliteration": "Tánglíhè"
+        }
+      },
+      {
+        "hex": "#945635",
+        "name": "檀褐",
+        "meta": {
+          "transliteration": "Tánhè"
+        }
+      },
+      {
+        "hex": "#b26d5d",
+        "name": "檀色",
+        "meta": {
+          "transliteration": "Tánsè"
+        }
+      },
+      {
+        "hex": "#f6bec8",
+        "name": "桃夭",
+        "meta": {
+          "transliteration": "Táoyāo"
+        }
+      },
+      {
+        "hex": "#68945c",
+        "name": "庭蕪綠",
+        "meta": {
+          "transliteration": "Tíngwúlǜ"
+        }
+      },
+      {
+        "hex": "#e2a2ac",
+        "name": "彤管",
+        "meta": {
+          "transliteration": "Tóngguǎn"
+        }
+      },
+      {
+        "hex": "#3d8e86",
+        "name": "銅青",
+        "meta": {
+          "transliteration": "Tóngqīng"
+        }
+      },
+      {
+        "hex": "#b04552",
+        "name": "鞓紅",
+        "meta": {
+          "transliteration": "Tīnghóng"
+        }
+      },
+      {
+        "hex": "#151d29",
+        "name": "獺見",
+        "meta": {
+          "transliteration": "Tǎjiàn"
+        }
+      },
+      {
+        "hex": "#4182a4",
+        "name": "吐綬藍",
+        "meta": {
+          "transliteration": "Tǔshòulán"
+        }
+      },
+      {
+        "hex": "#a99f70",
+        "name": "王芻",
+        "meta": {
+          "transliteration": "Wángchú"
+        }
+      },
+      {
+        "hex": "#a73766",
+        "name": "魏紅",
+        "meta": {
+          "transliteration": "Wèihóng"
+        }
+      },
+      {
+        "hex": "#903754",
+        "name": "魏紫",
+        "meta": {
+          "transliteration": "Wèizǐ"
+        }
+      },
+      {
+        "hex": "#dd6b7b",
+        "name": "渥赭",
+        "meta": {
+          "transliteration": "Wòzhě"
+        }
+      },
+      {
+        "hex": "#984f31",
+        "name": "縕韍",
+        "meta": {
+          "transliteration": "Wēnfú"
+        }
+      },
+      {
+        "hex": "#a9a886",
+        "name": "琬琰",
+        "meta": {
+          "transliteration": "Wǎnyǎn"
+        }
+      },
+      {
+        "hex": "#d2af9d",
+        "name": "夏籥",
+        "meta": {
+          "transliteration": "Xiàyuè"
+        }
+      },
+      {
+        "hex": "#daa9a9",
+        "name": "咸池",
+        "meta": {
+          "transliteration": "Xiánchí"
+        }
+      },
+      {
+        "hex": "#d3ccd6",
+        "name": "香爐紫煙",
+        "meta": {
+          "transliteration": "Xiānglúzǐyān"
+        }
+      },
+      {
+        "hex": "#d8d1c5",
+        "name": "香皮",
+        "meta": {
+          "transliteration": "Xiāngpí"
+        }
+      },
+      {
+        "hex": "#ecd452",
+        "name": "緗葉",
+        "meta": {
+          "transliteration": "Xiāngyè"
+        }
+      },
+      {
+        "hex": "#d4c9aa",
+        "name": "仙米",
+        "meta": {
+          "transliteration": "Xiānmǐ"
+        }
+      },
+      {
+        "hex": "#b2bfc3",
+        "name": "逍遙遊",
+        "meta": {
+          "transliteration": "Xiāoyáoyóu"
+        }
+      },
+      {
+        "hex": "#e67762",
+        "name": "小紅",
+        "meta": {
+          "transliteration": "Xiǎohóng"
+        }
+      },
+      {
+        "hex": "#a9a082",
+        "name": "玄校",
+        "meta": {
+          "transliteration": "Xuánjiǎo"
+        }
+      },
+      {
+        "hex": "#6b5458",
+        "name": "玄天",
+        "meta": {
+          "transliteration": "Xuántiān"
+        }
+      },
+      {
+        "hex": "#cb523e",
+        "name": "赩熾",
+        "meta": {
+          "transliteration": "Xìchì"
+        }
+      },
+      {
+        "hex": "#da9233",
+        "name": "杏子",
+        "meta": {
+          "transliteration": "Xìngzǐ"
+        }
+      },
+      {
+        "hex": "#bfb99c",
+        "name": "行香子",
+        "meta": {
+          "transliteration": "Xíngxiāngzǐ"
+        }
+      },
+      {
+        "hex": "#e3adb9",
+        "name": "夕嵐",
+        "meta": {
+          "transliteration": "Xīlán"
+        }
+      },
+      {
+        "hex": "#f5b087",
+        "name": "騂剛",
+        "meta": {
+          "transliteration": "Xīnggāng"
+        }
+      },
+      {
+        "hex": "#bcd4e7",
+        "name": "星郎",
+        "meta": {
+          "transliteration": "Xīngláng"
+        }
+      },
+      {
+        "hex": "#5f766a",
+        "name": "翕赩",
+        "meta": {
+          "transliteration": "Xīxì"
+        }
+      },
+      {
+        "hex": "#87c0ca",
+        "name": "西子",
+        "meta": {
+          "transliteration": "Xīzǐ"
+        }
+      },
+      {
+        "hex": "#ba5140",
+        "name": "纁黃",
+        "meta": {
+          "transliteration": "Xūnhuáng"
+        }
+      },
+      {
+        "hex": "#d4e5ef",
+        "name": "月白",
+        "meta": {
+          "transliteration": "Yuèbái"
+        }
+      },
+      {
+        "hex": "#b2b6b6",
+        "name": "月魄",
+        "meta": {
+          "transliteration": "Yuèpò"
+        }
+      },
+      {
+        "hex": "#81663b",
+        "name": "遠志",
+        "meta": {
+          "transliteration": "Yuǎnzhì"
+        }
+      },
+      {
+        "hex": "#c35c5d",
+        "name": "牙緋",
+        "meta": {
+          "transliteration": "Yáfēi"
+        }
+      },
+      {
+        "hex": "#f091a0",
+        "name": "楊妃",
+        "meta": {
+          "transliteration": "Yángfēi"
+        }
+      },
+      {
+        "hex": "#4a4b9d",
+        "name": "延維",
+        "meta": {
+          "transliteration": "Yánwéi"
+        }
+      },
+      {
+        "hex": "#d6bc46",
+        "name": "姚黃",
+        "meta": {
+          "transliteration": "Yáohuáng"
+        }
+      },
+      {
+        "hex": "#7c623f",
+        "name": "射干",
+        "meta": {
+          "transliteration": "Yègān"
+        }
+      },
+      {
+        "hex": "#f9d3e3",
+        "name": "盈盈",
+        "meta": {
+          "transliteration": "Yíngyíng"
+        }
+      },
+      {
+        "hex": "#9c8d9b",
+        "name": "銀褐",
+        "meta": {
+          "transliteration": "Yínhè"
+        }
+      },
+      {
+        "hex": "#e7cad3",
+        "name": "銀紅",
+        "meta": {
+          "transliteration": "Yínhóng"
+        }
+      },
+      {
+        "hex": "#d12920",
+        "name": "銀硃",
+        "meta": {
+          "transliteration": "Yínzhū"
+        }
+      },
+      {
+        "hex": "#644d31",
+        "name": "油葫蘆",
+        "meta": {
+          "transliteration": "Yóuhúlú"
+        }
+      },
+      {
+        "hex": "#5d7259",
+        "name": "油綠",
+        "meta": {
+          "transliteration": "Yóulǜ"
+        }
+      },
+      {
+        "hex": "#420b2f",
+        "name": "油紫",
+        "meta": {
+          "transliteration": "Yóuzǐ"
+        }
+      },
+      {
+        "hex": "#d08635",
+        "name": "鬱金裙",
+        "meta": {
+          "transliteration": "Yùjīnqún"
+        }
+      },
+      {
+        "hex": "#eae5e3",
+        "name": "玉頩",
+        "meta": {
+          "transliteration": "Yùpīng"
+        }
+      },
+      {
+        "hex": "#eae4d1",
+        "name": "玉色",
+        "meta": {
+          "transliteration": "Yùsè"
+        }
+      },
+      {
+        "hex": "#576470",
+        "name": "育陽染",
+        "meta": {
+          "transliteration": "Yùyángrǎn"
+        }
+      },
+      {
+        "hex": "#c9cfc1",
+        "name": "餘白",
+        "meta": {
+          "transliteration": "Yúbái"
+        }
+      },
+      {
+        "hex": "#d2a36c",
+        "name": "芸黃",
+        "meta": {
+          "transliteration": "Yúnhuáng"
+        }
+      },
+      {
+        "hex": "#a2d2e2",
+        "name": "雲門",
+        "meta": {
+          "transliteration": "Yúnmén"
+        }
+      },
+      {
+        "hex": "#c6beb1",
+        "name": "雲母",
+        "meta": {
+          "transliteration": "Yúnmǔ"
+        }
+      },
+      {
+        "hex": "#d5d1ae",
+        "name": "筠霧",
+        "meta": {
+          "transliteration": "Yúnwù"
+        }
+      },
+      {
+        "hex": "#32788a",
+        "name": "魚師青",
+        "meta": {
+          "transliteration": "Yúshīqīng"
+        }
+      },
+      {
+        "hex": "#6a5b6d",
+        "name": "鴉維",
+        "meta": {
+          "transliteration": "Yāchú"
+        }
+      },
+      {
+        "hex": "#9d858f",
+        "name": "煙紅",
+        "meta": {
+          "transliteration": "Yānhóng"
+        }
+      },
+      {
+        "hex": "#5c4f55",
+        "name": "煙墨",
+        "meta": {
+          "transliteration": "Yānmò"
+        }
+      },
+      {
+        "hex": "#ab1d22",
+        "name": "胭脂蟲",
+        "meta": {
+          "transliteration": "Yānzhīchóng"
+        }
+      },
+      {
+        "hex": "#b95a89",
+        "name": "胭脂水",
+        "meta": {
+          "transliteration": "Yānzhīshuǐ"
+        }
+      },
+      {
+        "hex": "#b0436f",
+        "name": "胭脂紫",
+        "meta": {
+          "transliteration": "Yānzhīzǐ"
+        }
+      },
+      {
+        "hex": "#ebe1a9",
+        "name": "鶯兒",
+        "meta": {
+          "transliteration": "Yīng'ér"
+        }
+      },
+      {
+        "hex": "#8f6d5f",
+        "name": "鷹背褐",
+        "meta": {
+          "transliteration": "Yīngbèihè"
+        }
+      },
+      {
+        "hex": "#e4b8d5",
+        "name": "櫻花",
+        "meta": {
+          "transliteration": "Yīnghuā"
+        }
+      },
+      {
+        "hex": "#615ea8",
+        "name": "優曇瑞",
+        "meta": {
+          "transliteration": "Yōutánruì"
+        }
+      },
+      {
+        "hex": "#b49b7f",
+        "name": "養生主",
+        "meta": {
+          "transliteration": "Yǎngshēngzhǔ"
+        }
+      },
+      {
+        "hex": "#bdcbd2",
+        "name": "影青",
+        "meta": {
+          "transliteration": "Yǐngqīng"
+        }
+      },
+      {
+        "hex": "#e1d279",
+        "name": "禹餘糧",
+        "meta": {
+          "transliteration": "Yǔyúliáng"
+        }
+      },
+      {
+        "hex": "#796860",
+        "name": "濯絳",
+        "meta": {
+          "transliteration": "Zhuójiàng"
+        }
+      },
+      {
+        "hex": "#c67915",
+        "name": "柘黃",
+        "meta": {
+          "transliteration": "Zhèhuáng"
+        }
+      },
+      {
+        "hex": "#6ca8af",
+        "name": "正青",
+        "meta": {
+          "transliteration": "Zhèngqīng"
+        }
+      },
+      {
+        "hex": "#919177",
+        "name": "執大象",
+        "meta": {
+          "transliteration": "Zhídàxiàng"
+        }
+      },
+      {
+        "hex": "#7f9faf",
+        "name": "竹月",
+        "meta": {
+          "transliteration": "Zhúyuè"
+        }
+      },
+      {
+        "hex": "#a58a5f",
+        "name": "蒸栗",
+        "meta": {
+          "transliteration": "Zhēnglì"
+        }
+      },
+      {
+        "hex": "#9a6655",
+        "name": "赭羅",
+        "meta": {
+          "transliteration": "Zhěluó"
+        }
+      },
+      {
+        "hex": "#fac03d",
+        "name": "梔子",
+        "meta": {
+          "transliteration": "Zhīzi"
+        }
+      },
+      {
+        "hex": "#a64036",
+        "name": "朱草",
+        "meta": {
+          "transliteration": "Zhūcǎo"
+        }
+      },
+      {
+        "hex": "#b81a35",
+        "name": "朱孔陽",
+        "meta": {
+          "transliteration": "Zhūkǒngyáng"
+        }
+      },
+      {
+        "hex": "#ed6d46",
+        "name": "朱柿",
+        "meta": {
+          "transliteration": "Zhūshì"
+        }
+      },
+      {
+        "hex": "#81492c",
+        "name": "朱石栗",
+        "meta": {
+          "transliteration": "Zhūshílì"
+        }
+      },
+      {
+        "hex": "#f29a76",
+        "name": "朱顏酡",
+        "meta": {
+          "transliteration": "Zhūyántuó"
+        }
+      },
+      {
+        "hex": "#b93a26",
+        "name": "朱殷",
+        "meta": {
+          "transliteration": "Zhūyān"
+        }
+      },
+      {
+        "hex": "#8f1d22",
+        "name": "朱櫻",
+        "meta": {
+          "transliteration": "Zhūyīng"
+        }
+      },
+      {
+        "hex": "#95302e",
+        "name": "朱湛",
+        "meta": {
+          "transliteration": "Zhūzhàn"
+        }
+      },
+      {
+        "hex": "#bea89d",
+        "name": "珠子褐",
+        "meta": {
+          "transliteration": "Zhūzǐhè"
+        }
+      },
+      {
+        "hex": "#f6f9e4",
+        "name": "酇白",
+        "meta": {
+          "transliteration": "Zànbái"
+        }
+      },
+      {
+        "hex": "#535164",
+        "name": "曾青",
+        "meta": {
+          "transliteration": "Zēngqīng"
+        }
+      },
+      {
+        "hex": "#804c2e",
+        "name": "緅絺",
+        "meta": {
+          "transliteration": "Zōuchī"
+        }
+      },
+      {
+        "hex": "#68361a",
+        "name": "棗褐",
+        "meta": {
+          "transliteration": "Zǎohè"
+        }
+      },
+      {
+        "hex": "#7c461e",
+        "name": "紫甌",
+        "meta": {
+          "transliteration": "Zǐ'ōu"
+        }
+      },
+      {
+        "hex": "#bba1cb",
+        "name": "紫薄汗",
+        "meta": {
+          "transliteration": "Zǐbóhàn"
+        }
+      },
+      {
+        "hex": "#9b8ea9",
+        "name": "紫菂",
+        "meta": {
+          "transliteration": "Zǐdì"
+        }
+      },
+      {
+        "hex": "#995d7f",
+        "name": "紫府",
+        "meta": {
+          "transliteration": "Zǐfǔ"
+        }
+      },
+      {
+        "hex": "#76555d",
+        "name": "紫誥",
+        "meta": {
+          "transliteration": "Zǐgào"
+        }
+      },
+      {
+        "hex": "#bea78b",
+        "name": "紫花布",
+        "meta": {
+          "transliteration": "Zǐhuābù"
+        }
+      },
+      {
+        "hex": "#a76283",
+        "name": "紫莖屏風",
+        "meta": {
+          "transliteration": "Zǐjīngpíngfēng"
+        }
+      },
+      {
+        "hex": "#9e4e56",
+        "name": "紫礦",
+        "meta": {
+          "transliteration": "Zǐkuàng"
+        }
+      },
+      {
+        "hex": "#bb7a8c",
+        "name": "紫梅",
+        "meta": {
+          "transliteration": "Zǐméi"
+        }
+      },
+      {
+        "hex": "#a67eb7",
+        "name": "茈藐",
+        "meta": {
+          "transliteration": "Zǐmò"
+        }
+      },
+      {
+        "hex": "#bc836b",
+        "name": "紫磨金",
+        "meta": {
+          "transliteration": "Zǐmójīn"
+        }
+      },
+      {
+        "hex": "#a6559d",
+        "name": "紫蒲",
+        "meta": {
+          "transliteration": "Zǐpú"
+        }
+      },
+      {
+        "hex": "#7d5284",
+        "name": "紫紶",
+        "meta": {
+          "transliteration": "Zǐqū"
+        }
+      },
+      {
+        "hex": "#594c57",
+        "name": "紫鼠",
+        "meta": {
+          "transliteration": "Zǐshǔ"
+        }
+      },
+      {
+        "hex": "#757cbb",
+        "name": "紫苑",
+        "meta": {
+          "transliteration": "Zǐyuàn"
+        }
+      },
+      {
+        "hex": "#5da39d",
+        "name": "二綠",
+        "meta": {
+          "transliteration": "Èrlǜ"
+        }
+      },
+      {
+        "hex": "#dfe0d9",
+        "name": "二目魚",
+        "meta": {
+          "transliteration": "Èrmùyú"
+        }
+      },
+      {
+        "hex": "#be8a2f",
+        "name": "蛾黃",
+        "meta": {
+          "transliteration": "Éhuáng"
+        }
+      },
+      {
+        "hex": "#c0d695",
+        "name": "歐碧",
+        "meta": {
+          "transliteration": "Ōubì"
+        }
+      },
+      {
+        "hex": "#a88787",
+        "name": "藕絲褐",
+        "meta": {
+          "transliteration": "Ǒusīhè"
+        }
+      },
+      {
+        "hex": "#d3cbc5",
+        "name": "藕絲秋半",
+        "meta": {
+          "transliteration": "Ǒusīqiūbàn"
+        }
+      }
+    ],
     "html": [
       {
         "name": "aqua",
@@ -55435,6 +58125,12 @@
       "description": "A list of popular colors for Risograph printers. Only includes colors with HEX, Pantone and Z-Type codes.",
       "source": "https://github.com/mattdesl/riso-colors",
       "key": "risograph"
+    },
+    "chinese": {
+      "title": "Chinese Colors",
+      "description": "A list of Chinese colors and their transliterations",
+      "source": "https://github.com/ItMarki/files/blob/main/newcolorsandnames.csv",
+      "key": "chinese"
     }
   }
 }

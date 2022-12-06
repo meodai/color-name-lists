@@ -100,5 +100,11 @@
         "description": "A list of popular colors for Risograph printers. Only includes colors with HEX, Pantone and Z-Type codes.",
         "source": "https://github.com/mattdesl/riso-colors",
         "key": "risograph"
+    },
+    "chinese": {
+        "title": "Chinese Colors",
+        "description": "A list of Chinese colors and their transliterations",
+        "source": "https://github.com/ItMarki/files/blob/main/newcolorsandnames.csv",
+        "key": "chinese"
     }
 }
