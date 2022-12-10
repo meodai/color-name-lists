@@ -10,7 +10,7 @@ const risographColors = require('riso-colors');
 
 const hexColorValidation = /^#([0-9A-F]{3}){1,2}$/i;
 
-
+// Collects all keys that are not in the allowed array and moves them to a meta object
 function moveNonAllowedKeysToMeta(
   obj,
   allowed = ['name', 'hex'],
@@ -34,7 +34,7 @@ function moveNonAllowedKeysToMeta(
   return returnObject;
 }
 
-function toLowerKeys(obj) {
+function toLowerKey(obj) {
   return Object.keys(obj).reduce((accumulator, key) => {
     accumulator[key.toLowerCase()] = obj[key];
     return accumulator;
@@ -68,7 +68,7 @@ Object.keys(lists).forEach(listName => {
   const listOfColors = lists[listName];
 
   const sanitizedList = listOfColors.map(color => {
-    const sanitizedColor = toLowerKeys(color);
+    const sanitizedColor = toLowerKey(color);
     const { hex } = sanitizedColor;
 
     if ( !hexColorValidation.test(hex) ) {
@@ -91,6 +91,7 @@ Object.keys(descriptions).forEach(key => {
   const description = descriptions[key];
   description.key = sanitizedKey;
   sanitizedDescriptions[sanitizedKey] = description;
+  description.colorCount = lists[sanitizedKey].length;
 });
 
 module.exports = {

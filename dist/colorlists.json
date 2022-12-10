@@ -58028,109 +58028,127 @@
       "title": "Basic",
       "description": "A set of basic colors. Red, Green, Blue...",
       "source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
-      "key": "basic"
+      "key": "basic",
+      "colorCount": 21
     },
     "html": {
       "title": "HTML Colors",
       "description": "HTML/CSS color names. These can be used as keywords in CSS, SVG's or HTML.",
       "source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
-      "key": "html"
+      "key": "html",
+      "colorCount": 148
     },
     "japaneseTraditional": {
       "title": "Traditional Colors of Japan",
       "description": "The traditional colors of Japan are a collection of colors traditionally used in Japanese art, literature, textiles such as kimono, and other Japanese arts and crafts.",
       "source": "https://en.wikipedia.org/wiki/Traditional_colors_of_Japan",
-      "key": "japaneseTraditional"
+      "key": "japaneseTraditional",
+      "colorCount": 228
     },
     "leCorbusier": {
       "title": "Le Corbusier",
       "description": "Architectural colours in Le Corbusier's colour system.",
       "source": "https://www.lescouleurs.ch/en/the-colours/63-colours",
-      "key": "leCorbusier"
+      "key": "leCorbusier",
+      "colorCount": 63
     },
     "nbsIscc": {
       "title": "The Universal Color Language",
       "description": "ISCC–NBS System of Color Designation: Naming system for colors based on a set of 12 basic color terms and a small set of adjective modifiers.",
       "source": "https://web.archive.org/web/20121103030619/http://tx4.us/nbs-iscc.htm",
-      "key": "nbsIscc"
+      "key": "nbsIscc",
+      "colorCount": 267
     },
     "ntc": {
       "title": "NTC.js",
       "description": "NTC.js color matching library names released in 2007. The names were collected from various sources like Wikipedia, X11, Crayola etc.",
       "source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
-      "key": "ntc"
+      "key": "ntc",
+      "colorCount": 1566
     },
     "osxcrayons": {
       "title": "OS X Crayons",
       "description": "OS X Crayons color names mostly used in the OS X color-picker GUI.",
       "source": "http://www.randomactsofsentience.com/2013/06/os-x-crayon-color-hex-table.html",
-      "key": "osxcrayons"
+      "key": "osxcrayons",
+      "colorCount": 48
     },
     "ral": {
       "title": "RAL Color",
       "description": "RAL color matching color names",
       "source": "https://jpederson.com/colornerd/",
-      "key": "ral"
+      "key": "ral",
+      "colorCount": 213
     },
     "ridgway": {
       "title": "Robert Ridgway's Color Standards and Color Nomenclature",
       "description": "Color Nomenclature by Robert Ridgway (1850-1929) was published in Washignton, DC in 1912, it's part of the public domain in the USA. In August 31, 2020 was added to the Gutenberg Project.",
       "source": "https://github.com/davo/Color-Standards-and-Color-Nomenclature",
-      "key": "ridgway"
+      "key": "ridgway",
+      "colorCount": 1117
     },
     "sanzoWadaI": {
       "title": "Wada Sanzō Japanese Color Dictionary Volume I",
       "description": "Names from Wada Sanzō 和田 三造 Colors Dictionary volume I",
       "source": "https://sanzo-wada.dmbk.io/",
-      "key": "sanzoWadaI"
+      "key": "sanzoWadaI",
+      "colorCount": 157
     },
     "thesaurus": {
       "title": "The Color Thesaurus",
       "description": "The Color Thesaurus by Ingrid Sundberg. As a writer she collected color names to dig into the emotion of a scene and create variety in her writing.",
       "source": "https://ingridsnotes.wordpress.com/2014/02/04/the-color-thesaurus/",
-      "key": "thesaurus"
+      "key": "thesaurus",
+      "colorCount": 240
     },
     "werner": {
       "title": "Werner's Nomenclature of Colours",
       "description": "All colors from the book Werner's Nomenclature of Colours collected and described in the late 18th century",
       "source": "https://www.c82.net/werner/",
-      "key": "werner"
+      "key": "werner",
+      "colorCount": 110
     },
     "windows": {
       "title": "Microsoft Windows Color Names",
       "description": "List of colors used in legacy microsoft windows systems",
       "source": "https://docs.microsoft.com/en-us/dotnet/api/system.windows.media.colors?view=windowsdesktop-6.0",
-      "key": "windows"
+      "key": "windows",
+      "colorCount": 140
     },
     "wikipedia": {
       "title": "Wikipedia Color Names",
       "description": "List color names from wikipedia",
       "source": "https://github.com/meodai/wikipedia-color-names",
-      "key": "wikipedia"
+      "key": "wikipedia",
+      "colorCount": 810
     },
     "x11": {
       "title": "X11 Color Names",
       "description": "Standard Xlib or the X11 protocol color names.",
       "source": "https://en.wikipedia.org/wiki/X11_color_names",
-      "key": "x11"
+      "key": "x11",
+      "colorCount": 147
     },
     "xkcd": {
       "title": "XKCD Colors",
       "description": "The 954 most common RGB monitor colors, as defined by several hundred thousand participants in the xkcd color name survey.",
       "source": "https://xkcd.com/color/rgb/",
-      "key": "xkcd"
+      "key": "xkcd",
+      "colorCount": 949
     },
     "risograph": {
       "title": "Risograph Colors",
       "description": "A list of popular colors for Risograph printers. Only includes colors with HEX, Pantone and Z-Type codes.",
       "source": "https://github.com/mattdesl/riso-colors",
-      "key": "risograph"
+      "key": "risograph",
+      "colorCount": 78
     },
     "chineseTraditional": {
       "title": "Traditional Colors of China",
       "description": "Traditional Colors of China: Color Aesthetics in the Forbidden City (中国传统色：故宫里的色彩美学) colors and their transliterations",
       "source": "https://github.com/ItMarki/files/blob/main/newcolorsandnames.csv",
-      "key": "chineseTraditional"
+      "key": "chineseTraditional",
+      "colorCount": 384
     }
   }
 }
