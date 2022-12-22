@@ -2042,6 +2042,25 @@
     },
     {
         "index": 72,
+        "name": "Citrine",
+        "cmyk_array": [
+          36,
+          32,
+          100,
+          0
+        ],
+        "cmyk": "C:36 / M:32 / Y:100 / K:0",
+        "hex": "#000000",
+        "combinations": [
+          59,
+          93,
+          132,
+          133,
+          262
+        ]
+    },
+    {
+        "index": 72,
         "name": "Buffy Citrine",
         "slug": "buffy-citrine",
         "cmyk_array": [
@@ -2713,6 +2732,23 @@
             237
         ],
         "use_count": 2
+    },
+    {
+        "index": 98,
+        "name": "Chromium Green",
+        "cmyk_array": [
+            50,
+            16,
+            58,
+            20
+        ],
+        "hex": "#66AB56",
+        "combinations": [
+            105,
+            200,
+            219,
+            283
+        ]
     },
     {
         "index": 98,

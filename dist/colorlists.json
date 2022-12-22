@@ -47039,6 +47039,27 @@
         }
       },
       {
+        "name": "Citrine",
+        "hex": "#000000",
+        "meta": {
+          "index": 72,
+          "cmyk_array": [
+            36,
+            32,
+            100,
+            0
+          ],
+          "cmyk": "C:36 / M:32 / Y:100 / K:0",
+          "combinations": [
+            59,
+            93,
+            132,
+            133,
+            262
+          ]
+        }
+      },
+      {
         "name": "Buffy Citrine",
         "hex": "#888d2a",
         "meta": {
@@ -47762,6 +47783,25 @@
             237
           ],
           "use_count": 2
+        }
+      },
+      {
+        "name": "Chromium Green",
+        "hex": "#66AB56",
+        "meta": {
+          "index": 98,
+          "cmyk_array": [
+            50,
+            16,
+            58,
+            20
+          ],
+          "combinations": [
+            105,
+            200,
+            219,
+            283
+          ]
         }
       },
       {
@@ -58092,7 +58132,7 @@
       "description": "Names from Wada Sanzō 和田 三造 Colors Dictionary volume I",
       "source": "https://sanzo-wada.dmbk.io/",
       "key": "sanzoWadaI",
-      "colorCount": 157
+      "colorCount": 159
     },
     "thesaurus": {
       "title": "The Color Thesaurus",
