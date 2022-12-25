@@ -5695,10 +5695,24 @@
         }
       },
       {
+        "name": "Acapulco",
+        "hex": "#008897",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Acier",
         "hex": "#6c6c6c",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Acier Brossé",
+        "hex": "#9e9f9e",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -5713,6 +5727,13 @@
         "hex": "#acd8e2",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Aiguilles de Pin",
+        "hex": "#a09e64",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -5751,10 +5772,24 @@
         }
       },
       {
+        "name": "Aluminium",
+        "hex": "#9fa09f",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Amande",
         "hex": "#82c46c",
         "meta": {
           "link": "https://fr.wiktionary.org/wiki/amande"
+        }
+      },
+      {
+        "name": "Amande Douce",
+        "hex": "#d9dcb8",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -5849,6 +5884,13 @@
         }
       },
       {
+        "name": "Argile Grise",
+        "hex": "#9d978f",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Asperge",
         "hex": "#7ba05b",
         "meta": {
@@ -5933,6 +5975,13 @@
         }
       },
       {
+        "name": "Baby Doll",
+        "hex": "#e6c8dd",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Badiane",
         "hex": "#7e6b42",
         "meta": {
@@ -5989,13 +6038,6 @@
         }
       },
       {
-        "name": "Beige",
-        "hex": "#f5f5dc",
-        "meta": {
-          "link": "https://fr.wikipedia.org/wiki/Beige#Variantes_de_teinte"
-        }
-      },
-      {
         "name": "Beige Cachemire",
         "hex": "#ffe2cf",
         "meta": {
@@ -6017,6 +6059,13 @@
         }
       },
       {
+        "name": "Beige Nude",
+        "hex": "#d6c2b7",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Beige Rosé",
         "hex": "#f7cbbf",
         "meta": {
@@ -6028,6 +6077,20 @@
         "hex": "#afa77b",
         "meta": {
           "link": "https://fr.wiktionary.org/wiki/beigeasse"
+        }
+      },
+      {
+        "name": "Bergamote",
+        "hex": "#cbc5b1",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Bermudes",
+        "hex": "#7fcadb",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -6049,6 +6112,13 @@
         "hex": "#766f64",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Bis_(couleur)"
+        }
+      },
+      {
+        "name": "Biscuit",
+        "hex": "#dfccb1",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -6087,6 +6157,20 @@
         }
       },
       {
+        "name": "Blanc Argent",
+        "hex": "#d9dedf",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Blanc Brume",
+        "hex": "#f6f6f0",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Blanc Cassé",
         "hex": "#fefee2",
         "meta": {
@@ -6094,10 +6178,45 @@
         }
       },
       {
+        "name": "Blanc Coton",
+        "hex": "#f3f2ec",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Blanc Craie",
+        "hex": "#eeebe1",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Blanc Crème",
         "hex": "#fdf1b8",
         "meta": {
           "link": "https://fr.wiktionary.org/w/index.php?title=blanc_cr%C3%A8me&action=edit&redlink=1"
+        }
+      },
+      {
+        "name": "Blanc Gris",
+        "hex": "#cdc1af",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Blanc Infini",
+        "hex": "#f6f2e5",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Blanc Intense",
+        "hex": "#e8e8e5",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -6112,6 +6231,34 @@
         "hex": "#f4fefe",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Blanc_lunaire"
+        }
+      },
+      {
+        "name": "Blanc Nacre",
+        "hex": "#f6f6f6",
+        "meta": {
+          "link": "https://www.papeteries-montsegur.com/"
+        }
+      },
+      {
+        "name": "Blanc Neige",
+        "hex": "#f1ede1",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Blanc Platine",
+        "hex": "#f5ebd4",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Blanc Pur",
+        "hex": "#f0eee4",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -6133,6 +6280,13 @@
         "hex": "#fefdf0",
         "meta": {
           "link": "https://fr.wiktionary.org/wiki/blanc_d%E2%80%99Espagne"
+        }
+      },
+      {
+        "name": "Blanc de Blanc",
+        "hex": "#f4f3ed",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -6213,6 +6367,20 @@
         }
       },
       {
+        "name": "Bleu Aqua",
+        "hex": "#b9d3d1",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Bleu Arctique",
+        "hex": "#aae1ee",
+        "meta": {
+          "link": "https://www.papeteries-montsegur.com/"
+        }
+      },
+      {
         "name": "Bleu Ardoise",
         "hex": "#686f8c",
         "meta": {
@@ -6238,6 +6406,13 @@
         "hex": "#5674b0",
         "meta": {
           "link": "https://fr.wiktionary.org/wiki/bleu_bleuet"
+        }
+      },
+      {
+        "name": "Bleu Breton",
+        "hex": "#1d6697",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -6360,6 +6535,13 @@
         }
       },
       {
+        "name": "Bleu Frais",
+        "hex": "#92b8dc",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Bleu France",
         "hex": "#318ce7",
         "meta": {
@@ -6444,6 +6626,13 @@
         }
       },
       {
+        "name": "Bleu Indien",
+        "hex": "#96d6dd",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Bleu Indigo",
         "hex": "#253b73",
         "meta": {
@@ -6451,10 +6640,24 @@
         }
       },
       {
+        "name": "Bleu Jean",
+        "hex": "#6794a5",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Bleu Klein",
         "hex": "#002fa7",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/International_Klein_Blue"
+        }
+      },
+      {
+        "name": "Bleu Lagon",
+        "hex": "#8bd6d3",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -6483,6 +6686,13 @@
         "hex": "#000080",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Bleu_marine"
+        }
+      },
+      {
+        "name": "Bleu Marmara",
+        "hex": "#2676ad",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -6612,6 +6822,13 @@
         }
       },
       {
+        "name": "Bleu Provence",
+        "hex": "#6d8dbe",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Bleu Pétrole",
         "hex": "#1d4851",
         "meta": {
@@ -6623,6 +6840,13 @@
         "hex": "#384c5e",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Bleu Radieux",
+        "hex": "#006083",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -6640,6 +6864,13 @@
         }
       },
       {
+        "name": "Bleu Rêveur",
+        "hex": "#b3dded",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Bleu Saphir",
         "hex": "#0131b4",
         "meta": {
@@ -6651,6 +6882,13 @@
         "hex": "#008e8e",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Bleu_canard"
+        }
+      },
+      {
+        "name": "Bleu Stone",
+        "hex": "#37465c",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -6696,6 +6934,13 @@
         }
       },
       {
+        "name": "Bleu Verre",
+        "hex": "#76aab9",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Bleu Vert",
         "hex": "#99cfd9",
         "meta": {
@@ -6717,10 +6962,24 @@
         }
       },
       {
+        "name": "Bleu d'Encre",
+        "hex": "#3b424c",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Bleu de Berlin",
         "hex": "#27475f",
         "meta": {
           "link": "https://fr.wiktionary.org/w/index.php?title=bleu_de_Berlin&action=edit&redlink=1"
+        }
+      },
+      {
+        "name": "Bleu de Bretagne",
+        "hex": "#00527e",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -6760,9 +7019,9 @@
       },
       {
         "name": "Bleu de Minuit",
-        "hex": "#033660",
+        "hex": "#1e1e2f",
         "meta": {
-          "link": "https://fr.wiktionary.org/w/index.php?title=bleu_de_minuit&action=edit&redlink=1"
+          "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
         }
       },
       {
@@ -6815,6 +7074,13 @@
         }
       },
       {
+        "name": "Blue Note",
+        "hex": "#005b8e",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Blush Rose",
         "hex": "#f18787",
         "meta": {
@@ -6829,10 +7095,24 @@
         }
       },
       {
+        "name": "Bois Blanchi",
+        "hex": "#e7dfd3",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Bois Foncé",
         "hex": "#594937",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Bois d'Acajou",
+        "hex": "#864831",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -6854,6 +7134,13 @@
         "hex": "#785762",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Bora Bora",
+        "hex": "#49b6ce",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -6948,6 +7235,13 @@
         }
       },
       {
+        "name": "Brun Cachemire",
+        "hex": "#9b8987",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Brun Castor",
         "hex": "#796047",
         "meta": {
@@ -6955,10 +7249,24 @@
         }
       },
       {
+        "name": "Brun Châtaigne",
+        "hex": "#51332b",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Brun Cigare",
         "hex": "#985e33",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Brun Normandie",
+        "hex": "#4b362b",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -7011,6 +7319,27 @@
         }
       },
       {
+        "name": "Béton Gris",
+        "hex": "#bebcba",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Bûche",
+        "hex": "#857873",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Cabriolet",
+        "hex": "#af332e",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Caca d'Oie",
         "hex": "#cdcd0d",
         "meta": {
@@ -7039,6 +7368,13 @@
         }
       },
       {
+        "name": "Café Frappé",
+        "hex": "#bfac9c",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Café au Lait",
         "hex": "#785e2f",
         "meta": {
@@ -7060,6 +7396,41 @@
         }
       },
       {
+        "name": "Campagne Provençale Clair",
+        "hex": "#d1cfd3",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Campagne Provençale Intense",
+        "hex": "#8c7f85",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Campagne Provençale Moyen",
+        "hex": "#beb4b1",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Campagne Provençale Pastel",
+        "hex": "#dbdbdd",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Campagne Provençale Pâle",
+        "hex": "#e9e8e8",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Campanule Bleue",
         "hex": "#60678c",
         "meta": {
@@ -7067,10 +7438,24 @@
         }
       },
       {
+        "name": "Canard",
+        "hex": "#3a5e67",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Cannelle",
         "hex": "#7e5835",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Cannelle_(couleur)"
+        }
+      },
+      {
+        "name": "Cappuccino",
+        "hex": "#e4c39f",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -7085,6 +7470,13 @@
         "hex": "#7e3300",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Caramel_(couleur)"
+        }
+      },
+      {
+        "name": "Caravane des Sables",
+        "hex": "#dad1c4",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -7165,10 +7557,24 @@
         }
       },
       {
+        "name": "Cerise Griotte",
+        "hex": "#a53248",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Chair",
         "hex": "#fec5ae",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Incarnat"
+        }
+      },
+      {
+        "name": "Chamallow",
+        "hex": "#fbcec4",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -7242,6 +7648,13 @@
         }
       },
       {
+        "name": "Chocolat au Lait",
+        "hex": "#d1c2b9",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Châtaigier",
         "hex": "#94631a",
         "meta": {
@@ -7277,10 +7690,52 @@
         }
       },
       {
+        "name": "Chêne Doré",
+        "hex": "#a76220",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Chêne Foncé",
+        "hex": "#533929",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Ciel Clair",
+        "hex": "#d0dde3",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Ciel Orageux",
         "hex": "#c7cad7",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Ciel d'Orage",
+        "hex": "#66869c",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Ciel de Parme",
+        "hex": "#d4d1df",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Ciment",
+        "hex": "#b9b9b5",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -7295,6 +7750,13 @@
         "hex": "#f7ff3c",
         "meta": {
           "link": "https://fr.wiktionary.org/wiki/citron"
+        }
+      },
+      {
+        "name": "Citron Frappé",
+        "hex": "#f7df96",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -7354,6 +7816,27 @@
         }
       },
       {
+        "name": "Cocon",
+        "hex": "#e3d7c3",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Coeur d'Amande",
+        "hex": "#e7e6dd",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Cognac",
+        "hex": "#aa7e54",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Colombin",
         "hex": "#6a455d",
         "meta": {
@@ -7389,15 +7872,15 @@
         }
       },
       {
-        "name": "Coquille d'Huitre",
-        "hex": "#dde3e3",
+        "name": "Coquille",
+        "hex": "#ede0d1",
         "meta": {
-          "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
-        "name": "Coquille d'Oeuf",
-        "hex": "#ffeee3",
+        "name": "Coquille d'Huitre",
+        "hex": "#dde3e3",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
         }
@@ -7417,10 +7900,24 @@
         }
       },
       {
+        "name": "Corail Austral",
+        "hex": "#fda365",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Cordage Beige",
         "hex": "#d1baa1",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Coton d'Egypte",
+        "hex": "#d7c5b5",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -7431,10 +7928,24 @@
         }
       },
       {
+        "name": "Coulis de Framboise",
+        "hex": "#a14c72",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Cramoisi",
         "hex": "#dc143c",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Cramoisi"
+        }
+      },
+      {
+        "name": "Creme",
+        "hex": "#fce9ca",
+        "meta": {
+          "link": "https://www.papeteries-montsegur.com/"
         }
       },
       {
@@ -7449,6 +7960,34 @@
         "hex": "#fffdd0",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Cr%C3%A8me_(couleur)"
+        }
+      },
+      {
+        "name": "Crème Noisette",
+        "hex": "#9d8e7e",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Crème de Cassis",
+        "hex": "#7d3761",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Crème de la Crème",
+        "hex": "#f3e7b4",
+        "meta": {
+          "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+        }
+      },
+      {
+        "name": "Cuir Bordeaux",
+        "hex": "#752b3a",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -7477,6 +8016,13 @@
         "hex": "#b36700",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Cuivre_(couleur)"
+        }
+      },
+      {
+        "name": "Cuivre Rose",
+        "hex": "#cc907b",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -7557,6 +8103,13 @@
         }
       },
       {
+        "name": "Dentelle",
+        "hex": "#f7edda",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Dorian",
         "hex": "#0b1616",
         "meta": {
@@ -7571,6 +8124,27 @@
         }
       },
       {
+        "name": "Douce Violette",
+        "hex": "#9895c3",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Douceur de l'Aube",
+        "hex": "#bdc3b9",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Drap de Lin",
+        "hex": "#d1c5b7",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Dune",
         "hex": "#f8e4c8",
         "meta": {
@@ -7578,10 +8152,59 @@
         }
       },
       {
+        "name": "Dunes du Sahara Clair",
+        "hex": "#d7caba",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Dunes du Sahara Intense",
+        "hex": "#ca9a51",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Dunes du Sahara Moyen",
+        "hex": "#dfb778",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Dunes du Sahara Pastel",
+        "hex": "#d8d4ce",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Dunes du Sahara Pâle",
+        "hex": "#e8e3dc",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Délice Praliné",
+        "hex": "#ba9f90",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Eau Bleutée",
         "hex": "#dbecf5",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Eau de Source",
+        "hex": "#bee1e2",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -7606,6 +8229,20 @@
         }
       },
       {
+        "name": "Eclat de Jaune",
+        "hex": "#ffcf73",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Eclipse",
+        "hex": "#2e416e",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Ecorce",
         "hex": "#7f6a55",
         "meta": {
@@ -7617,6 +8254,13 @@
         "hex": "#fefee0",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/%C3%89cru"
+        }
+      },
+      {
+        "name": "Ecru Sable",
+        "hex": "#c8b993",
+        "meta": {
+          "link": "https://www.papeteries-montsegur.com/"
         }
       },
       {
@@ -7676,10 +8320,24 @@
         }
       },
       {
+        "name": "Eucalyptus",
+        "hex": "#4d7a79",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Falaise",
         "hex": "#ebeae7",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Fantaisie Parme",
+        "hex": "#d0bfdb",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -7746,10 +8404,66 @@
         }
       },
       {
+        "name": "Feutre Taupe",
+        "hex": "#9c837c",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Feutrine",
+        "hex": "#a5a2a0",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Feutrine Prune",
+        "hex": "#603960",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Ficelle",
         "hex": "#dcc4aa",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Figue",
+        "hex": "#977287",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Fjords Scandinaves Clair",
+        "hex": "#ceccc3",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Fjords Scandinaves Intense",
+        "hex": "#7d7d7c",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Fjords Scandinaves Moyen",
+        "hex": "#b8b4ae",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Fjords Scandinaves Pastel",
+        "hex": "#dedcd7",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -7760,6 +8474,13 @@
         }
       },
       {
+        "name": "Flamme Rouge",
+        "hex": "#dd6a2d",
+        "meta": {
+          "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+        }
+      },
+      {
         "name": "Flave",
         "hex": "#e6e697",
         "meta": {
@@ -7767,10 +8488,24 @@
         }
       },
       {
+        "name": "Fleur de Coton",
+        "hex": "#e9e4dd",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Fleur de Lin Bleue",
         "hex": "#b0c0da",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Fleur de Sel",
+        "hex": "#dddad8",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -7785,6 +8520,13 @@
         "hex": "#ba91aa",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Flocon",
+        "hex": "#d0d3d7",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -7865,6 +8607,20 @@
         }
       },
       {
+        "name": "Galet Clair",
+        "hex": "#d8d1c5",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Galet Poli",
+        "hex": "#b9c1cd",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Garance",
         "hex": "#ee1010",
         "meta": {
@@ -7872,10 +8628,38 @@
         }
       },
       {
+        "name": "Gazelle",
+        "hex": "#b7a99b",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Giboulée",
+        "hex": "#8d8885",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Gingembre",
         "hex": "#d2bca6",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Girly",
+        "hex": "#d08eb2",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Girolle",
+        "hex": "#f6b655",
+        "meta": {
+          "link": "https://www.papeteries-montsegur.com/"
         }
       },
       {
@@ -7914,6 +8698,20 @@
         }
       },
       {
+        "name": "Goémon",
+        "hex": "#66605c",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Grain de Sable",
+        "hex": "#cac2b8",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Grand Bleu",
         "hex": "#3b768f",
         "meta": {
@@ -7939,6 +8737,13 @@
         "hex": "#c7e666",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Gravier",
+        "hex": "#cbc1b7",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -7970,6 +8775,34 @@
         }
       },
       {
+        "name": "Gris Alpaga",
+        "hex": "#acb0ae",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Alu",
+        "hex": "#a0a1a0",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Anglais",
+        "hex": "#8f908f",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Angora",
+        "hex": "#aab2b9",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Gris Anthracite",
         "hex": "#424242",
         "meta": {
@@ -7984,10 +8817,66 @@
         }
       },
       {
+        "name": "Gris Argent",
+        "hex": "#a6aba9",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Astrakan",
+        "hex": "#4d4f52",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Building",
+        "hex": "#90969c",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Chaud",
+        "hex": "#9e9890",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Chic",
+        "hex": "#babab9",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Gris Chromé",
         "hex": "#d3d3d6",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Gris Ciment",
+        "hex": "#bcbdbb",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris City",
+        "hex": "#9a9ea0",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Clair",
+        "hex": "#c6c9c5",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8012,10 +8901,87 @@
         }
       },
       {
+        "name": "Gris Flanelle",
+        "hex": "#dbdde0",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Foncé",
+        "hex": "#505459",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Franc",
+        "hex": "#adb1af",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Franc 2017",
+        "hex": "#b2b8b9",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Gris Fumée",
         "hex": "#bcd3e2",
         "meta": {
           "link": "https://fr.wiktionary.org/w/index.php?title=gris_fum%C3%A9e&action=edit&redlink=1"
+        }
+      },
+      {
+        "name": "Gris Industriel",
+        "hex": "#686d70",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Mezzo",
+        "hex": "#858b8e",
+        "meta": {
+          "link": "https://www.papeteries-montsegur.com/"
+        }
+      },
+      {
+        "name": "Gris Miroir",
+        "hex": "#c8ced4",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Moyen",
+        "hex": "#8f9391",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Nuage",
+        "hex": "#d8d8d7",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Orly",
+        "hex": "#828684",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Parfait",
+        "hex": "#a2a5a5",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8047,6 +9013,13 @@
         }
       },
       {
+        "name": "Gris Popeline",
+        "hex": "#afb1b3",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Gris Rocher",
         "hex": "#b0a69c",
         "meta": {
@@ -8061,6 +9034,27 @@
         }
       },
       {
+        "name": "Gris Sage",
+        "hex": "#9b9fa1",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Sobre",
+        "hex": "#858585",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Sombre",
+        "hex": "#4a5053",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Gris Souris",
         "hex": "#9e9e9e",
         "meta": {
@@ -8072,6 +9066,20 @@
         "hex": "#463f32",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Gris_souris"
+        }
+      },
+      {
+        "name": "Gris Tendance",
+        "hex": "#dcdee1",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris Tendre",
+        "hex": "#d9d9d8",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8096,10 +9104,31 @@
         }
       },
       {
+        "name": "Gris Urbain",
+        "hex": "#767574",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Gris Vert",
         "hex": "#98aeae",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Gris Zinc",
+        "hex": "#a2a9b2",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Gris d'Orage",
+        "hex": "#b4b3b9",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8145,10 +9174,38 @@
         }
       },
       {
+        "name": "Grès Rose",
+        "hex": "#ad6368",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Gueules",
         "hex": "#e21313",
         "meta": {
           "link": "https://fr.wiktionary.org/wiki/gueules"
+        }
+      },
+      {
+        "name": "Géranium",
+        "hex": "#9b1c29",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Halloween",
+        "hex": "#d96630",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Hammam",
+        "hex": "#c9cfd5",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8194,6 +9251,41 @@
         }
       },
       {
+        "name": "Iles du Pacifique Clair",
+        "hex": "#b2b8ba",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Iles du Pacifique Intense",
+        "hex": "#85a6ab",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Iles du Pacifique Moyen",
+        "hex": "#c6d0c8",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Iles du Pacifique Pastel",
+        "hex": "#cbcdcc",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Iles du Pacifique Pâle",
+        "hex": "#dadfe0",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Incarnadin",
         "hex": "#fe96a0",
         "meta": {
@@ -8205,6 +9297,13 @@
         "hex": "#ff6f7d",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Incarnat"
+        }
+      },
+      {
+        "name": "Incolore",
+        "hex": "#e5cda9",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8229,6 +9328,13 @@
         }
       },
       {
+        "name": "Iroko",
+        "hex": "#ba977c",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Isabelle",
         "hex": "#795f30",
         "meta": {
@@ -8240,6 +9346,13 @@
         "hex": "#fffff0",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Ivoire_(couleur)"
+        }
+      },
+      {
+        "name": "Ivoirine",
+        "hex": "#eee6d1",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8264,10 +9377,24 @@
         }
       },
       {
+        "name": "Jardin Secret",
+        "hex": "#cacebe",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Jaune",
         "hex": "#ffff00",
         "meta": {
           "link": "https://influenz.design/mag/jaune"
+        }
+      },
+      {
+        "name": "Jaune Ambré",
+        "hex": "#f4b662",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8299,6 +9426,13 @@
         }
       },
       {
+        "name": "Jaune Chrome",
+        "hex": "#fee089",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Jaune Citron",
         "hex": "#f8fe3d",
         "meta": {
@@ -8320,6 +9454,13 @@
         }
       },
       {
+        "name": "Jaune Frais",
+        "hex": "#ffdc8c",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Jaune Impérial",
         "hex": "#ffe436",
         "meta": {
@@ -8331,6 +9472,13 @@
         "hex": "#e89845",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Jaune_indien"
+        }
+      },
+      {
+        "name": "Jaune Lumière",
+        "hex": "#ffa405",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8376,6 +9524,13 @@
         }
       },
       {
+        "name": "Jaune Pale",
+        "hex": "#fff68f",
+        "meta": {
+          "link": "https://www.papeteries-montsegur.com/"
+        }
+      },
+      {
         "name": "Jaune Pamplemousse",
         "hex": "#ffe793",
         "meta": {
@@ -8397,10 +9552,31 @@
         }
       },
       {
+        "name": "Jaune Printemps",
+        "hex": "#ebbd51",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Jaune Pâle",
         "hex": "#fdf9cd",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Jaune Rétro",
+        "hex": "#d7a762",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Jaune Signal",
+        "hex": "#f7a800",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8415,6 +9591,13 @@
         "hex": "#ffd600",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Jaune d'Orient",
+        "hex": "#fab248",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8474,10 +9657,45 @@
         }
       },
       {
+        "name": "Kaki Clair",
+        "hex": "#d3cdbe",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "L'Anthracite",
+        "hex": "#7e7e7d",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "L'Ivoire",
+        "hex": "#eeede7",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "L'Ocre",
+        "hex": "#d08e61",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Lagon",
         "hex": "#12aeba",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Lagune",
+        "hex": "#0097c4",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8492,6 +9710,13 @@
         "hex": "#cbb69c",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Lait Fraise",
+        "hex": "#f2bcc2",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8551,6 +9776,209 @@
         }
       },
       {
+        "name": "Le Beige",
+        "hex": "#e5dfd7",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Blanc",
+        "hex": "#f5f4ee",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Blanc Cassé",
+        "hex": "#eeecdd",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Bleu",
+        "hex": "#86a7ac",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Bleu Canard",
+        "hex": "#005461",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Bleu Clair",
+        "hex": "#c8e2df",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Béton",
+        "hex": "#b9b5af",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Camel",
+        "hex": "#b99b83",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Chocolat",
+        "hex": "#7a543d",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Crème",
+        "hex": "#e7d4bc",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Gris Clair",
+        "hex": "#cccecd",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Gris Foncé",
+        "hex": "#a4a3a3",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Gris Moyen",
+        "hex": "#b3b9bb",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Gris Pastel",
+        "hex": "#dbe0e1",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Gris Pâle",
+        "hex": "#dfddd8",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Jaune",
+        "hex": "#fbb847",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Kraft",
+        "hex": "#c1b19f",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Lin",
+        "hex": "#cfcdc4",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Moutarde",
+        "hex": "#cb9b52",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Noir",
+        "hex": "#252525",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Nude",
+        "hex": "#d7c3b8",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Rose",
+        "hex": "#f2dee2",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Rose Intense",
+        "hex": "#c79ca3",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Rouge",
+        "hex": "#952c29",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Sable",
+        "hex": "#d8cbbb",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Taupe",
+        "hex": "#a18c82",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Vert",
+        "hex": "#dfebc1",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Vert Canard",
+        "hex": "#006663",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Le Violet",
+        "hex": "#8d8086",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Lie-de-vin",
         "hex": "#ac1e44",
         "meta": {
@@ -8593,6 +10021,48 @@
         }
       },
       {
+        "name": "Lin Blanc",
+        "hex": "#e6e0d8",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Lin Brut",
+        "hex": "#e0dad5",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Lin Clair",
+        "hex": "#e3ddd2",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Lin Intense",
+        "hex": "#cac0b8",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Lin Ivoire",
+        "hex": "#e2d8c9",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Lin Naturel",
+        "hex": "#e3dcd4",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Litchee",
         "hex": "#dba9b2",
         "meta": {
@@ -8618,6 +10088,34 @@
         "hex": "#a4835c",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Lune Cendrée",
+        "hex": "#9aa5b7",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Lys Blanc",
+        "hex": "#edeae6",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Macaron Café",
+        "hex": "#b1937d",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Macaron Glacé",
+        "hex": "#bfb5b2",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8663,6 +10161,20 @@
         }
       },
       {
+        "name": "Maquis",
+        "hex": "#a7a89c",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Marbre Blanc",
+        "hex": "#eae4db",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Marine",
         "hex": "#03224c",
         "meta": {
@@ -8691,6 +10203,13 @@
         }
       },
       {
+        "name": "Marée Haute",
+        "hex": "#3a7d9a",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Marée Turquoise",
         "hex": "#64abba",
         "meta": {
@@ -8702,6 +10221,13 @@
         "hex": "#b3b191",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Mastic_(couleur)"
+        }
+      },
+      {
+        "name": "Matin Blanc",
+        "hex": "#eae9e9",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8740,10 +10266,24 @@
         }
       },
       {
+        "name": "Meulière",
+        "hex": "#f4e7ce",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Miel",
         "hex": "#dab30a",
         "meta": {
           "link": "https://fr.wiktionary.org/wiki/miel"
+        }
+      },
+      {
+        "name": "Miel Ambré",
+        "hex": "#a38061",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8754,24 +10294,59 @@
         }
       },
       {
+        "name": "Moitié-Moitié",
+        "hex": "#f8d786",
+        "meta": {
+          "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+        }
+      },
+      {
+        "name": "Moka Latte",
+        "hex": "#bea488",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Montagnes Rocheuses Clair",
+        "hex": "#d6cec7",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Montagnes Rocheuses Intense",
+        "hex": "#b05446",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Montagnes Rocheuses Moyen",
+        "hex": "#dbb6a6",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Montagnes Rocheuses Pastel",
+        "hex": "#e1dbd6",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Montagnes Rocheuses Pâle",
+        "hex": "#eeebe7",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Mordoré",
         "hex": "#87591a",
         "meta": {
           "link": "https://fr.wiktionary.org/wiki/mordor%C3%A9"
-        }
-      },
-      {
-        "name": "Mordoré",
-        "hex": "#948c36",
-        "meta": {
-          "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-        }
-      },
-      {
-        "name": "Mordoré",
-        "hex": "#938b37",
-        "meta": {
-          "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
         }
       },
       {
@@ -8789,6 +10364,13 @@
         }
       },
       {
+        "name": "Mousseline Parme",
+        "hex": "#cec9d9",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Moutarde",
         "hex": "#ffdb58",
         "meta": {
@@ -8803,10 +10385,24 @@
         }
       },
       {
+        "name": "Myrtille",
+        "hex": "#55455e",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Nacarat",
         "hex": "#fc5d5d",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Nacarat"
+        }
+      },
+      {
+        "name": "Nacre",
+        "hex": "#d9dad8",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8838,10 +10434,24 @@
         }
       },
       {
+        "name": "Noir Anthracite",
+        "hex": "#3f3e3e",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Noir Charbon",
         "hex": "#010111",
         "meta": {
           "link": "https://fr.wiktionary.org/w/index.php?title=noir_charbon&action=edit&redlink=1"
+        }
+      },
+      {
+        "name": "Noir Panthère",
+        "hex": "#1c1e1f",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8887,6 +10497,13 @@
         }
       },
       {
+        "name": "Noir de Mars",
+        "hex": "#0f100d",
+        "meta": {
+          "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+        }
+      },
+      {
         "name": "Noiraud",
         "hex": "#2f1e0e",
         "meta": {
@@ -8908,6 +10525,20 @@
         }
       },
       {
+        "name": "Noyer",
+        "hex": "#462c2d",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Noyer Brut",
+        "hex": "#bdaa9d",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Nuage Bleu",
         "hex": "#eefcfc",
         "meta": {
@@ -8915,10 +10546,10 @@
         }
       },
       {
-        "name": "Ocre",
-        "hex": "#dd985c",
+        "name": "Nude",
+        "hex": "#f2c89b",
         "meta": {
-          "link": "https://fr.wikipedia.org/wiki/Ocre_rouge"
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -8929,6 +10560,13 @@
         }
       },
       {
+        "name": "Ocre Doré",
+        "hex": "#c19659",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Ocre Jaune",
         "hex": "#e0b02d",
         "meta": {
@@ -8936,8 +10574,15 @@
         }
       },
       {
+        "name": "Ocre Rose",
+        "hex": "#e9c6b1",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Ocre Rouge",
-        "hex": "#de995d",
+        "hex": "#dd985c",
         "meta": {
           "link": "https://fr.wiktionary.org/wiki/ocre_rouge"
         }
@@ -8954,6 +10599,13 @@
         "hex": "#c66218",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Ocre du Sud",
+        "hex": "#e7d5c2",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -9006,6 +10658,13 @@
         }
       },
       {
+        "name": "Orage",
+        "hex": "#637c94",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Orange",
         "hex": "#ed7f10",
         "meta": {
@@ -9027,10 +10686,31 @@
         }
       },
       {
+        "name": "Orange Confite",
+        "hex": "#d77e44",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Orange Fluo",
         "hex": "#f78b13",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Orange Lumineux",
+        "hex": "#f4ac71",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Orange Sanguine",
+        "hex": "#ca533c",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -9070,16 +10750,23 @@
       },
       {
         "name": "Osier",
-        "hex": "#ae7720",
+        "hex": "#a26d20",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
         }
       },
       {
-        "name": "Osier",
-        "hex": "#a26d20",
+        "name": "Ours Brun",
+        "hex": "#8b7267",
         "meta": {
-          "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Page Blanche",
+        "hex": "#f6f5ef",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -9087,6 +10774,13 @@
         "hex": "#ffe448",
         "meta": {
           "link": "https://fr.wiktionary.org/wiki/paille"
+        }
+      },
+      {
+        "name": "Pamplemousse",
+        "hex": "#fedd8d",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -9111,6 +10805,13 @@
         }
       },
       {
+        "name": "Parfait Café",
+        "hex": "#bea18e",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Parme",
         "hex": "#cfa0e9",
         "meta": {
@@ -9122,6 +10823,13 @@
         "hex": "#e3cbe3",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Pashmina Turquoise",
+        "hex": "#00939f",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -9160,6 +10868,13 @@
         }
       },
       {
+        "name": "Peche",
+        "hex": "#f8c496",
+        "meta": {
+          "link": "https://www.papeteries-montsegur.com/"
+        }
+      },
+      {
         "name": "Pelure d'Oignon",
         "hex": "#d58490",
         "meta": {
@@ -9195,6 +10910,34 @@
         }
       },
       {
+        "name": "Petit Matelot",
+        "hex": "#bfd1e4",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Pierre Meulière",
+        "hex": "#f2e7cc",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Pierre de Fiel",
+        "hex": "#e5b53f",
+        "meta": {
+          "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+        }
+      },
+      {
+        "name": "Pierre de Lave",
+        "hex": "#737372",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Piment",
         "hex": "#d21035",
         "meta": {
@@ -9216,10 +10959,59 @@
         }
       },
       {
+        "name": "Pivoine",
+        "hex": "#92353b",
+        "meta": {
+          "link": "https://www.papeteries-montsegur.com/"
+        }
+      },
+      {
+        "name": "Plaines d'Asie Clair",
+        "hex": "#d9c1a2",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Plaines d'Asie Intense",
+        "hex": "#d18f62",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Plaines d'Asie Moyen",
+        "hex": "#e3b383",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Plaines d'Asie Pastel",
+        "hex": "#e8d5bd",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Plaines d'Asie Pâle",
+        "hex": "#f7ebdc",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Platine",
         "hex": "#faf0c5",
         "meta": {
           "link": "https://fr.wiktionary.org/wiki/platine"
+        }
+      },
+      {
+        "name": "Platre Rose",
+        "hex": "#f0e4db",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -9244,10 +11036,24 @@
         }
       },
       {
+        "name": "Plume de Paon",
+        "hex": "#004c52",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Poil de Chameau",
         "hex": "#b67823",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Poil_de_chameau#Couleur"
+        }
+      },
+      {
+        "name": "Poivre",
+        "hex": "#4e5053",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -9293,10 +11099,38 @@
         }
       },
       {
+        "name": "Poudre de Riz",
+        "hex": "#d2d0d4",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Pourpre",
         "hex": "#9e0e40",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Pourpre"
+        }
+      },
+      {
+        "name": "Pourpre Hélios",
+        "hex": "#a3294d",
+        "meta": {
+          "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+        }
+      },
+      {
+        "name": "Pourpre de Venise",
+        "hex": "#834368",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Praline",
+        "hex": "#9c8a88",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -9325,6 +11159,20 @@
         "hex": "#4e1609",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Puce_(couleur)"
+        }
+      },
+      {
+        "name": "Pur Cachemire",
+        "hex": "#beb1ab",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Pénombre",
+        "hex": "#54414c",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -9370,6 +11218,20 @@
         }
       },
       {
+        "name": "Reflet de Perle",
+        "hex": "#e6eae4",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Reglisse",
+        "hex": "#67615d",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Renne Gris",
         "hex": "#6e655c",
         "meta": {
@@ -9381,6 +11243,20 @@
         "hex": "#ea9cc4",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Roc Blanc",
+        "hex": "#e2e5e6",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Romarin",
+        "hex": "#b1ac96",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -9559,10 +11435,45 @@
         }
       },
       {
+        "name": "Rose Nude",
+        "hex": "#e3dbdc",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Rose Organza",
+        "hex": "#dec7cb",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Rose Pale",
+        "hex": "#fdced6",
+        "meta": {
+          "link": "https://www.papeteries-montsegur.com/"
+        }
+      },
+      {
+        "name": "Rose Paradis",
+        "hex": "#f1dee6",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Rose Persan",
         "hex": "#f77fbe",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Rose_(couleur)"
+        }
+      },
+      {
+        "name": "Rose Pink",
+        "hex": "#d6b5b8",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -9636,6 +11547,13 @@
         }
       },
       {
+        "name": "Rose Vichy",
+        "hex": "#d185b7",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Rose Vif",
         "hex": "#f682a6",
         "meta": {
@@ -9678,6 +11596,20 @@
         }
       },
       {
+        "name": "Rouge Agricole",
+        "hex": "#a6272f",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Rouge Andalou",
+        "hex": "#c8403f",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Rouge Andrinople",
         "hex": "#a91101",
         "meta": {
@@ -9692,10 +11624,24 @@
         }
       },
       {
+        "name": "Rouge Basque",
+        "hex": "#6b2c31",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Rouge Bismarck",
         "hex": "#a5260a",
         "meta": {
           "link": "https://fr.wiktionary.org/wiki/rouge_Bismarck"
+        }
+      },
+      {
+        "name": "Rouge Boléro",
+        "hex": "#9c333c",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -9710,6 +11656,13 @@
         "hex": "#6c0e0e",
         "meta": {
           "link": "https://fr.wiktionary.org/w/index.php?title=rouge_bourgogne&action=edit&redlink=1"
+        }
+      },
+      {
+        "name": "Rouge Brique",
+        "hex": "#aa4d4c",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -9731,6 +11684,13 @@
         "hex": "#970119",
         "meta": {
           "link": "https://fr.wiktionary.org/w/index.php?title=rouge_carmin&action=edit&redlink=1"
+        }
+      },
+      {
+        "name": "Rouge Carrelage",
+        "hex": "#7e3c33",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -9762,6 +11722,13 @@
         }
       },
       {
+        "name": "Rouge Design",
+        "hex": "#c94140",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Rouge Ecarlate",
         "hex": "#e31d42",
         "meta": {
@@ -9780,6 +11747,13 @@
         "hex": "#bf2d2d",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Rouge Eternel",
+        "hex": "#d86165",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -9804,6 +11778,13 @@
         }
       },
       {
+        "name": "Rouge Glamour",
+        "hex": "#832930",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Rouge Grenadine",
         "hex": "#ea3940",
         "meta": {
@@ -9825,6 +11806,13 @@
         }
       },
       {
+        "name": "Rouge Industriel",
+        "hex": "#ad2b2a",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Rouge Japonais",
         "hex": "#bb051f",
         "meta": {
@@ -9843,6 +11831,20 @@
         "hex": "#913546",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Rouge Madras",
+        "hex": "#b0342f",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Rouge Piment",
+        "hex": "#902a2c",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -9951,6 +11953,20 @@
         }
       },
       {
+        "name": "Rouge de Venise",
+        "hex": "#6b3634",
+        "meta": {
+          "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+        }
+      },
+      {
+        "name": "Rouge à Lèvres",
+        "hex": "#d22e2e",
+        "meta": {
+          "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+        }
+      },
+      {
         "name": "Rouge-Baiser",
         "hex": "#a7132b",
         "meta": {
@@ -9993,10 +12009,45 @@
         }
       },
       {
+        "name": "Sable Clair",
+        "hex": "#e7d4b6",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Sable Gris",
+        "hex": "#c9bfb5",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Sable Naturel",
+        "hex": "#e1d5c6",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Sable Rose",
         "hex": "#f4bba9",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Sable de Mer",
+        "hex": "#d2cabf",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Sable du Désert",
+        "hex": "#e8d6c3",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -10046,6 +12097,13 @@
         "hex": "#018f8f",
         "meta": {
           "link": "https://fr.wiktionary.org/wiki/sarcelle"
+        }
+      },
+      {
+        "name": "Saule",
+        "hex": "#afb3a5",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -10105,10 +12163,38 @@
         }
       },
       {
+        "name": "Smoky",
+        "hex": "#4f5154",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Soie Grège",
+        "hex": "#dfdad5",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Soie Violette",
+        "hex": "#7f7685",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Soleil Couchant",
         "hex": "#ff7b4d",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Solferino",
+        "hex": "#692d6c",
+        "meta": {
+          "link": "https://www.papeteries-montsegur.com/"
         }
       },
       {
@@ -10133,6 +12219,20 @@
         }
       },
       {
+        "name": "Suédine Beige",
+        "hex": "#d8bcaa",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Syrah",
+        "hex": "#442239",
+        "meta": {
+          "link": "https://www.papeteries-montsegur.com/"
+        }
+      },
+      {
         "name": "Sépia",
         "hex": "#702c14",
         "meta": {
@@ -10144,6 +12244,13 @@
         "hex": "#9f551e",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Tabac_(couleur)"
+        }
+      },
+      {
+        "name": "Taffetas Cassis",
+        "hex": "#55424d",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -10175,10 +12282,24 @@
         }
       },
       {
+        "name": "Taupe Collector",
+        "hex": "#a09591",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Taupe Foncé",
         "hex": "#7d5d57",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Taupe Intense",
+        "hex": "#9f9899",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -10203,10 +12324,59 @@
         }
       },
       {
+        "name": "Tendrement Vert",
+        "hex": "#dbe4ca",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Terracotta",
         "hex": "#8c5230",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Terracotta_(couleur)"
+        }
+      },
+      {
+        "name": "Terrasses d'Orient Clair",
+        "hex": "#d6d5cb",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Terrasses d'Orient Intense",
+        "hex": "#b8b192",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Terrasses d'Orient Moyen",
+        "hex": "#cbc0a7",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Terrasses d'Orient Pâle",
+        "hex": "#efedde",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Terre Cendrée",
+        "hex": "#9e928d",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Terre Cuite",
+        "hex": "#b86c51",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -10221,6 +12391,20 @@
         "hex": "#a14b51",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Terre Sauvage",
+        "hex": "#b18d7a",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Terre d'Argile",
+        "hex": "#9e8f7f",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -10245,6 +12429,41 @@
         }
       },
       {
+        "name": "Terres d'Afrique Clair",
+        "hex": "#d9ccbc",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Terres d'Afrique Intense",
+        "hex": "#a28d83",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Terres d'Afrique Moyen",
+        "hex": "#c6b299",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Terres d'Afrique Pastel",
+        "hex": "#e7e1d9",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Terres d'Afrique Pâle",
+        "hex": "#efeee8",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Thym Vert",
         "hex": "#7bac94",
         "meta": {
@@ -10256,6 +12475,20 @@
         "hex": "#dbbe7f",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Titane",
+        "hex": "#6a7382",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Titanium",
+        "hex": "#9d9e9d",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -10273,10 +12506,38 @@
         }
       },
       {
+        "name": "Ton Bois",
+        "hex": "#6f3b33",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Ton Pierre",
+        "hex": "#e6d7bd",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Ton Pierre Naturelle",
+        "hex": "#e6d9c4",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Topaze",
         "hex": "#faea73",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Topaze_(couleur)"
+        }
+      },
+      {
+        "name": "Topaze Verte",
+        "hex": "#cfbf3b",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -10287,6 +12548,13 @@
         }
       },
       {
+        "name": "Truffe Gourmande",
+        "hex": "#71554e",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Tuile",
         "hex": "#bc5544",
         "meta": {
@@ -10294,10 +12562,31 @@
         }
       },
       {
+        "name": "Tulle Corail",
+        "hex": "#db8f6d",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Turquoise",
         "hex": "#26feea",
         "meta": {
           "link": "https://fr.wiktionary.org/wiki/turquoise"
+        }
+      },
+      {
+        "name": "Turquoise Intense",
+        "hex": "#136777",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Ultra Rose",
+        "hex": "#d97a99",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -10315,10 +12604,24 @@
         }
       },
       {
+        "name": "Vapeur",
+        "hex": "#d6dce0",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Vent de Sable Orangé",
         "hex": "#fad396",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Vent du Désert",
+        "hex": "#d7c6b4",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -10340,6 +12643,13 @@
         "hex": "#e34234",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Vermillon"
+        }
+      },
+      {
+        "name": "Verre Sénérité",
+        "hex": "#e1dac7",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -10427,6 +12737,13 @@
         }
       },
       {
+        "name": "Vert Basque",
+        "hex": "#194536",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Vert Bouteille",
         "hex": "#096a09",
         "meta": {
@@ -10459,6 +12776,13 @@
         "hex": "#405230",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Vert Buisson",
+        "hex": "#1f3e2a",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -10567,10 +12891,17 @@
         }
       },
       {
-        "name": "Vert Emeraude",
-        "hex": "#03d95a",
+        "name": "Vert Doux",
+        "hex": "#cdd4ce",
         "meta": {
-          "link": "https://fr.wikipedia.org/wiki/%C3%89meraude_(couleur)"
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Vert Emeraude",
+        "hex": "#31725c",
+        "meta": {
+          "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
         }
       },
       {
@@ -10630,6 +12961,20 @@
         }
       },
       {
+        "name": "Vert Fluorine",
+        "hex": "#d6e0a0",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Vert Forêt",
+        "hex": "#293a35",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Vert Forêt Noire",
         "hex": "#174923",
         "meta": {
@@ -10641,6 +12986,13 @@
         "hex": "#69885a",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Vert Frisson",
+        "hex": "#e0dd90",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -10749,6 +13101,13 @@
         }
       },
       {
+        "name": "Vert Marin",
+        "hex": "#2a493f",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Vert Menthe",
         "hex": "#17b94f",
         "meta": {
@@ -10830,6 +13189,27 @@
         "hex": "#97dfc6",
         "meta": {
           "link": "https://fr.wiktionary.org/w/index.php?title=vert_opaline&action=edit&redlink=1"
+        }
+      },
+      {
+        "name": "Vert Organdi",
+        "hex": "#d0c03c",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Vert Patrick 2017",
+        "hex": "#2a3b36",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Vert Pays Basque",
+        "hex": "#2b4a40",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -10917,6 +13297,20 @@
         }
       },
       {
+        "name": "Vert Profond",
+        "hex": "#4e7b7a",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Vert Provence",
+        "hex": "#8aa38b",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Vert Prés",
         "hex": "#58d63c",
         "meta": {
@@ -10966,6 +13360,13 @@
         }
       },
       {
+        "name": "Vert Saule",
+        "hex": "#c9d7c4",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Vert Scarabée",
         "hex": "#71935c",
         "meta": {
@@ -10981,7 +13382,7 @@
       },
       {
         "name": "Vert Smaragdin",
-        "hex": "#04da5b",
+        "hex": "#03d95a",
         "meta": {
           "link": "https://fr.wiktionary.org/w/index.php?title=vert_smaragdin&action=edit&redlink=1"
         }
@@ -11022,6 +13423,13 @@
         }
       },
       {
+        "name": "Vert Tropical",
+        "hex": "#57624d",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Vert Turquoise",
         "hex": "#1ffed8",
         "meta": {
@@ -11033,6 +13441,13 @@
         "hex": "#9ca482",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Vert Véranda",
+        "hex": "#3a5f42",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -11054,13 +13469,6 @@
         "hex": "#18391e",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Vert_oxyde_de_chrome"
-        }
-      },
-      {
-        "name": "Vert de Gris",
-        "hex": "#95a595",
-        "meta": {
-          "link": "https://fr.wiktionary.org/wiki/vert_de_gris"
         }
       },
       {
@@ -11093,7 +13501,7 @@
       },
       {
         "name": "Vert-de-gris",
-        "hex": "#96a696",
+        "hex": "#95a595",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Vert-de-gris"
         }
@@ -11148,10 +13556,38 @@
         }
       },
       {
+        "name": "Violet Minéral",
+        "hex": "#b8bcd4",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Violet Pastel",
         "hex": "#dbb3cb",
         "meta": {
           "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+        }
+      },
+      {
+        "name": "Violet Persistant",
+        "hex": "#b793c4",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Violet Pop",
+        "hex": "#605088",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Violet Poudré",
+        "hex": "#b4aaae",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -11204,10 +13640,66 @@
         }
       },
       {
+        "name": "Voile Blanc",
+        "hex": "#f0eedf",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Voile de Brume",
+        "hex": "#e1e7ea",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Wengé",
+        "hex": "#604f47",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Zen",
+        "hex": "#a19692",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Zeste Vert",
+        "hex": "#e9ead9",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Zeste d'Orange",
+        "hex": "#f3951b",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Zinc Bleu",
+        "hex": "#457697",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Zinzolin",
         "hex": "#6c0277",
         "meta": {
           "link": "https://fr.wikipedia.org/wiki/Zinzolin"
+        }
+      },
+      {
+        "name": "Zéphir d'Ivoire",
+        "hex": "#efe7d2",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       }
     ],
@@ -63721,7 +66213,7 @@
       "source": "https://github.com/meodai/noms-de-couleur",
       "key": "french",
       "license": "MIT",
-      "colorCount": 791
+      "colorCount": 1147
     },
     "x11": {
       "title": "X11 Color Names",
