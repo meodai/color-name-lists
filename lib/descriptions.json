@@ -98,6 +98,13 @@
         "key": "wikipedia",
         "license": "CC BY-SA 3.0, GFDL"
     },
+    "french": {
+        "title": "French Colors",
+        "description": "A list of French color names",
+        "source": "https://github.com/meodai/noms-de-couleur",
+        "key": "french",
+        "license": "MIT"
+    },
     "x11": {
         "title": "X11 Color Names",
         "description": "Standard Xlib or the X11 protocol color names.",

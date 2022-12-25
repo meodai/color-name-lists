@@ -5,6 +5,7 @@ const directoryPath = path.join(libPath, 'colors');
 const descriptions = require(libPath + '/descriptions.json');
 
 const wikipediaList = require('wikipedia-color-names/colors.min.json');
+const frenchList = require('recueil-de-couleur/colors.min.json');
 const ridgewayList = require('color-standards-and-color-nomenclature/dist/colornames.json');
 const risographColors = require('riso-colors');
 
@@ -52,6 +53,7 @@ function hyphensToCamelCase(str) {
 const lists = {};
 
 lists.wikipedia = wikipediaList;
+lists.french = frenchList;
 lists.ridgway = ridgewayList;
 lists.risograph = risographColors;
 
