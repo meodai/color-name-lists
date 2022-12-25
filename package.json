@@ -23,9 +23,9 @@
   "homepage": "https://github.com/meodai/color-name-lists#readme",
   "dependencies": {
     "color-standards-and-color-nomenclature": "^1.1.0",
-    "recueil-de-couleur": "^0.3.0",
     "riso-colors": "^1.0.1",
-    "wikipedia-color-names": "^1.8.1"
+    "wikipedia-color-names": "^1.8.1",
+    "recueil-de-couleur": "^0.5.0"
   },
   "devDependencies": {
     "path-browserify": "^1.0.1",
