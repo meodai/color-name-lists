@@ -1,7 +1,7 @@
 # Color-Name-Lists 📚
 
 [![github sponsor count](https://img.shields.io/github/sponsors/meodai)](https://github.com/sponsors/meodai)
-[![npm version](https://img.shields.io/npm/v/palette-aldente.svg)](https://www.npmjs.com/package/color-name-lists)
+[![npm version](https://img.shields.io/npm/v/color-name-lists.svg)](https://www.npmjs.com/package/color-name-lists)
 
 A collection of color name lists.
 
