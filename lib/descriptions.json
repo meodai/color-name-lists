@@ -105,6 +105,13 @@
         "key": "french",
         "license": "MIT"
     },
+    "spanish": {
+        "title": "Spanish Colors",
+        "description": "A list of Spanish color names",
+        "source": "https://github.com/meodai/nombres-de-colores",
+        "key": "spanish",
+        "license": "MIT"
+    },
     "x11": {
         "title": "X11 Color Names",
         "description": "Standard Xlib or the X11 protocol color names.",
