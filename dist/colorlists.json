@@ -22938,6 +22938,20 @@
         }
       },
       {
+        "name": "Aluminio Blanco",
+        "hex": "#a5a5a5",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Aluminio Gris",
+        "hex": "#8f8f8f",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Amaranto",
         "hex": "#e52b50",
         "meta": {
@@ -22952,10 +22966,31 @@
         }
       },
       {
+        "name": "Amarillo Arena",
+        "hex": "#c6a664",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Amarillo Azafrán",
+        "hex": "#f5d033",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Amarillo Azufre",
         "hex": "#edff21",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Amarillo#Ejemplos_de_amarillos_y_colores_próximos"
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Amarillo Brillante",
+        "hex": "#ffff00",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -22970,6 +23005,27 @@
         "hex": "#fada5e",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Amarillo#Ejemplos_de_amarillos_y_colores_próximos"
+        }
+      },
+      {
+        "name": "Amarillo Colza",
+        "hex": "#f3da0b",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Amarillo Curry",
+        "hex": "#9d9101",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Amarillo Dalia",
+        "hex": "#f3a505",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -22994,6 +23050,34 @@
         }
       },
       {
+        "name": "Amarillo Limón",
+        "hex": "#c7b446",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Amarillo Maiz",
+        "hex": "#e4a010",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Amarillo Melón",
+        "hex": "#f4a900",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Amarillo Miel",
+        "hex": "#a98307",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Amarillo Monoazo",
         "hex": "#ffeb00",
         "meta": {
@@ -23002,9 +23086,16 @@
       },
       {
         "name": "Amarillo Naranja",
-        "hex": "#fbba00",
+        "hex": "#ed760e",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Amarillo_naranja"
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Amarillo Narciso",
+        "hex": "#dc9d00",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -23015,10 +23106,45 @@
         }
       },
       {
+        "name": "Amarillo Ocre",
+        "hex": "#aea04b",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Amarillo Oliva",
+        "hex": "#999950",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Amarillo Oro",
+        "hex": "#cda434",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Amarillo Pastel",
+        "hex": "#efa94a",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Amarillo Patito",
         "hex": "#fad201",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Amarillo_tr%C3%A1fico"
+        }
+      },
+      {
+        "name": "Amarillo Retama",
+        "hex": "#d6ae01",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -23029,10 +23155,24 @@
         }
       },
       {
+        "name": "Amarillo Señales",
+        "hex": "#e5be01",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Amarillo Sol",
+        "hex": "#f39f18",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Amarillo Tráfico",
         "hex": "#fbd302",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Amarillo_tr%C3%A1fico"
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -23054,6 +23194,13 @@
         "hex": "#ffcc0f",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Amarillo_de_cromo"
+        }
+      },
+      {
+        "name": "Amarillo de Zinc",
+        "hex": "#f8f32b",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -23142,9 +23289,9 @@
       },
       {
         "name": "Azul Acero",
-        "hex": "#4682b4",
+        "hex": "#231a24",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Azul_acero"
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -23155,6 +23302,13 @@
         }
       },
       {
+        "name": "Azul Agua",
+        "hex": "#256d7b",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Azul Alicia",
         "hex": "#91a3b0",
         "meta": {
@@ -23162,10 +23316,38 @@
         }
       },
       {
+        "name": "Azul Azur",
+        "hex": "#025669",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Azul Bebé o Azul Celeste",
         "hex": "#89cff0",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Celeste_(color)#Variedades_de_celeste"
+        }
+      },
+      {
+        "name": "Azul Brillante",
+        "hex": "#3e5f8a",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Azul Capri",
+        "hex": "#1b5583",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Azul Celeste",
+        "hex": "#2271b3",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -23184,9 +23366,9 @@
       },
       {
         "name": "Azul Cobalto",
-        "hex": "#3f448c",
+        "hex": "#1e213d",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Azul_cobalto"
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -23225,10 +23407,24 @@
         }
       },
       {
+        "name": "Azul Genciana",
+        "hex": "#0e294b",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Azul Glauco",
         "hex": "#007e8b",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Turquesa_(color)#Turquesa_pictórico"
+        }
+      },
+      {
+        "name": "Azul Grisáceo",
+        "hex": "#26252d",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -23253,10 +23449,24 @@
         }
       },
       {
+        "name": "Azul Lejanía",
+        "hex": "#49678d",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Azul Lino o Azulino",
         "hex": "#6c79b8",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/B%C3%ADgaro_(color)#Coloraciones_similares"
+        }
+      },
+      {
+        "name": "Azul Luminoso",
+        "hex": "#3b83bd",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -23295,6 +23505,48 @@
         }
       },
       {
+        "name": "Azul Negruzco",
+        "hex": "#18171c",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Azul Noche",
+        "hex": "#252850",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Azul Noche Perlado",
+        "hex": "#102c54",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Azul Oceano",
+        "hex": "#1d334a",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Azul Olombino",
+        "hex": "#606e8c",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Azul Pastel",
+        "hex": "#5d9b9b",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Azul Persa",
         "hex": "#1c39bb",
         "meta": {
@@ -23316,6 +23568,13 @@
         }
       },
       {
+        "name": "Azul Señales",
+        "hex": "#1e2460",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Azul Tiffany",
         "hex": "#81d8d0",
         "meta": {
@@ -23323,17 +23582,24 @@
         }
       },
       {
-        "name": "Azul Turquesa",
-        "hex": "#55b4b0",
+        "name": "Azul Tráfico",
+        "hex": "#063971",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Turquesa_(color)#Ejemplos_de_coloraciones_turquesas"
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Azul Turquesa",
+        "hex": "#3f888f",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
         "name": "Azul Ultramar",
-        "hex": "#4273b8",
+        "hex": "#20214f",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Azul_ultramar"
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -23344,10 +23610,24 @@
         }
       },
       {
-        "name": "Azul Violeta",
-        "hex": "#8a2be2",
+        "name": "Azul Verdoso",
+        "hex": "#1f3438",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Violeta_(color)#Colores_web_violetas_y_violáceos"
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Azul Violeta",
+        "hex": "#354d73",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Azul Zafiro",
+        "hex": "#1d1e33",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -23390,6 +23670,41 @@
         "hex": "#e66761",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Coral_(color)#Otras_muestras_coralinas"
+        }
+      },
+      {
+        "name": "Beige",
+        "hex": "#c2b078",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Beige Agrisado",
+        "hex": "#9e9764",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Beige Pardo",
+        "hex": "#8a6642",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Beige Perlado",
+        "hex": "#6a5d4d",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Beige Verdoso",
+        "hex": "#bebd7f",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -23442,6 +23757,20 @@
         }
       },
       {
+        "name": "Blanco Crema",
+        "hex": "#fdf4e3",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Blanco Grisáceo",
+        "hex": "#e7ebda",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Blanco Humo",
         "hex": "#b4bcc0",
         "meta": {
@@ -23456,7 +23785,42 @@
         }
       },
       {
-        "name": "Blanco de Zinc Cinc",
+        "name": "Blanco Papiro",
+        "hex": "#d7d7d7",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Blanco Perla",
+        "hex": "#eae6ca",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Blanco Puro",
+        "hex": "#fefefe",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Blanco Señales",
+        "hex": "#f4f4f4",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Blanco Tráfico",
+        "hex": "#f6f6f6",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Blanco de Zinc/cinc",
         "hex": "#fafbfd",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Blanco_de_cinc"
@@ -23488,6 +23852,13 @@
         "hex": "#d2b48c",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Bronceado_(color)"
+        }
+      },
+      {
+        "name": "Burdeos",
+        "hex": "#641c34",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -23548,9 +23919,9 @@
       },
       {
         "name": "Caoba",
-        "hex": "#c04000",
+        "hex": "#4c2f27",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Caoba_(color)"
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -23638,6 +24009,13 @@
         }
       },
       {
+        "name": "Castaño",
+        "hex": "#633a34",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Celeste",
         "hex": "#0cb7f2",
         "meta": {
@@ -23695,9 +24073,16 @@
       },
       {
         "name": "Chocolate",
-        "hex": "#7b3f00",
+        "hex": "#45322e",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Marr%C3%B3n#Chocolate"
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Chocolate Magico",
+        "hex": "#4a2c2a",
+        "meta": {
+          "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
         }
       },
       {
@@ -23719,6 +24104,13 @@
         "hex": "#78184a",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/P%C3%BArpura#Muestras"
+        }
+      },
+      {
+        "name": "Cobre Perlado",
+        "hex": "#763c28",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -23876,6 +24268,13 @@
         }
       },
       {
+        "name": "Gencian Perlado",
+        "hex": "#2a6478",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Geranio",
         "hex": "#e52d33",
         "meta": {
@@ -23925,10 +24324,45 @@
         }
       },
       {
-        "name": "Gris Antracita",
-        "hex": "#393f43",
+        "name": "Gris Amarillento",
+        "hex": "#8f8b66",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Gris#Muestras_grises"
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Antracita",
+        "hex": "#293133",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Ardilla",
+        "hex": "#78858b",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Azulado",
+        "hex": "#474b4e",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Basalto",
+        "hex": "#4e5754",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Beige",
+        "hex": "#6d6552",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -23939,6 +24373,20 @@
         }
       },
       {
+        "name": "Gris Caqui",
+        "hex": "#6a5f31",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Cemento",
+        "hex": "#7d8471",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Gris Ceniza",
         "hex": "#cecece",
         "meta": {
@@ -23946,10 +24394,227 @@
         }
       },
       {
+        "name": "Gris Claro Perlado",
+        "hex": "#9c9c9c",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Cuarzo",
+        "hex": "#6c6960",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Gris Frío",
         "hex": "#496063",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Gris_fr%C3%ADo"
+        }
+      },
+      {
+        "name": "Gris Grafita",
+        "hex": "#474a51",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Granito",
+        "hex": "#2f353b",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Guijarro",
+        "hex": "#b8b799",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Hierro",
+        "hex": "#434b4d",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Hormigón",
+        "hex": "#686c5e",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Lona",
+        "hex": "#4c514a",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Luminoso",
+        "hex": "#d8d8d8",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Musgo",
+        "hex": "#6c7059",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Musgo Perlado",
+        "hex": "#898176",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Negruzco",
+        "hex": "#23282b",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Oliva",
+        "hex": "#7e7b52",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Oscuro Perlado",
+        "hex": "#828282",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Parduzco",
+        "hex": "#464531",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Piedra",
+        "hex": "#8b8c7a",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Pizarra",
+        "hex": "#434750",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Plata",
+        "hex": "#8a9597",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Platino",
+        "hex": "#7f7679",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Polvo",
+        "hex": "#7d7f7d",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Ratón",
+        "hex": "#646b63",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Seda",
+        "hex": "#cac4b0",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Señales",
+        "hex": "#969992",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Sombra",
+        "hex": "#332f2c",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Tele 1",
+        "hex": "#909090",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Tele 2",
+        "hex": "#82898f",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Tele 4",
+        "hex": "#d0d0d0",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Tráfico B",
+        "hex": "#4e5452",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Tráfico a",
+        "hex": "#8d948d",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Ventana",
+        "hex": "#9da1aa",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Gris Verdoso",
+        "hex": "#4d5645",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -23964,6 +24629,13 @@
         "hex": "#536878",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Gris_de_Payne"
+        }
+      },
+      {
+        "name": "Gris Ágata",
+        "hex": "#b5b8b1",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24065,8 +24737,15 @@
         }
       },
       {
+        "name": "Ladrillo Oscuro",
+        "hex": "#443229",
+        "meta": {
+          "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+        }
+      },
+      {
         "name": "Lapislázuli",
-        "hex": "#4374b9",
+        "hex": "#4273b8",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Lapisl%C3%A1zuli"
         }
@@ -24111,6 +24790,13 @@
         "hex": "#c8a2c8",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Lila_(color)"
+        }
+      },
+      {
+        "name": "Lila Azulado",
+        "hex": "#6c4675",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24177,6 +24863,13 @@
         }
       },
       {
+        "name": "Magenta Tele",
+        "hex": "#cf3476",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Malaquita",
         "hex": "#0bda51",
         "meta": {
@@ -24206,9 +24899,16 @@
       },
       {
         "name": "Marfil",
-        "hex": "#f4e6ac",
+        "hex": "#e1cc4f",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Crema_(color)#Coloraciones_similares"
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Marfil Claro",
+        "hex": "#e6d690",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24230,6 +24930,20 @@
         "hex": "#996515",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Marr%C3%B3n#Otros_ejemplos_y_tipos_de_marrón"
+        }
+      },
+      {
+        "name": "Marrón Señales",
+        "hex": "#6c3b2a",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Marrón Tierra",
+        "hex": "#4e3b31",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24282,6 +24996,13 @@
         }
       },
       {
+        "name": "Morado Perlado",
+        "hex": "#6c6874",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Mostaza",
         "hex": "#ffdb58",
         "meta": {
@@ -24303,6 +25024,13 @@
         }
       },
       {
+        "name": "Naranja Brillante",
+        "hex": "#ff2301",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Naranja Cadmio",
         "hex": "#ee882e",
         "meta": {
@@ -24317,10 +25045,73 @@
         }
       },
       {
+        "name": "Naranja Claro Brillante",
+        "hex": "#ffa420",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Naranja Intenso",
+        "hex": "#ec7c26",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Naranja Perlado",
+        "hex": "#c35831",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Naranja Persa",
         "hex": "#d99058",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Naranja_persa"
+        }
+      },
+      {
+        "name": "Naranja Puro",
+        "hex": "#f44611",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Naranja Pálido",
+        "hex": "#ff7514",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Naranja Salmón",
+        "hex": "#e55137",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Naranja Sanguineo",
+        "hex": "#cb2821",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Naranja Señales",
+        "hex": "#d84b20",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Naranja Tráfico",
+        "hex": "#f54021",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24342,6 +25133,34 @@
         "hex": "#2a3223",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Negro_de_humo#Negro_bujía"
+        }
+      },
+      {
+        "name": "Negro Grafito",
+        "hex": "#1d1d1d",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Negro Intenso",
+        "hex": "#0a0a0a",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Negro Señales",
+        "hex": "#282828",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Negro Tráfico",
+        "hex": "#1e1e1e",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24415,10 +25234,38 @@
         }
       },
       {
+        "name": "Oliva Grisáceo",
+        "hex": "#3e3b32",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Oliva Negruzco",
+        "hex": "#3b3c36",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Oliva Parduzco",
+        "hex": "#25221b",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Oro",
         "hex": "#ffd700",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Oro_(color)"
+        }
+      },
+      {
+        "name": "Oro Perlado",
+        "hex": "#705335",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24454,6 +25301,97 @@
         "hex": "#ac8147",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Marr%C3%B3n#Pardo"
+        }
+      },
+      {
+        "name": "Pardo Anaranjado",
+        "hex": "#a65e2e",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Pardo Arcilla",
+        "hex": "#734222",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Pardo Beige",
+        "hex": "#79553d",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Pardo Cobre",
+        "hex": "#8e402a",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Pardo Corzo",
+        "hex": "#59351f",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Pardo Grisáceo",
+        "hex": "#403a3a",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Pardo Negruzco",
+        "hex": "#212121",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Pardo Nuez",
+        "hex": "#5b3a29",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Pardo Ocre",
+        "hex": "#955f20",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Pardo Oliva",
+        "hex": "#6f4f28",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Pardo Pálido",
+        "hex": "#755c48",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Pardo Rojo",
+        "hex": "#592321",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Pardo Verdoso",
+        "hex": "#826c34",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24576,6 +25514,13 @@
         }
       },
       {
+        "name": "Púrpurá Tráfico",
+        "hex": "#a03472",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Quercitrón",
         "hex": "#e5b03d",
         "meta": {
@@ -24598,16 +25543,51 @@
       },
       {
         "name": "Rojo Anaranjado",
-        "hex": "#ea4613",
+        "hex": "#c93c20",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Rojo_anaranjado"
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Rojo Beige",
+        "hex": "#c1876b",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Rojo Brillante",
+        "hex": "#f80000",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Rojo Carmin",
+        "hex": "#a2231d",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Rojo Claro Anaranjado",
+        "hex": "#f75e25",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Rojo Claro Brillante",
+        "hex": "#fe0000",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
         "name": "Rojo Coral",
-        "hex": "#ea453f",
+        "hex": "#b32821",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Coral_(color)"
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24625,6 +25605,20 @@
         }
       },
       {
+        "name": "Rojo Frambuesa",
+        "hex": "#c51d34",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Rojo Fresa",
+        "hex": "#d53032",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Rojo Fucsia",
         "hex": "#ff005a",
         "meta": {
@@ -24639,6 +25633,13 @@
         }
       },
       {
+        "name": "Rojo Lila",
+        "hex": "#6d3f5b",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Rojo Magenta",
         "hex": "#e5097f",
         "meta": {
@@ -24646,10 +25647,31 @@
         }
       },
       {
+        "name": "Rojo Negruzco",
+        "hex": "#412227",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Rojo Neón",
         "hex": "#fe575f",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Rojo#Ejemplos_de_coloraciones_rojas"
+        }
+      },
+      {
+        "name": "Rojo Oriente",
+        "hex": "#b32428",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Rojo Pardo",
+        "hex": "#781f19",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24667,10 +25689,45 @@
         }
       },
       {
+        "name": "Rojo Puro",
+        "hex": "#cb3234",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Rojo Purpura",
+        "hex": "#75151e",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Rojo Púrpura",
         "hex": "#b21154",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Rojo_p%C3%BArpura"
+        }
+      },
+      {
+        "name": "Rojo Rubí",
+        "hex": "#9b111e",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Rojo Rubí Perlado",
+        "hex": "#721422",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Rojo Salmón",
+        "hex": "#d95030",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24681,10 +25738,31 @@
         }
       },
       {
+        "name": "Rojo Señales",
+        "hex": "#a52019",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Rojo Tomate",
+        "hex": "#a12312",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Rojo Toscano",
         "hex": "#79443b",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Rojo_toscano"
+        }
+      },
+      {
+        "name": "Rojo Tráfico",
+        "hex": "#cc0605",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24702,17 +25780,52 @@
         }
       },
       {
-        "name": "Rojo Violeta",
-        "hex": "#c71585",
+        "name": "Rojo Viejo",
+        "hex": "#d36e70",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Rojo_p%C3%BArpura#Colores_web"
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Rojo Vino",
+        "hex": "#5e2129",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Rojo Violeta",
+        "hex": "#922b3e",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Rojo Vivo",
+        "hex": "#af2b1e",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
         "name": "Rojo Óxido",
-        "hex": "#aa5b56",
+        "hex": "#642424",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Rojo_indio#Rojo_indio_y_otros_pigmentos_basados_en_el_óxido_de_fierro"
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Rosa",
+        "hex": "#e63244",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Rosa Claro",
+        "hex": "#ea899a",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24755,6 +25868,13 @@
         "hex": "#ff9966",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Rosa_naranja"
+        }
+      },
+      {
+        "name": "Rosa Perlado",
+        "hex": "#b44c43",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24822,9 +25942,9 @@
       },
       {
         "name": "Sepia",
-        "hex": "#663b2a",
+        "hex": "#382c1e",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Sepia_(color)"
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24891,6 +26011,20 @@
         }
       },
       {
+        "name": "Turquesa Menta",
+        "hex": "#497e76",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Turquesa Pastel",
+        "hex": "#7fb5b5",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Turquí",
         "hex": "#122562",
         "meta": {
@@ -24906,7 +26040,7 @@
       },
       {
         "name": "Vainilla",
-        "hex": "#f5e7ad",
+        "hex": "#f4e6ac",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Crema_(color)#Coloraciones_similares"
         }
@@ -24919,10 +26053,24 @@
         }
       },
       {
+        "name": "Verde Abeto",
+        "hex": "#31372b",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Verde Agua",
         "hex": "#87e79e",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Verde#Otros_verdes_azulados"
+        }
+      },
+      {
+        "name": "Verde Amarillento",
+        "hex": "#57a639",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24934,9 +26082,9 @@
       },
       {
         "name": "Verde Azulado",
-        "hex": "#009a79",
+        "hex": "#1f3a3d",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Azul_verde#Comparación_con_colores_próximos"
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24948,9 +26096,16 @@
       },
       {
         "name": "Verde Botella",
-        "hex": "#1b4d3e",
+        "hex": "#343b29",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Verde#Otros_verdes_azulados"
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Verde Brillante",
+        "hex": "#00bb2d",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24958,6 +26113,13 @@
         "hex": "#004225",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/British_racing_green"
+        }
+      },
+      {
+        "name": "Verde Caña",
+        "hex": "#6c7156",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24982,10 +26144,17 @@
         }
       },
       {
-        "name": "Verde Esmeralda",
-        "hex": "#019a76",
+        "name": "Verde Cromo",
+        "hex": "#2e3a23",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Verde_esmeralda"
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Verde Esmeralda",
+        "hex": "#287233",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -24996,10 +26165,38 @@
         }
       },
       {
+        "name": "Verde Helecho",
+        "hex": "#3d642d",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Verde Hierba",
+        "hex": "#35682d",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Verde Hoja",
+        "hex": "#2d572c",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Verde Hooker",
         "hex": "#44944a",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Verde_Hooker"
+        }
+      },
+      {
+        "name": "Verde Lanquecino",
+        "hex": "#bdecb6",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -25017,6 +26214,13 @@
         }
       },
       {
+        "name": "Verde Luminoso",
+        "hex": "#84c3be",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Verde Manzana",
         "hex": "#8db600",
         "meta": {
@@ -25031,10 +26235,17 @@
         }
       },
       {
-        "name": "Verde Menta",
-        "hex": "#9bfad0",
+        "name": "Verde Mayo",
+        "hex": "#4c9141",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Verde_menta"
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Verde Menta",
+        "hex": "#20603d",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -25045,10 +26256,31 @@
         }
       },
       {
-        "name": "Verde Oliva",
-        "hex": "#9b933b",
+        "name": "Verde Musgo",
+        "hex": "#2f4538",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Verde_oliva#Ejemplos_y_colores_relacionados"
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Verde Negruzco",
+        "hex": "#343e40",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Verde Oliva",
+        "hex": "#424632",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Verde Opalo",
+        "hex": "#015d52",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -25059,10 +26291,38 @@
         }
       },
       {
+        "name": "Verde Parduzco",
+        "hex": "#39352a",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Verde Patina",
+        "hex": "#316650",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Verde Perlado",
+        "hex": "#1c542d",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Verde Petróleo",
         "hex": "#173f35",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Verde#Otros_verdes_azulados"
+        }
+      },
+      {
+        "name": "Verde Pino",
+        "hex": "#2c5545",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -25073,10 +26333,45 @@
         }
       },
       {
-        "name": "Verde Turquesa",
-        "hex": "#49b675",
+        "name": "Verde Puro",
+        "hex": "#008f39",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Turquesa_(color)#Ejemplos_de_coloraciones_turquesas"
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Verde Pálido",
+        "hex": "#89ac76",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Verde Reseda",
+        "hex": "#587246",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Verde Señales",
+        "hex": "#317f43",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Verde Tráfico",
+        "hex": "#308446",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Verde Turquesa",
+        "hex": "#1e5945",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -25091,6 +26386,13 @@
         "hex": "#009966",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Verde_de_Par%C3%ADs"
+        }
+      },
+      {
+        "name": "Verde Ópalo Perlado",
+        "hex": "#193737",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
         }
       },
       {
@@ -25115,6 +26417,41 @@
         }
       },
       {
+        "name": "Violeta Pastel",
+        "hex": "#a18594",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Violeta Perlado",
+        "hex": "#8673a1",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Violeta Púrpura",
+        "hex": "#4a192c",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Violeta Señales",
+        "hex": "#924e7d",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Violeta Érica",
+        "hex": "#de4c8a",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Violín",
         "hex": "#a10684",
         "meta": {
@@ -25122,7 +26459,7 @@
         }
       },
       {
-        "name": "Viridián Veridian",
+        "name": "Viridián/veridian",
         "hex": "#007f5c",
         "meta": {
           "link": "https://es.wikipedia.org/w/index.php?title=Viridi%C3%A1n/Veridian&action=edit&redlink=1"
@@ -77703,7 +79040,7 @@
       "source": "https://github.com/meodai/nombres-de-colores",
       "key": "spanish",
       "license": "MIT",
-      "colorCount": 329
+      "colorCount": 520
     },
     "x11": {
       "title": "X11 Color Names",
