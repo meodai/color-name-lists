@@ -26522,6 +26522,2230 @@
         }
       }
     ],
+    "german": [
+      {
+        "name": "Achatgrau",
+        "hex": "#b5b8b1",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Aliceblau",
+        "hex": "#a0ce00"
+      },
+      {
+        "name": "Altgold",
+        "hex": "#fdf5e6"
+      },
+      {
+        "name": "Altrosa",
+        "hex": "#d36e70",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Anthrazitgrau",
+        "hex": "#293133",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Antikes Weiß",
+        "hex": "#faebd7"
+      },
+      {
+        "name": "Aquamarinblau",
+        "hex": "#7fffd4"
+      },
+      {
+        "name": "Azurblau",
+        "hex": "#025669",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Babyrosa",
+        "hex": "#ebbce3",
+        "meta": {
+          "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
+        }
+      },
+      {
+        "name": "Basaltgrau",
+        "hex": "#4e5754",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Beige",
+        "hex": "#c2b078",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Beigebraun",
+        "hex": "#79553d",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Beigegrau",
+        "hex": "#6d6552",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Beigerot",
+        "hex": "#c1876b",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Betongrau",
+        "hex": "#686c5e",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Blassbraun",
+        "hex": "#755c48",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Blasse Goldrutenfarbe",
+        "hex": "#eee8aa"
+      },
+      {
+        "name": "Blasses Türkis",
+        "hex": "#afeeee"
+      },
+      {
+        "name": "Blasses Violettrot",
+        "hex": "#db7093"
+      },
+      {
+        "name": "Blassgrün",
+        "hex": "#89ac76",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Blattgrün",
+        "hex": "#00524e",
+        "meta": {
+          "link": "https://de.wikipedia.org/wiki/Liste_der_Farben_im_Farbkreis"
+        }
+      },
+      {
+        "name": "Blau",
+        "hex": "#0000ff"
+      },
+      {
+        "name": "Blaugrau",
+        "hex": "#474b4e",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Blaugrün",
+        "hex": "#1f3a3d",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Blaulila",
+        "hex": "#6c4675",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Blauviolett",
+        "hex": "#8a2be2",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Blauviolett"
+        }
+      },
+      {
+        "name": "Blutorange",
+        "hex": "#cb2821",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Blütenweiß",
+        "hex": "#fffaf0"
+      },
+      {
+        "name": "Bordeauxviolett",
+        "hex": "#641c34",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Braun",
+        "hex": "#a52a2a"
+      },
+      {
+        "name": "Braunbeige",
+        "hex": "#8a6642",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Braungrau",
+        "hex": "#464531",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Braungrün",
+        "hex": "#39352a",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Braunoliv",
+        "hex": "#25221b",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Braunrot",
+        "hex": "#781f19",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Bremerblau",
+        "hex": "#005a99",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Bremer_Gr%C3%BCn"
+        }
+      },
+      {
+        "name": "Brillantblau",
+        "hex": "#3e5f8a",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Cadmiumgelb",
+        "hex": "#fff600",
+        "meta": {
+          "link": "https://en.wikipedia.org/wiki/Citrine_(colour)"
+        }
+      },
+      {
+        "name": "Capriblau",
+        "hex": "#1b5583",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Chiffongelb",
+        "hex": "#fffacd"
+      },
+      {
+        "name": "Chromoxidgrün",
+        "hex": "#2e3a23",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Coelinblau",
+        "hex": "#0091c6",
+        "meta": {
+          "link": "https://de.wikipedia.org/wiki/Liste_der_Farben_im_Farbkreis"
+        }
+      },
+      {
+        "name": "Cremeweiß",
+        "hex": "#fdf4e3",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Cremig Pfefferminz",
+        "hex": "#f5fffa"
+      },
+      {
+        "name": "Cremiges Papaya",
+        "hex": "#ffefd5"
+      },
+      {
+        "name": "Currygelb",
+        "hex": "#9d9101",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Cyanblau",
+        "hex": "#007eff",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Cyan"
+        }
+      },
+      {
+        "name": "Dahliengelb",
+        "hex": "#f3a505",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Distel",
+        "hex": "#d8bfd8"
+      },
+      {
+        "name": "Dodger-Blau",
+        "hex": "#1e90ff"
+      },
+      {
+        "name": "Dunkelblau",
+        "hex": "#00008b"
+      },
+      {
+        "name": "Dunkelgrau",
+        "hex": "#a9a9a9"
+      },
+      {
+        "name": "Dunkelgrün",
+        "hex": "#006400"
+      },
+      {
+        "name": "Dunkelrot",
+        "hex": "#8b0000"
+      },
+      {
+        "name": "Dunkle Goldrutenfarbe",
+        "hex": "#b8860b"
+      },
+      {
+        "name": "Dunkle Lachsfarbe",
+        "hex": "#e9967a"
+      },
+      {
+        "name": "Dunkle Orchideenfarbe",
+        "hex": "#9932cc"
+      },
+      {
+        "name": "Dunkles Khaki",
+        "hex": "#bdb76b"
+      },
+      {
+        "name": "Dunkles Magentarot",
+        "hex": "#8b008b"
+      },
+      {
+        "name": "Dunkles Olivgrün",
+        "hex": "#556b2f"
+      },
+      {
+        "name": "Dunkles Orange",
+        "hex": "#ff8c00"
+      },
+      {
+        "name": "Dunkles Schieferblau",
+        "hex": "#483d8b"
+      },
+      {
+        "name": "Dunkles Schiefergrau",
+        "hex": "#8fbc8f"
+      },
+      {
+        "name": "Dunkles Seegrün",
+        "hex": "#90bd90"
+      },
+      {
+        "name": "Dunkles Türkis",
+        "hex": "#00ced1"
+      },
+      {
+        "name": "Dunkles Violett",
+        "hex": "#9400d3"
+      },
+      {
+        "name": "Dunkles Zyanblau",
+        "hex": "#008b8b"
+      },
+      {
+        "name": "Eisengrau",
+        "hex": "#434b4d",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Elfenbein",
+        "hex": "#e1cc4f",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Entenbraun",
+        "hex": "#008080"
+      },
+      {
+        "name": "Enzianblau",
+        "hex": "#0e294b",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Erdbeerrot",
+        "hex": "#d53032",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Erikaviolett",
+        "hex": "#de4c8a",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Farngrün",
+        "hex": "#3d642d",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Fehgrau",
+        "hex": "#78858b",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Fenstergrau",
+        "hex": "#9da1aa",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Fernblau",
+        "hex": "#49678d",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Feuerrot",
+        "hex": "#af2b1e",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Flaschengrün",
+        "hex": "#343b29",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Friedhofsblond",
+        "hex": "#e0e0e0",
+        "meta": {
+          "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
+        }
+      },
+      {
+        "name": "Frühlingsgrün",
+        "hex": "#00ff7f"
+      },
+      {
+        "name": "Fuchsie",
+        "hex": "#ff00ff"
+      },
+      {
+        "name": "Gainsboro",
+        "hex": "#dcdcdc"
+      },
+      {
+        "name": "Geisterweiß",
+        "hex": "#f8f8ff"
+      },
+      {
+        "name": "Gelb",
+        "hex": "#ffff00"
+      },
+      {
+        "name": "Gelbbraun",
+        "hex": "#d2b48c"
+      },
+      {
+        "name": "Gelbgrau",
+        "hex": "#8f8b66",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Gelbgrün",
+        "hex": "#57a639",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Gelboliv",
+        "hex": "#47402e",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Gelborange",
+        "hex": "#ed760e",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Giftgrün",
+        "hex": "#94fb4d",
+        "meta": {
+          "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
+        }
+      },
+      {
+        "name": "Ginstergelb",
+        "hex": "#d6ae01",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Glutorange",
+        "hex": "#ec612b",
+        "meta": {
+          "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
+        }
+      },
+      {
+        "name": "Gold",
+        "hex": "#ffd700"
+      },
+      {
+        "name": "Goldgelb",
+        "hex": "#cda434",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Goldrute",
+        "hex": "#daa520"
+      },
+      {
+        "name": "Granitgrau",
+        "hex": "#2f353b",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Graphitgrau",
+        "hex": "#474a51",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Graphitschwarz",
+        "hex": "#1c1c1c",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Grasgrün",
+        "hex": "#35682d",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Grau",
+        "hex": "#808080"
+      },
+      {
+        "name": "Graualuminium",
+        "hex": "#8f8f8f",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Graubeige",
+        "hex": "#9e9764",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Graublau",
+        "hex": "#26252d",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Graubraun",
+        "hex": "#403a3a",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Grauoliv",
+        "hex": "#3e3b32",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Grauweiß",
+        "hex": "#e7ebda",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Grobes Braun",
+        "hex": "#deb887"
+      },
+      {
+        "name": "Grün",
+        "hex": "#008000"
+      },
+      {
+        "name": "Grünbeige",
+        "hex": "#bebd7f",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Grünblau",
+        "hex": "#1f3438",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Grünbraun",
+        "hex": "#826c34",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Grüngelb",
+        "hex": "#adff2f"
+      },
+      {
+        "name": "Grüngrau",
+        "hex": "#4d5645",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Hellblau",
+        "hex": "#add8e6"
+      },
+      {
+        "name": "Helle Lachsfarbe",
+        "hex": "#ffa07a"
+      },
+      {
+        "name": "Hellelfenbein",
+        "hex": "#e6d690",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Helles Cyanblau",
+        "hex": "#e0ffff"
+      },
+      {
+        "name": "Helles Goldrutengelb",
+        "hex": "#fafad2"
+      },
+      {
+        "name": "Helles Himmelblau",
+        "hex": "#87cefa"
+      },
+      {
+        "name": "Helles Korallenrot",
+        "hex": "#f08080"
+      },
+      {
+        "name": "Helles Schiefergrau",
+        "hex": "#778899"
+      },
+      {
+        "name": "Helles Seegrün",
+        "hex": "#20b2aa"
+      },
+      {
+        "name": "Helles Stahlblau",
+        "hex": "#b0c4de"
+      },
+      {
+        "name": "Hellgelb",
+        "hex": "#ffffe0"
+      },
+      {
+        "name": "Hellgrau",
+        "hex": "#d3d3d3"
+      },
+      {
+        "name": "Hellgrün",
+        "hex": "#90ee90"
+      },
+      {
+        "name": "Hellrosa",
+        "hex": "#ea899a",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Hellrotorange",
+        "hex": "#f75e25",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Himbeerrot",
+        "hex": "#c51d34",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Himmelblau",
+        "hex": "#2271b3",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Honiggelb",
+        "hex": "#a98307",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Honigmelone",
+        "hex": "#f0fff0"
+      },
+      {
+        "name": "Indigo",
+        "hex": "#4b0082",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Indigo_(Farbe)"
+        }
+      },
+      {
+        "name": "Indischgelb",
+        "hex": "#deb943",
+        "meta": {
+          "link": "https://de.wikipedia.org/wiki/Liste_der_Farben_im_Farbkreis"
+        }
+      },
+      {
+        "name": "Indischrot",
+        "hex": "#cd5c5c"
+      },
+      {
+        "name": "Kadettblau",
+        "hex": "#5f9ea0"
+      },
+      {
+        "name": "Karmesinrot",
+        "hex": "#dc143c"
+      },
+      {
+        "name": "Karminrot",
+        "hex": "#a2231d",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Kastanienbraun",
+        "hex": "#633a34",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Khaki",
+        "hex": "#f0e68c"
+      },
+      {
+        "name": "Khakigrau",
+        "hex": "#6a5f31",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Kieferngrün",
+        "hex": "#2c5545",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Kieselgrau",
+        "hex": "#b8b799",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Knallrot",
+        "hex": "#e43426",
+        "meta": {
+          "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
+        }
+      },
+      {
+        "name": "Knatschgelb",
+        "hex": "#fbea4e",
+        "meta": {
+          "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
+        }
+      },
+      {
+        "name": "Kobaltblau",
+        "hex": "#1e213d",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Kohlrabenschwarz",
+        "hex": "#1c1b1b",
+        "meta": {
+          "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
+        }
+      },
+      {
+        "name": "Koralle",
+        "hex": "#ff7f50"
+      },
+      {
+        "name": "Korallenrot",
+        "hex": "#b32821",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Kornblumenblau",
+        "hex": "#7069d8",
+        "meta": {
+          "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
+        }
+      },
+      {
+        "name": "Krapplack",
+        "hex": "#6f011e",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Krapplack"
+        }
+      },
+      {
+        "name": "Kupferbraun",
+        "hex": "#8e402a",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Königsblau",
+        "hex": "#4169e1"
+      },
+      {
+        "name": "Lachs",
+        "hex": "#fa8072"
+      },
+      {
+        "name": "Lachsorange",
+        "hex": "#e55137",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Lachsrot",
+        "hex": "#d95030",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Laubgrün",
+        "hex": "#2d572c",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Lavendelfarbe",
+        "hex": "#e6e6fa"
+      },
+      {
+        "name": "Lehmbraun",
+        "hex": "#734222",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Leinenfarbe",
+        "hex": "#faf0e6"
+      },
+      {
+        "name": "Leuchtendes Rosa",
+        "hex": "#ff69b4"
+      },
+      {
+        "name": "Leuchtgelb",
+        "hex": "#fefe01",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Leuchtgrün",
+        "hex": "#00bb2d",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Leuchthellorange",
+        "hex": "#ffa420",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Leuchthellrot",
+        "hex": "#fe0000",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Leuchtorange",
+        "hex": "#ff2301",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Leuchtrot",
+        "hex": "#f80000",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Lichtblau",
+        "hex": "#3b83bd",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Lichtgrau",
+        "hex": "#d7d7d7",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Lichtgrün",
+        "hex": "#84c3be",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Magentarot",
+        "hex": "#fe01fe"
+      },
+      {
+        "name": "Mahagonibraun",
+        "hex": "#4c2f27",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Maigrün",
+        "hex": "#4c9141",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Mais",
+        "hex": "#fff8dc"
+      },
+      {
+        "name": "Maisgelb",
+        "hex": "#e4a010",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Mandelweiß",
+        "hex": "#ffebcd"
+      },
+      {
+        "name": "Marineblau",
+        "hex": "#000080"
+      },
+      {
+        "name": "Mattes Grau",
+        "hex": "#696969"
+      },
+      {
+        "name": "Mausgrau",
+        "hex": "#646b63",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Melonengelb",
+        "hex": "#f4a900",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Minttürkis",
+        "hex": "#497e76",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Minzgrün",
+        "hex": "#20603d",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Mittelblau",
+        "hex": "#0000cc",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Blau"
+        }
+      },
+      {
+        "name": "Mittelgelb",
+        "hex": "#fdfd02",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Gelb"
+        }
+      },
+      {
+        "name": "Mittelgrün",
+        "hex": "#20a040",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Mittelgr%C3%BCn"
+        }
+      },
+      {
+        "name": "Mittelrot",
+        "hex": "#ff0040",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Rot#Mittelrot,_Hochrot,_Blutrot"
+        }
+      },
+      {
+        "name": "Mitternachtsblau",
+        "hex": "#191970"
+      },
+      {
+        "name": "Mittlere Orchideenfarbe",
+        "hex": "#ba55d3"
+      },
+      {
+        "name": "Mittleres Aquamarinblau",
+        "hex": "#66cdaa"
+      },
+      {
+        "name": "Mittleres Frühlingsgrün",
+        "hex": "#00fa9a"
+      },
+      {
+        "name": "Mittleres Schieferblau",
+        "hex": "#7b68ee"
+      },
+      {
+        "name": "Mittleres Seegrün",
+        "hex": "#3cb371"
+      },
+      {
+        "name": "Mittleres Türkis",
+        "hex": "#48d1cc"
+      },
+      {
+        "name": "Mittleres Violett",
+        "hex": "#9370db"
+      },
+      {
+        "name": "Mittleres Violettrot",
+        "hex": "#c71585"
+      },
+      {
+        "name": "Moosgrau",
+        "hex": "#6c7059",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Moosgrün",
+        "hex": "#2f4538",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Muschel",
+        "hex": "#fff5ee"
+      },
+      {
+        "name": "Nachtblau",
+        "hex": "#252850",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Narzissengelb",
+        "hex": "#dc9d00",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Navajoweiß",
+        "hex": "#ffdead"
+      },
+      {
+        "name": "Nussbraun",
+        "hex": "#5b3a29",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Ocker",
+        "hex": "#dba621",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Ocker"
+        }
+      },
+      {
+        "name": "Ockerbraun",
+        "hex": "#955f20",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Ockergelb",
+        "hex": "#aea04b",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Olivbraun",
+        "hex": "#6f4f28",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Olivfarbiges Graubraun",
+        "hex": "#6b8e23"
+      },
+      {
+        "name": "Olivgelb",
+        "hex": "#999950",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Olivgrau",
+        "hex": "#7e7b52",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Olivgrün",
+        "hex": "#424632",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Opalgrün",
+        "hex": "#015d52",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Orange",
+        "hex": "#ffa500"
+      },
+      {
+        "name": "Orangebraun",
+        "hex": "#a65e2e",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Orangenrot",
+        "hex": "#ff4500"
+      },
+      {
+        "name": "Orchidee",
+        "hex": "#da70d6"
+      },
+      {
+        "name": "Orientrot",
+        "hex": "#b32428",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Oxidrot",
+        "hex": "#642424",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Ozeanblau",
+        "hex": "#1d334a",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Papyrusweiß",
+        "hex": "#d8d8d8",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Pariserblau",
+        "hex": "#4040ff",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Pariserblau"
+        }
+      },
+      {
+        "name": "Pastellblau",
+        "hex": "#5d9b9b",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Pastellgelb",
+        "hex": "#efa94a",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Pastellorange",
+        "hex": "#ff7514",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Pastelltürkis",
+        "hex": "#7fb5b5",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Pastellviolett",
+        "hex": "#a18594",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Patinagrün",
+        "hex": "#316650",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Paynesgrau",
+        "hex": "#293c42",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Paynesgrau"
+        }
+      },
+      {
+        "name": "Pechschwarz",
+        "hex": "#202128",
+        "meta": {
+          "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
+        }
+      },
+      {
+        "name": "Perlbeige",
+        "hex": "#6a5d4d",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Perlbrombeer",
+        "hex": "#6c6874",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Perldunkelgrau",
+        "hex": "#828282",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Perlenzian",
+        "hex": "#2a6478",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Perlgold",
+        "hex": "#705335",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Perlgrün",
+        "hex": "#1c542d",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Perlhellgrau",
+        "hex": "#9c9c9c",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Perlkupfer",
+        "hex": "#763c28",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Perlmausgrau",
+        "hex": "#898176",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Perlnachtblau",
+        "hex": "#102c54",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Perlopalgrün",
+        "hex": "#193737",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Perlorange",
+        "hex": "#c35831",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Perlrosa",
+        "hex": "#b44c43",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Perlrubinrot",
+        "hex": "#721422",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Perlviolett",
+        "hex": "#8673a1",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Perlweiß",
+        "hex": "#eae6ca",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Peru",
+        "hex": "#cd853f"
+      },
+      {
+        "name": "Pfirsich",
+        "hex": "#ffdab9"
+      },
+      {
+        "name": "Pflaume",
+        "hex": "#dda0dd"
+      },
+      {
+        "name": "Phthalogrün",
+        "hex": "#123524",
+        "meta": {
+          "link": "https://de.wikipedia.org/wiki/Liste_der_Farben_im_Farbkreis"
+        }
+      },
+      {
+        "name": "Platingrau",
+        "hex": "#7f7679",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Preußischblau",
+        "hex": "#003153",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Berliner_Blau"
+        }
+      },
+      {
+        "name": "Purpurrot",
+        "hex": "#75151e",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Purpurviolett",
+        "hex": "#4a192c",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Quarzgrau",
+        "hex": "#6c6960",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Quietschgelb",
+        "hex": "#f2ea4f",
+        "meta": {
+          "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
+        }
+      },
+      {
+        "name": "Rabenschwarz",
+        "hex": "#141313",
+        "meta": {
+          "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
+        }
+      },
+      {
+        "name": "Rapsgelb",
+        "hex": "#f3da0b",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Rauchiges Weiß",
+        "hex": "#f5f5f5"
+      },
+      {
+        "name": "Rehbraun",
+        "hex": "#59351f",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Reingrün",
+        "hex": "#008f39",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Reinorange",
+        "hex": "#f44611",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Reinrot",
+        "hex": "#cb3234",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Reinweiß",
+        "hex": "#ffffff",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Resedagrün",
+        "hex": "#587246",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Rosa",
+        "hex": "#ffc0cb"
+      },
+      {
+        "name": "Rosige Lavenderfarbe",
+        "hex": "#fff0f5"
+      },
+      {
+        "name": "Rosiges Braun",
+        "hex": "#bc8f8f"
+      },
+      {
+        "name": "Rosé",
+        "hex": "#e63244",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Rot",
+        "hex": "#ff0000"
+      },
+      {
+        "name": "Rotbraun",
+        "hex": "#592321",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Rotlila",
+        "hex": "#6d3f5b",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Rotorange",
+        "hex": "#c93c20",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Rotviolett",
+        "hex": "#922b3e",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Rubinrot",
+        "hex": "#9b111e",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Safrangelb",
+        "hex": "#f5d033",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Sandbraun",
+        "hex": "#f4a460"
+      },
+      {
+        "name": "Sandgelb",
+        "hex": "#c6a664",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Saphirblau",
+        "hex": "#1d1e33",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Sattelbraun",
+        "hex": "#8b4513"
+      },
+      {
+        "name": "Scharlachrot",
+        "hex": "#ff2400",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Scharlachrot_(Farbe)"
+        }
+      },
+      {
+        "name": "Schieferblau",
+        "hex": "#6a5acd"
+      },
+      {
+        "name": "Schiefergrau",
+        "hex": "#434750",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Schilfgrün",
+        "hex": "#6c7156",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Schneeweiß",
+        "hex": "#f2f6f7",
+        "meta": {
+          "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
+        }
+      },
+      {
+        "name": "Schokobraun",
+        "hex": "#3d261b",
+        "meta": {
+          "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
+        }
+      },
+      {
+        "name": "Schokolade",
+        "hex": "#d2691e"
+      },
+      {
+        "name": "Schokoladen-braun",
+        "hex": "#45322e",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Schwarz",
+        "hex": "#000000"
+      },
+      {
+        "name": "Schwarzblau",
+        "hex": "#18171c",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Schwarzbraun",
+        "hex": "#212121",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Schwarzgrau",
+        "hex": "#23282b",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Schwarzgrün",
+        "hex": "#343e40",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Schwarzoliv",
+        "hex": "#3b3c36",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Schwarzrot",
+        "hex": "#412227",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Schwefelgelb",
+        "hex": "#edff21",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Schweinchenrosa",
+        "hex": "#f8dce5",
+        "meta": {
+          "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
+        }
+      },
+      {
+        "name": "Seegrün",
+        "hex": "#2e8b57",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/T%C3%BCrkis_(Farbe)"
+        }
+      },
+      {
+        "name": "Seidengrau",
+        "hex": "#cac4b0",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Sepia",
+        "hex": "#704214",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Sepia_(Farbstoff)"
+        }
+      },
+      {
+        "name": "Sepiabraun",
+        "hex": "#382c1e",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Signalblau",
+        "hex": "#1e2460",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Signalbraun",
+        "hex": "#6c3b2a",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Signalgelb",
+        "hex": "#e5be01",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Signalgrau",
+        "hex": "#969992",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Signalgrün",
+        "hex": "#317f43",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Signalorange",
+        "hex": "#d84b20",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Signalrot",
+        "hex": "#a52019",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Signalschwarz",
+        "hex": "#282828",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Signalviolett",
+        "hex": "#924e7d",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Signalweiß",
+        "hex": "#f4f4f4",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Silber",
+        "hex": "#c0c0c0"
+      },
+      {
+        "name": "Silbergrau",
+        "hex": "#8a9597",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Smaragdgrün",
+        "hex": "#287233",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Sonnengelb",
+        "hex": "#f39f18",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Stahlblau",
+        "hex": "#231a24",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Staubgrau",
+        "hex": "#7d7f7d",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Steingrau",
+        "hex": "#8b8c7a",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Strohblond",
+        "hex": "#f7e780",
+        "meta": {
+          "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
+        }
+      },
+      {
+        "name": "Tannengrün",
+        "hex": "#31372b",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Taubenblau",
+        "hex": "#606e8c",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Telegrau 1",
+        "hex": "#909090",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Telegrau 2",
+        "hex": "#82898f",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Telegrau 4",
+        "hex": "#d0d0d0",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Telemagenta",
+        "hex": "#cf3476",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Terrabraun",
+        "hex": "#4e3b31",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Tiefes Himmelblau",
+        "hex": "#00bfff"
+      },
+      {
+        "name": "Tieforange",
+        "hex": "#ec7c26",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Tiefrosa",
+        "hex": "#ff1493"
+      },
+      {
+        "name": "Tiefschwarz",
+        "hex": "#0a0a0a",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Tomatencreme",
+        "hex": "#ffe4c4"
+      },
+      {
+        "name": "Tomatenrot",
+        "hex": "#a12312",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Türkis",
+        "hex": "#00ffff",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/T%C3%BCrkis_(Farbe)"
+        }
+      },
+      {
+        "name": "Türkisblau",
+        "hex": "#3f888f",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Türkisgrün",
+        "hex": "#1e5945",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Ultramarinblau",
+        "hex": "#20214f",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Umbra",
+        "hex": "#635147",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Umbra_(Farbe)"
+        }
+      },
+      {
+        "name": "Umbragrau",
+        "hex": "#332f2c",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Venezianischrot",
+        "hex": "#d57453",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Eisenoxidrot"
+        }
+      },
+      {
+        "name": "Verkehrs-schwarz",
+        "hex": "#1e1e1e",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Verkehrsblau",
+        "hex": "#063971",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Verkehrsgelb",
+        "hex": "#fad201",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Verkehrsgrau A",
+        "hex": "#8d948d",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Verkehrsgrau B",
+        "hex": "#4e5452",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Verkehrsgrün",
+        "hex": "#308446",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Verkehrsorange",
+        "hex": "#f54021",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Verkehrspurpur",
+        "hex": "#a03472",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Verkehrsrot",
+        "hex": "#cc0605",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Verkehrsweiß",
+        "hex": "#f6f6f6",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Violett",
+        "hex": "#a146ff",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Violett"
+        }
+      },
+      {
+        "name": "Violettblau",
+        "hex": "#354d73",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Waldgrün",
+        "hex": "#228b22"
+      },
+      {
+        "name": "Wasserblau",
+        "hex": "#256d7b",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Weinrot",
+        "hex": "#5e2129",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Weizen",
+        "hex": "#f5deb3"
+      },
+      {
+        "name": "Weiß",
+        "hex": "#fefefe"
+      },
+      {
+        "name": "Weißaluminium",
+        "hex": "#a5a5a5",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Weißgrün",
+        "hex": "#bdecb6",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Zeltgrau",
+        "hex": "#4c514a",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Zementgrau",
+        "hex": "#7d8471",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Ziegelfarbe",
+        "hex": "#b22222"
+      },
+      {
+        "name": "Zinkgelb",
+        "hex": "#f8f32b",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Zinnoberrot",
+        "hex": "#fe0101",
+        "meta": {
+          "link": "https://de.wikipedia.org//wiki/Rot#Zinnoberrot,_Permanentrot,_Feuerrot"
+        }
+      },
+      {
+        "name": "Zitronengelb",
+        "hex": "#c7b446",
+        "meta": {
+          "link": ""
+        }
+      },
+      {
+        "name": "Zitronengrün",
+        "hex": "#00ff00"
+      },
+      {
+        "name": "Zyanblau",
+        "hex": "#01fefe"
+      }
+    ],
     "ridgway": [
       {
         "name": "Absinthe Green",
@@ -79041,6 +81265,14 @@
       "key": "spanish",
       "license": "MIT",
       "colorCount": 520
+    },
+    "german": {
+      "title": "German Colors",
+      "description": "A list of German color names",
+      "source": "https://github.com/meodai/farbnamen",
+      "key": "german",
+      "license": "MIT",
+      "colorCount": 365
     },
     "x11": {
       "title": "X11 Color Names",

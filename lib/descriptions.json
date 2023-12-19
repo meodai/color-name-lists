@@ -112,6 +112,13 @@
         "key": "spanish",
         "license": "MIT"
     },
+    "german": {
+        "title": "German Colors",
+        "description": "A list of German color names",
+        "source": "https://github.com/meodai/farbnamen",
+        "key": "german",
+        "license": "MIT"
+    },
     "x11": {
         "title": "X11 Color Names",
         "description": "Standard Xlib or the X11 protocol color names.",
