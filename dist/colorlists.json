@@ -26532,11 +26532,17 @@
       },
       {
         "name": "Aliceblau",
-        "hex": "#a0ce00"
+        "hex": "#a0ce00",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Altgold",
-        "hex": "#fdf5e6"
+        "hex": "#fdf5e6",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Altrosa",
@@ -26554,11 +26560,17 @@
       },
       {
         "name": "Antikes Weiß",
-        "hex": "#faebd7"
+        "hex": "#faebd7",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Aquamarinblau",
-        "hex": "#7fffd4"
+        "hex": "#7fffd4",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Azurblau",
@@ -26575,10 +26587,24 @@
         }
       },
       {
+        "name": "Balance",
+        "hex": "#dae3c4",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Basaltgrau",
         "hex": "#4e5754",
         "meta": {
           "link": ""
+        }
+      },
+      {
+        "name": "Beerenrot",
+        "hex": "#a45054",
+        "meta": {
+          "link": "https://alpina-farben.de/"
         }
       },
       {
@@ -26593,6 +26619,13 @@
         "hex": "#79553d",
         "meta": {
           "link": ""
+        }
+      },
+      {
+        "name": "Beigegelb",
+        "hex": "#dfcba4",
+        "meta": {
+          "link": "https://alpina-farben.de/"
         }
       },
       {
@@ -26617,6 +26650,20 @@
         }
       },
       {
+        "name": "Bienengelb",
+        "hex": "#fce876",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Biscotti",
+        "hex": "#f2af7a",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Blassbraun",
         "hex": "#755c48",
         "meta": {
@@ -26625,15 +26672,24 @@
       },
       {
         "name": "Blasse Goldrutenfarbe",
-        "hex": "#eee8aa"
+        "hex": "#eee8aa",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Blasses Türkis",
-        "hex": "#afeeee"
+        "hex": "#afeeee",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Blasses Violettrot",
-        "hex": "#db7093"
+        "hex": "#db7093",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Blassgrün",
@@ -26651,7 +26707,17 @@
       },
       {
         "name": "Blau",
-        "hex": "#0000ff"
+        "hex": "#0000ff",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Blaue Stunde",
+        "hex": "#2f3b5d",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Blaugrau",
@@ -26690,7 +26756,10 @@
       },
       {
         "name": "Blütenweiß",
-        "hex": "#fffaf0"
+        "hex": "#fffaf0",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Bordeauxviolett",
@@ -26701,7 +26770,10 @@
       },
       {
         "name": "Braun",
-        "hex": "#a52a2a"
+        "hex": "#a52a2a",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Braunbeige",
@@ -26768,7 +26840,10 @@
       },
       {
         "name": "Chiffongelb",
-        "hex": "#fffacd"
+        "hex": "#fffacd",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Chromoxidgrün",
@@ -26785,6 +26860,13 @@
         }
       },
       {
+        "name": "Cremebeige",
+        "hex": "#f4ece0",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Cremeweiß",
         "hex": "#fdf4e3",
         "meta": {
@@ -26793,11 +26875,24 @@
       },
       {
         "name": "Cremig Pfefferminz",
-        "hex": "#f5fffa"
+        "hex": "#f5fffa",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Cremiges Papaya",
-        "hex": "#ffefd5"
+        "hex": "#ffefd5",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Cupcake",
+        "hex": "#8a6973",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Currygelb",
@@ -26821,86 +26916,213 @@
         }
       },
       {
+        "name": "Delphinblau",
+        "hex": "#aac8dd",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Distel",
-        "hex": "#d8bfd8"
+        "hex": "#d8bfd8",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Dodger-Blau",
-        "hex": "#1e90ff"
+        "hex": "#1e90ff",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Drachengrün",
+        "hex": "#51b7a6",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Dunkelblau",
-        "hex": "#00008b"
+        "hex": "#00008b",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Dunkelgrau",
-        "hex": "#a9a9a9"
+        "hex": "#a9a9a9",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Dunkelgrün",
-        "hex": "#006400"
+        "hex": "#006400",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Dunkelrot",
-        "hex": "#8b0000"
+        "hex": "#8b0000",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Dunkle Eleganz",
+        "hex": "#3e4345",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Dunkle Goldrutenfarbe",
-        "hex": "#b8860b"
+        "hex": "#b8860b",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Dunkle Lachsfarbe",
-        "hex": "#e9967a"
+        "hex": "#e9967a",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Dunkle Orchideenfarbe",
-        "hex": "#9932cc"
+        "hex": "#9932cc",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Dunkles Khaki",
-        "hex": "#bdb76b"
+        "hex": "#bdb76b",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Dunkles Magentarot",
-        "hex": "#8b008b"
+        "hex": "#8b008b",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Dunkles Olivgrün",
-        "hex": "#556b2f"
+        "hex": "#556b2f",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Dunkles Orange",
-        "hex": "#ff8c00"
+        "hex": "#ff8c00",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Dunkles Schieferblau",
-        "hex": "#483d8b"
+        "hex": "#483d8b",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Dunkles Schiefergrau",
-        "hex": "#8fbc8f"
+        "hex": "#8fbc8f",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Dunkles Seegrün",
-        "hex": "#90bd90"
+        "hex": "#90bd90",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Dunkles Türkis",
-        "hex": "#00ced1"
+        "hex": "#00ced1",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Dunkles Violett",
-        "hex": "#9400d3"
+        "hex": "#9400d3",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Dunkles Zyanblau",
-        "hex": "#008b8b"
+        "hex": "#008b8b",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Edles Mauve",
+        "hex": "#b4a8ad",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Ein Hauch von Gelb",
+        "hex": "#f5eed1",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Einhornrosa",
+        "hex": "#f8ebe6",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Eisblau",
+        "hex": "#c8d6d3",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Eisbonbon",
+        "hex": "#cce8e6",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Eisbärweiß",
+        "hex": "#fdfef6",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Eisengrau",
         "hex": "#434b4d",
         "meta": {
           "link": ""
+        }
+      },
+      {
+        "name": "Elefantengrau",
+        "hex": "#d7d4d1",
+        "meta": {
+          "link": "https://alpina-farben.de/"
         }
       },
       {
@@ -26912,7 +27134,10 @@
       },
       {
         "name": "Entenbraun",
-        "hex": "#008080"
+        "hex": "#008080",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Enzianblau",
@@ -26936,6 +27161,13 @@
         }
       },
       {
+        "name": "Eukalyptusgrün",
+        "hex": "#aaae99",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Farngrün",
         "hex": "#3d642d",
         "meta": {
@@ -26947,6 +27179,20 @@
         "hex": "#78858b",
         "meta": {
           "link": ""
+        }
+      },
+      {
+        "name": "Feigenviolett",
+        "hex": "#645363",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Felsgrau",
+        "hex": "#8f8c86",
+        "meta": {
+          "link": "https://alpina-farben.de/"
         }
       },
       {
@@ -26971,10 +27217,38 @@
         }
       },
       {
+        "name": "Fischblau",
+        "hex": "#e3edf0",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Flamingorosa",
+        "hex": "#fbd3d6",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Flammendes Herz",
+        "hex": "#8a2a36",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Flaschengrün",
         "hex": "#343b29",
         "meta": {
           "link": ""
+        }
+      },
+      {
+        "name": "Fliederfest",
+        "hex": "#cab1cb",
+        "meta": {
+          "link": "https://alpina-farben.de/"
         }
       },
       {
@@ -26985,28 +27259,74 @@
         }
       },
       {
+        "name": "Froschgrün",
+        "hex": "#6aba71",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Frühlingsgrün",
-        "hex": "#00ff7f"
+        "hex": "#00ff7f",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Frühlingswiese",
+        "hex": "#c8cf5c",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Fuchsie",
-        "hex": "#ff00ff"
+        "hex": "#ff00ff",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Fuchsorange",
+        "hex": "#ffb972",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Gainsboro",
-        "hex": "#dcdcdc"
+        "hex": "#dcdcdc",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Geckogrün",
+        "hex": "#9dd1c7",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Geisterweiß",
-        "hex": "#f8f8ff"
+        "hex": "#f8f8ff",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Gelb",
-        "hex": "#ffff00"
+        "hex": "#ffff00",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Gelbbraun",
-        "hex": "#d2b48c"
+        "hex": "#d2b48c",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Gelbgrau",
@@ -27051,6 +27371,13 @@
         }
       },
       {
+        "name": "Gletscherblau",
+        "hex": "#94b0b7",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Glutorange",
         "hex": "#ec612b",
         "meta": {
@@ -27059,7 +27386,10 @@
       },
       {
         "name": "Gold",
-        "hex": "#ffd700"
+        "hex": "#ffd700",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Goldgelb",
@@ -27070,7 +27400,10 @@
       },
       {
         "name": "Goldrute",
-        "hex": "#daa520"
+        "hex": "#daa520",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Granitgrau",
@@ -27102,7 +27435,10 @@
       },
       {
         "name": "Grau",
-        "hex": "#808080"
+        "hex": "#808080",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Graualuminium",
@@ -27140,6 +27476,13 @@
         }
       },
       {
+        "name": "Grauviolett",
+        "hex": "#dad4db",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Grauweiß",
         "hex": "#e7ebda",
         "meta": {
@@ -27148,11 +27491,17 @@
       },
       {
         "name": "Grobes Braun",
-        "hex": "#deb887"
+        "hex": "#deb887",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Grün",
-        "hex": "#008000"
+        "hex": "#008000",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Grünbeige",
@@ -27176,8 +27525,18 @@
         }
       },
       {
+        "name": "Grüne Poesie",
+        "hex": "#d8ee9c",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Grüngelb",
-        "hex": "#adff2f"
+        "hex": "#adff2f",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Grüngrau",
@@ -27187,12 +27546,39 @@
         }
       },
       {
+        "name": "Hafergelb",
+        "hex": "#e6c37e",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Hamsterbeige",
+        "hex": "#e7dece",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Happy Weekend",
+        "hex": "#ffb856",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Hellblau",
-        "hex": "#add8e6"
+        "hex": "#add8e6",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Helle Lachsfarbe",
-        "hex": "#ffa07a"
+        "hex": "#ffa07a",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Hellelfenbein",
@@ -27203,43 +27589,73 @@
       },
       {
         "name": "Helles Cyanblau",
-        "hex": "#e0ffff"
+        "hex": "#e0ffff",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Helles Goldrutengelb",
-        "hex": "#fafad2"
+        "hex": "#fafad2",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Helles Himmelblau",
-        "hex": "#87cefa"
+        "hex": "#87cefa",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Helles Korallenrot",
-        "hex": "#f08080"
+        "hex": "#f08080",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Helles Schiefergrau",
-        "hex": "#778899"
+        "hex": "#778899",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Helles Seegrün",
-        "hex": "#20b2aa"
+        "hex": "#20b2aa",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Helles Stahlblau",
-        "hex": "#b0c4de"
+        "hex": "#b0c4de",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Hellgelb",
-        "hex": "#ffffe0"
+        "hex": "#ffffe0",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Hellgrau",
-        "hex": "#d3d3d3"
+        "hex": "#d3d3d3",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Hellgrün",
-        "hex": "#90ee90"
+        "hex": "#90ee90",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Hellrosa",
@@ -27278,7 +27694,17 @@
       },
       {
         "name": "Honigmelone",
-        "hex": "#f0fff0"
+        "hex": "#f0fff0",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Hula Hoop",
+        "hex": "#d37972",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Indigo",
@@ -27296,15 +27722,24 @@
       },
       {
         "name": "Indischrot",
-        "hex": "#cd5c5c"
+        "hex": "#cd5c5c",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Kadettblau",
-        "hex": "#5f9ea0"
+        "hex": "#5f9ea0",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Karmesinrot",
-        "hex": "#dc143c"
+        "hex": "#dc143c",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Karminrot",
@@ -27322,7 +27757,10 @@
       },
       {
         "name": "Khaki",
-        "hex": "#f0e68c"
+        "hex": "#f0e68c",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Khakigrau",
@@ -27343,6 +27781,13 @@
         "hex": "#b8b799",
         "meta": {
           "link": ""
+        }
+      },
+      {
+        "name": "Kieselstrand",
+        "hex": "#c1c4c5",
+        "meta": {
+          "link": "https://alpina-farben.de/"
         }
       },
       {
@@ -27374,8 +27819,25 @@
         }
       },
       {
+        "name": "Kolibrigrün",
+        "hex": "#bbd9c6",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Koralle",
-        "hex": "#ff7f50"
+        "hex": "#ff7f50",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Korallenpink",
+        "hex": "#e87c8d",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Korallenrot",
@@ -27399,6 +27861,20 @@
         }
       },
       {
+        "name": "Kreideblau",
+        "hex": "#dbe3e4",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Kreideweiß",
+        "hex": "#f1ebe4",
+        "meta": {
+          "link": "https://github.com/meodai/farbnamen/#authors-David Büsser"
+        }
+      },
+      {
         "name": "Kupferbraun",
         "hex": "#8e402a",
         "meta": {
@@ -27406,12 +27882,46 @@
         }
       },
       {
+        "name": "Kupferorange",
+        "hex": "#bc7b59",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Käferrot",
+        "hex": "#f67066",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Kängurubeige",
+        "hex": "#f8ecd3",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Königsblau",
-        "hex": "#4169e1"
+        "hex": "#4169e1",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Kükengelb",
+        "hex": "#f7eec1",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Lachs",
-        "hex": "#fa8072"
+        "hex": "#fa8072",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Lachsorange",
@@ -27436,7 +27946,17 @@
       },
       {
         "name": "Lavendelfarbe",
-        "hex": "#e6e6fa"
+        "hex": "#e6e6fa",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Lavendelviolett",
+        "hex": "#b9b3bd",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Lehmbraun",
@@ -27447,11 +27967,24 @@
       },
       {
         "name": "Leinenfarbe",
-        "hex": "#faf0e6"
+        "hex": "#faf0e6",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Leinenweiß",
+        "hex": "#ebe8e0",
+        "meta": {
+          "link": "https://github.com/meodai/farbnamen/#authors-@meodai"
+        }
       },
       {
         "name": "Leuchtendes Rosa",
-        "hex": "#ff69b4"
+        "hex": "#ff69b4",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Leuchtgelb",
@@ -27496,10 +28029,24 @@
         }
       },
       {
+        "name": "Libellenblau",
+        "hex": "#cfe7ef",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Lichtblau",
         "hex": "#3b83bd",
         "meta": {
           "link": ""
+        }
+      },
+      {
+        "name": "Lichtes Gelb",
+        "hex": "#f7ebb3",
+        "meta": {
+          "link": "https://alpina-farben.de/"
         }
       },
       {
@@ -27517,8 +28064,18 @@
         }
       },
       {
+        "name": "Luftschloss",
+        "hex": "#94c9e4",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Magentarot",
-        "hex": "#fe01fe"
+        "hex": "#fe01fe",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Mahagonibraun",
@@ -27536,7 +28093,10 @@
       },
       {
         "name": "Mais",
-        "hex": "#fff8dc"
+        "hex": "#fff8dc",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Maisgelb",
@@ -27546,16 +28106,46 @@
         }
       },
       {
+        "name": "Mandelbeige",
+        "hex": "#eddfce",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Mandelblüte",
+        "hex": "#f6d8e0",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Mandelweiß",
-        "hex": "#ffebcd"
+        "hex": "#ffebcd",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Marineblau",
-        "hex": "#000080"
+        "hex": "#000080",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Marrakesch",
+        "hex": "#ed9d59",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Mattes Grau",
-        "hex": "#696969"
+        "hex": "#696969",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Mausgrau",
@@ -27615,39 +28205,73 @@
       },
       {
         "name": "Mitternachtsblau",
-        "hex": "#191970"
+        "hex": "#191970",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Mittlere Orchideenfarbe",
-        "hex": "#ba55d3"
+        "hex": "#ba55d3",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Mittleres Aquamarinblau",
-        "hex": "#66cdaa"
+        "hex": "#66cdaa",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Mittleres Frühlingsgrün",
-        "hex": "#00fa9a"
+        "hex": "#00fa9a",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Mittleres Schieferblau",
-        "hex": "#7b68ee"
+        "hex": "#7b68ee",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Mittleres Seegrün",
-        "hex": "#3cb371"
+        "hex": "#3cb371",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Mittleres Türkis",
-        "hex": "#48d1cc"
+        "hex": "#48d1cc",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Mittleres Violett",
-        "hex": "#9370db"
+        "hex": "#9370db",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Mittleres Violettrot",
-        "hex": "#c71585"
+        "hex": "#c71585",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Mondgrau",
+        "hex": "#ebe5e0",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Moosgrau",
@@ -27665,7 +28289,17 @@
       },
       {
         "name": "Muschel",
-        "hex": "#fff5ee"
+        "hex": "#fff5ee",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Muschelweiß",
+        "hex": "#f2eadc",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Nachtblau",
@@ -27683,7 +28317,38 @@
       },
       {
         "name": "Navajoweiß",
-        "hex": "#ffdead"
+        "hex": "#ffdead",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Nebel im Novermber",
+        "hex": "#a5a2a1",
+        "meta": {
+          "link": "https://github.com/meodai/farbnamen/#authors-@meodai"
+        }
+      },
+      {
+        "name": "Nebelzauber",
+        "hex": "#cac6c3",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Nilpferdlila",
+        "hex": "#dcd8e3",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Nordmeer",
+        "hex": "#627791",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Nussbraun",
@@ -27714,6 +28379,13 @@
         }
       },
       {
+        "name": "Oktopuslila",
+        "hex": "#beb9ca",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Olivbraun",
         "hex": "#6f4f28",
         "meta": {
@@ -27722,7 +28394,10 @@
       },
       {
         "name": "Olivfarbiges Graubraun",
-        "hex": "#6b8e23"
+        "hex": "#6b8e23",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Olivgelb",
@@ -27754,7 +28429,10 @@
       },
       {
         "name": "Orange",
-        "hex": "#ffa500"
+        "hex": "#ffa500",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Orangebraun",
@@ -27765,11 +28443,17 @@
       },
       {
         "name": "Orangenrot",
-        "hex": "#ff4500"
+        "hex": "#ff4500",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Orchidee",
-        "hex": "#da70d6"
+        "hex": "#da70d6",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Orientrot",
@@ -27793,6 +28477,20 @@
         }
       },
       {
+        "name": "Papageiengrün",
+        "hex": "#ccdea1",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Papayaorange",
+        "hex": "#ffc9a9",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Papyrusweiß",
         "hex": "#d8d8d8",
         "meta": {
@@ -27804,6 +28502,13 @@
         "hex": "#4040ff",
         "meta": {
           "link": "https://de.wikipedia.org//wiki/Pariserblau"
+        }
+      },
+      {
+        "name": "Party Pink",
+        "hex": "#e393b9",
+        "meta": {
+          "link": "https://alpina-farben.de/"
         }
       },
       {
@@ -27976,15 +28681,31 @@
       },
       {
         "name": "Peru",
-        "hex": "#cd853f"
+        "hex": "#cd853f",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Petrol de Luxe",
+        "hex": "#2e7b7f",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Pfirsich",
-        "hex": "#ffdab9"
+        "hex": "#ffdab9",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Pflaume",
-        "hex": "#dda0dd"
+        "hex": "#dda0dd",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Phthalogrün",
@@ -27994,10 +28715,24 @@
         }
       },
       {
+        "name": "Pistaziengrün",
+        "hex": "#c2c7aa",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Platingrau",
         "hex": "#7f7679",
         "meta": {
           "link": ""
+        }
+      },
+      {
+        "name": "Poesie der Stille",
+        "hex": "#c5c2bf",
+        "meta": {
+          "link": "https://github.com/meodai/farbnamen/#authors-@meodai"
         }
       },
       {
@@ -28050,8 +28785,25 @@
         }
       },
       {
+        "name": "Rauchblau",
+        "hex": "#acb7c0",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Rauchiges Weiß",
-        "hex": "#f5f5f5"
+        "hex": "#f5f5f5",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Raupengrün",
+        "hex": "#e9f6c7",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Rehbraun",
@@ -28096,16 +28848,39 @@
         }
       },
       {
+        "name": "Rhabarberrot",
+        "hex": "#ac7870",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Rosa",
-        "hex": "#ffc0cb"
+        "hex": "#ffc0cb",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Rosige Lavenderfarbe",
-        "hex": "#fff0f5"
+        "hex": "#fff0f5",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Rosiges Braun",
-        "hex": "#bc8f8f"
+        "hex": "#bc8f8f",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Rosmaringrün",
+        "hex": "#6a8974",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Rosé",
@@ -28115,14 +28890,31 @@
         }
       },
       {
+        "name": "Rosérot",
+        "hex": "#fbdad6",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Rot",
-        "hex": "#ff0000"
+        "hex": "#ff0000",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Rotbraun",
         "hex": "#592321",
         "meta": {
           "link": ""
+        }
+      },
+      {
+        "name": "Roter Ahorn",
+        "hex": "#c55954",
+        "meta": {
+          "link": "https://alpina-farben.de/"
         }
       },
       {
@@ -28161,14 +28953,38 @@
         }
       },
       {
+        "name": "Sandbeige",
+        "hex": "#e0ceb6",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Sandbraun",
-        "hex": "#f4a460"
+        "hex": "#f4a460",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Sandgelb",
         "hex": "#c6a664",
         "meta": {
           "link": ""
+        }
+      },
+      {
+        "name": "Sanfte Erde",
+        "hex": "#816e60",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Sanftes Cashmere",
+        "hex": "#ebddcd",
+        "meta": {
+          "link": "https://alpina-farben.de/"
         }
       },
       {
@@ -28180,7 +28996,10 @@
       },
       {
         "name": "Sattelbraun",
-        "hex": "#8b4513"
+        "hex": "#8b4513",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Scharlachrot",
@@ -28191,7 +29010,10 @@
       },
       {
         "name": "Schieferblau",
-        "hex": "#6a5acd"
+        "hex": "#6a5acd",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Schiefergrau",
@@ -28223,7 +29045,10 @@
       },
       {
         "name": "Schokolade",
-        "hex": "#d2691e"
+        "hex": "#d2691e",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Schokoladen-braun",
@@ -28234,7 +29059,10 @@
       },
       {
         "name": "Schwarz",
-        "hex": "#000000"
+        "hex": "#000000",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Schwarzblau",
@@ -28293,10 +29121,24 @@
         }
       },
       {
+        "name": "Seebärblau",
+        "hex": "#6092b5",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Seegrün",
         "hex": "#2e8b57",
         "meta": {
           "link": "https://de.wikipedia.org//wiki/T%C3%BCrkis_(Farbe)"
+        }
+      },
+      {
+        "name": "Seesternorange",
+        "hex": "#ffe0b4",
+        "meta": {
+          "link": "https://alpina-farben.de/"
         }
       },
       {
@@ -28392,13 +29234,23 @@
       },
       {
         "name": "Silber",
-        "hex": "#c0c0c0"
+        "hex": "#c0c0c0",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Silbergrau",
         "hex": "#8a9597",
         "meta": {
           "link": ""
+        }
+      },
+      {
+        "name": "Sinfonie",
+        "hex": "#763f4f",
+        "meta": {
+          "link": "https://alpina-farben.de/"
         }
       },
       {
@@ -28409,10 +29261,31 @@
         }
       },
       {
+        "name": "Sommerzeit",
+        "hex": "#fcdd61",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Sonnengelb",
         "hex": "#f39f18",
         "meta": {
           "link": ""
+        }
+      },
+      {
+        "name": "Sonnenstrahl",
+        "hex": "#fde389",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Stadtgeflüster",
+        "hex": "#9e9e9e",
+        "meta": {
+          "link": "https://alpina-farben.de/"
         }
       },
       {
@@ -28437,10 +29310,31 @@
         }
       },
       {
+        "name": "Stilles Wasser",
+        "hex": "#d0e3ed",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Straßenköterblond",
+        "hex": "#d4c5b2",
+        "meta": {
+          "link": "https://github.com/meodai/farbnamen/#authors-@meodai"
+        }
+      },
+      {
         "name": "Strohblond",
         "hex": "#f7e780",
         "meta": {
           "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
+        }
+      },
+      {
+        "name": "Sweet Home",
+        "hex": "#fbe1c1",
+        "meta": {
+          "link": "https://alpina-farben.de/"
         }
       },
       {
@@ -28455,6 +29349,13 @@
         "hex": "#606e8c",
         "meta": {
           "link": ""
+        }
+      },
+      {
+        "name": "Tea Time",
+        "hex": "#bda78c",
+        "meta": {
+          "link": "https://alpina-farben.de/"
         }
       },
       {
@@ -28493,8 +29394,18 @@
         }
       },
       {
+        "name": "Tiefer Traum",
+        "hex": "#431832",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Tiefes Himmelblau",
-        "hex": "#00bfff"
+        "hex": "#00bfff",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Tieforange",
@@ -28505,7 +29416,10 @@
       },
       {
         "name": "Tiefrosa",
-        "hex": "#ff1493"
+        "hex": "#ff1493",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Tiefschwarz",
@@ -28515,8 +29429,18 @@
         }
       },
       {
+        "name": "Tochter der Antike",
+        "hex": "#eae1d7",
+        "meta": {
+          "link": "https://github.com/meodai/farbnamen/#authors-@meodai"
+        }
+      },
+      {
         "name": "Tomatencreme",
-        "hex": "#ffe4c4"
+        "hex": "#ffe4c4",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Tomatenrot",
@@ -28565,6 +29489,13 @@
         "hex": "#332f2c",
         "meta": {
           "link": ""
+        }
+      },
+      {
+        "name": "Vanillegelb",
+        "hex": "#fbeebf",
+        "meta": {
+          "link": "https://alpina-farben.de/"
         }
       },
       {
@@ -28645,6 +29576,13 @@
         }
       },
       {
+        "name": "Vers in Pastell",
+        "hex": "#ddcebf",
+        "meta": {
+          "link": "https://github.com/meodai/farbnamen/#authors-@meodai"
+        }
+      },
+      {
         "name": "Violett",
         "hex": "#a146ff",
         "meta": {
@@ -28660,13 +29598,37 @@
       },
       {
         "name": "Waldgrün",
-        "hex": "#228b22"
+        "hex": "#228b22",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Wanderlust",
+        "hex": "#b6ae8b",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
       },
       {
         "name": "Wasserblau",
         "hex": "#256d7b",
         "meta": {
           "link": ""
+        }
+      },
+      {
+        "name": "Wasserfall",
+        "hex": "#b4dabf",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Weicher Sand",
+        "hex": "#dcccb5",
+        "meta": {
+          "link": "https://alpina-farben.de/"
         }
       },
       {
@@ -28677,12 +29639,25 @@
         }
       },
       {
+        "name": "Weiter Horizont",
+        "hex": "#3788ae",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Weizen",
-        "hex": "#f5deb3"
+        "hex": "#f5deb3",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Weiß",
-        "hex": "#fefefe"
+        "hex": "#fefefe",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Weißaluminium",
@@ -28696,6 +29671,55 @@
         "hex": "#bdecb6",
         "meta": {
           "link": ""
+        }
+      },
+      {
+        "name": "Wellenblau",
+        "hex": "#b8d6e5",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Wildes Paradies",
+        "hex": "#2b875c",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Wolkengrau",
+        "hex": "#c4c0be",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Wolkenreise",
+        "hex": "#f6f3ec",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Zartes Puder",
+        "hex": "#c0b4a9",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Zartorange",
+        "hex": "#f9ebe5",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
+        "name": "Zauber der Wüste",
+        "hex": "#c3bcb0",
+        "meta": {
+          "link": "https://github.com/meodai/farbnamen/#authors-@meodai"
         }
       },
       {
@@ -28714,7 +29738,10 @@
       },
       {
         "name": "Ziegelfarbe",
-        "hex": "#b22222"
+        "hex": "#b22222",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Zinkgelb",
@@ -28739,11 +29766,24 @@
       },
       {
         "name": "Zitronengrün",
-        "hex": "#00ff00"
+        "hex": "#00ff00",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
       },
       {
         "name": "Zyanblau",
-        "hex": "#01fefe"
+        "hex": "#01fefe",
+        "meta": {
+          "link": "https://bfw.ac.at/020/farbtabelle.html"
+        }
+      },
+      {
+        "name": "Züriblau",
+        "hex": "#0f05a0",
+        "meta": {
+          "link": "https://github.com/meodai/farbnamen/#authors-David Büsser"
+        }
       }
     ],
     "ridgway": [
@@ -81272,7 +82312,7 @@
       "source": "https://github.com/meodai/farbnamen",
       "key": "german",
       "license": "MIT",
-      "colorCount": 365
+      "colorCount": 466
     },
     "x11": {
       "title": "X11 Color Names",
