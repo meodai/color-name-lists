@@ -23554,6 +23554,13 @@
         }
       },
       {
+        "name": "Azul Porcelana",
+        "hex": "#436b95",
+        "meta": {
+          "link": "https://es.wikipedia.org/wiki/Azul#Tipos_de_azules"
+        }
+      },
+      {
         "name": "Azul Púrpura",
         "hex": "#4c2882",
         "meta": {
@@ -23859,6 +23866,13 @@
         "hex": "#641c34",
         "meta": {
           "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Burdeos Oscuro",
+        "hex": "#651d35",
+        "meta": {
+          "link": "https://github.com/meodai/noms-de-couleur/#authors-@lmuntaner"
         }
       },
       {
@@ -24233,34 +24247,6 @@
         }
       },
       {
-        "name": "Fandango",
-        "hex": "#b53389",
-        "meta": {
-          "link": "https://es.wikipedia.org/wiki/Rojo_p%C3%BArpura#Ejemplos_de_rojo_púrpura"
-        }
-      },
-      {
-        "name": "Feldgrau",
-        "hex": "#59646a",
-        "meta": {
-          "link": "https://es.wikipedia.org/wiki/Feldgrau"
-        }
-      },
-      {
-        "name": "Frambuesa",
-        "hex": "#e62c58",
-        "meta": {
-          "link": "https://es.wikipedia.org/wiki/Frambuesa_(color)"
-        }
-      },
-      {
-        "name": "Fucsia",
-        "hex": "#ff0080",
-        "meta": {
-          "link": "https://es.wikipedia.org/wiki/Fucsia"
-        }
-      },
-      {
         "name": "Gamuza",
         "hex": "#e8bd85",
         "meta": {
@@ -24618,6 +24604,13 @@
         }
       },
       {
+        "name": "Gris de Campaña",
+        "hex": "#59646a",
+        "meta": {
+          "link": "https://es.wikipedia.org/wiki/Feldgrau"
+        }
+      },
+      {
         "name": "Gris de Davy",
         "hex": "#565656",
         "meta": {
@@ -24656,7 +24649,7 @@
         "name": "Gules",
         "hex": "#f00909",
         "meta": {
-          "link": "https://es.wikipedia.org/wiki/Esmalte_(her%C3%A1ldica)#Códigos_de_color_RGB_y_CYMK"
+          "link": "https://es.wikipedia.org/wiki/Gules"
         }
       },
       {
@@ -24685,6 +24678,13 @@
         "hex": "#a2c8d4",
         "meta": {
           "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+        }
+      },
+      {
+        "name": "Hojaldre",
+        "hex": "#fde7b6",
+        "meta": {
+          "link": "https://github.com/meodai/noms-de-couleur/#authors-@lmuntaner"
         }
       },
       {
@@ -24912,6 +24912,13 @@
         }
       },
       {
+        "name": "Marron Castaño",
+        "hex": "#643b35",
+        "meta": {
+          "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
         "name": "Marrón",
         "hex": "#993300",
         "meta": {
@@ -24955,7 +24962,7 @@
       },
       {
         "name": "Melocotón",
-        "hex": "#fde7b6",
+        "hex": "#fce8b7",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Durazno_(color)"
         }
@@ -25084,6 +25091,13 @@
         "hex": "#ff7514",
         "meta": {
           "link": "https://gist.github.com/lunohodov/1995178"
+        }
+      },
+      {
+        "name": "Naranja Rojizo",
+        "hex": "#fe6448",
+        "meta": {
+          "link": "https://es.wikipedia.org/wiki/Naranja_(color)"
         }
       },
       {
@@ -25452,7 +25466,7 @@
       },
       {
         "name": "Porcelana",
-        "hex": "#436b95",
+        "hex": "#446c96",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Azul#Tipos_de_azules"
         }
@@ -25518,20 +25532,6 @@
         "hex": "#a03472",
         "meta": {
           "link": "https://gist.github.com/lunohodov/1995178"
-        }
-      },
-      {
-        "name": "Quercitrón",
-        "hex": "#e5b03d",
-        "meta": {
-          "link": "https://es.wikipedia.org/wiki/Quercitr%C3%B3n"
-        }
-      },
-      {
-        "name": "Quermes",
-        "hex": "#c42d45",
-        "meta": {
-          "link": "https://es.wikipedia.org/wiki/Kermes_(pigmento)"
         }
       },
       {
@@ -25892,6 +25892,13 @@
         }
       },
       {
+        "name": "Rosado Claro",
+        "hex": "#fec1cc",
+        "meta": {
+          "link": "https://es.wikipedia.org/wiki/Rosa_(color)#Ejemplos_del_color_rosado"
+        }
+      },
+      {
         "name": "Rubí",
         "hex": "#e0115f",
         "meta": {
@@ -25987,13 +25994,6 @@
         "hex": "#87794e",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Gris#Muestras_grises"
-        }
-      },
-      {
-        "name": "Toronja",
-        "hex": "#fe6448",
-        "meta": {
-          "link": "https://es.wikipedia.org/w/index.php?title=Toronja_(color)&action=edit&redlink=1"
         }
       },
       {
@@ -26459,8 +26459,15 @@
         }
       },
       {
-        "name": "Viridián/veridian",
+        "name": "Viridián",
         "hex": "#007f5c",
+        "meta": {
+          "link": "https://es.wikipedia.org/wiki/Viridi%C3%A1n"
+        }
+      },
+      {
+        "name": "Viridián/veridian",
+        "hex": "#01805d",
         "meta": {
           "link": "https://es.wikipedia.org/w/index.php?title=Viridi%C3%A1n/Veridian&action=edit&redlink=1"
         }
@@ -82409,7 +82416,7 @@
       "source": "https://github.com/meodai/nombres-de-colores",
       "key": "spanish",
       "license": "MIT",
-      "colorCount": 520
+      "colorCount": 521
     },
     "german": {
       "title": "German Colors",
