@@ -1,6 +1,6 @@
 {
   "name": "color-name-lists",
-  "version": "3.25.0",
+  "version": "3.26.0",
   "description": "A collection of color name lists",
   "main": "src/index.js",
   "directories": {
