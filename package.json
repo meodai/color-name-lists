@@ -23,11 +23,11 @@
   "homepage": "https://github.com/meodai/color-name-lists#readme",
   "dependencies": {
     "color-standards-and-color-nomenclature": "^1.1.0",
-    "farbnamen": "^0.6.0",
+    "farbnamen": "^0.7.0",
     "nombres-de-colores": "^0.6.0",
     "recueil-de-couleur": "^0.11.0",
     "riso-colors": "^1.0.1",
-    "wikipedia-color-names": "^1.11.0"
+    "wikipedia-color-names": "^1.12.0"
   },
   "devDependencies": {
     "path-browserify": "^1.0.1",
