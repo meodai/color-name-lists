@@ -11,6 +11,8 @@ const germanList = require('farbnamen/colors.min.json');
 const ridgewayList = require('color-standards-and-color-nomenclature/dist/colornames.json');
 const risographColors = require('riso-colors');
 
+const hindiList = require('hindi-color-names/colors.min.json');
+
 const hexColorValidation = /^#([0-9A-F]{3}){1,2}$/i;
 
 // Collects all keys that are not in the allowed array and moves them to a meta object
@@ -60,6 +62,7 @@ lists.spanish = spasnishList;
 lists.german = germanList;
 lists.ridgway = ridgewayList;
 lists.risograph = risographColors;
+lists.hindi = hindiList;
 
 jsonFiles.map(file => {
   const filePath = path.join(directoryPath, file);

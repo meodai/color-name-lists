@@ -146,5 +146,12 @@
         "source": "https://github.com/ItMarki/files/blob/main/newcolorsandnames.csv",
         "key": "chinese-traditional",
         "license": "CC0 1.0 Public Domain Dedication"
+    },
+    "hindi": {
+        "title": "Hindi Colors",
+        "description": "A list of Hindi color names",
+        "source": "https://github.com/meodai/hindi-color-names",
+        "key": "hindi",
+        "license": "MIT"
     }
 }

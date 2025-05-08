@@ -59,7 +59,7 @@
       },
       {
         "name": "Almond",
-        "hex": "#efdecd",
+        "hex": "#eed9c4",
         "meta": {
           "link": "https://en.wikipedia.org/wiki/Almond_(color)"
         }
@@ -115,9 +115,9 @@
       },
       {
         "name": "Antique Brass",
-        "hex": "#cd9575",
+        "hex": "#c88a65",
         "meta": {
-          "link": "https://en.wikipedia.org/wiki/Antique_brass"
+          "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors"
         }
       },
       {
@@ -513,6 +513,13 @@
         }
       },
       {
+        "name": "British Racing Green",
+        "hex": "#004225",
+        "meta": {
+          "link": "https://en.wikipedia.org/wiki/British_racing_green"
+        }
+      },
+      {
         "name": "Bronze",
         "hex": "#cd7f32",
         "meta": {
@@ -521,7 +528,7 @@
       },
       {
         "name": "Brown",
-        "hex": "#88540b",
+        "hex": "#964b00",
         "meta": {
           "link": "https://en.wikipedia.org/wiki/Brown"
         }
@@ -1111,7 +1118,7 @@
         "name": "Dandelion",
         "hex": "#fed85d",
         "meta": {
-          "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors"
+          "link": "https://en.wikipedia.org/wiki/Dandelion_(crayon_color)"
         }
       },
       {
@@ -1214,10 +1221,7 @@
       },
       {
         "name": "Dark Purple",
-        "hex": "#301934",
-        "meta": {
-          "link": "https://en.wikipedia.org/wiki/Dark_purple"
-        }
+        "hex": "#301934"
       },
       {
         "name": "Dark Red",
@@ -2047,7 +2051,7 @@
       },
       {
         "name": "Indigo",
-        "hex": "#4b0082",
+        "hex": "#6a5dff",
         "meta": {
           "link": "https://en.wikipedia.org/wiki/Indigo"
         }
@@ -2056,7 +2060,7 @@
         "name": "Indigo Dye",
         "hex": "#00416a",
         "meta": {
-          "link": "https://en.wikipedia.org/wiki/Indigo#Indigo_dye"
+          "link": "https://en.wikipedia.org/wiki/Indigo#Indigo_dye_color"
         }
       },
       {
@@ -2407,6 +2411,13 @@
         "hex": "#ffb6c1",
         "meta": {
           "link": "https://en.wikipedia.org/wiki/Shades_of_pink#Light_pink"
+        }
+      },
+      {
+        "name": "Light Purple",
+        "hex": "#d8bfd8",
+        "meta": {
+          "link": "https://en.wikipedia.org/wiki/Shades_of_purple#Light_purple_(web)"
         }
       },
       {
@@ -3075,6 +3086,13 @@
         }
       },
       {
+        "name": "Moccasin",
+        "hex": "#ffe4b5",
+        "meta": {
+          "link": "https://en.wikipedia.org/wiki/Shades_of_yellow#Moccasin"
+        }
+      },
+      {
         "name": "Mode Beige",
         "hex": "#967117",
         "meta": {
@@ -3463,7 +3481,7 @@
         "name": "Pale Aqua",
         "hex": "#bed3e5",
         "meta": {
-          "link": "https://en.wikipedia.org/wiki/Aqua_(color)#Pale_aqua"
+          "link": "https://en.wikipedia.org/w/index.php?title=Pale_Aqua(color)&action=edit&redlink=1"
         }
       },
       {
@@ -3726,13 +3744,6 @@
         }
       },
       {
-        "name": "Pine Tree",
-        "hex": "#2a2f23",
-        "meta": {
-          "link": "https://en.wikipedia.org/wiki/Shades_of_green#Pine_tree"
-        }
-      },
-      {
         "name": "Pink",
         "hex": "#ffc0cb",
         "meta": {
@@ -3764,7 +3775,7 @@
         "name": "Pistachio",
         "hex": "#93c572",
         "meta": {
-          "link": "https://en.wikipedia.org/wiki/Chartreuse_(color)#Pistachio"
+          "link": "https://en.wikipedia.org/wiki/Shades_of_chartreuse#Pistachio"
         }
       },
       {
@@ -3835,13 +3846,6 @@
         "hex": "#f58025",
         "meta": {
           "link": "https://en.wikipedia.org/wiki/Shades_of_orange#Princeton_orange"
-        }
-      },
-      {
-        "name": "Process Yellow",
-        "hex": "#ffef00",
-        "meta": {
-          "link": "https://en.wikipedia.org/wiki/Shades_of_yellow#Yellow_(CMYK)_(process_yellow)_(canary_yellow)"
         }
       },
       {
@@ -3919,13 +3923,6 @@
         "hex": "#fe4eda",
         "meta": {
           "link": "https://en.wikipedia.org/wiki/Shades_of_magenta#Purple_pizzazz"
-        }
-      },
-      {
-        "name": "Purpureus",
-        "hex": "#9a4eae",
-        "meta": {
-          "link": "https://en.wikipedia.org/wiki/Shades_of_purple#Purpureus"
         }
       },
       {
@@ -4052,6 +4049,13 @@
         "hex": "#fd3a4a",
         "meta": {
           "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Heads_'n_Tails"
+        }
+      },
+      {
+        "name": "Red Ochre",
+        "hex": "#913831",
+        "meta": {
+          "link": "https://en.wikipedia.org/wiki/Red_ochre"
         }
       },
       {
@@ -4331,7 +4335,7 @@
         "name": "Saddle Brown",
         "hex": "#8b4513",
         "meta": {
-          "link": "https://en.wikipedia.org/wiki/X11_color_names#Color_name_charts"
+          "link": "https://en.wikipedia.org/wiki/Shades_of_brown#Saddle_Brown"
         }
       },
       {
@@ -4605,6 +4609,13 @@
         "hex": "#ffdb00",
         "meta": {
           "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Extreme_Twistables_colors"
+        }
+      },
+      {
+        "name": "Skin Color",
+        "hex": "#ffdead",
+        "meta": {
+          "link": "https://en.wikipedia.org/wiki/Skin_color"
         }
       },
       {
@@ -5206,7 +5217,7 @@
         "name": "Ultra Pink",
         "hex": "#ff6fff",
         "meta": {
-          "link": "https://en.wikipedia.org/wiki/Shades_of_magenta#Shocking_pink_(Crayola)"
+          "link": "https://en.wikipedia.org/wiki/Shades_of_magenta#Shocking_pink"
         }
       },
       {
@@ -5577,7 +5588,7 @@
         "name": "Yellow-Green",
         "hex": "#9acd32",
         "meta": {
-          "link": "https://en.wikipedia.org/wiki/Yellow-green"
+          "link": "https://en.wikipedia.org/wiki/Shades_of_chartreuse#Yellow-green"
         }
       },
       {
@@ -23646,7 +23657,7 @@
       },
       {
         "name": "Azur",
-        "hex": "#007fff",
+        "hex": "#0080ff",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Azur#El_color_azur_en_la_actualidad"
         }
@@ -23940,7 +23951,7 @@
       },
       {
         "name": "Caqui",
-        "hex": "#c3b091",
+        "hex": "#dfc38a",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Caqui_(color)"
         }
@@ -24017,7 +24028,7 @@
       },
       {
         "name": "Castaña o Castaño",
-        "hex": "#954535",
+        "hex": "#773525",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Marr%C3%B3n#Castaño_y_castaña"
         }
@@ -24059,7 +24070,7 @@
       },
       {
         "name": "Cerúleo",
-        "hex": "#02a4d3",
+        "hex": "#0098d5",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Cer%C3%BAleo"
         }
@@ -24171,7 +24182,7 @@
       },
       {
         "name": "Crema",
-        "hex": "#fffdd0",
+        "hex": "#fff0c9",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Crema_(color)"
         }
@@ -24244,6 +24255,34 @@
         "hex": "#4a5d23",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Verde#Verdes_amarillentos"
+        }
+      },
+      {
+        "name": "Fandango",
+        "hex": "#b53389",
+        "meta": {
+          "link": "https://es.wikipedia.org/wiki/Rojo_p%C3%BArpura#Ejemplos_de_rojo_púrpura"
+        }
+      },
+      {
+        "name": "Feldgrau",
+        "hex": "#59646a",
+        "meta": {
+          "link": "https://es.wikipedia.org/wiki/Feldgrau"
+        }
+      },
+      {
+        "name": "Frambuesa",
+        "hex": "#e62c58",
+        "meta": {
+          "link": "https://es.wikipedia.org/wiki/Frambuesa_(color)"
+        }
+      },
+      {
+        "name": "Fucsia",
+        "hex": "#ff0080",
+        "meta": {
+          "link": "https://es.wikipedia.org/wiki/Fucsia"
         }
       },
       {
@@ -24605,7 +24644,7 @@
       },
       {
         "name": "Gris de Campaña",
-        "hex": "#59646a",
+        "hex": "#5a656b",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Feldgrau"
         }
@@ -24912,17 +24951,17 @@
         }
       },
       {
+        "name": "Marmol",
+        "hex": "#993300",
+        "meta": {
+          "link": "https://es.wikipedia.org/wiki/Marmol"
+        }
+      },
+      {
         "name": "Marron Castaño",
         "hex": "#643b35",
         "meta": {
           "link": "https://gist.github.com/lunohodov/1995178"
-        }
-      },
-      {
-        "name": "Marrón",
-        "hex": "#993300",
-        "meta": {
-          "link": "https://es.wikipedia.org/wiki/Marr%C3%B3n"
         }
       },
       {
@@ -24997,7 +25036,7 @@
       },
       {
         "name": "Morado",
-        "hex": "#c54b8c",
+        "hex": "#a349a4",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Morado"
         }
@@ -25535,6 +25574,20 @@
         }
       },
       {
+        "name": "Quercitrón",
+        "hex": "#e5b03d",
+        "meta": {
+          "link": "https://es.wikipedia.org/wiki/Quercitr%C3%B3n"
+        }
+      },
+      {
+        "name": "Quermes",
+        "hex": "#c42d45",
+        "meta": {
+          "link": "https://es.wikipedia.org/wiki/Kermes_(pigmento)"
+        }
+      },
+      {
         "name": "Rojo",
         "hex": "#e60026",
         "meta": {
@@ -26039,6 +26092,20 @@
         }
       },
       {
+        "name": "Ultramar",
+        "hex": "#4374b9",
+        "meta": {
+          "link": "https://es.wikipedia.org/wiki/Azul_ultramar"
+        }
+      },
+      {
+        "name": "Uva",
+        "hex": "#2f2140",
+        "meta": {
+          "link": "https://es.wikipedia.org/wiki/Violeta_(color)#Variedad_de_violetas"
+        }
+      },
+      {
         "name": "Vainilla",
         "hex": "#f4e6ac",
         "meta": {
@@ -26491,6 +26558,34 @@
         "hex": "#c9a0dc",
         "meta": {
           "link": "https://es.wikipedia.org/wiki/Wisteria_(color)"
+        }
+      },
+      {
+        "name": "Xanadú",
+        "hex": "#738678",
+        "meta": {
+          "link": "https://es.wikipedia.org/wiki/Gris#Muestras_grises"
+        }
+      },
+      {
+        "name": "Xántico",
+        "hex": "#f49531",
+        "meta": {
+          "link": "https://es.wikipedia.org/wiki/X%C3%A1ntico"
+        }
+      },
+      {
+        "name": "Yema",
+        "hex": "#ffe600",
+        "meta": {
+          "link": "https://es.wikipedia.org/wiki/Amarillo_naranja#Coloraciones_amarillo-naranjas"
+        }
+      },
+      {
+        "name": "Yeso",
+        "hex": "#ebe9e4",
+        "meta": {
+          "link": "https://es.wikipedia.org/wiki/Blanco#Variedades_del_blanco"
         }
       },
       {
@@ -27560,6 +27655,13 @@
         }
       },
       {
+        "name": "Grüne Neune",
+        "hex": "#679f2e",
+        "meta": {
+          "link": "https://www.geo.de/geolino/redewendungen/6656-rtkl-redewendung-ach-du-gruene-neune"
+        }
+      },
+      {
         "name": "Grüne Poesie",
         "hex": "#d8ee9c",
         "meta": {
@@ -28261,7 +28363,7 @@
       },
       {
         "name": "Mittelrot",
-        "hex": "#ff0040",
+        "hex": "#12dddd",
         "meta": {
           "link": "https://de.wikipedia.org//wiki/Rot#Mittelrot,_Hochrot,_Blutrot"
         }
@@ -29864,7 +29966,7 @@
       },
       {
         "name": "Zinnoberrot",
-        "hex": "#fe0101",
+        "hex": "#90cffa",
         "meta": {
           "link": "https://de.wikipedia.org//wiki/Rot#Zinnoberrot,_Permanentrot,_Feuerrot"
         }
@@ -52861,6 +52963,1772 @@
         "meta": {
           "pantone": "802 U",
           "ztype": "S-7763"
+        }
+      }
+    ],
+    "hindi": [
+      {
+        "name": "अन्तर्राष्ट्रीय क्लेन नीला",
+        "hex": "#002fa7",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%A8_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "अन्तर्राष्ट्रीय नारंगी",
+        "hex": "#ff4f00",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "अर्धरात्रि नीला",
+        "hex": "#003366",
+        "meta": {
+          "link": "meodai"
+        }
+      },
+      {
+        "name": "आडू़",
+        "hex": "#ffe5b4",
+        "meta": {
+          "link": "meodai"
+        }
+      },
+      {
+        "name": "आडू़-नारंगी",
+        "hex": "#ffcc99",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%A1%E0%A5%82%E0%A4%BC_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%86%E0%A4%A1%E0%A5%82%E0%A4%BC-%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80"
+        }
+      },
+      {
+        "name": "आडू़-पीला",
+        "hex": "#fadfad",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%A1%E0%A5%82%E0%A4%BC_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%86%E0%A4%A1%E0%A5%82%E0%A4%BC-%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "आसमानी",
+        "hex": "#87ceeb",
+        "meta": {
+          "link": "meodai"
+        }
+      },
+      {
+        "name": "इंडिगो",
+        "hex": "#4b0082",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%97%E0%A5%8B#%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%97%E0%A5%8B_(%E0%A4%B5%E0%A5%87%E0%A4%AC)"
+        }
+      },
+      {
+        "name": "इंडिगो डाई",
+        "hex": "#00416a",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%97%E0%A5%8B"
+        }
+      },
+      {
+        "name": "इस्पात नीला",
+        "hex": "#4682b4",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE#%E0%A4%87%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A4_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "इस्लामिक हरा",
+        "hex": "#009000",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A3_%E0%A4%95%E0%A5%87_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%A8#%E0%A4%87%E0%A4%B8%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%AE%E0%A4%BF%E0%A4%95_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "उज्ज्वल फिरोजी़",
+        "hex": "#08e8de",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%AB%E0%A5%80%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%80"
+        }
+      },
+      {
+        "name": "उज्ज्वल हरा",
+        "hex": "#66ff00",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%89%E0%A4%9C%E0%A5%8D%E0%A4%9C%E0%A5%8D%E0%A4%B5%E0%A4%B2_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "ऊष्म गुलाबी",
+        "hex": "#ff69b4",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80#%E0%A4%B5%E0%A5%87%E0%A4%AC_%E0%A4%B0%E0%A4%82%E0%A4%97_%E0%A4%8A%E0%A4%B7%E0%A5%8D%E0%A4%AE_%E0%A4%AA%E0%A4%BF%E0%A4%82%E0%A4%95"
+        }
+      },
+      {
+        "name": "ऊष्म रानी",
+        "hex": "#ff00cc",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "एक्रू",
+        "hex": "#c2b280",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%82"
+        }
+      },
+      {
+        "name": "एक्वुआ या जलीय",
+        "hex": "#00ffff",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%B5%E0%A5%81%E0%A4%86_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "एक्वुआमरीन",
+        "hex": "#7fffd4",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%B5%E0%A5%81%E0%A4%86%E0%A4%AE%E0%A4%B0%E0%A5%80%E0%A4%A8_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "एलिस नीला",
+        "hex": "#f0f8ff",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%B2%E0%A4%BF%E0%A4%B8_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "एलीजा़रिन",
+        "hex": "#e32636",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%B2%E0%A5%80%E0%A4%9C%E0%A4%BE%E0%A4%BC%E0%A4%B0%E0%A4%BF%E0%A4%A8"
+        }
+      },
+      {
+        "name": "एस्पैरागस सलेटी",
+        "hex": "#465945",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%88%E0%A4%B0%E0%A4%BE%E0%A4%97%E0%A4%B8_%E0%A4%B8%E0%A4%B2%E0%A5%87%E0%A4%9F%E0%A5%80"
+        }
+      },
+      {
+        "name": "ऐज़्योर",
+        "hex": "#0080ff",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%90%E0%A4%9C%E0%A4%BC%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "ऐज्योर वेब",
+        "hex": "#f0ffff",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%90%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0_(%E0%A4%B5%E0%A5%87%E0%A4%AC_%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "ऐमारैंथ",
+        "hex": "#e52b50",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%90%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%88%E0%A4%82%E0%A4%A5_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "ऐस्पैरागस",
+        "hex": "#7ba05b",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%90%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%88%E0%A4%B0%E0%A4%BE%E0%A4%97%E0%A4%B8_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "ऑफिस हरा",
+        "hex": "#008000",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%91%E0%A4%AB%E0%A4%BF%E0%A4%B8_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "ऑर्किड",
+        "hex": "#da70d6",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%91%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%A1_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "ओलीवाइन",
+        "hex": "#9ab973",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%93%E0%A4%B2%E0%A5%80%E0%A4%B5%E0%A4%BE%E0%A4%87%E0%A4%A8"
+        }
+      },
+      {
+        "name": "औबर्न",
+        "hex": "#6d351a",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%94%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%A8_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "कद्दू",
+        "hex": "#ff7518",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%A6%E0%A5%8D%E0%A4%A6%E0%A5%82_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "कलहंस",
+        "hex": "#008080",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%B2%E0%A4%B9%E0%A4%82%E0%A4%B8_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "कहरुवा",
+        "hex": "#ffbf00",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%95%E0%A4%B9%E0%A4%B0%E0%A5%81%E0%A4%B5%E0%A4%BE"
+        }
+      },
+      {
+        "name": "कार्डिनल",
+        "hex": "#c41e3a",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A4%BF%E0%A4%A8%E0%A4%B2_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "कार्माइन",
+        "hex": "#960018",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%A8_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "काला",
+        "hex": "#000000",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "काँस्य",
+        "hex": "#cd7f32",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%BE%E0%A4%81%E0%A4%B8%E0%A5%8D%E0%A4%AF"
+        }
+      },
+      {
+        "name": "किरमिज",
+        "hex": "#dc143c",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%BF%E0%A4%B0%E0%A4%AE%E0%A4%BF%E0%A4%9C"
+        }
+      },
+      {
+        "name": "कॅपट मोर्टुअम",
+        "hex": "#592720",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%85%E0%A4%AA%E0%A4%9F_%E0%A4%AE%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%81%E0%A4%85%E0%A4%AE"
+        }
+      },
+      {
+        "name": "केसरिया",
+        "hex": "#f4c430",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%87%E0%A4%B8%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "कैली हरा",
+        "hex": "#4cbb17",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%88%E0%A4%B2%E0%A5%80_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "कॉपर रोज़",
+        "hex": "#996666",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%95%E0%A5%89%E0%A4%AA%E0%A4%B0_%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC"
+        }
+      },
+      {
+        "name": "कॉर्न",
+        "hex": "#fbec5d",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%A8_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "कॉर्नफ्लावर नीला",
+        "hex": "#6495ed",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%AB%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B5%E0%A4%B0_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "कॉस्मिक लेट्ट",
+        "hex": "#fff8e7",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%95_%E0%A4%B2%E0%A5%87%E0%A4%9F%E0%A5%8D%E0%A4%9F"
+        }
+      },
+      {
+        "name": "कोबाल्ट",
+        "hex": "#0047ab",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%9F_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "क्यान",
+        "hex": "#01fefe",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8"
+        }
+      },
+      {
+        "name": "क्रीम",
+        "hex": "#fffdd0",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE"
+        }
+      },
+      {
+        "name": "खाकी",
+        "hex": "#bdb76b",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%96%E0%A4%BE%E0%A4%95%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "खुबानी",
+        "hex": "#fbceb1",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%96%E0%A5%81%E0%A4%AC%E0%A4%BE%E0%A4%A8%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "गजदंती",
+        "hex": "#fffff0",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%9C%E0%A4%A6%E0%A4%82%E0%A4%A4%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "गहन लाइलैक",
+        "hex": "#9955bb",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%B2%E0%A5%88%E0%A4%95_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%97%E0%A4%B9%E0%A4%A8_%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%B2%E0%A5%88%E0%A4%95"
+        }
+      },
+      {
+        "name": "गहरा अखरोटी",
+        "hex": "#986960",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%B2#%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%B2%E0%A4%BE%E0%A4%B2"
+        }
+      },
+      {
+        "name": "गहरा आडू़",
+        "hex": "#ffcba4",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%A1%E0%A5%82%E0%A4%BC_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%86%E0%A4%A1%E0%A5%82%E0%A4%BC"
+        }
+      },
+      {
+        "name": "गहरा केसरिया",
+        "hex": "#ffa812",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%95%E0%A5%87%E0%A4%B8%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE"
+        }
+      },
+      {
+        "name": "गहरा गुलाबी",
+        "hex": "#e75480",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80#%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
+        }
+      },
+      {
+        "name": "गहरा गोल्डन रॉड",
+        "hex": "#b8860b",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%A1%E0%A4%A8_%E0%A4%B0%E0%A5%89%E0%A4%A1"
+        }
+      },
+      {
+        "name": "गहरा जामुनी लाल रंग-बरगंडी",
+        "hex": "#900020",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A4%B0%E0%A4%97%E0%A4%82%E0%A4%A1%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "गहरा टैन / पीला भूरा",
+        "hex": "#918151",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%9F%E0%A5%88%E0%A4%A8_/_%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE_%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "गहरा नीला",
+        "hex": "#0000c8",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "गहरा पेस्टल हरा",
+        "hex": "#03c03c",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "गहरा फिरोजी",
+        "hex": "#116062",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%AB%E0%A4%BF%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%80"
+        }
+      },
+      {
+        "name": "गहरा भूरा",
+        "hex": "#654321",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE#%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "गहरा मूँगा",
+        "hex": "#cd5b45",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%82%E0%A4%81%E0%A4%97%E0%A4%BE_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "गहरा वसंती हरा",
+        "hex": "#177245",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%B5%E0%A4%B8%E0%A4%82%E0%A4%A4%E0%A5%80_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "गहरा सेराइज",
+        "hex": "#da3287",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%9C%E0%A4%BC_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%B8%E0%A5%87%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%9C"
+        }
+      },
+      {
+        "name": "गहरा सेरुलिअन",
+        "hex": "#08457e",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%B0%E0%A5%81%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%A8"
+        }
+      },
+      {
+        "name": "गहरा स्लेटी",
+        "hex": "#2f4f4f",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%B2%E0%A5%87%E0%A4%9F%E0%A5%80#%E0%A4%B5%E0%A5%87%E0%A4%AC_%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A3"
+        }
+      },
+      {
+        "name": "गहरा हरा",
+        "hex": "#013220",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "गुलाब",
+        "hex": "#ff007f",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "गुलाबी",
+        "hex": "#ffc0cb",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
+        }
+      },
+      {
+        "name": "गुलाबी - नारंगी",
+        "hex": "#ff9966",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80_-_%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80"
+        }
+      },
+      {
+        "name": "गुलाबी#गुलनार गुलाबी",
+        "hex": "#ffa6c9",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80#%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%A8%E0%A4%BE%E0%A4%B0_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
+        }
+      },
+      {
+        "name": "गेरुआ",
+        "hex": "#cc7722",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%87%E0%A4%B0%E0%A5%81%E0%A4%86"
+        }
+      },
+      {
+        "name": "गेंहुआ",
+        "hex": "#f5deb3",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%87%E0%A4%82%E0%A4%B9%E0%A5%81%E0%A4%86_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "गैम्बोज",
+        "hex": "#e49b0f",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%88%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A5%8B%E0%A4%9C"
+        }
+      },
+      {
+        "name": "गोल्डन रॉड",
+        "hex": "#daa520",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%A1%E0%A4%A8_%E0%A4%B0%E0%A5%89%E0%A4%A1_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "चाय हरा",
+        "hex": "#d0f0c0",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A4%BE%E0%A4%AF_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "चार्ट्रियूज",
+        "hex": "#7fff00",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%82%E0%A4%9C_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "चार्ट्रियूज पीला",
+        "hex": "#dfff00",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%82%E0%A4%9C_%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "चीड़ हरा",
+        "hex": "#01796f",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A5%80%E0%A4%A1%E0%A4%BC_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "चॉकलेट",
+        "hex": "#7b3f00",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A5%89%E0%A4%95%E0%A4%B2%E0%A5%87%E0%A4%9F_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "जंबुमणि या कटैला",
+        "hex": "#9966cc",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%82%E0%A4%AC%E0%A5%81%E0%A4%AE%E0%A4%A3%E0%A4%BF_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "जि़न्वाल्डाइट",
+        "hex": "#ebc2af",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%BF%E0%A4%BC%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%A1%E0%A4%BE%E0%A4%87%E0%A4%9F_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "जैतून हरा",
+        "hex": "#808000",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%9C%E0%A5%88%E0%A4%A4%E0%A5%82%E0%A4%A8"
+        }
+      },
+      {
+        "name": "झटकेदार गुलाबी",
+        "hex": "#fc0fc0",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80#%E0%A4%9D%E0%A4%9F%E0%A4%95%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
+        }
+      },
+      {
+        "name": "टाउप",
+        "hex": "#483c32",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%9F%E0%A4%BE%E0%A4%89%E0%A4%AA"
+        }
+      },
+      {
+        "name": "टाएरियन पर्पल",
+        "hex": "#66023c",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2#%E0%A4%9F%E0%A4%BE%E0%A4%8F%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%A8_%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2"
+        }
+      },
+      {
+        "name": "टी रोज़",
+        "hex": "#f88379",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%AE%E0%A5%82%E0%A4%81%E0%A4%97%E0%A4%BE_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
+        }
+      },
+      {
+        "name": "टैंगराइन",
+        "hex": "#f28500",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%9F%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%A8_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "टैंगराइन पीला",
+        "hex": "#ffcc00",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%9F%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%A8_%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "टैन",
+        "hex": "#d2b48c",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%9F%E0%A5%88%E0%A4%A8_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "टैराकोटा",
+        "hex": "#e2725b",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%9F%E0%A5%88%E0%A4%B0%E0%A4%BE%E0%A4%95%E0%A5%8B%E0%A4%9F%E0%A4%BE"
+        }
+      },
+      {
+        "name": "टॉनी",
+        "hex": "#cd5700",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%9F%E0%A5%89%E0%A4%A8%E0%A5%80"
+        }
+      },
+      {
+        "name": "डेनिम",
+        "hex": "#1560bd",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A1%E0%A5%87%E0%A4%A8%E0%A4%BF%E0%A4%AE_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "डॉजर नीला",
+        "hex": "#1e90ff",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A1%E0%A5%89%E0%A4%9C%E0%A4%B0_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "ताप्रांगीयिज या मैलासाइट",
+        "hex": "#0bda51",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A4%E0%A4%BE%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A5%80%E0%A4%AF%E0%A4%BF%E0%A4%9C"
+        }
+      },
+      {
+        "name": "ताम्र वर्ण",
+        "hex": "#b87333",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A4%E0%A4%BE%E0%A4%AE%E0%A5%8D%E0%A4%B0_%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A3"
+        }
+      },
+      {
+        "name": "तिपतिया हरा",
+        "hex": "#009e60",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A4%A4%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "तेजोमय गुलाबी",
+        "hex": "#ff55a3",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%A4%E0%A5%87%E0%A4%9C%E0%A5%8B%E0%A4%AE%E0%A4%AF_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
+        }
+      },
+      {
+        "name": "दालचीनी",
+        "hex": "#d2691e",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A6%E0%A4%BE%E0%A4%B2%E0%A4%9A%E0%A5%80%E0%A4%A8%E0%A5%80"
+        }
+      },
+      {
+        "name": "धानी",
+        "hex": "#adff2f",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A5%80"
+        }
+      },
+      {
+        "name": "धुंधला गुलाबी",
+        "hex": "#ffe4e1",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%A7%E0%A5%81%E0%A4%82%E0%A4%A7%E0%A4%B2%E0%A4%BE_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
+        }
+      },
+      {
+        "name": "नारंगी",
+        "hex": "#ffa000",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80_(%E0%A4%9B%E0%A4%BF%E0%A4%B2%E0%A4%95%E0%A4%BE)_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "नाशपाती",
+        "hex": "#d1e231",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B6%E0%A4%AA%E0%A4%BE%E0%A4%A4%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "नीबू",
+        "hex": "#fde910",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%AC%E0%A5%82_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "नींबू",
+        "hex": "#ccff00",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%82%E0%A4%AC%E0%A5%82_(%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AE)_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "नीबू शीफॉन",
+        "hex": "#fffacd",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%AC%E0%A5%82_%E0%A4%B6%E0%A5%80%E0%A4%AB%E0%A5%89%E0%A4%A8_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "नीरस जैतूनी",
+        "hex": "#6b8e23",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%B0%E0%A4%B8_%E0%A4%9C%E0%A5%88%E0%A4%A4%E0%A5%82%E0%A4%A8%E0%A5%80"
+        }
+      },
+      {
+        "name": "नील-जामुनी",
+        "hex": "#8a2be2",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%97%E0%A5%8B#%E0%A4%97%E0%A4%B9%E0%A4%A8_%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%97%E0%A5%8B"
+        }
+      },
+      {
+        "name": "नील-हरित",
+        "hex": "#00dddd",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%B2-%E0%A4%B9%E0%A4%B0%E0%A4%BF%E0%A4%A4"
+        }
+      },
+      {
+        "name": "नीलम",
+        "hex": "#082567",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE#%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%AE"
+        }
+      },
+      {
+        "name": "नीला",
+        "hex": "#0000ff",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "नेवी ब्लू",
+        "hex": "#000080",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%87%E0%A4%B5%E0%A5%80_%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A5%82"
+        }
+      },
+      {
+        "name": "नैवेजो श्वेत",
+        "hex": "#ffdead",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%88%E0%A4%B5%E0%A5%87%E0%A4%9C%E0%A5%8B_%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A4"
+        }
+      },
+      {
+        "name": "पन्ना",
+        "hex": "#50c878",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A4%BE_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "पपीता व्हिप",
+        "hex": "#ffefd5",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%AA%E0%A5%80%E0%A4%A4%E0%A4%BE_%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%BF%E0%A4%AA"
+        }
+      },
+      {
+        "name": "पराजलीय",
+        "hex": "#120a8f",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%B2%E0%A5%80%E0%A4%AF"
+        }
+      },
+      {
+        "name": "पर्पल",
+        "hex": "#800080",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2#%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2(HTML/CSS)"
+        }
+      },
+      {
+        "name": "पर्पल टाउप",
+        "hex": "#50404d",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2#%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2_%E0%A4%9F%E0%A4%BE%E0%A4%89%E0%A4%AA"
+        }
+      },
+      {
+        "name": "पावडर नीला",
+        "hex": "#b0e0e6",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B5%E0%A4%A1%E0%A4%B0_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "पावडर ब्लू",
+        "hex": "#003399",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE#%E0%A4%AA%E0%A4%BE%E0%A4%B5%E0%A4%A1%E0%A4%B0_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "पीतल",
+        "hex": "#b5a642",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%80%E0%A4%A4%E0%A4%B2_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "पीला",
+        "hex": "#ffff00",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "पुरातन गुलाबी",
+        "hex": "#c08081",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80#%E0%A4%93%E0%A4%B2%E0%A5%8D%E0%A4%A1_%E0%A4%B0%E0%A5%8B%E0%A4%9C"
+        }
+      },
+      {
+        "name": "पुरातन लॅवेंडर",
+        "hex": "#796878",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A5%85%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A4%A8_%E0%A4%B2%E0%A5%85%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0"
+        }
+      },
+      {
+        "name": "पुरातन लेस",
+        "hex": "#fdf5e6",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A4%A8_%E0%A4%B2%E0%A5%87%E0%A4%B8"
+        }
+      },
+      {
+        "name": "पुरातन हरा",
+        "hex": "#cfb53b",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A4%A8_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "पेस्टल गुलाबी",
+        "hex": "#ffd1dc",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
+        }
+      },
+      {
+        "name": "पेस्टल हरा",
+        "hex": "#77dd77",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "प्यूस",
+        "hex": "#cc8899",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%B8"
+        }
+      },
+      {
+        "name": "प्रशियन नीला",
+        "hex": "#003153",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BF%E0%A4%AF%E0%A4%A8_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "फर्न हरा",
+        "hex": "#4f7942",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A4%B0%E0%A5%8D%E0%A4%A8_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "फारसी इंडिगो",
+        "hex": "#32127a",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%AB%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%80_%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%97%E0%A5%8B"
+        }
+      },
+      {
+        "name": "फारसी गुलाबी",
+        "hex": "#f77fbe",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80#%E0%A4%AB%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%80_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
+        }
+      },
+      {
+        "name": "फारसी नीला",
+        "hex": "#1c39bb",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%80_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "फारसी रोज़",
+        "hex": "#f880bf",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "फारसी लाल",
+        "hex": "#cc3333",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%80_%E0%A4%B2%E0%A4%BE%E0%A4%B2"
+        }
+      },
+      {
+        "name": "फारसी हरा",
+        "hex": "#00a693",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%80_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "फालसई",
+        "hex": "#ee82ee",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%AB%E0%A4%BE%E0%A4%B2%E0%A4%B8%E0%A4%88"
+        }
+      },
+      {
+        "name": "फालू रैड",
+        "hex": "#801818",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BE%E0%A4%B2%E0%A5%82_%E0%A4%B0%E0%A5%88%E0%A4%A1"
+        }
+      },
+      {
+        "name": "फीका अखरोटी",
+        "hex": "#ddadaf",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE_(%E0%A4%9A%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%A8%E0%A4%9F)_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "फीका कारमाइन",
+        "hex": "#af4035",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%B2#%E0%A4%AE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AE_%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%A8"
+        }
+      },
+      {
+        "name": "फीका कॉर्नफ्लावर नीला",
+        "hex": "#abcdef",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE#%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%AB%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B5%E0%A4%B0_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "फीका गुलाबी",
+        "hex": "#fadadd",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
+        }
+      },
+      {
+        "name": "फीका नीला",
+        "hex": "#afeeee",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A5%80%E0%A4%95%E0%A4%BE_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "फीका भूरा",
+        "hex": "#987654",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A5%80%E0%A4%95%E0%A4%BE_%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "फीका रानी",
+        "hex": "#f984e5",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "फीका लाल बैंगनी",
+        "hex": "#db7093",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%B2#%E0%A4%AB%E0%A5%80%E0%A4%95%E0%A4%BE_%E0%A4%B2%E0%A4%BE%E0%A4%B2_%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A5%80_(%E0%A4%B5%E0%A5%87%E0%A4%AC_%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "फीरोजी़",
+        "hex": "#30d5c8",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "फूशिया गुलाबी",
+        "hex": "#ff77ff",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A5%82%E0%A4%B6%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
+        }
+      },
+      {
+        "name": "फॉरेस्ट हरा",
+        "hex": "#228b22",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A5%89%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "फ्यूशिया",
+        "hex": "#ff00ff",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%B6%E0%A4%BF%E0%A4%AF%E0%A4%BE_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "फ्रेंच रोज़",
+        "hex": "#f64a8a",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%9A_%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC"
+        }
+      },
+      {
+        "name": "फ्लैक्स",
+        "hex": "#eedc82",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A5%8D%E0%A4%B2%E0%A5%88%E0%A4%95%E0%A5%8D%E0%A4%B8_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "बर्न्ट अंबर",
+        "hex": "#8a3324",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A5%8D%E0%A4%9F_%E0%A4%85%E0%A4%82%E0%A4%AC%E0%A4%B0"
+        }
+      },
+      {
+        "name": "बर्न्ट ऑरेंज",
+        "hex": "#cc5500",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A5%8D%E0%A4%9F_%E0%A4%91%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%9C"
+        }
+      },
+      {
+        "name": "बर्न्ट सीएन्ना",
+        "hex": "#e97451",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A5%8D%E0%A4%9F_%E0%A4%B8%E0%A5%80%E0%A4%8F%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A4%BE"
+        }
+      },
+      {
+        "name": "बाँडी नीला",
+        "hex": "#0095b6",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A4%BE%E0%A4%81%E0%A4%A1%E0%A5%80_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "बादामी",
+        "hex": "#f0dc82",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A4%BE%E0%A4%A6%E0%A4%BE%E0%A4%AE%E0%A5%80"
+        }
+      },
+      {
+        "name": "बिस्ट्र",
+        "hex": "#3d2b1f",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0"
+        }
+      },
+      {
+        "name": "बेज",
+        "hex": "#f5f5dc",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%87%E0%A4%9C"
+        }
+      },
+      {
+        "name": "बेबी नीला",
+        "hex": "#e0ffff",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%87%E0%A4%AC%E0%A5%80_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "बैंगनी",
+        "hex": "#423189",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "भटकटैया",
+        "hex": "#d8bfd8",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%9F%E0%A4%95%E0%A4%9F%E0%A5%88%E0%A4%AF%E0%A4%BE_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "भूरा",
+        "hex": "#cd5c5c",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE_(%E0%A4%9A%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%A8%E0%A4%9F)_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "मध्यम कारमाइन",
+        "hex": "#b04136",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%A8_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%AE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AE_%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%A8"
+        }
+      },
+      {
+        "name": "मध्यम नीला",
+        "hex": "#0000cd",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE#%E0%A4%AE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AE_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "मध्यम पर्पल",
+        "hex": "#9370db",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2#%E0%A4%AE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AE_%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2_(X11)"
+        }
+      },
+      {
+        "name": "मनोविकृतिकारी पर्पल",
+        "hex": "#dd00ff",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2#%E0%A4%9A%E0%A5%87%E0%A4%A4%E0%A4%A8%E0%A4%BE_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%80_%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2"
+        }
+      },
+      {
+        "name": "माउंटबैटन गुलाबी",
+        "hex": "#997a8d",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%89%E0%A4%82%E0%A4%9F%E0%A4%AC%E0%A5%88%E0%A4%9F%E0%A4%A8_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
+        }
+      },
+      {
+        "name": "माया नीला",
+        "hex": "#73c2fb",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%BE_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "मिंट हरा",
+        "hex": "#98ff98",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%AE%E0%A4%BF%E0%A4%82%E0%A4%9F_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "मूँगा",
+        "hex": "#ff7f50",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%82%E0%A4%81%E0%A4%97%E0%A4%BE_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "मूँगा लाल",
+        "hex": "#ff4040",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%82%E0%A4%81%E0%A4%97%E0%A4%BE_%E0%A4%B2%E0%A4%BE%E0%A4%B2"
+        }
+      },
+      {
+        "name": "मेहंदी",
+        "hex": "#21421e",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%87%E0%A4%B9%E0%A4%82%E0%A4%A6%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "मैरून",
+        "hex": "#800000",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%88%E0%A4%B0%E0%A5%82%E0%A4%A8"
+        }
+      },
+      {
+        "name": "मॉव",
+        "hex": "#e0b0ff",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%89%E0%A4%B5"
+        }
+      },
+      {
+        "name": "मॉव टाउप",
+        "hex": "#915f6d",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%9F%E0%A4%BE%E0%A4%89%E0%A4%AA#%E0%A4%AE%E0%A5%89%E0%A4%B5_%E0%A4%9F%E0%A4%BE%E0%A4%89%E0%A4%AA"
+        }
+      },
+      {
+        "name": "मॉस हरा",
+        "hex": "#addfad",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%89%E0%A4%B8_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "रजत वर्ण",
+        "hex": "#c0c0c0",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%82%E0%A4%AA%E0%A4%B9%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "रस्सट",
+        "hex": "#80461b",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%B8%E0%A4%9F_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "रानी",
+        "hex": "#cd00cc",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "रिच कारमाइन",
+        "hex": "#d70040",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%B2#%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%9A%E0%A5%81%E0%A4%B0_%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%A8"
+        }
+      },
+      {
+        "name": "रिच मैजेन्टा",
+        "hex": "#ca1f7b",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%97%E0%A4%B9%E0%A4%A8_%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%80"
+        }
+      },
+      {
+        "name": "रॉ अम्बर",
+        "hex": "#734a12",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE#%E0%A4%B0%E0%A5%89_%E0%A4%85%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%B0"
+        }
+      },
+      {
+        "name": "रॉबिन एग ब्लू",
+        "hex": "#00cccc",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%B0%E0%A5%89%E0%A4%AC%E0%A4%BF%E0%A4%A8_%E0%A4%8F%E0%A4%97_%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A5%82"
+        }
+      },
+      {
+        "name": "रोज़ टाउप",
+        "hex": "#905d5d",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC_%E0%A4%9F%E0%A4%BE%E0%A4%89%E0%A4%AA"
+        }
+      },
+      {
+        "name": "लाइम",
+        "hex": "#bfff00",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AE_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "लाइलैक",
+        "hex": "#c8a2c8",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%B2%E0%A5%88%E0%A4%95"
+        }
+      },
+      {
+        "name": "लाल",
+        "hex": "#ff0000",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%B2"
+        }
+      },
+      {
+        "name": "लाल-बैंगनी",
+        "hex": "#c71585",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%B2-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A5%80"
+        }
+      },
+      {
+        "name": "लालमणि",
+        "hex": "#e0115f",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%B2%E0%A4%AE%E0%A4%A3%E0%A4%BF_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "लिनेन",
+        "hex": "#faf0e6",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%A8_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "लॅवेंडर",
+        "hex": "#b57edc",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A5%85%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "लॅवेंडर अरुणिमा",
+        "hex": "#fff0f5",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A5%85%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%B2%E0%A5%85%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0_%E0%A4%85%E0%A4%B0%E0%A5%81%E0%A4%A3%E0%A4%BF%E0%A4%AE%E0%A4%BE"
+        }
+      },
+      {
+        "name": "लॅवेंडर गुलाबी",
+        "hex": "#fbaed2",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A5%85%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%B2%E0%A5%85%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
+        }
+      },
+      {
+        "name": "लॅवेंडर जामुनी",
+        "hex": "#967bb6",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A5%85%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%AE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AE_%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2"
+        }
+      },
+      {
+        "name": "लॅवेंडर नीला",
+        "hex": "#ccccff",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A5%85%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%B8%E0%A4%A6%E0%A4%BE%E0%A4%AC%E0%A4%B9%E0%A4%BE%E0%A4%B0"
+        }
+      },
+      {
+        "name": "लॅवेंडर रानी",
+        "hex": "#ef83ef",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A5%85%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%B2%E0%A5%85%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0_%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%80"
+        }
+      },
+      {
+        "name": "लॅवेंडर रोज़",
+        "hex": "#fba0e3",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A5%85%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "लॅवेंडर सलेटी",
+        "hex": "#c4c3d0",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A5%85%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%B2%E0%A5%85%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0_%E0%A4%B8%E0%A4%B2%E0%A5%87%E0%A4%9F%E0%A5%80"
+        }
+      },
+      {
+        "name": "लौह भस्म",
+        "hex": "#b7410e",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A5%8C%E0%A4%B9_%E0%A4%AD%E0%A4%B8%E0%A5%8D%E0%A4%AE_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "वसंत कलिका",
+        "hex": "#a7fc00",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%B5%E0%A4%B8%E0%A4%82%E0%A4%A4_%E0%A4%95%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%BE"
+        }
+      },
+      {
+        "name": "वसंत हरा",
+        "hex": "#00ff7f",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%B5%E0%A4%B8%E0%A4%82%E0%A4%A4_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "विद्युत नीला",
+        "hex": "#7df9ff",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "विद्युत पर्पल",
+        "hex": "#bf00ff",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2#%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4_%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2"
+        }
+      },
+      {
+        "name": "विद्युत बैंगनी",
+        "hex": "#8b00ff",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4_%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A5%80"
+        }
+      },
+      {
+        "name": "विद्युत हरा",
+        "hex": "#00ff00",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "विरिडियन",
+        "hex": "#40826d",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%B5%E0%A4%BF%E0%A4%B0%E0%A4%BF%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%A8"
+        }
+      },
+      {
+        "name": "विस्टेरिया",
+        "hex": "#c9a0dc",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "शंखीय श्वेत",
+        "hex": "#fff5ee",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B6%E0%A4%82%E0%A4%96%E0%A5%80%E0%A4%AF_%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A4"
+        }
+      },
+      {
+        "name": "शाही नीला",
+        "hex": "#4169e1",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "शाही पर्पल",
+        "hex": "#6b3fa0",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2"
+        }
+      },
+      {
+        "name": "श्वेत",
+        "hex": "#ffffff",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A4"
+        }
+      },
+      {
+        "name": "सदाबहार",
+        "hex": "#cdcdfe",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%B8%E0%A4%A6%E0%A4%BE%E0%A4%AC%E0%A4%B9%E0%A4%BE%E0%A4%B0"
+        }
+      },
+      {
+        "name": "समुद्री हरा",
+        "hex": "#2e8b57",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%80_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "सरसों",
+        "hex": "#ffdb58",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%B0%E0%A4%B8%E0%A5%8B%E0%A4%82_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "सलेटी",
+        "hex": "#808080",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%B2%E0%A5%87%E0%A4%9F%E0%A5%80"
+        }
+      },
+      {
+        "name": "साल्मन",
+        "hex": "#e9967a",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%AE%E0%A4%A8_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "सिंदूरी",
+        "hex": "#ff4d00",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%82%E0%A4%B0%E0%A5%80"
+        }
+      },
+      {
+        "name": "सिंदूरी लाल",
+        "hex": "#ff4500",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80-%E0%A4%B2%E0%A4%BE%E0%A4%B2"
+        }
+      },
+      {
+        "name": "सिनाबार",
+        "hex": "#e34234",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%BF%E0%A4%A8%E0%A4%BE%E0%A4%AC%E0%A4%BE%E0%A4%B0"
+        }
+      },
+      {
+        "name": "सीपिया",
+        "hex": "#704214",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%80%E0%A4%AA%E0%A4%BF%E0%A4%AF%E0%A4%BE_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "सुनहरा",
+        "hex": "#d4af37",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A4%B9%E0%A4%B0%E0%A4%BE_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "सुनहरा भूरा",
+        "hex": "#996515",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%B8%E0%A5%81%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A3_%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "सुर्ख",
+        "hex": "#ff2400",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%B2#%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%96"
+        }
+      },
+      {
+        "name": "सुवर्ण",
+        "hex": "#ffd700",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE#%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "सुवर्ण पीला",
+        "hex": "#ffdf00",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%B8%E0%A5%81%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A3_%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "सेफटी नारंगी",
+        "hex": "#ff6600",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80#%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE_%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80"
+        }
+      },
+      {
+        "name": "सेराइज",
+        "hex": "#de3163",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%9C_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "सेरूलिअन",
+        "hex": "#007ba7",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%B0%E0%A5%82%E0%A4%B2%E0%A4%BF%E0%A4%85%E0%A4%A8"
+        }
+      },
+      {
+        "name": "सेरूलिअन नीला",
+        "hex": "#2a52be",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%B0%E0%A5%82%E0%A4%B2%E0%A4%BF%E0%A4%85%E0%A4%A8_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "सेलाडॉन",
+        "hex": "#ace1af",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%B2%E0%A4%BE%E0%A4%A1%E0%A5%89%E0%A4%A8_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "सेलेक्टिव पीला",
+        "hex": "#ffba00",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%B5_%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "सैंग्रिय",
+        "hex": "#92000a",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "सैंडी भूरा",
+        "hex": "#f4a460",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE#%E0%A4%B8%E0%A4%82%E0%A4%A1%E0%A5%80_%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "सैनिक हरा",
+        "hex": "#4b5320",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%80_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8"
+        }
+      },
+      {
+        "name": "सैल्मन",
+        "hex": "#ff8c69",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%AE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AE_%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%AE%E0%A4%A8"
+        }
+      },
+      {
+        "name": "स्कूल बस पीला",
+        "hex": "#ffd800",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE#%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%82%E0%A4%B2_%E0%A4%AC%E0%A4%B8_%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "स्लेट्आ ग्रे",
+        "hex": "#708090",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%B2%E0%A5%87%E0%A4%9F%E0%A5%80"
+        }
+      },
+      {
+        "name": "स्वर्णाम्र",
+        "hex": "#ec5800",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A4%BE%E0%A4%AE%E0%A5%8D%E0%A4%B0_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "हरा",
+        "hex": "#01fe01",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "हरा HTML/CSS",
+        "hex": "#018101",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#HTML/CSS_%E0%A4%AE%E0%A5%87"
+        }
+      },
+      {
+        "name": "हरा#छलावरण हरा",
+        "hex": "#78866b",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%9B%E0%A4%B2%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+        }
+      },
+      {
+        "name": "हरिताश्म",
+        "hex": "#00a86b",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%B6%E0%A5%8D%E0%A4%AE_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "हलका खाकी",
+        "hex": "#f0e68c",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B2%E0%A4%95%E0%A4%BE_%E0%A4%96%E0%A4%BE%E0%A4%95%E0%A5%80"
+        }
+      },
+      {
+        "name": "हलका बैंगनी",
+        "hex": "#990066",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B2%E0%A4%95%E0%A4%BE_%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A5%80"
+        }
+      },
+      {
+        "name": "हल्का नीला",
+        "hex": "#add8e6",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A4%BE_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "हार्लेक्वीन",
+        "hex": "#3fff00",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B5%E0%A5%80%E0%A4%A8_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "हैन पर्पल",
+        "hex": "#5218fa",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A5%88%E0%A4%A8_%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2"
+        }
+      },
+      {
+        "name": "हैलिओट्रोप",
+        "hex": "#df73ff",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A5%88%E0%A4%B2%E0%A4%BF%E0%A4%93%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%AA_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "हौलीवुड सेराइज़",
+        "hex": "#f400a1",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A5%8C%E0%A4%B2%E0%A5%80%E0%A4%B5%E0%A5%81%E0%A4%A1_%E0%A4%B8%E0%A5%87%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%9C%E0%A4%BC"
         }
       }
     ],
@@ -82589,7 +84457,7 @@
       "source": "https://github.com/meodai/wikipedia-color-names",
       "key": "wikipedia",
       "license": "CC BY-SA 3.0, GFDL",
-      "colorCount": 800
+      "colorCount": 802
     },
     "french": {
       "title": "French Colors",
@@ -82605,7 +84473,7 @@
       "source": "https://github.com/meodai/nombres-de-colores",
       "key": "spanish",
       "license": "MIT",
-      "colorCount": 521
+      "colorCount": 533
     },
     "german": {
       "title": "German Colors",
@@ -82613,7 +84481,7 @@
       "source": "https://github.com/meodai/farbnamen",
       "key": "german",
       "license": "MIT",
-      "colorCount": 481
+      "colorCount": 482
     },
     "x11": {
       "title": "X11 Color Names",
@@ -82646,6 +84514,14 @@
       "key": "chineseTraditional",
       "license": "CC0 1.0 Public Domain Dedication",
       "colorCount": 384
+    },
+    "hindi": {
+      "title": "Hindi Colors",
+      "description": "A list of Hindi color names",
+      "source": "https://github.com/meodai/hindi-color-names",
+      "key": "hindi",
+      "license": "MIT",
+      "colorCount": 252
     }
   }
 }
