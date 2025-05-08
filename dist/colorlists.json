@@ -53367,7 +53367,7 @@
         }
       },
       {
-        "name": "गहरा टैन / पीला भूरा",
+        "name": "गहरा टैन",
         "hex": "#918151",
         "meta": {
           "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%9F%E0%A5%88%E0%A4%A8_/_%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE_%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE"
@@ -53444,6 +53444,13 @@
         }
       },
       {
+        "name": "गुलनार गुलाबी",
+        "hex": "#ffa6c9",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80#%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%A8%E0%A4%BE%E0%A4%B0_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
+        }
+      },
+      {
         "name": "गुलाब",
         "hex": "#ff007f",
         "meta": {
@@ -53452,9 +53459,9 @@
       },
       {
         "name": "गुलाबी",
-        "hex": "#ffc0cb",
+        "hex": "#fea7ca",
         "meta": {
-          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80#%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%A8%E0%A4%BE%E0%A4%B0_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
         }
       },
       {
@@ -53462,13 +53469,6 @@
         "hex": "#ff9966",
         "meta": {
           "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80_-_%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80"
-        }
-      },
-      {
-        "name": "गुलाबी#गुलनार गुलाबी",
-        "hex": "#ffa6c9",
-        "meta": {
-          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80#%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%A8%E0%A4%BE%E0%A4%B0_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
         }
       },
       {
@@ -53532,6 +53532,13 @@
         "hex": "#7b3f00",
         "meta": {
           "link": "https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A5%89%E0%A4%95%E0%A4%B2%E0%A5%87%E0%A4%9F_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+        }
+      },
+      {
+        "name": "छलावरण हरा",
+        "hex": "#78866b",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%9B%E0%A4%B2%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
         }
       },
       {
@@ -53826,6 +53833,13 @@
         "hex": "#ffff00",
         "meta": {
           "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE"
+        }
+      },
+      {
+        "name": "पीला भूरा",
+        "hex": "#928252",
+        "meta": {
+          "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%9F%E0%A5%88%E0%A4%A8_/_%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE_%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE"
         }
       },
       {
@@ -54656,21 +54670,7 @@
       },
       {
         "name": "हरा",
-        "hex": "#01fe01",
-        "meta": {
-          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE"
-        }
-      },
-      {
-        "name": "हरा HTML/CSS",
-        "hex": "#018101",
-        "meta": {
-          "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#HTML/CSS_%E0%A4%AE%E0%A5%87"
-        }
-      },
-      {
-        "name": "हरा#छलावरण हरा",
-        "hex": "#78866b",
+        "hex": "#79876c",
         "meta": {
           "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%9B%E0%A4%B2%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
         }
@@ -84349,7 +84349,7 @@
   "meta": {
     "basic": {
       "title": "Basic",
-      "description": "A set of basic colors. Red, Green, Blue...",
+      "description": "A set of basic colors, such as red, green, and blue.",
       "source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
       "key": "basic",
       "license": "MIT",
@@ -84357,7 +84357,7 @@
     },
     "html": {
       "title": "HTML Colors",
-      "description": "HTML/CSS color names. These can be used as keywords in CSS, SVG's or HTML.",
+      "description": "HTML/CSS color names. These can be used as keywords in CSS, SVG, or HTML.",
       "source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
       "key": "html",
       "license": "MIT",
@@ -84365,7 +84365,7 @@
     },
     "japaneseTraditional": {
       "title": "Traditional Colors of Japan",
-      "description": "The traditional colors of Japan are a collection of colors traditionally used in Japanese art, literature, textiles such as kimono, and other Japanese arts and crafts.",
+      "description": "Colors traditionally used in Japanese art, literature, textiles such as kimono, and other crafts.",
       "source": "https://en.wikipedia.org/wiki/Traditional_colors_of_Japan",
       "key": "japaneseTraditional",
       "license": "CC BY-SA 3.0, GFDL",
@@ -84373,7 +84373,7 @@
     },
     "leCorbusier": {
       "title": "Le Corbusier",
-      "description": "Architectural colours in Le Corbusier's colour system.",
+      "description": "Architectural colors from Le Corbusier's color system.",
       "source": "https://www.lescouleurs.ch/en/the-colours/63-colours",
       "key": "leCorbusier",
       "license": "CC0 1.0 Public Domain Dedication",
@@ -84381,7 +84381,7 @@
     },
     "nbsIscc": {
       "title": "The Universal Color Language",
-      "description": "ISCC–NBS System of Color Designation: Naming system for colors based on a set of 12 basic color terms and a small set of adjective modifiers.",
+      "description": "ISCC–NBS system of color designation based on 12 basic color terms and a small set of adjective modifiers.",
       "source": "https://web.archive.org/web/20121103030619/http://tx4.us/nbs-iscc.htm",
       "key": "nbsIscc",
       "license": "CC0 1.0 Public Domain Dedication",
@@ -84389,7 +84389,7 @@
     },
     "ntc": {
       "title": "NTC.js",
-      "description": "NTC.js color matching library names released in 2007. The names were collected from various sources like Wikipedia, X11, Crayola etc.",
+      "description": "NTC.js color matching library names, released in 2007. The names were collected from various sources such as Wikipedia, X11, and Crayola.",
       "source": "https://github.com/colorjs/color-namer/tree/master/lib/colors",
       "key": "ntc",
       "license": "MIT",
@@ -84397,7 +84397,7 @@
     },
     "osxcrayons": {
       "title": "OS X Crayons",
-      "description": "OS X Crayons color names mostly used in the OS X color-picker GUI.",
+      "description": "Color names used in the OS X color picker GUI.",
       "source": "http://www.randomactsofsentience.com/2013/06/os-x-crayon-color-hex-table.html",
       "key": "osxcrayons",
       "license": "CC BY-SA 3.0, GFDL",
@@ -84405,7 +84405,7 @@
     },
     "ral": {
       "title": "RAL Color",
-      "description": "RAL color matching color names",
+      "description": "RAL color matching names.",
       "source": "https://jpederson.com/colornerd/",
       "key": "ral",
       "license": "unknown",
@@ -84413,7 +84413,7 @@
     },
     "ridgway": {
       "title": "Robert Ridgway's Color Standards and Color Nomenclature",
-      "description": "Color Nomenclature by Robert Ridgway (1850-1929) was published in Washignton, DC in 1912, it's part of the public domain in the USA. In August 31, 2020 was added to the Gutenberg Project.",
+      "description": "Color Nomenclature by Robert Ridgway (1850-1929), published in Washington, DC in 1912. It is part of the public domain in the USA. On August 31, 2020, it was added to the Gutenberg Project.",
       "source": "https://github.com/davo/Color-Standards-and-Color-Nomenclature",
       "key": "ridgway",
       "license": "CC0 1.0 Public Domain Dedication",
@@ -84421,7 +84421,7 @@
     },
     "sanzoWadaI": {
       "title": "Wada Sanzō Japanese Color Dictionary Volume I",
-      "description": "Names from Wada Sanzō 和田 三造 Colors Dictionary volume I",
+      "description": "Names from Wada Sanzō (和田 三造) Colors Dictionary, Volume I.",
       "source": "https://sanzo-wada.dmbk.io/",
       "key": "sanzoWadaI",
       "license": "CC0 1.0 Public Domain Dedication",
@@ -84429,7 +84429,7 @@
     },
     "thesaurus": {
       "title": "The Color Thesaurus",
-      "description": "The Color Thesaurus by Ingrid Sundberg. As a writer she collected color names to dig into the emotion of a scene and create variety in her writing.",
+      "description": "The Color Thesaurus by Ingrid Sundberg. As a writer, she collected color names to explore the emotion of a scene and create variety in her writing.",
       "source": "https://ingridsnotes.wordpress.com/2014/02/04/the-color-thesaurus/",
       "key": "thesaurus",
       "license": "CC0 1.0 Public Domain Dedication",
@@ -84437,7 +84437,7 @@
     },
     "werner": {
       "title": "Werner's Nomenclature of Colours",
-      "description": "All colors from the book Werner's Nomenclature of Colours collected and described in the late 18th century",
+      "description": "All colors from the book Werner's Nomenclature of Colours, collected and described in the late 18th century",
       "source": "https://www.c82.net/werner/",
       "key": "werner",
       "license": "CC0 1.0 Public Domain Dedication",
@@ -84445,7 +84445,7 @@
     },
     "windows": {
       "title": "Microsoft Windows Color Names",
-      "description": "List of colors used in legacy microsoft windows systems",
+      "description": "Color names used in legacy Microsoft Windows systems.",
       "source": "https://docs.microsoft.com/en-us/dotnet/api/system.windows.media.colors?view=windowsdesktop-6.0",
       "key": "windows",
       "license": "unknown",
@@ -84453,7 +84453,7 @@
     },
     "wikipedia": {
       "title": "Wikipedia Color Names",
-      "description": "List color names from wikipedia",
+      "description": "A list of color names scraped from Wikipedia.",
       "source": "https://github.com/meodai/wikipedia-color-names",
       "key": "wikipedia",
       "license": "CC BY-SA 3.0, GFDL",
@@ -84461,7 +84461,7 @@
     },
     "french": {
       "title": "French Colors",
-      "description": "A list of French color names",
+      "description": "A list of color names in French.",
       "source": "https://github.com/meodai/noms-de-couleur",
       "key": "french",
       "license": "MIT",
@@ -84469,7 +84469,7 @@
     },
     "spanish": {
       "title": "Spanish Colors",
-      "description": "A list of Spanish color names",
+      "description": "A list of color names in Spanish.",
       "source": "https://github.com/meodai/nombres-de-colores",
       "key": "spanish",
       "license": "MIT",
@@ -84477,7 +84477,7 @@
     },
     "german": {
       "title": "German Colors",
-      "description": "A list of German color names",
+      "description": "A list of color names in German.",
       "source": "https://github.com/meodai/farbnamen",
       "key": "german",
       "license": "MIT",
@@ -84485,7 +84485,7 @@
     },
     "x11": {
       "title": "X11 Color Names",
-      "description": "Standard Xlib or the X11 protocol color names.",
+      "description": "Standard Xlib or X11 protocol color names.",
       "source": "https://en.wikipedia.org/wiki/X11_color_names",
       "key": "x11",
       "license": "CC BY-SA 3.0, GFDL",
@@ -84493,7 +84493,7 @@
     },
     "xkcd": {
       "title": "XKCD Colors",
-      "description": "The 954 most common RGB monitor colors, as defined by several hundred thousand participants in the xkcd color name survey.",
+      "description": "The 954 most common RGB monitor colors, as defined by several hundred thousand participants in the XKCD color name survey.",
       "source": "https://xkcd.com/color/rgb/",
       "key": "xkcd",
       "license": "CC0 1.0 Public Domain Dedication",
@@ -84501,7 +84501,7 @@
     },
     "risograph": {
       "title": "Risograph Colors",
-      "description": "A list of popular colors for Risograph printers. Only includes colors with HEX, Pantone and Z-Type codes.",
+      "description": "Popular colors for Risograph printing, with HEX, Pantone, and Z-Type codes.",
       "source": "https://github.com/mattdesl/riso-colors",
       "key": "risograph",
       "license": "MIT",
@@ -84509,7 +84509,7 @@
     },
     "chineseTraditional": {
       "title": "Traditional Colors of China",
-      "description": "Traditional Colors of China: Color Aesthetics in the Forbidden City (中国传统色：故宫里的色彩美学) colors and their transliterations",
+      "description": "Traditional Colors of China: Color aesthetics in the Forbidden City (中国传统色：故宫里的色彩美学), including colors and their transliterations.",
       "source": "https://github.com/ItMarki/files/blob/main/newcolorsandnames.csv",
       "key": "chineseTraditional",
       "license": "CC0 1.0 Public Domain Dedication",
@@ -84517,7 +84517,7 @@
     },
     "hindi": {
       "title": "Hindi Colors",
-      "description": "A list of Hindi color names",
+      "description": "A list of color names in Hindi.",
       "source": "https://github.com/meodai/hindi-color-names",
       "key": "hindi",
       "license": "MIT",
