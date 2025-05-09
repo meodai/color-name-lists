@@ -27704,6 +27704,13 @@
         }
       },
       {
+        "name": "Held",
+        "hex": "#ffffff",
+        "meta": {
+          "link": "https://alpina-farben.de/"
+        }
+      },
+      {
         "name": "Hellblau",
         "hex": "#add8e6",
         "meta": {
@@ -28502,7 +28509,7 @@
         }
       },
       {
-        "name": "Nebel im Novermber",
+        "name": "Nebel im November",
         "hex": "#a5a2a1",
         "meta": {
           "link": "https://github.com/meodai/farbnamen/#authors-@meodai"
@@ -29035,7 +29042,7 @@
       },
       {
         "name": "Reinweiß",
-        "hex": "#ffffff",
+        "hex": "#fefefe",
         "meta": {
           "link": ""
         }
@@ -29868,7 +29875,7 @@
       },
       {
         "name": "Weiß",
-        "hex": "#fefefe",
+        "hex": "#fdfdfd",
         "meta": {
           "link": "https://bfw.ac.at/020/farbtabelle.html"
         }
@@ -84481,7 +84488,7 @@
       "source": "https://github.com/meodai/farbnamen",
       "key": "german",
       "license": "MIT",
-      "colorCount": 482
+      "colorCount": 483
     },
     "x11": {
       "title": "X11 Color Names",
