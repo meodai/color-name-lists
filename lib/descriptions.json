@@ -152,5 +152,103 @@
         "source": "https://github.com/meodai/hindi-color-names",
         "key": "hindi",
         "license": "MIT"
+    },
+    "mlmc_korean": {
+        "title": "Many Languages Many Colors - Korean",
+        "description": "Korean color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
+        "source": "https://idl.uw.edu/color-naming-in-different-languages/",
+        "key": "mlmc_korean",
+        "license": "CC0 1.0 Public Domain Dedication"
+    },
+    "mlmc_english": {
+        "title": "Many Languages Many Colors - English",
+        "description": "English color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
+        "source": "https://idl.uw.edu/color-naming-in-different-languages/",
+        "key": "mlmc_english",
+        "license": "CC0 1.0 Public Domain Dedication"
+    },
+    "mlmc_chinese": {
+        "title": "Many Languages Many Colors - Chinese",
+        "description": "Chinese color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
+        "source": "https://idl.uw.edu/color-naming-in-different-languages/",
+        "key": "mlmc_chinese",
+        "license": "CC0 1.0 Public Domain Dedication"
+    },
+    "mlmc_russian": {
+        "title": "Many Languages Many Colors - Russian",
+        "description": "Russian color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
+        "source": "https://idl.uw.edu/color-naming-in-different-languages/",
+        "key": "mlmc_russian",
+        "license": "CC0 1.0 Public Domain Dedication"
+    },
+    "mlmc_german": {
+        "title": "Many Languages Many Colors - German",
+        "description": "German color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
+        "source": "https://idl.uw.edu/color-naming-in-different-languages/",
+        "key": "mlmc_german",
+        "license": "CC0 1.0 Public Domain Dedication"
+    },
+    "mlmc_spanish": {
+        "title": "Many Languages Many Colors - Spanish",
+        "description": "Spanish color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
+        "source": "https://idl.uw.edu/color-naming-in-different-languages/",
+        "key": "mlmc_spanish",
+        "license": "CC0 1.0 Public Domain Dedication"
+    },
+    "mlmc_finnish": {
+        "title": "Many Languages Many Colors - Finnish",
+        "description": "Finnish color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
+        "source": "https://idl.uw.edu/color-naming-in-different-languages/",
+        "key": "mlmc_finnish",
+        "license": "CC0 1.0 Public Domain Dedication"
+    },
+    "mlmc_dutch": {
+        "title": "Many Languages Many Colors - Dutch",
+        "description": "Dutch color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
+        "source": "https://idl.uw.edu/color-naming-in-different-languages/",
+        "key": "mlmc_dutch",
+        "license": "CC0 1.0 Public Domain Dedication"
+    },
+    "mlmc_portuguese": {
+        "title": "Many Languages Many Colors - Portuguese",
+        "description": "Portuguese color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
+        "source": "https://idl.uw.edu/color-naming-in-different-languages/",
+        "key": "mlmc_portuguese",
+        "license": "CC0 1.0 Public Domain Dedication"
+    },
+    "mlmc_romanian": {
+        "title": "Many Languages Many Colors - Romanian",
+        "description": "Romanian color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
+        "source": "https://idl.uw.edu/color-naming-in-different-languages/",
+        "key": "mlmc_romanian",
+        "license": "CC0 1.0 Public Domain Dedication"
+    },
+    "mlmc_swedish": {
+        "title": "Many Languages Many Colors - Swedish",
+        "description": "Swedish color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
+        "source": "https://idl.uw.edu/color-naming-in-different-languages/",
+        "key": "mlmc_swedish",
+        "license": "CC0 1.0 Public Domain Dedication"
+    },
+    "mlmc_polish": {
+        "title": "Many Languages Many Colors - Polish",
+        "description": "Polish color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
+        "source": "https://idl.uw.edu/color-naming-in-different-languages/",
+        "key": "mlmc_polish",
+        "license": "CC0 1.0 Public Domain Dedication"
+    },
+    "mlmc_persian": {
+        "title": "Many Languages Many Colors - Persian",
+        "description": "Persian color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
+        "source": "https://idl.uw.edu/color-naming-in-different-languages/",
+        "key": "mlmc_persian",
+        "license": "CC0 1.0 Public Domain Dedication"
+    },
+    "mlmc_french": {
+        "title": "Many Languages Many Colors - French",
+        "description": "French color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
+        "source": "https://idl.uw.edu/color-naming-in-different-languages/",
+        "key": "mlmc_french",
+        "license": "CC0 1.0 Public Domain Dedication"
     }
 }
