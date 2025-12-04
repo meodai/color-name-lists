@@ -11,6 +11,27 @@ const germanList = require('farbnamen/colors.min.json');
 const ridgewayList = require('color-standards-and-color-nomenclature/dist/colornames.json');
 const risographColors = require('riso-colors');
 
+/* 
+  mlmc: Many Languages Many Colors – Dataset Lists 
+*/
+const manyLanguagesManyColorsDatasetLists = {
+  korean: require('many-languages-many-colors-dataset-lists/json/ko-korean.json'),
+  english: require('many-languages-many-colors-dataset-lists/json/en-english.json'),
+  chinese: require('many-languages-many-colors-dataset-lists/json/zh-chinese.json'),
+  russian: require('many-languages-many-colors-dataset-lists/json/ru-russian.json'),
+  german: require('many-languages-many-colors-dataset-lists/json/de-german.json'),
+  spanish: require('many-languages-many-colors-dataset-lists/json/es-spanish.json'),
+  finnish: require('many-languages-many-colors-dataset-lists/json/fi-finnish.json'),
+  dutch: require('many-languages-many-colors-dataset-lists/json/nl-dutch.json'),
+  portuguese: require('many-languages-many-colors-dataset-lists/json/pt-portuguese.json'),
+  romanian: require('many-languages-many-colors-dataset-lists/json/ro-romanian.json'),
+  swedish: require('many-languages-many-colors-dataset-lists/json/sv-swedish.json'),
+  polish: require('many-languages-many-colors-dataset-lists/json/pl-polish.json'),
+  persian: require('many-languages-many-colors-dataset-lists/json/fa-persian.json'),
+  french: require('many-languages-many-colors-dataset-lists/json/fr-french.json'),
+};
+
+
 const hindiList = require('hindi-color-names/colors.min.json');
 
 const hexColorValidation = /^#([0-9A-F]{3}){1,2}$/i;
@@ -71,6 +92,13 @@ jsonFiles.map(file => {
   const listName = hyphensToCamelCase(file.replace('.json', ''));
 
   lists[listName] = listOfColors;
+});
+
+Object.keys(manyLanguagesManyColorsDatasetLists).forEach(listName => {
+  const listOfColors = manyLanguagesManyColorsDatasetLists[listName];
+  const sanitizedListName = hyphensToCamelCase(listName);
+  
+  lists[`mlmc_${sanitizedListName}`] = listOfColors;
 });
 
 Object.keys(lists).forEach(listName => {
