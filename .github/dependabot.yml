@@ -1,0 +1,20 @@
+version: 2
+updates:
+  # Watch the color name lists this package bundles: one PR per list
+  # whenever a new version is published to npm.
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: daily
+    versioning-strategy: increase
+    allow:
+      - dependency-name: color-standards-and-color-nomenclature
+      - dependency-name: farbnamen
+      - dependency-name: hindi-color-names
+      - dependency-name: many-languages-many-colors-dataset-lists
+      - dependency-name: nombres-de-colores
+      - dependency-name: recueil-de-couleur
+      - dependency-name: riso-colors
+      - dependency-name: wikipedia-color-names
+    commit-message:
+      prefix: deps

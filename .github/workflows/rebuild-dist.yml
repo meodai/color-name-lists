@@ -1,0 +1,38 @@
+name: Rebuild dist
+
+# Dependabot only bumps package.json and the lockfile; this rebuilds
+# dist/colorlists.json on its PRs so the new list data ends up in the PR.
+on:
+  pull_request:
+    paths:
+      - package.json
+      - package-lock.json
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    if: github.actor == 'dependabot[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.head_ref }}
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - name: Commit rebuilt dist
+        run: |
+          if git diff --quiet dist; then
+            echo "dist is up to date"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist
+          git commit -m "Rebuild dist"
+          git push
