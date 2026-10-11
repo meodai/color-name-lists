@@ -23,11 +23,11 @@
   "homepage": "https://github.com/meodai/color-name-lists#readme",
   "dependencies": {
     "color-standards-and-color-nomenclature": "^1.1.0",
-    "farbnamen": "^0.8.0",
-    "hindi-color-names": "^1.1.0",
+    "farbnamen": "^0.9.0",
+    "hindi-color-names": "^2.0.0",
     "many-languages-many-colors-dataset-lists": "^0.1.0",
-    "nombres-de-colores": "^0.6.0",
-    "recueil-de-couleur": "^0.11.0",
+    "nombres-de-colores": "^0.7.0",
+    "recueil-de-couleur": "^0.13.0",
     "riso-colors": "^1.0.1",
     "wikipedia-color-names": "^1.14.0"
   },
