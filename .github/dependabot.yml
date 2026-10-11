@@ -16,5 +16,17 @@ updates:
       - dependency-name: recueil-de-couleur
       - dependency-name: riso-colors
       - dependency-name: wikipedia-color-names
+    # Dependabot holds new releases back for 3 days by default; skip that for
+    # our own lists and keep it for third-party ones.
+    cooldown:
+      default-days: 3
+      exclude:
+        - color-standards-and-color-nomenclature
+        - farbnamen
+        - hindi-color-names
+        - many-languages-many-colors-dataset-lists
+        - nombres-de-colores
+        - recueil-de-couleur
+        - wikipedia-color-names
     commit-message:
       prefix: deps
