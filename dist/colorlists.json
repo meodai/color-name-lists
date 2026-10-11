@@ -6930,7 +6930,7 @@
         "name": "Blanc Crème",
         "hex": "#fdf1b8",
         "meta": {
-          "link": "https://fr.wiktionary.org/w/index.php?title=blanc_cr%C3%A8me&action=edit&redlink=1"
+          "link": "https://fr.wiktionary.org/wiki/blanc_cr%C3%A8me"
         }
       },
       {
@@ -7263,6 +7263,13 @@
         }
       },
       {
+        "name": "Bleu Cristal",
+        "hex": "#afd2e5",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Bleu Céleste",
         "hex": "#26c4ec",
         "meta": {
@@ -7280,7 +7287,7 @@
         "name": "Bleu Céruléen",
         "hex": "#367bb8",
         "meta": {
-          "link": "https://fr.wiktionary.org/w/index.php?title=bleu_c%C3%A9rul%C3%A9en&action=edit&redlink=1"
+          "link": "https://fr.wiktionary.org/wiki/bleu_c%C3%A9rul%C3%A9en"
         }
       },
       {
@@ -9881,6 +9888,13 @@
         }
       },
       {
+        "name": "Colombe",
+        "hex": "#f2efe5",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Colombe du Soir",
         "hex": "#535141",
         "meta": {
@@ -10886,13 +10900,6 @@
         "hex": "#535561",
         "meta": {
           "link": "https://www.peinturesmf.com/couleur/eau-noire/"
-        }
-      },
-      {
-        "name": "Eau de Source",
-        "hex": "#bee1e2",
-        "meta": {
-          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -12752,7 +12759,7 @@
       },
       {
         "name": "Gris Parfait",
-        "hex": "#a2a5a5",
+        "hex": "#a4a8a8",
         "meta": {
           "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
@@ -13902,7 +13909,7 @@
         "name": "Jaune d'or",
         "hex": "#efd807",
         "meta": {
-          "link": "https://fr.wiktionary.org/w/index.php?title=jaune_d%E2%80%99or&action=edit&redlink=1"
+          "link": "https://fr.wiktionary.org/wiki/jaune_d%E2%80%99or"
         }
       },
       {
@@ -14265,6 +14272,13 @@
       {
         "name": "Lait Fraise",
         "hex": "#f2bcc2",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Lait d'Amande",
+        "hex": "#efe7da",
         "meta": {
           "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
@@ -14860,6 +14874,13 @@
       {
         "name": "Lin Clair",
         "hex": "#e3ddd2",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Lin Ecru",
+        "hex": "#efe8d9",
         "meta": {
           "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
@@ -16223,6 +16244,13 @@
         }
       },
       {
+        "name": "Nuage",
+        "hex": "#e9eae9",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Nuage Bleu",
         "hex": "#eefcfc",
         "meta": {
@@ -17238,6 +17266,13 @@
         }
       },
       {
+        "name": "Perle de Rose",
+        "hex": "#e6d8d1",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Perle de Tahiti",
         "hex": "#566a6a",
         "meta": {
@@ -17900,6 +17935,13 @@
         "hex": "#f4d2d6",
         "meta": {
           "link": "https://www.peinturesmf.com/couleur/premiere-fille/"
+        }
+      },
+      {
+        "name": "Première Lueur",
+        "hex": "#f4e9d7",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
       },
       {
@@ -19569,6 +19611,13 @@
         }
       },
       {
+        "name": "Ruban Bleu",
+        "hex": "#bee1e2",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
         "name": "Ruban à Cheveux",
         "hex": "#bc9b34",
         "meta": {
@@ -20600,6 +20649,13 @@
       {
         "name": "Taupe Intense",
         "hex": "#9f9899",
+        "meta": {
+          "link": "https://www.duluxvalentine.com/fr/couleurs"
+        }
+      },
+      {
+        "name": "Taupe Parfait",
+        "hex": "#b9a99f",
         "meta": {
           "link": "https://www.duluxvalentine.com/fr/couleurs"
         }
@@ -88904,7 +88960,7 @@
       "source": "https://github.com/meodai/noms-de-couleur",
       "key": "french",
       "license": "MIT",
-      "colorCount": 2468
+      "colorCount": 2476
     },
     "spanish": {
       "title": "Spanish Colors",
@@ -88963,7 +89019,7 @@
       "colorCount": 252
     },
     "mlmc_korean": {
-      "title": "Many Languages Many Colors - Korean",
+      "title": "Many Languages Many Colors – Korean",
       "description": "Korean color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
       "source": "https://idl.uw.edu/color-naming-in-different-languages/",
       "key": "mlmc_korean",
@@ -88971,7 +89027,7 @@
       "colorCount": 146
     },
     "mlmc_english": {
-      "title": "Many Languages Many Colors - English",
+      "title": "Many Languages Many Colors – English",
       "description": "English color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
       "source": "https://idl.uw.edu/color-naming-in-different-languages/",
       "key": "mlmc_english",
@@ -88979,7 +89035,7 @@
       "colorCount": 545
     },
     "mlmc_chinese": {
-      "title": "Many Languages Many Colors - Chinese",
+      "title": "Many Languages Many Colors – Chinese",
       "description": "Chinese color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
       "source": "https://idl.uw.edu/color-naming-in-different-languages/",
       "key": "mlmc_chinese",
@@ -88987,7 +89043,7 @@
       "colorCount": 82
     },
     "mlmc_russian": {
-      "title": "Many Languages Many Colors - Russian",
+      "title": "Many Languages Many Colors – Russian",
       "description": "Russian color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
       "source": "https://idl.uw.edu/color-naming-in-different-languages/",
       "key": "mlmc_russian",
@@ -88995,7 +89051,7 @@
       "colorCount": 27
     },
     "mlmc_german": {
-      "title": "Many Languages Many Colors - German",
+      "title": "Many Languages Many Colors – German",
       "description": "German color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
       "source": "https://idl.uw.edu/color-naming-in-different-languages/",
       "key": "mlmc_german",
@@ -89003,7 +89059,7 @@
       "colorCount": 49
     },
     "mlmc_spanish": {
-      "title": "Many Languages Many Colors - Spanish",
+      "title": "Many Languages Many Colors – Spanish",
       "description": "Spanish color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
       "source": "https://idl.uw.edu/color-naming-in-different-languages/",
       "key": "mlmc_spanish",
@@ -89011,7 +89067,7 @@
       "colorCount": 49
     },
     "mlmc_finnish": {
-      "title": "Many Languages Many Colors - Finnish",
+      "title": "Many Languages Many Colors – Finnish",
       "description": "Finnish color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
       "source": "https://idl.uw.edu/color-naming-in-different-languages/",
       "key": "mlmc_finnish",
@@ -89019,7 +89075,7 @@
       "colorCount": 12
     },
     "mlmc_dutch": {
-      "title": "Many Languages Many Colors - Dutch",
+      "title": "Many Languages Many Colors – Dutch",
       "description": "Dutch color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
       "source": "https://idl.uw.edu/color-naming-in-different-languages/",
       "key": "mlmc_dutch",
@@ -89027,7 +89083,7 @@
       "colorCount": 19
     },
     "mlmc_portuguese": {
-      "title": "Many Languages Many Colors - Portuguese",
+      "title": "Many Languages Many Colors – Portuguese",
       "description": "Portuguese color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
       "source": "https://idl.uw.edu/color-naming-in-different-languages/",
       "key": "mlmc_portuguese",
@@ -89035,7 +89091,7 @@
       "colorCount": 26
     },
     "mlmc_romanian": {
-      "title": "Many Languages Many Colors - Romanian",
+      "title": "Many Languages Many Colors – Romanian",
       "description": "Romanian color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
       "source": "https://idl.uw.edu/color-naming-in-different-languages/",
       "key": "mlmc_romanian",
@@ -89043,7 +89099,7 @@
       "colorCount": 4
     },
     "mlmc_swedish": {
-      "title": "Many Languages Many Colors - Swedish",
+      "title": "Many Languages Many Colors – Swedish",
       "description": "Swedish color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
       "source": "https://idl.uw.edu/color-naming-in-different-languages/",
       "key": "mlmc_swedish",
@@ -89051,7 +89107,7 @@
       "colorCount": 17
     },
     "mlmc_polish": {
-      "title": "Many Languages Many Colors - Polish",
+      "title": "Many Languages Many Colors – Polish",
       "description": "Polish color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
       "source": "https://idl.uw.edu/color-naming-in-different-languages/",
       "key": "mlmc_polish",
@@ -89059,7 +89115,7 @@
       "colorCount": 16
     },
     "mlmc_persian": {
-      "title": "Many Languages Many Colors - Persian",
+      "title": "Many Languages Many Colors – Persian",
       "description": "Persian color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
       "source": "https://idl.uw.edu/color-naming-in-different-languages/",
       "key": "mlmc_persian",
@@ -89067,7 +89123,7 @@
       "colorCount": 44
     },
     "mlmc_french": {
-      "title": "Many Languages Many Colors - French",
+      "title": "Many Languages Many Colors – French",
       "description": "French color names from the UW Interactive Data Lab's Many Languages Many Colors project, a research effort exploring how different languages divide the color spectrum.",
       "source": "https://idl.uw.edu/color-naming-in-different-languages/",
       "key": "mlmc_french",
